@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026.03.18",
+    "title": "MBK Partners, 고려아연 지분 매각 추진",
+    "summary": "MBK가 보유 지분 약 14.6%에 대한 전략적 매각 프로세스 개시. 복수 전략적 투자자 접촉 중.",
+    "tags": ["exit", "sec"],
+    "type": "exit",
+    "ev": "—",
+    "url": "https://www.hankyung.com"
+  },
+  {
+    "date": "2026.03.15",
+    "title": "한앤컴퍼니, 한온시스템 인수 완료",
+    "summary": "한온시스템 지분 50.5% 취득 완료. 글로벌 자동차 부품 시장 전략적 포지셔닝.",
+    "tags": ["acq", "lbo"],
+    "type": "acq",
+    "ev": "₩1.9T",
+    "url": "https://www.hankyung.com"
+  },
+  {
+    "date": "2026.03.11",
+    "title": "IMM PE, 롯데렌탈 지분 블록딜",
+    "summary": "보유 지분 약 8.3% 블록딜 처리. 총 매각 규모 약 3,200억원.",
+    "tags": ["exit"],
+    "type": "exit",
+    "ev": "₩320B",
+    "url": "https://www.hankyung.com"
+  }
+]
