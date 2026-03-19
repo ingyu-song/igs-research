@@ -96,7 +96,7 @@ def classify_with_claude(articles):
     return results
 
 def update_deals(new_deals):
-    deals_path = "../_data/deals.json"
+    deals_path = "_data/deals.json"
     try:
         with open(deals_path, "r", encoding="utf-8") as f:
             existing = json.load(f)
