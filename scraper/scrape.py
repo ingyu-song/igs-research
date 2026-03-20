@@ -88,7 +88,9 @@ def classify_with_claude(articles):
             end = response.rfind("}") + 1
             if start != -1 and end != 0:
                 deal = json.loads(response[start:end])
+                deal["url"] = article["url"]
                 results.append(deal)
+
                 print(f"✓ {deal['title']}")
         except Exception as e:
             print(f"분류 오류: {e}")
