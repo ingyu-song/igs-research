@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
     'note', 'Company Watch', 'PE는 지금', 'GP 블라인드',
     'PE 포트폴리오', '주간사모펀드', 'Who Is', '재계 인사이드',
     '재벌승계', '펫뉴스', '기획', '진단', 'PMI', '동십자각',
-    '증권업계', '자사주 점검', 'PEF 줌인', 'GP 블라인드'
+    '증권업계', '자사주 점검', 'PEF 줌인'
   ];
 
   const DEAL_COMPANIES = [
@@ -38,9 +38,8 @@ document.addEventListener('DOMContentLoaded', function() {
     '네파', '본촌치킨', 'SBI저축은행', 'SK울산', '하나투어',
     '대한항공', '씨앤디서비스', '영풍', '호반건설', '현대카드',
     '현대커머셜', '락앤락', '한샘', 'HMM', '영실업', '장금상선',
-    '장금마리타임', 'SK그룹 AI', '롯데', '두산밥캣', '쌍용',
-    '동원', '교원', '웅진', '아워홈', '버거킹', '맥도날드',
-    '스타벅스', '이마트', '홈플러스', '메가MGC커피'
+    '장금마리타임', '롯데', '두산밥캣', '쌍용', '동원', '교원',
+    '웅진', '아워홈', '버거킹', '맥도날드', '스타벅스', '이마트'
   ];
 
   function isNoise(title) {
@@ -55,24 +54,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function extractCompany(title) {
     const cleaned = title.replace(/^\[[^\]]+\]/g, '').trim();
-
-    // 알려진 딜 대상 회사 먼저 매칭
     for (const c of DEAL_COMPANIES) {
       if (cleaned.includes(c)) return c;
     }
-
-    // PE 펀드명만 있는 경우 — 딜 대상 회사 아니면 null
     for (const pe of PE_FIRMS) {
       if (cleaned.startsWith(pe)) return null;
     }
-
-    // 첫 번째 명사 추출 (한글 2글자 이상)
     const match = cleaned.match(/^([가-힣]{2,}(?:\s?[가-힣A-Za-z0-9]+)?)/);
     if (match) {
       const candidate = match[1].trim();
-      // PE 펀드명이면 제외
       if (PE_FIRMS.some(pe => candidate.includes(pe))) return null;
-      // 너무 일반적인 단어 제외
       const GENERIC = ['토종', '국내', '외국', '글로벌', '한국', '신약', '거버넌스', '증권업계'];
       if (GENERIC.some(g => candidate.startsWith(g))) return null;
       return candidate.slice(0, 15);
@@ -88,7 +79,6 @@ document.addEventListener('DOMContentLoaded', function() {
     if (isNoise(title)) return;
     const company = extractCompany(title);
     if (!company) return;
-
     if (!groups[company]) {
       groups[company] = [];
       order.push(company);
@@ -96,7 +86,15 @@ document.addEventListener('DOMContentLoaded', function() {
     groups[company].push(row);
   });
 
+  // 날짜 내림차순 정렬
+  order.sort((a, b) => {
+    const dateA = groups[a][0].dataset.date || '';
+    const dateB = groups[b][0].dataset.date || '';
+    return dateB.localeCompare(dateA);
+  });
+
   list.innerHTML = '';
+  let lastDate = '';
 
   order.forEach(company => {
     const items = groups[company];
@@ -107,13 +105,16 @@ document.addEventListener('DOMContentLoaded', function() {
     const tagsHTML = latest.querySelector('.deal-tags') ? latest.querySelector('.deal-tags').innerHTML : '';
     const hasMultiple = items.length > 1;
 
+    const showDate = date !== lastDate;
+    lastDate = date;
+
     const group = document.createElement('div');
     group.className = 'deal-group';
     group.dataset.types = types;
 
     group.innerHTML = `
       <div class="deal-group-header" onclick="${hasMultiple ? 'toggleGroup(this)' : `window.open('${latest.dataset.url}','_blank')`}">
-        <div class="deal-date">${date}</div>
+        <div class="deal-date">${showDate ? date : ''}</div>
         <div class="deal-body">
           <div class="deal-title">${company}${hasMultiple ? `<span class="article-count">${items.length}개 기사</span>` : ''}</div>
           <div class="deal-sub">${latest.dataset.summary || ''}</div>
