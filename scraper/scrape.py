@@ -12,6 +12,21 @@ KEYWORDS = [
     "기업 인수 PE", "M&A 사모펀드", "경영권 매각"
 ]
 
+TEST_MODE = os.environ.get("TEST_MODE", "false").lower() == "true"
+DISPLAY = 3 if TEST_MODE else 20
+
+def parse_naver_date(pub_date):
+    try:
+        from email.utils import parsedate
+        from time import mktime
+        t = parsedate(pub_date)
+        if t:
+            dt = datetime.fromtimestamp(mktime(t))
+            return dt.strftime("%Y.%m.%d")
+    except:
+        pass
+    return datetime.now().strftime("%Y.%m.%d")
+
 def fetch_naver_news(keyword, display=20):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {
@@ -27,7 +42,8 @@ def fetch_naver_news(keyword, display=20):
             title = BeautifulSoup(item["title"], "html.parser").get_text()
             desc = BeautifulSoup(item["description"], "html.parser").get_text()
             link = item.get("originallink") or item.get("link", "")
-            articles.append({"title": title, "summary": desc, "url": link})
+            pub_date = parse_naver_date(item.get("pubDate", ""))
+            articles.append({"title": title, "summary": desc, "url": link, "date": pub_date})
         return articles
     except Exception as e:
         print(f"네이버 검색 오류 ({keyword}): {e}")
@@ -36,7 +52,6 @@ def fetch_naver_news(keyword, display=20):
 def classify_with_claude(articles):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     results = []
-    today = datetime.now().strftime("%Y.%m.%d")
 
     for article in articles:
         prompt = f"""다음 기사가 기업 인수합병(M&A) 또는 사모펀드(PE) 딜 기사인지 판단해줘.
@@ -56,12 +71,11 @@ def classify_with_claude(articles):
 - 주주환원/배당/자사주 소각 기사
 - 이사회/사외이사/임원 인사 기사
 - 노조/파업/의결권 행사 기사
-- 딜 대상 회사가 명확하지 않은 기사
-- 언론사 소개나 인물 프로필 기사
+- 딜 대상 회사 불명확한 기사
+- 언론사 소개/인물 프로필 기사
 
 관련이면 아래 JSON만 출력 (다른 말 없이), 아니면 SKIP만 출력:
 {{
-  "date": "{today}",
   "title": "{article['title'][:60]}",
   "summary": "딜 핵심 내용 1-2문장. 인수자, 피인수자, 딜 성격 포함",
   "type": "acq 또는 exit 또는 lbo 또는 sec",
@@ -83,6 +97,7 @@ def classify_with_claude(articles):
             if start != -1 and end != 0:
                 deal = json.loads(response[start:end])
                 deal["url"] = article["url"]
+                deal["date"] = article["date"]
                 results.append(deal)
                 print(f"✓ {deal['title']}")
         except Exception as e:
@@ -109,12 +124,12 @@ def update_deals(new_deals):
     print(f"\n{len(added)}개 새 딜 추가됨. 총 {len(merged)}개.")
 
 if __name__ == "__main__":
-    print("네이버 뉴스 검색 중...")
+    print(f"네이버 뉴스 검색 중... ({'테스트모드' if TEST_MODE else '전체모드'})")
     articles = []
     seen = set()
 
     for keyword in KEYWORDS:
-        found = fetch_naver_news(keyword, display=20)
+        found = fetch_naver_news(keyword, display=DISPLAY)
         new = [a for a in found if a["title"] not in seen]
         seen.update(a["title"] for a in new)
         articles.extend(new)
