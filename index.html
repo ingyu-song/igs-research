@@ -26,7 +26,7 @@ title: Korea PE Research
     </div>
     <div class="deal-list" id="deal-list">
       {% for deal in site.data.deals %}
-      <a class="deal-row" data-type="{{ deal.type }}" href="{{ deal.url }}" target="_blank" rel="noopener">        
+      <div class="deal-row" data-type="{{ deal.type }}" data-title="{{ deal.title }}" data-date="{{ deal.date }}" data-summary="{{ deal.summary }}" data-url="{{ deal.url }}" data-ev="{{ deal.ev }}">        
         <div class="deal-date">{{ deal.date }}</div>
         <div class="deal-body">
           <div class="deal-title">{{ deal.title }}</div>

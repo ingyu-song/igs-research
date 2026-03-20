@@ -60,3 +60,15 @@ a{text-decoration:none;color:inherit}
 .sec-item-date{font-family:'DM Mono',monospace;font-size:10px;color:#aaa}
 a.deal-row{display:grid;text-decoration:none;color:inherit}
 a.deal-row:hover .deal-title{color:#378ADD}
+.deal-group{border-bottom:0.5px solid #f0f0f0}
+.deal-group.hidden{display:none}
+.deal-group-header{display:grid;grid-template-columns:90px 1fr auto;align-items:start;gap:16px;padding:14px 0;cursor:pointer}
+.deal-group-header:hover .deal-title{color:#378ADD}
+.article-count{font-size:11px;font-family:'DM Mono',monospace;color:#aaa;margin-left:6px}
+.arrow{font-size:11px;color:#aaa;margin-left:4px}
+.deal-articles{display:none;margin:0 0 12px 106px;flex-direction:column;gap:0;border-left:2px solid #f0f0f0;padding-left:16px}
+.deal-articles.open{display:flex}
+.deal-article-item{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:0.5px solid #f5f5f5;text-decoration:none}
+.deal-article-item:hover .deal-article-title{color:#378ADD}
+.deal-article-title{font-size:13px;color:#1a1a1a;line-height:1.4}
+.deal-article-date{font-family:'DM Mono',monospace;font-size:11px;color:#aaa;white-space:nowrap;margin-left:12px}
