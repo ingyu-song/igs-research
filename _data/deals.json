@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "title": "새 둥지 튼 솔리더스인베스트…김정현 체제 유지에 무게 [넘버스]",
+    "summary": "JW홀딩스가 솔리더스인베스트먼트의 지분 100%를 306억원에 인수한 딜로, PE/사모펀드 관련 사업으로의 전환을 추진하는 전략적 인수거래",
+    "company": "솔리더스인베스트먼트",
+    "acquirer": "JW홀딩스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "306억원",
+    "deal_stage": "완료",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=657319",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "SK이터닉스 3월 '불꽃 랠리'",
+    "summary": "글로벌 투자사 KKR(콜버그크래비스로버츠)이 SK디스커버리와 한앤컴퍼니가 보유한 SK이터닉스 지분 총 43.5%를 3,480억원에 인수하기로 함. SK그룹은 KKR과 합작법인을 설립하여 진행",
+    "company": "SK이터닉스",
+    "acquirer": "KKR(콜버그크래비스로버츠)",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "3,480억원",
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10698898?ref=naver",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "여성복 코스닥 상장사 '공구우먼', 싱가포르계 PEF '씨씨지인베스트'에...",
+    "summary": "여성복 코스닥 상장사 공구우먼이 싱가포르계 사모펀드 CCGI에 매각된다. 공구우먼의 주요 주주인 김 대표와 TS인베스트먼트가 총 1000만주를 주당 7200원에 블록딜로 CCGI에 매각하는 거래이다.",
+    "company": "공구우먼",
+    "acquirer": "씨씨지인베스트먼트(CCGI)",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "720억원",
+    "deal_stage": "완료",
+    "url": "https://hbnpress.com/news/view/1065591324981340",
+    "date": "2026.03.16"
+  },
+  {
+    "title": "[영상] 장금마리타임,세계 최대 해운사 MSC에 지분 50% 넘긴다",
+    "summary": "장금마리타임이 MSC에 지분 50%를 넘기며 공동 경영권을 행사하는 전략적 M&A. 정태선 회장의 장남 정가현 이사와 MSC가 각각 지분 절반씩 보유하게 됨",
+    "company": "장금마리타임",
+    "acquirer": "MSC",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.theguru.co.kr/news/article.html?no=99522",
+    "date": "2026.03.21"
+  }
+]
