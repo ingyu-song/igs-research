@@ -108,9 +108,9 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="deal-body">
           <div class="deal-title">
             ${company}
-            ${stageBadge}
             ${hasMultiple ? `<span class="article-count">${items.length}개 기사</span>` : ''}
           </div>
+          ${stageBadge}
           <div class="deal-sub">
             ${acquirerText}${acquirerText && latest.dataset.summary ? ' · ' : ''}${latest.dataset.summary || ''}
           </div>
