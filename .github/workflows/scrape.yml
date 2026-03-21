@@ -2,8 +2,8 @@ name: Daily Deal Scraper
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 매일 오전 10시 KST (UTC+9)
-  workflow_dispatch:  # 수동 실행 가능
+    - cron: '0 1 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -19,12 +19,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
+      - name: Restore cache
+        uses: actions/cache@v3
+        with:
+          path: scraper/url_cache.json
+          key: url-cache-${{ runner.os }}
+          restore-keys: url-cache-
+
       - name: Run scraper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python scraper/scrape.py
+
+      - name: Save cache
+        uses: actions/cache@v3
+        with:
+          path: scraper/url_cache.json
+          key: url-cache-${{ runner.os }}
 
       - name: Commit and push
         run: |
