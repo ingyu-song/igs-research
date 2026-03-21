@@ -38,10 +38,12 @@ a{text-decoration:none;color:inherit}
 .deal-ev{font-size:13px;font-weight:500;color:#1a1a1a;white-space:nowrap;padding-top:2px}
 
 /* deal stage 배지 */
-.deal-stage--소문{background:#fdf2f8;color:#9d174d}
-.deal-stage--협상{background:#fffbeb;color:#92400e}
-.deal-stage--계약{background:#eff6ff;color:#1d4ed8}
-.deal-stage--완료{background:#f0fdf4;color:#065f46}
+.stage-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:2px 8px;border-radius:20px;border:0.5px solid #e0e0e0;color:#888;font-family:'DM Mono',monospace;vertical-align:middle;margin-left:6px}
+.stage-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.stage--소문 .stage-dot{background:#db2777}
+.stage--협상 .stage-dot{background:#d97706}
+.stage--계약 .stage-dot{background:#2563eb}
+.stage--완료 .stage-dot{background:#059669}
 
 .memo-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .memo-card{border:0.5px solid #e5e5e5;border-radius:12px;padding:1.25rem;background:#fff;cursor:pointer;transition:border-color 0.15s;display:block}

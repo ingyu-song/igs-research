@@ -85,8 +85,9 @@ document.addEventListener('DOMContentLoaded', function() {
       ? latest.querySelector('.deal-tags').innerHTML : '';
 
     const stage = latest.dataset.dealStage || '';
+    const stageLabel = { '소문': 'Rumor', '협상': 'Nego', '계약': 'Signed', '완료': 'Closed' }[stage] || stage;
     const stageBadge = stage
-      ? `<span class="deal-stage deal-stage--${stage}">${stage}</span>` : '';
+      ? `<span class="stage-badge stage--${stage}"><span class="stage-dot"></span>${stageLabel}</span>` : '';
 
     const acquirer = latest.dataset.acquirer || '';
     const acquirerText = acquirer
@@ -108,13 +109,13 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="deal-body">
           <div class="deal-title">
             ${company}
+            ${stageBadge}
             ${hasMultiple ? `<span class="article-count">${items.length}개 기사</span>` : ''}
           </div>
-          ${stageBadge}
           <div class="deal-sub">
             ${acquirerText}${acquirerText && latest.dataset.summary ? ' · ' : ''}${latest.dataset.summary || ''}
           </div>
-          <div class="deal-tags">${tagsHTML}</div>
+          <div class="deal-tags">${tagsHTML}${stageBadge}</div>
         </div>
         <div class="deal-ev">${ev}${hasMultiple ? ' <span class="arrow">▸</span>' : ''}</div>
       </div>
