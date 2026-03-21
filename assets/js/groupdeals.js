@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <div class="deal-sub">
             ${acquirerText}${acquirerText && latest.dataset.summary ? ' · ' : ''}${latest.dataset.summary || ''}
           </div>
-          <div class="deal-tags">${tagsHTML}${stageBadge}</div>
+          <div class="deal-tags">${tagsHTML}</div>
         </div>
         <div class="deal-ev">${ev}${hasMultiple ? ' <span class="arrow">▸</span>' : ''}</div>
       </div>
