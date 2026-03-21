@@ -37,6 +37,12 @@ a{text-decoration:none;color:inherit}
 .dtag.sec{background:#EEEDFE;color:#3C3489}
 .deal-ev{font-size:13px;font-weight:500;color:#1a1a1a;white-space:nowrap;padding-top:2px}
 
+/* deal stage 배지 */
+.deal-stage--소문{background:#fdf2f8;color:#9d174d}
+.deal-stage--협상{background:#fffbeb;color:#92400e}
+.deal-stage--계약{background:#eff6ff;color:#1d4ed8}
+.deal-stage--완료{background:#f0fdf4;color:#065f46}
+
 .memo-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .memo-card{border:0.5px solid #e5e5e5;border-radius:12px;padding:1.25rem;background:#fff;cursor:pointer;transition:border-color 0.15s;display:block}
 .memo-card:hover{border-color:#aaa}
