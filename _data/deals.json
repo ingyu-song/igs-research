@@ -1,5 +1,301 @@
 [
   {
+    "title": "이지스운용 매각 '9부 능선' 넘나…힐하우스, 실사 막바지 [주간 '딜...",
+    "summary": "힐하우스인베스트먼트가 이지스운용 인수를 위해 실사 작업의 막바지 단계에 진입했으며, 주식매매계약(SPA) 체결에 속도를 낼 지 여부가 관심사로 떠오른 상황",
+    "company": "이지스운용",
+    "acquirer": "힐하우스인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10699433?ref=naver",
+    "date": "2026.03.22"
+  },
+  {
+    "title": "인도 7500조 '장롱 속 금' 깨운다… 글로벌 자본 70조 골드론 시장 선점",
+    "summary": "베인캐피털이 인도 2위 금 담보 대출 업체인 마나푸람 파이낸스의 지분을 최대 41.7%까지 인수하는 딜을 인도 중앙은행이 승인했다.",
+    "company": "마나푸람 파이낸스",
+    "acquirer": "베인캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.g-enews.com/view.php?ud=202603212201269112bd56fbc3c_1",
+    "date": "2026.03.22"
+  },
+  {
+    "title": "에코랩, AI 데이터센터 액체 냉각 기업 쿨IT 47억5000만달러에 인수",
+    "summary": "에코랩이 KKR 펀드가 보유한 액체 냉각 기업 쿨IT시스템즈를 47억5000만달러에 현금 인수하는 거래. PE 소유 기업의 전략적 기업에 대한 매각(엑싯).",
+    "company": "쿨IT시스템즈",
+    "acquirer": "에코랩",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "47억5000만달러",
+    "deal_stage": "완료",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=643884",
+    "date": "2026.03.21"
+  },
+  {
+    "title": "서울전선 매각 본격화…인수 후보 30여곳에 투자설명서 발송",
+    "summary": "PEF 운용사가 지난해 3월 1500억원에 인수한 서울전선을 매각하기 위해 30여 인수 후보사에 투자설명서를 발송하며 엑싯을 본격화하고 있다.",
+    "company": "서울전선",
+    "acquirer": "PEF 운용사",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1500억원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/11993755",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "SK그룹 AI 데이터센터, KKR·IMM인베 '공동 인수'로 가닥 잡히나",
+    "summary": "KKR과 IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄이 SK그룹의 AI 데이터센터를 3자 연합 체제로 공동 인수하는 방안이 논의 중",
+    "company": "SK AI 데이터센터",
+    "acquirer": "KKR, IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10699059?ref=naver",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "'주방용품 1위' 크린랩 거래 무산되나… 포인터스PE·이상파트너스 자...",
+    "summary": "포인터스PE와 이상파트너스 컨소시엄이 주방용품 제조업체 크린랩의 경영권 인수를 추진 중이나 거래가 무산될 가능성이 제기되고 있는 상황",
+    "company": "크린랩",
+    "acquirer": "포인터스PE·이상파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/03/20/MQUXI3MB3FE4XFLLUTB5H5IIYY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "E&F PE 컨소시엄 … 폐처리 기업 인수",
+    "summary": "E&F프라이빗에퀴티(PE)가 폐기물 처리 기업 KES환경개발의 지분 80%를 2000억원에 인수하여 경영권을 확보하는 거래",
+    "company": "KES환경개발",
+    "acquirer": "E&F프라이빗에퀴티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2000억원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/11992729",
+    "date": "2026.03.19"
+  },
+  {
+    "title": "'이란전쟁 3주' 간 코스피 -7%…방산 '반짝 흥행' 재생에너지 '뒷심'",
+    "summary": "SK디스커버리와 한앤컴퍼니가 보유한 SK이터닉스 지분 전량을 글로벌 자산운용사 KKR에 3480억 원에 매각하는 거래. PE의 기업 매각(Exit) 거래",
+    "company": "SK이터닉스",
+    "acquirer": "KKR",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "3480억 원",
+    "deal_stage": "완료",
+    "url": "https://www.news1.kr/finance/general-stock/6108758",
+    "date": "2026.03.22"
+  },
+  {
+    "title": "[대한항공씨앤디서비스 PMI] ①6년 만에 되찾은 기내식 사업, '통합' 대...",
+    "summary": "대한항공이 사모펀드 한앤컴퍼니(한앤코)로부터 기내식 공급 및 기내면세품 판매를 담당하는 자회사 대한항공씨앤디서비스(KC&D)의 전량 지분을 인수하는 전략적 M&A",
+    "company": "대한항공씨앤디서비스",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.fetv.co.kr/news/article.html?no=215156",
+    "date": "2026.03.19"
+  },
+  {
+    "title": "'기내식 잭팟' 한앤코…다음 엑시트는 남양유업?[마켓인]",
+    "summary": "한앤컴퍼니가 코로나19 팬데믹 시기 인수했던 대한항공 기내식 사업부를 대한항공에 재매각하는 엑싯을 완료했으며, 시장에서는 한앤코의 다음 엑싯 대상으로 남양유업을 꼽고 있다.",
+    "company": "대한항공 기내식 사업부",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=05179126645384304",
+    "date": "2026.03.17"
+  },
+  {
+    "title": "대한항공, 기내식·면세 자회사 '씨앤디서비스' 7500억에 전량 인수... 통...",
+    "summary": "대한항공이 사모펀드 한앤컴퍼니가 보유한 씨앤디서비스 지분 80%를 7500억원에 인수하여 전량 소유하는 전략적 M&A 거래",
+    "company": "씨앤디서비스",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "계약",
+    "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1087052",
+    "date": "2026.03.17"
+  },
+  {
+    "title": "[줌인] 교보생명, SBI저축은행 인수 승인…'보험-저축은행' 결합으로 종...",
+    "summary": "교보생명이 SBI저축은행 인수를 승인받았으며, 이를 통해 보험과 저축은행 사업을 결합하는 전략적 M&A를 추진 중이다.",
+    "company": "SBI저축은행",
+    "acquirer": "교보생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=97346",
+    "date": "2026.03.19"
+  },
+  {
+    "title": "신약보다 생산·연구 인프라… 달라진 제약 M&A 공식",
+    "summary": "에이하나가 보유한 시지바이오 지분 51%를 IMM PE에 매각하는 거래로, 경영권이 IMM PE로 넘어가게 되는 PE의 기업 인수 딜",
+    "company": "시지바이오",
+    "acquirer": "IMM PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "약 1조원",
+    "deal_stage": "협상",
+    "url": "https://www.mydaily.co.kr/page/view/2026031622424256484",
+    "date": "2026.03.17"
+  },
+  {
+    "title": "롯데렌탈 인수 포석?…어피니티, SK렌터카 대표 교체 뒤 IT 조직 정비 조...",
+    "summary": "호텔롯데가 롯데렌탈을 매각하며 어피니티가 우선협상대상자로 선정되었고, 롯데렌탈이 어피니티 측 SPC를 대상으로 2119억원 규모의 제3자배정 유상증자를 진행하는 PE의 기업 인수 거래",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2119억원",
+    "deal_stage": "계약",
+    "url": "https://news.tf.co.kr/read/economy/2300898.htm",
+    "date": "2026.03.11"
+  },
+  {
+    "title": "8200억에 SK렌터카 인수한 어피니티…투자금 회수 가능할까",
+    "summary": "PE펀드 어피니티가 2020년 8200억원에 인수한 SK렌터카의 매각을 검토 중. 롯데렌탈과의 기업결합이 공정거래위원회의 불허로 무산된 후 자금 회수 차원의 엑싯 추진",
+    "company": "SK렌터카",
+    "acquirer": "어피니티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "8200억원",
+    "deal_stage": "소문",
+    "url": "https://www.etoday.co.kr/news/view/2563282",
+    "date": "2026.03.09"
+  },
+  {
+    "title": "[메자닌 워치]빚으로 상장사 품은 소룩스…아리바이오 우회로 뚫어",
+    "summary": "소룩스가 차백신연구소의 경영권을 인수하는 딜로, 무보증 사모 전환사채(CB)를 매도인(차바이오텍)이 인수하는 방식으로 인수 대금을 상계 처리하는 LBO 거래",
+    "company": "차백신연구소",
+    "acquirer": "소룩스",
+    "type": "lbo",
+    "tags": [
+      "lbo"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.fieldnews.kr/news/articleView.html?idxno=27251",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "씨씨지인베, '빅사이즈 여성복' 1위 공구우먼 경영권 인수",
+    "summary": "싱가포르계 사모펀드 운용사 씨씨지인베가 플러스 사이즈 여성 의류 플랫폼 공구우먼의 경영권을 인수하는 PE 바이아웃 딜",
+    "company": "공구우먼",
+    "acquirer": "씨씨지인베",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202603151884r",
+    "date": "2026.03.16"
+  },
+  {
+    "title": "한앤코, SK이터닉스 엑시트 완료",
+    "summary": "한앤컴퍼니(한앤코)가 보유 중이던 SK이터닉스 지분을 블록딜을 통해 매각하며 엑시트를 완료했으며, KKR의 SK이터닉스 인수 과정에서 약 1514억원을 회수했다.",
+    "company": "SK이터닉스",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1514억원",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=43660",
+    "date": "2026.03.09"
+  },
+  {
+    "title": "파라투스, 아이티켐 4배 '잭팟' 엑시트 결실",
+    "summary": "PE 운용사 파라투스인베스트먼트가 보유한 코스닥 상장사 아이티켐 지분을 블록딜과 공모를 통해 전량 처분하며 4배의 수익 실현을 완료한 엑싯 사례.",
+    "company": "아이티켐",
+    "acquirer": "파라투스인베스트먼트",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=43576",
+    "date": "2026.03.04"
+  },
+  {
+    "title": "HPSP 몸값 부담 크레센도, '지분 쪼개기' 엑시트 선회",
+    "summary": "PE 운용사 크레센도에쿼티파트너스가 보유한 HPSP의 경영권 매각 대신 블록딜을 통한 지분 분할 매각으로 엑싯 전략을 변경하고 있다.",
+    "company": "HPSP",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=43469",
+    "date": "2026.02.26"
+  },
+  {
+    "title": "장금상선·MSC 연합 '유조선 공룡' 뜬다",
+    "summary": "MSC의 계열사인 SAS가 장금마리타임의 지분 50%를 인수하여 공동 경영권을 행사하는 전략적 M&A 거래. 양측은 지난달 투자 협약을 체결했으며 그리스와 키프로스 규제 당국에 기업결합 공시를 발표함.",
+    "company": "장금마리타임",
+    "acquirer": "SAS (MSC 계열사)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.sedaily.com/article/20022104?ref=naver",
+    "date": "2026.03.20"
+  },
+  {
     "title": "새 둥지 튼 솔리더스인베스트…김정현 체제 유지에 무게 [넘버스]",
     "summary": "JW홀딩스가 솔리더스인베스트먼트의 지분 100%를 306억원에 인수한 딜로, PE/사모펀드 관련 사업으로의 전환을 추진하는 전략적 인수거래",
     "company": "솔리더스인베스트먼트",
