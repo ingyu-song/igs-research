@@ -1,5 +1,117 @@
 [
   {
+    "title": "이지스운용 매각 '9부 능선' 힐하우스, 실사 마무리 수순",
+    "summary": "PE펀드 힐하우스인베스트먼트가 이지스운용 인수를 위해 실사 작업의 막바지 단계에 진입했으며, 주식매매계약(SPA) 체결 시점이 관심사로 떠올랐다.",
+    "company": "이지스운용",
+    "acquirer": "힐하우스인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10700404?ref=naver",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "한투PE, 투자본부 '3각 편대' 체제 본궤도",
+    "summary": "한국투자프라이빗에쿼티(한투PE)가 2024년 7월 미국 로봇 기업 고스트로보틱스를 인수했으며, 약 1260억원을 집행한 딜",
+    "company": "고스트로보틱스",
+    "acquirer": "한국투자프라이빗에쿼티(한투PE)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1260억원",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=43946",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "SK이터닉스, KKR의 '국내 청정에너지 시장' 진입 교두보",
+    "summary": "KKR이 SK디스커버리와 한앤컴퍼니가 보유한 SK이터닉스 지분 43.5%를 3,480억 원에 인수하기로 확정했으며, SK 그룹은 KKR과 JV 설립을 추진 중인 전략적 투자 거래",
+    "company": "SK이터닉스",
+    "acquirer": "KKR",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "3,480억 원",
+    "deal_stage": "계약",
+    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=77524",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "[더벨]'제이에스티 인수 추진' 현대투자파트너스, 씨엘파트너스와 맞...",
+    "summary": "현대투자파트너스와 씨엘파트너스가 자동차 부품 기업 제이에스티를 공동으로 인수하는 딜을 추진 중이며, 거래금액은 총 300억원",
+    "company": "제이에스티",
+    "acquirer": "현대투자파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "300억원",
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603181610186160104775",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "한앤코의 남양유업, 어떻게 달라졌나",
+    "summary": "남양유업의 홍원식 전 회장이 2024년 사모펀드 한앤컴퍼니(한앤코)에 지분 전체를 매각하는 PE 인수 거래가 완료됨. 오너리스크로 부진을 겪던 남양유업이 PE 체제로 전환되면서 지배구조가 개선됨",
+    "company": "남양유업",
+    "acquirer": "한앤컴퍼니",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.fntimes.com/html/view.php?ud=202603230229599802dd55077bc2_18",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "교보생명 품에 안긴 SBI저축은행…업권 M&A 활성화 '신호탄' 될까",
+    "summary": "교보생명이 SBI저축은행 인수를 확정지으면서 저축은행업권 M&A가 본격화되고 있으며, 글로벌 사모펀드 EQT파트너스도 애큐온캐피탈 지분 매각을 추진 중",
+    "company": "SBI저축은행",
+    "acquirer": "교보생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.dailian.co.kr/news/view/1623421/?sc=Naver",
+    "date": "2026.03.21"
+  },
+  {
+    "title": "[더벨]교보생명, SBI저축 인수 승인에도 지주 전환 계획 빠진 이유",
+    "summary": "교보생명이 SBI저축은행의 지분 인수를 승인받아 올해 지분 인수를 마무리하고 내년부터 경영권을 행사할 예정인 전략적 M&A 거래",
+    "company": "SBI저축은행",
+    "acquirer": "교보생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603181344256600108816",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "[더벨][오르비텍 줌인] 주성그룹, 3년 새 상장사 4곳 지배력 확보",
+    "summary": "오르비텍이 지난해 12월 말 구주 인수와 유상증자 참여를 통해 파인테크닉스 경영권을 인수했으며, 자회사 제이에스링크를 주성씨앤에어에 239억원에 매각했다. 주성그룹이 3년간 상장사 4곳의 지배력을 확보한 상황이다.",
+    "company": "파인테크닉스",
+    "acquirer": "오르비텍",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603201441205240104126",
+    "date": "2026.03.23"
+  },
+  {
     "title": "이지스운용 매각 '9부 능선' 넘나…힐하우스, 실사 막바지 [주간 '딜...",
     "summary": "힐하우스인베스트먼트가 이지스운용 인수를 위해 실사 작업의 막바지 단계에 진입했으며, 주식매매계약(SPA) 체결에 속도를 낼 지 여부가 관심사로 떠오른 상황",
     "company": "이지스운용",
