@@ -98,7 +98,7 @@ def classify_with_claude(articles):
 {{
   "title": "{article['title'][:60]}",
   "summary": "딜 핵심 내용 1-2문장. 반드시 인수자, 피인수자, 딜 성격을 포함할 것",
-  "company": "딜 대상 회사명 (인수/매각 대상이 되는 회사. 한글 공식명. 예: 한국타이어앤테크놀로지). 인수자·PE펀드·증권사가 아닌 타깃 회사만 기재. 불명확하면 null",
+  "company": "딜 대상 회사의 등기부상 공식 법인명 (약칭·별칭 사용 금지. 예: 이지스운용 X → 이지스자산운용 O, 씨앤디서비스 X → 대한항공씨앤디서비스 O). 인수자·PE펀드·증권사가 아닌 타깃 회사만 기재. 불명확하면 null",
   "acquirer": "인수자 또는 PE펀드명 (예: MBK파트너스). 매각 기사인 경우 기존 보유자",
   "type": "acq | exit | lbo | sec | block | strategic",
   "tags": ["type값"],
@@ -113,6 +113,7 @@ def classify_with_claude(articles):
                 messages=[{"role": "user", "content": prompt}]
             )
             response = message.content[0].text.strip()
+            response = response.replace("```json", "").replace("```", "").strip()
             if response.upper() == "SKIP":
                 continue
             start = response.find("{")

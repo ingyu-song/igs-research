@@ -32,7 +32,16 @@ document.addEventListener('DOMContentLoaded', function() {
     return false;
   }
 
-  // ── 2. 회사명 정규화 ─────────────────────────────────────────────────────
+  // ── 2. 회사명 alias map + 정규화 ────────────────────────────────────────
+  const ALIAS_MAP = {
+    '이지스운용':             '이지스자산운용',
+    '이지스자산운용㈜':       '이지스자산운용',
+    '씨앤디서비스':           '대한항공씨앤디서비스',
+    '대한항공 기내식 사업부': '대한항공씨앤디서비스',
+    'KC&D':                   '대한항공씨앤디서비스',
+    'SK AI데이터센터':        'SK AI 데이터센터',
+  };
+
   function normalizeCompany(name) {
     if (!name || name === 'null' || name === 'undefined') return null;
     const cleaned = name
@@ -40,7 +49,8 @@ document.addEventListener('DOMContentLoaded', function() {
       .replace(/\s*(주식회사|㈜|유한회사)$/g, '')
       .replace(/\s+/g, ' ')
       .trim();
-    return cleaned || null;
+    if (!cleaned) return null;
+    return ALIAS_MAP[cleaned] || cleaned;
   }
 
   // ── 3. 그룹핑 키: data-company 만 사용, fallback 없음 ───────────────────
@@ -77,6 +87,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
   order.forEach(company => {
     const items = groups[company];
+    // 날짜 내림차순으로 기사 정렬
+    items.sort((a, b) => (b.dataset.date || '').localeCompare(a.dataset.date || ''));
+
     const types = [...new Set(items.map(r => r.dataset.type))].join(' ');
     const latest = items[0];
     const date = latest.dataset.date || '';
