@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="deal-group-header" onclick="${hasMultiple
         ? 'toggleGroup(this)'
         : `window.open('${latest.dataset.url}','_blank')`}">
-        <div class="deal-date">${showDate ? date : ''}</div>
+        <div class="deal-date" data-date="${date}">${showDate ? date : ''}</div>
         <div class="deal-body">
           <div class="deal-title">
             ${company}
