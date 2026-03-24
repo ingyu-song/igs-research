@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — IGS Research</title>
+  <style>
+    /* ── CSS Variables (PDF Spec 색상 시스템) ───────────────────── */
+    :root {
+      --navy:      #1A2744;
+      --card-bg:   #243055;
+      --hover-bg:  #2E3D6B;
+      --border:    #2E4070;
+      --gold:      #C8A96E;
+      --gold-lt:   #DFC08A;
+      --gold-dk:   #A8894E;
+      --cream:     #F0E8D5;
+      --white:     #FAF6EF;
+      --muted:     #8FA0C0;
+      --bull:      #7EC89A;
+      --base:      #DFC08A;
+      --bear:      #E08070;
+    }
+
+    /* ── Reset & Base ─────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--navy);
+      color: var(--cream);
+      font-family: 'Malgun Gothic', Arial, 'Helvetica Neue', sans-serif;
+      font-size: 10pt;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold-lt); }
+
+    /* ── Top nav back button ──────────────────────────────────── */
+    .memo-nav {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 40px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .memo-nav .back {
+      color: var(--muted);
+      font-size: 8.5pt;
+      letter-spacing: 0.08em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      transition: color 0.2s;
+    }
+    .memo-nav .back:hover { color: var(--gold); }
+    .memo-nav .brand {
+      color: var(--white);
+      font-size: 11pt;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+    .memo-nav .brand em {
+      color: var(--gold);
+      font-style: italic;
+      font-weight: 400;
+    }
+
+    /* ── Page wrapper ─────────────────────────────────────────── */
+    .page { max-width: 900px; margin: 0 auto; padding: 40px 32px 80px; }
+
+    /* ── Component ①  Section Tag ────────────────────────────── */
+    .sec-tag {
+      border-left: 4px solid var(--gold);
+      padding-left: 10px;
+      color: var(--gold);
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    /* ── Component ②  Gold Divider ───────────────────────────── */
+    .gold-divider {
+      border: none;
+      border-bottom: 1px solid var(--gold-dk);
+      margin: 12px 0 20px;
+    }
+
+    /* ── Section wrapper ─────────────────────────────────────── */
+    .section {
+      margin-bottom: 48px;
+    }
+    .section-title {
+      font-size: 18pt;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 4px;
+    }
+
+    /* ── Cover ───────────────────────────────────────────────── */
+    .cover {
+      padding: 48px 0 40px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 48px;
+    }
+    .cover-type {
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 16px;
+    }
+    .cover-title {
+      font-size: 26pt;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 8px;
+      line-height: 1.2;
+    }
+    .cover-sub {
+      font-size: 12pt;
+      color: var(--muted);
+      margin-bottom: 28px;
+    }
+    .cover-meta {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .cover-meta-item { display: flex; flex-direction: column; gap: 4px; }
+    .cover-meta-label { font-size: 8pt; color: var(--muted); letter-spacing: 0.08em; }
+    .cover-meta-value { font-size: 10pt; color: var(--cream); font-weight: 700; }
+    .opinion-badge {
+      display: inline-block;
+      padding: 3px 12px;
+      border: 1px solid var(--gold);
+      color: var(--gold-lt);
+      font-size: 8.5pt;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── Component ③  KPI Stat Cards ─────────────────────────── */
+    .kpi-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .kpi-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .kpi-label { font-size: 8.5pt; color: var(--muted); }
+    .kpi-value {
+      font-size: 22pt;
+      font-weight: 700;
+      color: var(--gold-lt);
+      line-height: 1;
+    }
+    .kpi-sub { font-size: 8.5pt; color: var(--muted); }
+
+    /* ── Component ④  Content Cards ──────────────────────────── */
+    .content-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 16px 18px;
+      margin-bottom: 12px;
+    }
+    .content-card.two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+    }
+    .card-col { padding: 0 16px; }
+    .card-col:first-child { padding-left: 0; border-right: 1px solid var(--border); }
+    .card-col:last-child { padding-right: 0; }
+    .card-subtitle {
+      font-size: 10pt;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 10px;
+    }
+    .card-body { font-size: 10pt; color: var(--cream); line-height: 1.65; }
+    .card-list { list-style: none; display: flex; flex-direction: column; gap: 5px; }
+    .card-list li { font-size: 10pt; color: var(--muted); }
+    .card-list li::before { content: "— "; color: var(--muted); }
+
+    /* Core judgment text */
+    .core-judgment {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 18px 20px;
+      margin-bottom: 12px;
+      font-size: 10pt;
+      color: var(--cream);
+      line-height: 1.7;
+    }
+
+    /* ── Component ⑤  Investment Thesis Rows ─────────────────── */
+    .thesis-list { display: flex; flex-direction: column; gap: 12px; }
+    .thesis-row {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+      display: grid;
+      grid-template-columns: 36px 1fr;
+      gap: 14px;
+      align-items: start;
+    }
+    .thesis-num {
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10pt;
+      font-weight: 700;
+      color: var(--gold);
+      flex-shrink: 0;
+    }
+    .thesis-title {
+      font-size: 11pt;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 6px;
+    }
+    .thesis-body { font-size: 9.5pt; color: var(--muted); line-height: 1.6; }
+
+    /* ── Component ⑥  Risk Grid ──────────────────────────────── */
+    .risk-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    .risk-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+    }
+    .risk-title {
+      font-size: 10pt;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 6px;
+    }
+    .risk-body { font-size: 9.5pt; color: var(--muted); line-height: 1.6; }
+
+    /* ── Component ⑦  Scenario Table ─────────────────────────── */
+    .scenario-table { width: 100%; border-collapse: collapse; }
+    .scenario-table th {
+      background: var(--hover-bg);
+      color: var(--gold);
+      font-size: 8.5pt;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 10px 14px;
+      text-align: left;
+      border: 1px solid var(--border);
+    }
+    .scenario-table td {
+      background: var(--card-bg);
+      color: var(--cream);
+      font-size: 10pt;
+      padding: 12px 14px;
+      border: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    .scenario-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+    }
+    .badge-bull { background: rgba(126,200,154,0.15); color: var(--bull); }
+    .badge-base { background: rgba(223,192,138,0.15); color: var(--base); }
+    .badge-bear { background: rgba(224,128,112,0.15); color: var(--bear); }
+    .val-bull { color: var(--bull); font-weight: 700; }
+    .val-base { color: var(--base); font-weight: 700; }
+    .val-bear { color: var(--bear); font-weight: 700; }
+
+    /* ── Section 08  Final card (gold border) ─────────────────── */
+    .conclusion-card {
+      background: var(--card-bg);
+      border: 1px solid var(--gold-dk);
+      padding: 20px 22px;
+      margin-bottom: 12px;
+    }
+    .conclusion-opinion {
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 8px;
+    }
+    .conclusion-body {
+      font-size: 10pt;
+      color: var(--cream);
+      line-height: 1.7;
+    }
+
+    /* ── KPI Monitoring & Pre-condition ──────────────────────── */
+    .two-col-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    /* ── Disclaimer ──────────────────────────────────────────── */
+    .disclaimer {
+      text-align: center;
+      font-size: 8pt;
+      font-style: italic;
+      color: var(--muted);
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      line-height: 1.6;
+    }
+
+    /* ── Mobile ───────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .page { padding: 24px 16px 60px; }
+      .kpi-row { grid-template-columns: 1fr; }
+      .cover-meta { grid-template-columns: 1fr 1fr; }
+      .content-card.two-col { grid-template-columns: 1fr; }
+      .card-col:first-child { border-right: none; border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 16px; }
+      .risk-grid { grid-template-columns: 1fr; }
+      .two-col-grid { grid-template-columns: 1fr; }
+      .memo-nav { padding: 12px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Top Nav ──────────────────────────────────────────────── -->
+<nav class="memo-nav">
+  <a class="back" href="{{ '/' | relative_url }}">
+    <span>←</span> <span>IGS Research</span>
+  </a>
+  <div class="brand">IGS <em>Research</em></div>
+</nav>
+
+<div class="page">
+
+  <!-- ── Cover ─────────────────────────────────────────────── -->
+  <div class="cover">
+    <div class="cover-type">PE Deal Research</div>
+    <div class="cover-title">{{ page.title }}</div>
+    <div class="cover-sub">{{ page.subtitle }}</div>
+    <div class="cover-meta">
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">보고서 일자</span>
+        <span class="cover-meta-value">{{ page.date | date: "%Y.%m.%d" }}</span>
+      </div>
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">딜 규모</span>
+        <span class="cover-meta-value">{{ page.deal_size | default: "—" }}</span>
+      </div>
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">투자 의견</span>
+        <span class="opinion-badge">{{ page.opinion | default: "Watch" }}</span>
+      </div>
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">섹터</span>
+        <span class="cover-meta-value">{{ page.sector }}</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Section 01  투자 요약 ──────────────────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 01</div>
+    <div class="section-title">투자 요약</div>
+    <hr class="gold-divider">
+
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">Entry Valuation</div>
+        <div class="kpi-value">{{ page.entry_ev | default: "—" }}</div>
+        <div class="kpi-sub">{{ page.entry_multiple | default: "멀티플 미확인" }}</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Target IRR</div>
+        <div class="kpi-value">{{ page.target_irr | default: "—" }}</div>
+        <div class="kpi-sub">보유 기간 미확인</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Target MoIC</div>
+        <div class="kpi-value">{{ page.target_moic | default: "—" }}</div>
+        <div class="kpi-sub">Base case</div>
+      </div>
+    </div>
+
+    <div class="core-judgment">
+      {{ page.core_judgment | default: "힐하우스인베스트먼트는 국내 최대 부동산 자산운용사 이지스자산운용을 약 1.1조원에 인수하며 한국 대체투자 시장에 첫 경영권 딜로 진입했다. 흥국생명을 제치고 우선협상대상자로 선정된 힐하우스는 SPA 체결을 조율 중으로, 글로벌 네트워크와 자본력을 바탕으로 이지스의 AUM 확장 및 해외 부동산 딜 소싱력 강화를 노린 전략적 인수다." }}
+    </div>
+  </div>
+
+  <!-- ── Section 02  기업 개요 및 사업 구조 ─────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 02</div>
+    <div class="section-title">기업 개요 및 사업 구조</div>
+    <hr class="gold-divider">
+
+    <div class="content-card two-col">
+      <div class="card-col">
+        <div class="card-subtitle">기업 프로파일</div>
+        <ul class="card-list">
+          <li>설립 / 본사 — 2011년, 서울 여의도</li>
+          <li>핵심사업 — 부동산 자산운용, 리츠(REITs) 운용</li>
+          <li>AUM — 약 25조원 (국내 최대 부동산 운용사)</li>
+          <li>주요 투자처 — 오피스, 물류, 주거, 해외 부동산</li>
+          <li>경영진 — 창업주 이종훈 대표 체제</li>
+        </ul>
+      </div>
+      <div class="card-col">
+        <div class="card-subtitle">시장 포지셔닝</div>
+        <ul class="card-list">
+          <li>TAM — 국내 부동산 간접투자 시장 약 200조원</li>
+          <li>시장 점유율 — AUM 기준 국내 1위</li>
+          <li>경쟁우위 (Moat) — 브랜드 + 딜 소싱 네트워크</li>
+          <li>경쟁사 — 이지스, 코람코, 마스턴, NH리츠운용</li>
+          <li>트렌드 정합성 — 기관 대체투자 수요 구조적 증가</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="content-card">
+      <div class="card-subtitle">지배구조</div>
+      <div class="card-body">
+        창업주 이종훈 대표 및 특수관계인이 경영권 지분을 보유 중이며, 흥국생명 등 기관투자자가 소수 지분을 보유한 구조다. 이번 딜은 창업주의 경영권 매각으로, 힐하우스가 경영권 지분 전량을 인수하는 구조로 협상 중이다. 매각 배경은 창업자 승계 이슈보다는 글로벌 네트워크를 통한 AUM 성장 가속화 전략으로 알려져 있다.
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Section 03  재무 분석 ───────────────────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 03</div>
+    <div class="section-title">재무 분석</div>
+    <hr class="gold-divider">
+
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">LTM Revenue</div>
+        <div class="kpi-value">—</div>
+        <div class="kpi-sub">비공개 (운용보수 기반)</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">LTM EBITDA</div>
+        <div class="kpi-value">—</div>
+        <div class="kpi-sub">마진율 미확인</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Net Debt</div>
+        <div class="kpi-value">—</div>
+        <div class="kpi-sub">자산운용사 특성상 경량 구조</div>
+      </div>
+    </div>
+
+    <div class="content-card two-col">
+      <div class="card-col">
+        <div class="card-subtitle">P&L 특성</div>
+        <ul class="card-list">
+          <li>매출 구조 — 운용보수(Management Fee) + 성과보수(Performance Fee)</li>
+          <li>수익 안정성 — AUM 연동 고정 보수 구조, 경기 방어적</li>
+          <li>EBITDA 마진 — 자산운용업 특성상 높은 마진 (추정 30~50%)</li>
+          <li>Capex — 경량 자산구조, Capex 부담 사실상 無</li>
+        </ul>
+      </div>
+      <div class="card-col">
+        <div class="card-subtitle">Balance Sheet</div>
+        <ul class="card-list">
+          <li>부채 구조 — 운용사 자체 부채는 극히 제한적</li>
+          <li>자산 건전성 — 운용 자산은 펀드 별도 장부, 본사 B/S와 분리</li>
+          <li>CCC — 해당 없음 (서비스업)</li>
+          <li>Off-balance — 공동투자(Co-investment) 약정 존재 가능</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Section 04  딜 구조 및 밸류에이션 ─────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 04</div>
+    <div class="section-title">딜 구조 및 밸류에이션</div>
+    <hr class="gold-divider">
+
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">Entry EV / AUM</div>
+        <div class="kpi-value">~4.4%</div>
+        <div class="kpi-sub">EV 1.1조 / AUM 25조 기준</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Equity Check</div>
+        <div class="kpi-value">1.1조원</div>
+        <div class="kpi-sub">자산운용사 — 레버리지 제한적</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Debt Financing</div>
+        <div class="kpi-value">—</div>
+        <div class="kpi-sub">전략적 인수, LBO 구조 아님</div>
+      </div>
+    </div>
+
+    <div class="content-card">
+      <div class="card-subtitle">Comparable Transaction</div>
+      <div class="card-body">
+        국내 자산운용사 M&A 유사 사례는 제한적이나, 글로벌 유사 거래 기준 자산운용사 인수 시 AUM 대비 3~6% 프리미엄이 일반적이다. 이번 딜의 EV/AUM 약 4.4%는 이지스의 브랜드 가치와 AUM 성장성을 감안하면 합리적 범위에 해당한다. 다만 비상장사 특성상 EV/EBITDA 멀티플은 공개되지 않아 정밀 비교는 한계가 있다.
+        <br><br>
+        <span style="color: var(--muted); font-size: 9pt;">참고: 코람코 관련 거래 / 글로벌 AUM-based valuation 2~6% 밴드</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Section 05  투자 테제 ───────────────────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 05</div>
+    <div class="section-title">투자 테제 (Bull Case)</div>
+    <hr class="gold-divider">
+
+    <div class="thesis-list">
+      <div class="thesis-row">
+        <div class="thesis-num">1</div>
+        <div>
+          <div class="thesis-title">Organic Growth 가시성</div>
+          <div class="thesis-body">국내 기관투자자의 대체투자 비중 확대 추세가 구조적으로 지속 중이다. 국민연금 대체투자 목표 비중이 2025년 기준 17%로 증가하였으며, AUM 25조원에서 연 10% 이상의 추가 자금 유입이 가시적인 성장 경로다. 힐하우스의 해외 LP 네트워크가 연결되면 오피스·물류 해외 딜 소싱이 가속화될 수 있다.</div>
+        </div>
+      </div>
+      <div class="thesis-row">
+        <div class="thesis-num">2</div>
+        <div>
+          <div class="thesis-title">Margin Expansion 여력</div>
+          <div class="thesis-body">운용 규모 확대에 따라 고정비 레버리지가 발생한다. AUM이 증가해도 운용인력 증가폭은 비선형적으로 낮아 보수율(Management Fee Rate)이 유지될 경우 EBITDA 마진이 구조적으로 상승한다. 또한 성과보수(Performance Fee) 발생 빈도가 높아질수록 비선형적 수익성 개선이 기대된다.</div>
+        </div>
+      </div>
+      <div class="thesis-row">
+        <div class="thesis-num">3</div>
+        <div>
+          <div class="thesis-title">Multiple Expansion 가능성 — Conditional</div>
+          <div class="thesis-body">힐하우스가 이지스를 아시아 부동산 플랫폼으로 포지셔닝할 경우, Exit 시점에는 단순 국내 운용사가 아닌 지역 플랫폼 프리미엄이 반영된 멀티플 재평가가 가능하다. 다만 이는 실행 전제가 붙는 조건부 시나리오다.</div>
+        </div>
+      </div>
+      <div class="thesis-row">
+        <div class="thesis-num">4</div>
+        <div>
+          <div class="thesis-title">M&A / Add-on 전략</div>
+          <div class="thesis-body">이지스를 거점으로 중소형 국내 부동산 운용사 또는 리츠 관련 인프라 기업 add-on 인수가 가능하다. 국내 부동산 운용업 시장은 100개 이상의 소형 운용사가 존재하며, 통합(consolidation) 여지가 크다. Buy-and-build 전략 실행 시 AUM 및 상품 라인업 확장이 빠르게 가능하다.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Section 06  리스크 요인 ────────────────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 06</div>
+    <div class="section-title">리스크 요인</div>
+    <hr class="gold-divider">
+
+    <div class="risk-grid">
+      <div class="risk-card">
+        <div class="risk-title">거시경제 리스크</div>
+        <div class="risk-body">글로벌 금리 고착화 시 부동산 Cap Rate 상승으로 자산 가치 하락 압력. 국내 오피스·물류 공실률 상승 시 AUM 감소로 직결. 환율 변동은 해외 부동산 포트폴리오 평가에 영향.</div>
+      </div>
+      <div class="risk-card">
+        <div class="risk-title">산업 / 경쟁 리스크</div>
+        <div class="risk-body">코람코, 마스턴 등 경쟁 운용사의 AUM 추격. 삼성·KB 등 대형 금융그룹 계열 운용사의 캡티브 자금 조달 우위. 국내 부동산 시장 구조적 재편 시 상품 라인업 경쟁력 약화 가능성.</div>
+      </div>
+      <div class="risk-card">
+        <div class="risk-title">재무 / 레버리지 리스크</div>
+        <div class="risk-body">자산운용사 자체 레버리지는 낮으나, 운용 펀드 내 LTV 리스크가 간접적으로 운용사 평판에 영향. 성과보수 변동성이 수익의 불확실성 요인. 힐하우스의 인수금융 구조에 따라 배당 압박 가능성.</div>
+      </div>
+      <div class="risk-card">
+        <div class="risk-title">Execution 리스크</div>
+        <div class="risk-body">창업주 이종훈 대표 중심의 Key Person 의존도가 높다. PMI 과정에서 핵심 운용인력 이탈 시 LP 신뢰도 및 AUM 유출로 이어질 수 있는 가장 큰 Deal Breaker 요인. 힐하우스의 국내 운용업 경험 부재도 리스크.</div>
+      </div>
+      <div class="risk-card">
+        <div class="risk-title">규제 / 지정학 리스크</div>
+        <div class="risk-body">금융위원회 대주주 적격성 심사 및 자본시장법상 운용사 지분 변경 인가 필요. 힐하우스의 중국계 자본 배경에 대한 국내 규제 당국의 심사 강화 가능성. 글로벌 지정학 리스크가 해외 부동산 포트폴리오에 영향.</div>
+      </div>
+      <div class="risk-card">
+        <div class="risk-title">Exit 리스크</div>
+        <div class="risk-body">국내 자산운용사 M&A 시장은 Buyer Universe가 제한적. 전략적 매각 대상은 대형 금융그룹 또는 글로벌 운용사로 한정. IPO 가능성은 운용사 상장 사례 부재로 불투명. Secondary 거래가 현실적인 Exit 경로.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Section 07  Exit 시나리오 분석 ─────────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 07</div>
+    <div class="section-title">Exit 시나리오 분석</div>
+    <hr class="gold-divider">
+
+    <div class="content-card" style="margin-bottom: 16px; overflow-x: auto;">
+      <table class="scenario-table">
+        <thead>
+          <tr>
+            <th>시나리오</th>
+            <th>Exit 방식</th>
+            <th>Hold 기간</th>
+            <th>Exit EV/AUM</th>
+            <th>IRR</th>
+            <th>MoIC</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="scenario-badge badge-bull">Bull Case</span></td>
+            <td style="color: var(--cream);">전략적 매각 (글로벌 운용사)</td>
+            <td style="color: var(--cream);">3년</td>
+            <td class="val-bull">~6%</td>
+            <td class="val-bull">—%</td>
+            <td class="val-bull">—×</td>
+          </tr>
+          <tr>
+            <td><span class="scenario-badge badge-base">Base Case</span></td>
+            <td style="color: var(--cream);">2nd Buyout / 금융그룹 매각</td>
+            <td style="color: var(--cream);">5년</td>
+            <td class="val-base">~5%</td>
+            <td class="val-base">—%</td>
+            <td class="val-base">—×</td>
+          </tr>
+          <tr>
+            <td><span class="scenario-badge badge-bear">Bear Case</span></td>
+            <td style="color: var(--cream);">분할 매각 / AUM 축소 후 정리</td>
+            <td style="color: var(--cream);">7년+</td>
+            <td class="val-bear">~3%</td>
+            <td class="val-bear">—%</td>
+            <td class="val-bear">—×</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="content-card">
+      <div class="card-subtitle">Exit 전략 — Buyer Universe</div>
+      <ul class="card-list">
+        <li>전략적 투자자 — 글로벌 대형 운용사(블랙스톤, 브룩필드 등), 국내 대형 금융그룹 계열</li>
+        <li>재무적 투자자 — 국내외 PE 2nd Buyout (KKR, MBK 등 아시아 포커스 펀드)</li>
+        <li>IPO 가능성 — 낮음. 국내 자산운용사 상장 선례 부재. 중장기 옵션으로 검토 가능</li>
+        <li>Bear Case — AUM 이탈 가속화 시 사업 부문 분리 후 부분 매각 시나리오</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ── Section 08  투자 결론 ───────────────────────────────── -->
+  <div class="section">
+    <div class="sec-tag">Section 08</div>
+    <div class="section-title">투자 결론</div>
+    <hr class="gold-divider">
+
+    <div class="conclusion-card">
+      <div class="conclusion-opinion">{{ page.opinion | default: "Watch" }}</div>
+      <div class="conclusion-body">
+        이지스자산운용 딜은 국내 최대 부동산 운용사의 경영권을 글로벌 PE가 처음으로 인수하는 구조적으로 중요한 거래다. 힐하우스의 자본력과 글로벌 네트워크가 AUM 성장의 촉매가 될 수 있다는 점은 긍정적이나, Key Person 리스크와 규제 인가 불확실성이 실질적인 Deal Breaker 가능성으로 남아 있다. 창업주 Lock-up 조건과 경영 연속성 확보 여부가 딜 성패의 핵심이며, SPA 체결 이후 금융위 심사 과정을 모니터링할 필요가 있다. 현 시점에서는 Watch 의견을 유지하되, 인가 완료 및 PMI 초기 성과 확인 후 재평가를 권고한다.
+      </div>
+    </div>
+
+    <div class="two-col-grid">
+      <div class="content-card">
+        <div class="card-subtitle">KPI 모니터링</div>
+        <ul class="card-list">
+          <li>AUM 증감 추이 (분기별)</li>
+          <li>Management Fee Revenue 성장률</li>
+          <li>핵심 운용인력 이탈 여부</li>
+          <li>신규 펀드 결성 속도 (LP 반응)</li>
+        </ul>
+      </div>
+      <div class="content-card">
+        <div class="card-subtitle">Pre-condition</div>
+        <ul class="card-list">
+          <li>금융위원회 대주주 적격성 심사 통과</li>
+          <li>창업주 이종훈 대표 Lock-up 조건 확정</li>
+          <li>주요 LP와의 운용 연속성 합의</li>
+          <li>SPA 조건부 Earn-out 구조 여부 확인</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Disclaimer ─────────────────────────────────────────── -->
+  <div class="disclaimer">
+    본 리서치는 공개된 뉴스 및 시장 정보를 기반으로 작성된 정보 제공 목적의 자료이며, 투자 권유 또는 법적 조언이 아닙니다.
+    수록된 수치 및 분석은 추정치를 포함하며 실제와 다를 수 있습니다. IGS Research는 본 자료의 활용으로 인한 결과에 대해 책임을 지지 않습니다.
+  </div>
+
+</div><!-- /page -->
+</body>
+</html>
