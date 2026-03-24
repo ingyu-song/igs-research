@@ -1,5 +1,201 @@
 [
   {
+    "title": "(단독)대한항공, 6월 주총서 아시아나 잔여지분 인수 추진",
+    "summary": "대한항공이 6월 주주총회에서 아시아나항공의 잔여지분을 인수하여 완전 자회사화를 추진 중인 전략적 M&A 딜",
+    "company": "아시아나항공",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.newstomato.com/ReadNews.aspx?no=1295289&inflow=N",
+    "date": "2026.03.24"
+  },
+  {
+    "title": "JC파트너스, '굿리치 엑시트' 두고 행복한 고민",
+    "summary": "PE 운용사 JC파트너스가 보유한 보험판매대리점 굿리치의 엑시트를 추진 중이며, 강한 실적을 바탕으로 전략적 투자자와의 가격 협상 및 경영진 중심 인수 구조 등을 검토하고 있음",
+    "company": "굿리치",
+    "acquirer": "JC파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=43994",
+    "date": "2026.03.24"
+  },
+  {
+    "title": "[단독]JC파트너스, 대형 GA '굿리치' 매각한다",
+    "summary": "PE 운용사 JC파트너스가 보유 중인 법인보험대리점(GA) 굿리치를 인수 3년 만에 매각하는 엑시트 거래를 추진 중. 굿리치는 약 6000명의 설계사 조직을 보유한 대형 GA",
+    "company": "굿리치",
+    "acquirer": "JC파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.mk.co.kr/article/11996463",
+    "date": "2026.03.24"
+  },
+  {
+    "title": "[보험사 전략 대해부] 흔들리는 2위…DB손보, '연결 확대'로 메리츠 추격...",
+    "summary": "DB손보가 미국 팁트리사와 글로벌 사모펀드 워버그 핀커스로부터 포테그라의 발행주식 100%를 16억5000만달러에 인수하는 계약을 체결했으며, 상반기 중 딜 클로징을 목표로 추진 중인 전략적 M&A",
+    "company": "포테그라",
+    "acquirer": "DB손보",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2조4601억원",
+    "deal_stage": "계약",
+    "url": "https://dealsite.co.kr/articles/158786",
+    "date": "2026.03.24"
+  },
+  {
+    "title": "흥국생명, 이대로 놓치나…이지스자산운용 인수전 막판 변수는",
+    "summary": "글로벌 사모펀드 힐하우스인베스트먼트가 이지스자산운용 인수를 위해 우선협상대상자로 선정된 후 주식매매계약 체결을 추진 중인 딜",
+    "company": "이지스자산운용",
+    "acquirer": "힐하우스인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ekn.kr/web/view.php?key=20260324029110359",
+    "date": "2026.03.24"
+  },
+  {
+    "title": "군산조선소 품은 에코프라임 PE…HJ중공업, 신조·MRO·풍력 모두 잡나",
+    "summary": "사모펀드 에코프라임마린퍼시픽이 HD현대중공업과 군산조선소 인수를 위한 합의각서(MOA)를 체결했으며, 이를 통해 HJ중공업의 신조선, MRO, 풍력 사업 전개를 추진 중",
+    "company": "군산조선소",
+    "acquirer": "에코프라임마린퍼시픽",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.kukinews.com/article/view/kuk202603230190",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "크레센도, 다크웹 분석 기업 스텔스몰 인수",
+    "summary": "PE 운용사 크레센도에쿼티파트너스가 싱가포르 본사의 한국계 사이버보안 스타트업 스텔스몰을 인수했다. 이는 크레센도의 신규 기업 인수 거래이다.",
+    "company": "스텔스몰",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/2026032306171",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "[단독]크레센도, 스텔스몰 인수…亞 팰런티어로 키운다[시그널]",
+    "summary": "PE 운용사 크레센도에쿼티파트너스가 싱가포르 소재 보안 기업 스텔스몰의 경영권을 인수했으며, 아시아 지역 성장을 추진할 계획이다.",
+    "company": "스텔스몰",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20022861?ref=naver",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "중동 분쟁에 엇갈린 SK이터닉스 매매 희비",
+    "summary": "KKR이 SK이터닉스 경영권을 포함해 SK이노베이션 E&S, SK에코플랜트 등의 신재생에너지 사업을 약 2조원에 인수하는 딜. 한편 SK디스커버리가 SK이터닉스 지분 매각을 추진 중.",
+    "company": "SK이터닉스",
+    "acquirer": "KKR",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2조원",
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/11995782",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "\"86%나 올랐다고?\" 코스피 상승률 1위 SK이터닉스…고유가 공포에 신...",
+    "summary": "글로벌 투자사 KKR이 SK디스커버리와 한앤컴퍼니가 보유한 SK이터닉스 지분 총 43.5%를 3,480억원에 인수하기로 하면서 SK이터닉스 주가에 탄력이 붙었다.",
+    "company": "SK이터닉스",
+    "acquirer": "KKR(콜버그크래비스로버츠)",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "3480억원",
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10698830?ref=naver",
+    "date": "2026.03.20"
+  },
+  {
+    "title": "[더벨]메가존, 메가존클라우드 지분 사들인다",
+    "summary": "메가존이 MBK파트너스와 IMM프라이빗에쿼티가 보유한 메가존클라우드 지분을 인수하는 거래. 2022년 4500억원 투자를 받은 PE 지분에 대한 엑싯 거래.",
+    "company": "메가존클라우드",
+    "acquirer": "메가존",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603191600438960105879",
+    "date": "2026.03.24"
+  },
+  {
+    "title": "애경산업 떼어낸 AK홀딩스…항공·화학 '동반 적자'에 재무 부담 확대",
+    "summary": "AK홀딩스가 태광산업 컨소시엄에 애경산업 경영권 지분 63.13%를 매각하는 EXIT 거래. 약 4,500억원의 유동성을 확보하는 매각 딜",
+    "company": "애경산업",
+    "acquirer": "태광산업 컨소시엄",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "4500억원",
+    "deal_stage": "완료",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=657399",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "[단독] 크레센도, AI 사이버보안 스타트업 스텔스몰 인수",
+    "summary": "PE펀드 크레센도에쿼티파트너스가 싱가포르 본사의 한국계 사이버보안 스타트업 스텔스몰을 인수하는 딜로, AI 기반 사이버보안 기업의 전략적 인수이다.",
+    "company": "스텔스몰",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202603239880r",
+    "date": "2026.03.23"
+  },
+  {
+    "title": "이지스 매각, 결국 힐하우스 품으로…흥국생명 밀려났다",
+    "summary": "국내 최대 부동산 자산운용사 이지스자산운용이 힐하우스에 1조1000억원 규모로 경영권이 매각되는 전략적 M&A 거래",
+    "company": "이지스자산운용",
+    "acquirer": "힐하우스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.1조원",
+    "deal_stage": "협상",
+    "url": "http://www.fntimes.com/html/view.php?ud=202603241031536212a735e27af_18",
+    "date": "2026.03.24"
+  },
+  {
     "title": "이지스운용 매각 '9부 능선' 힐하우스, 실사 마무리 수순",
     "summary": "PE펀드 힐하우스인베스트먼트가 이지스운용 인수를 위해 실사 작업의 막바지 단계에 진입했으며, 주식매매계약(SPA) 체결 시점이 관심사로 떠올랐다.",
     "company": "이지스운용",
