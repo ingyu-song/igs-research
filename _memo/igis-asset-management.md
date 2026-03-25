@@ -12,7 +12,7 @@ target_moic: "—"
 acquirer: "힐하우스인베스트먼트"
 seller: "창업주 이종훈 外 주주단"
 opinion: "Watch"
-date: 2026-03-24
+date: 2025-03-24
 pages: 8
 tags: [STRATEGIC, ACQ]
 ---
