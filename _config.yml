@@ -4,6 +4,22 @@ baseurl: "/igs-research"
 url: "https://ingyu-song.github.io"
 permalink: /:categories/:title/
 
+collections:
+  sector:
+    output: true
+    permalink: /sector/:name/
+  memo:
+    output: true
+    permalink: /memo/:name/
+
+future: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "memo"
+    values:
+      layout: "memo"
 markdown: kramdown
 theme: null
 
@@ -21,4 +37,3 @@ defaults:
       type: "memo"
     values:
       layout: "memo"
-future: true
