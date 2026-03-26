@@ -1,5 +1,215 @@
 [
   {
+    "title": "[더벨]매각되는 카카오게임즈, 새주인 정체 '페트리코'",
+    "summary": "PE사 페트리코가 자사 사모펀드 페트리코제6호PEF 산하 투자목적법인(SPC) LAAA인베스트먼트를 통해 카카오게임즈를 인수하는 거래",
+    "company": "카카오게임즈",
+    "acquirer": "페트리코",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603251038454840108056",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "이스트브릿지, 이도 엑시트로 '두 마리 토끼' 잡았다",
+    "summary": "PE운용사 이스트브릿지파트너스가 2021년 인수한 환경 기업 이도(YIDO)를 매각하는 엑싯 거래. 2300억원 규모의 지분을 매각하여 당초 투입 자본금과 수익을 실현하는 거래",
+    "company": "이도",
+    "acquirer": "이스트브릿지파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2300억원",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44059",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "라인야후 품에 안긴 카카오게임즈...한상우 대표 \"올해까지 영업 기조 ...",
+    "summary": "라인야후 출자 사모펀드 LAAA 인베스트먼트가 카카오게임즈 대주주 카카오의 지분 일부를 인수하며 최대주주로 올라섰으며, 2,400억 원 규모의 제3자배정 유상증자를 함께 진행하는 전략적 투자 거래",
+    "company": "카카오게임즈",
+    "acquirer": "LAAA 인베스트먼트",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2400억원",
+    "deal_stage": "완료",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=506013",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "'다음' 이어 '게임'도 떼내는 카카오… 정신아 체제 '선택과 집중...",
+    "summary": "카카오게임즈의 대주주인 카카오가 보유한 지분(37.6%)의 일부를 라인야후 출자 사모펀드 LAAA 인베스트먼트에 매각하는 블록딜",
+    "company": "카카오게임즈",
+    "acquirer": "LAAA 인베스트먼트",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "2400억원",
+    "deal_stage": "협상",
+    "url": "https://www.kmib.co.kr/article/view.asp?arcid=1774430774&code=11151400&cp=nv",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "'라인야후에 인수' 카카오게임즈…한상우 대표 \"전략적 방향성 협의 마...",
+    "summary": "라인야후가 출자한 PEF 엘트리플에이(LAAA) 인베스트먼트가 카카오가 보유한 카카오게임즈 지분 일부를 인수하여 최대주주로 올라선 블록딜",
+    "company": "카카오게임즈",
+    "acquirer": "라인야후",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "2400억원",
+    "deal_stage": "완료",
+    "url": "https://www.etoday.co.kr/news/view/2569603",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "'라인야후에 인수' 카카오게임즈 CEO \"전략적 방향 협의 마쳐\"(종합)",
+    "summary": "라인야후가 출자한 PEF 엘트리플에이(LAAA) 인베스트먼트가 카카오게임즈의 대주주 카카오가 보유한 지분 일부를 인수하여 최대 주주에 올랐다. 라인야후 측이 카카오게임즈에 대한 전략적 방향 협의를 완료했다고 밝혔다.",
+    "company": "카카오게임즈",
+    "acquirer": "라인야후 (LAAA 인베스트먼트)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.yna.co.kr/view/AKR20260326049151017?input=1195m",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "'라인야후에 인수' 카카오게임즈 CEO \"전략적 방향 협의 마쳐\"",
+    "summary": "라인야후가 출자한 PEF 엘트리플에이(LAAA) 인베스트먼트가 카카오게임즈의 대주주인 카카오가 보유한 지분 일부를 인수하여 최대 주주에 올랐다. 이는 라인야후의 PE 펀드를 통한 카카오게임즈 인수 거래이다.",
+    "company": "카카오게임즈",
+    "acquirer": "엘트리플에이(LAAA) 인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.yna.co.kr/view/AKR20260326049100017?input=1195m",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "[Invest]MBK파트너스, 골프존카운티 매각 추진",
+    "summary": "MBK파트너스가 보유한 골프존카운티를 매각하기 위해 기업과 사모펀드 등 잠재적 투자자를 대상으로 티저레터를 발송하고 있으며, 모건스탠리와 삼정KPMG가 자문을 담당하고 있다.",
+    "company": "골프존카운티",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/03/25/2026032580218.html",
+    "date": "2026.03.25"
+  },
+  {
+    "title": "JC파트너스, KES환경개발 매각…엑시트 성과 잇는다",
+    "summary": "PE운용사 JC파트너스가 보유한 폐기물 매립장 운영사 KES환경개발을 매각하며 투자금을 회수(엑싯)하는 거래",
+    "company": "KES환경개발",
+    "acquirer": "JC파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2000억원대",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44052",
+    "date": "2026.03.25"
+  },
+  {
+    "title": "카카오, 카카오게임즈 일본 라인야후에 매각…게임 사업 정리",
+    "summary": "카카오가 보유한 카카오게임즈 지분을 라인야후의 사모펀드인 LAAA 인베스트먼트에 매각하는 거래로, 카카오의 게임 사업 정리 차원의 전략적 매각",
+    "company": "카카오게임즈",
+    "acquirer": "LAAA 인베스트먼트",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703405",
+    "date": "2026.03.25"
+  },
+  {
+    "title": "카카오게임즈 매각 '3자 셈법' 따져보니",
+    "summary": "카카오가 카카오게임즈의 경영권을 일본 라인 야후에 넘기는 전략적 M&A 거래. 카카오는 일부 사업을 인수하고 신주 및 전환사채 인수에 참여하는 구조의 거래.",
+    "company": "카카오게임즈",
+    "acquirer": "라인 야후",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.ekn.kr/web/view.php?key=20260325027241140",
+    "date": "2026.03.25"
+  },
+  {
+    "title": "[더벨]베이커리에 꽂힌 다올PE, 유로베이크·엘유코리아 인수 추진",
+    "summary": "다올PE가 베이커리 기업 유로베이크와 엘유코리아를 한꺼번에 인수하는 구조로 추진 중이며, 한국성장금융의 IBK 성장 M&A펀드(2차) 등 주요 출자사업에서 지원받는 중이다.",
+    "company": "유로베이크, 엘유코리아",
+    "acquirer": "다올PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603240828373220102443",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "식품업계, 중동 불안·내수 침체에 '이종 사업' 진출 속도",
+    "summary": "나프타가 독일의 의약용 아미노산 전문기업 아미노 유한회사의 지분 100%를 약 502억원에 인수하는 전략적 M&A 거래",
+    "company": "Amino Limited Company",
+    "acquirer": "나프타",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "502억원",
+    "deal_stage": "완료",
+    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=298079",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "카카오게임즈 '카카오' 떠나 일본 라인야후 품에 안겨, 라인게임즈와 합...",
+    "summary": "라인야후가 카카오게임즈를 인수하며, 기존 계열사인 라인게임즈와 합병을 추진 중. 앵커PE가 보유한 라인게임즈의 IPO 지연으로 투자금 회수를 위한 전략적 거래",
+    "company": "카카오게임즈",
+    "acquirer": "라인야후",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434022",
+    "date": "2026.03.25"
+  },
+  {
+    "title": "[더벨]카카오, 카카오게임즈 매각 추진…적자 자회사 정리",
+    "summary": "카카오가 보유한 카카오게임즈 지분을 LAAA인베스트먼트에 매각하는 구주 딜. 카카오게임즈의 경영권이 라인야후로 넘어가는 전략적 매각 거래",
+    "company": "카카오게임즈",
+    "acquirer": "카카오",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603250757359460106572",
+    "date": "2026.03.26"
+  },
+  {
     "title": "카카오, 라인야후에 카카오게임즈 매각",
     "summary": "카카오가 보유한 카카오게임즈 지분(37.6%)을 라인야후의 사모펀드인 LAAA 인베스트먼트에 매각하는 블록딜. LAAA 인베스트먼트가 최대주주로 부상.",
     "company": "카카오게임즈",
