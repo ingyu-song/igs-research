@@ -2,8 +2,11 @@ title: IGS Research
 email: andysong1616@gmail.com
 baseurl: "/igs-research"
 url: "https://ingyu-song.github.io"
-permalink: /:categories/:title/
-
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+future: true
 collections:
   sector:
     output: true
@@ -11,26 +14,6 @@ collections:
   memo:
     output: true
     permalink: /memo/:name/
-
-future: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "memo"
-    values:
-      layout: "memo"
-markdown: kramdown
-theme: null
-
-plugins:
-  - jekyll-feed
-
-collections:
-  sector:
-    output: true
-  memo:
-    output: true
 defaults:
   - scope:
       path: ""
