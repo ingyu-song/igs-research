@@ -35,7 +35,8 @@ title: Korea PE Research
 
     <!-- Korea deal list -->
     <div class="deal-list" id="deal-list-korea">
-      {% for deal in site.data.deals %}
+    {% assign world_deals = site.data['deals_world'] %}
+    {% for deal in world_deals %}
       <div class="deal-row"
         data-type="{{ deal.type }}"
         data-title="{{ deal.title }}"
