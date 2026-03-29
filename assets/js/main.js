@@ -1,5 +1,3 @@
-let currentRegion = 'korea';
-
 function show(id, el) {
   document.querySelectorAll('.section').forEach(s => s.classList.remove('visible'));
   document.querySelectorAll('.navlink').forEach(n => n.classList.remove('active'));
@@ -7,36 +5,11 @@ function show(id, el) {
   el.classList.add('active');
 }
 
-function switchRegion(region, el) {
-  document.querySelectorAll('.region-btn').forEach(b => b.classList.remove('active'));
-  el.classList.add('active');
-  currentRegion = region;
-
-  const koreaList = document.getElementById('deal-list-korea');
-  const worldList = document.getElementById('deal-list-world');
-  const label = document.getElementById('flow-label');
-
-  if (region === 'korea') {
-    koreaList.style.display = '';
-    worldList.style.display = 'none';
-    if (label) label.textContent = 'Auto-archived · Korea PE/M&A';
-  } else {
-    koreaList.style.display = 'none';
-    worldList.style.display = '';
-    if (label) label.textContent = 'Auto-archived · Global PE/M&A';
-  }
-
-  // 필터 초기화
-  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-  document.querySelector('.chip').classList.add('active');
-}
-
 function filterDeal(type, el) {
   document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
   el.classList.add('active');
 
-  const listId = currentRegion === 'korea' ? 'deal-list-korea' : 'deal-list-world';
-  const groups = Array.from(document.querySelectorAll(`#${listId} .deal-group`));
+  const groups = Array.from(document.querySelectorAll('#deal-list .deal-group'));
 
   groups.forEach(group => {
     if (type === 'all') {
@@ -54,7 +27,12 @@ function filterDeal(type, el) {
     const dateEl = group.querySelector('.deal-date');
     if (!dateEl) return;
     const date = dateEl.dataset.date || dateEl.textContent.trim();
-    dateEl.textContent = date && date !== lastDate ? (lastDate = date, date) : (lastDate = lastDate, '');
+    if (date && date !== lastDate) {
+      dateEl.textContent = date;
+      lastDate = date;
+    } else {
+      dateEl.textContent = '';
+    }
   });
 }
 
