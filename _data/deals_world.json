@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026.03.28",
+    "title": "Blackstone acquires majority stake in Copeland from Emerson Electric",
+    "company": "Copeland",
+    "acquirer": "Blackstone",
+    "summary": "Blackstone has agreed to acquire a majority stake in Copeland, the HVAC and refrigeration controls business spun off from Emerson Electric, in a deal valuing the company at approximately $14 billion.",
+    "type": "acq",
+    "tags": ["acq"],
+    "ev": "$14bn",
+    "deal_stage": "계약",
+    "url": "https://www.reuters.com"
+  }
+]

@@ -1,5 +1,5 @@
-document.addEventListener('DOMContentLoaded', function() {
-  const list = document.getElementById('deal-list');
+function initDealList(listId) {
+  const list = document.getElementById(listId);
   if (!list) return;
   const rows = Array.from(list.querySelectorAll('.deal-row'));
   if (!rows.length) return;
@@ -53,12 +53,11 @@ document.addEventListener('DOMContentLoaded', function() {
     return ALIAS_MAP[cleaned] || cleaned;
   }
 
-  // ── 3. 그룹핑 키: data-company 만 사용, fallback 없음 ───────────────────
   function resolveGroupKey(row) {
     return normalizeCompany(row.dataset.company) || null;
   }
 
-  // ── 4. 그룹 빌드 ─────────────────────────────────────────────────────────
+  // ── 3. 그룹 빌드 ─────────────────────────────────────────────────────────
   const groups = {};
   const order = [];
 
@@ -74,20 +73,18 @@ document.addEventListener('DOMContentLoaded', function() {
     groups[key].push(row);
   });
 
-  // 날짜 내림차순
   order.sort((a, b) => {
     const dateA = groups[a][0].dataset.date || '';
     const dateB = groups[b][0].dataset.date || '';
     return dateB.localeCompare(dateA);
   });
 
-  // ── 5. 렌더링 ────────────────────────────────────────────────────────────
+  // ── 4. 렌더링 ────────────────────────────────────────────────────────────
   list.innerHTML = '';
   let lastDate = '';
 
   order.forEach(company => {
     const items = groups[company];
-    // 날짜 내림차순으로 기사 정렬
     items.sort((a, b) => (b.dataset.date || '').localeCompare(a.dataset.date || ''));
 
     const types = [...new Set(items.map(r => r.dataset.type))].join(' ');
@@ -141,6 +138,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     list.appendChild(group);
   });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  initDealList('deal-list-korea');
+  initDealList('deal-list-world');
 });
 
 function toggleGroup(el) {

@@ -4,7 +4,13 @@ title: Korea PE Research
 ---
 <div class="wrap">
   <nav class="topnav">
-    <div class="brand">IGS <em>Research</em></div>
+    <div class="nav-left">
+      <div class="brand">IGS <em>Research</em></div>
+      <div class="region-toggle">
+        <div class="region-btn active" onclick="switchRegion('korea',this)">Korea</div>
+        <div class="region-btn" onclick="switchRegion('world',this)">World</div>
+      </div>
+    </div>
     <div class="navlinks">
       <div class="navlink active" onclick="show('flow',this)">Deal Flow</div>
       <div class="navlink" onclick="show('memo',this)">Deal Memo</div>
@@ -14,7 +20,7 @@ title: Korea PE Research
 
   <div id="flow" class="section visible">
     <div class="section-head">
-      <div class="section-label">Auto-archived · Korea PE/M&A</div>
+      <div class="section-label" id="flow-label">Auto-archived · Korea PE/M&A</div>
       <div class="section-title">Deal Flow</div>
     </div>
     <div class="filter-row">
@@ -26,18 +32,47 @@ title: Korea PE Research
       <div class="chip" onclick="filterDeal('block',this)">블록딜</div>
       <div class="chip" onclick="filterDeal('strategic',this)">전략적M&A</div>
     </div>
-    <div class="deal-list" id="deal-list">
+
+    <!-- Korea deal list -->
+    <div class="deal-list" id="deal-list-korea">
       {% for deal in site.data.deals %}
-    <div class="deal-row"
-      data-type="{{ deal.type }}"
-      data-title="{{ deal.title }}"
-      data-date="{{ deal.date }}"
-      data-summary="{{ deal.summary }}"
-      data-url="{{ deal.url }}"
-      data-ev="{{ deal.ev }}"
-      data-company="{{ deal.company }}"
-      data-acquirer="{{ deal.acquirer }}"
-      data-deal-stage="{{ deal.deal_stage }}">        <div class="deal-date">{{ deal.date }}</div>
+      <div class="deal-row"
+        data-type="{{ deal.type }}"
+        data-title="{{ deal.title }}"
+        data-date="{{ deal.date }}"
+        data-summary="{{ deal.summary }}"
+        data-url="{{ deal.url }}"
+        data-ev="{{ deal.ev }}"
+        data-company="{{ deal.company }}"
+        data-acquirer="{{ deal.acquirer }}"
+        data-deal-stage="{{ deal.deal_stage }}">        <div class="deal-date">{{ deal.date }}</div>
+        <div class="deal-body">
+          <div class="deal-title">{{ deal.title }}</div>
+          <div class="deal-sub">{{ deal.summary }}</div>
+          <div class="deal-tags">
+            {% for t in deal.tags %}
+            <span class="dtag {{ t }}">{{ t | upcase }}</span>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="deal-ev">{{ deal.ev | default: "—" }}</div>
+      </a>
+      {% endfor %}
+    </div>
+
+    <!-- World deal list -->
+    <div class="deal-list" id="deal-list-world" style="display:none">
+      {% for deal in site.data.deals_world %}
+      <div class="deal-row"
+        data-type="{{ deal.type }}"
+        data-title="{{ deal.title }}"
+        data-date="{{ deal.date }}"
+        data-summary="{{ deal.summary }}"
+        data-url="{{ deal.url }}"
+        data-ev="{{ deal.ev }}"
+        data-company="{{ deal.company }}"
+        data-acquirer="{{ deal.acquirer }}"
+        data-deal-stage="{{ deal.deal_stage }}">        <div class="deal-date">{{ deal.date }}</div>
         <div class="deal-body">
           <div class="deal-title">{{ deal.title }}</div>
           <div class="deal-sub">{{ deal.summary }}</div>
