@@ -1,5 +1,145 @@
 [
   {
+    "title": "[단독] 어피니티, 롯데렌탈 인수가격 인하 요청... 그룹과 재협상 중",
+    "summary": "글로벌 사모펀드 어피니티에쿼티파트너스가 롯데그룹으로부터 롯데렌탈을 인수하기 위해 인수가격 인하를 요청하며 재협상을 진행 중인 상황",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/03/30/36JFNPXWQVG37K7TJXJ23BO6CI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "기업들 이곳으로 다 모인다… 임대료 톱10 오피스 중 9곳 강남권",
+    "summary": "블랙스톤이 2024년 코람코자산신탁으로부터 오피스 자산을 7917억원에 인수한 거래로, 2020년 이후 오피스 거래 중 최대 규모였다.",
+    "company": "코람코자산신탁",
+    "acquirer": "블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "7917억원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/03/30/S2SPF5F2VZCJ3PK6NN7VWXXDIY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "글랜우드크레딧 메가존클라우드 인수금융, 미래에셋·하나은행 공동주...",
+    "summary": "사모펀드 운용사 글랜우드크레딧이 메가존클라우드를 인수하며, 미래에셋증권과 하나은행이 인수금융의 주선사로 참여하는 거래",
+    "company": "메가존클라우드",
+    "acquirer": "글랜우드크레딧",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "8000억원",
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202603271264r",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "[더벨]프랙시스, 'AI 반도체 설계' 모빌린트 2대 주주 오른다",
+    "summary": "PE 운용사 프랙시스캐피탈파트너스가 AI 반도체 설계 기업 모빌린트에 신주 투자와 구주 인수를 병행하여 지분율을 높이며 2대 주주로 올라섬",
+    "company": "모빌린트",
+    "acquirer": "프랙시스캐피탈파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603261404533200103680",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "[더벨][카카오게임즈 매각] LAAA인베, '최소 37%' 지분 확보 전망",
+    "summary": "LAAA인베스트먼트(페트리코제6호 사모펀드)가 카카오게임즈의 신규 주식과 600억원 규모 전환사채를 인수하여 최소 37% 이상의 지분을 확보하는 딜",
+    "company": "카카오게임즈",
+    "acquirer": "LAAA인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603251519558160107757",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "[단독] 日 공략 박차... MBK파트너스, 8000억 규모 의료행정 서비스 기업...",
+    "summary": "PE운용사 MBK파트너스가 일본의 의료행정 서비스 기업 솔라스토를 MBO 방식으로 인수를 추진 중이다. 딜 규모는 약 246억8000만엔(약 2,300억원) 수준이다.",
+    "company": "솔라스토",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2,300억원",
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/03/30/4L3INXHBDNBSVHYU7A4H2QKB5M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "현금흐름 탄탄한 인프라 기업 집중…DIG에어가스 등 조단위 빅딜 [시그...",
+    "summary": "에어리퀴드가 DIG에어가스를 인수하는 딜이 추진 중이며, KKR과 SK그룹 간의 거래도 진행 중인 대형 PE/M&A 딜",
+    "company": "DIG에어가스",
+    "acquirer": "에어리퀴드",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20025398?ref=naver",
+    "date": "2026.03.29"
+  },
+  {
+    "title": "더존비즈온, 글로벌 확장 큰 꿈…그 첫발은 일본",
+    "summary": "기업용 소프트웨어 전문기업 더존비즈온이 글로벌 사모펀드 EQT파트너스에 인수되었으며, 공개매수와 기존 주주 지분 인수가 완료되어 경영권이 이전되었다.",
+    "company": "더존비즈온",
+    "acquirer": "EQT파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.joongang.co.kr/article/25415791",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "외국계 PEF 공개매수 딜 독식…NH투자증권, 'IB 명가' 존재감 부각",
+    "summary": "EQT파트너스는 더존비즈온 공개매수 및 지분 인수를 위해 총 2조1819억 원 규모의 자금을 조성하며, NH투자증권으로부터 1조7455억 원을 차입하기로 결정했다.",
+    "company": "더존비즈온",
+    "acquirer": "EQT파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2.18조원",
+    "deal_stage": "계약",
+    "url": "https://www.etoday.co.kr/news/view/2570151",
+    "date": "2026.03.29"
+  },
+  {
+    "title": "(단독)대한항공, 6월 주총서 아시아나 잔여지분 인수 추진",
+    "summary": "대한항공이 6월 주주총회에서 기존 보유 중인 아시아나항공의 잔여지분을 추가 인수하여 완전 자회사화를 추진하는 전략적 M&A",
+    "company": "아시아나항공",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.newstomato.com/ReadNews.aspx?no=1295289&inflow=N",
+    "date": "2026.03.24"
+  },
+  {
     "title": "카카오 살린 네이버...'카겜 인수'는 라인야후의 독립 선언",
     "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오게임즈의 대주주 카카오가 보유한 지분(37.6%)을 인수하여 최대주주가 되는 블록딜",
     "company": "카카오게임즈",
@@ -1259,146 +1399,6 @@
     "ev": null,
     "deal_stage": "완료",
     "url": "https://sateconomy.co.kr/news/view/1065572054816498",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, '라인야후' 품으로...3000억원 투자 유치",
-    "summary": "LAAA 인베스트먼트(라인야후 출자 PEF)가 카카오로부터 카카오게임즈 지분을 인수하여 최대주주로 올라섬. 약 3000억원 규모의 블록딜(세컨더리 거래).",
-    "company": "카카오게임즈",
-    "acquirer": "엘트리플에이 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "https://economist.co.kr/article/view/ecn202603250012",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오, 라인야후에 카카오게임즈 경영권 매각···카카오 2대 주주로",
-    "summary": "카카오가 카카오게임즈의 경영권을 라인야후(LAAA 인베스트먼트)에 매각하는 전략적 M&A 거래. 라인야후는 카카오게임즈의 최대 주주로 올라서고, 카카오는 2대 주주 지위로 하향 조정됨",
-    "company": "카카오게임즈",
-    "acquirer": "라인야후",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.ziksir.com/news/articleView.html?idxno=128375",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "[특징주]카카오게임즈, 최대주주 라인야후로 변경…3000억 규모 자금 유...",
-    "summary": "라인야후의 투자목적 사모펀드인 LAAA 인베스트먼트가 카카오게임즈의 기존 최대주주 카카오로부터 지분을 인수하여 최대주주 지위를 확보하는 딜",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026032509381523066",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "(특징주)'라인야후 인수' 카카오게임즈 7%대 강세",
-    "summary": "카카오게임즈가 라인야후가 출자한 사모펀드 LAAA 인베스트먼트로부터 지분을 인수해 최대 주주에 올랐으며, 유상증자 및 전환사채를 통해 총 3000억원 규모의 투자를 진행했다.",
-    "company": "카카오게임즈",
-    "acquirer": "카카오게임즈",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "http://www.newstomato.com/ReadNews.aspx?no=1295445&inflow=N",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "[특징주] '라인야후에 인수' 카카오게임즈, 장 초반 7% 급등",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오의 자회사 카카오게임즈 지분을 인수해 최대 주주에 올랐다.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.namdonews.com/news/articleView.html?idxno=905179",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "라인야후, 카카오게임즈 최대주주 등극…글로벌 사업 경쟁력 강화 계기...",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오로부터 카카오게임즈의 지분 일부를 인수하여 최대주주로 등극한 블록딜",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=79313",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "[더벨]굿즈 전문 코팬글로벌, 콘서트 제작사 '본부엔터' 품었다",
-    "summary": "케이스톤파트너스가 운용하는 바이아웃 포트폴리오 회사 코팬글로벌이 콘서트 연출 전문 기업 본부엔터테인먼트를 인수했다.",
-    "company": "본부엔터테인먼트",
-    "acquirer": "코팬글로벌",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603231518115880104450",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "좌석·CI 통합 속도전···대한항공·아시아나 '임금·마일리지' 과제",
-    "summary": "대한항공이 사모펀드 운용사 한앤컴퍼니로부터 기내식·기내면세품 사업 자회사 대한항공씨앤디서비스의 지분 80%를 약 7,500억원에 인수하는 거래",
-    "company": "대한항공씨앤디서비스",
-    "acquirer": "대한항공",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7,500억원",
-    "deal_stage": "계약",
-    "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=251458",
-    "date": "2026.03.24"
-  },
-  {
-    "title": "사우디 새비게임즈, 60억 달러에 '모바일 레전드' 개발사 문톤 인수",
-    "summary": "사우디아라비아의 게임 회사 새비게임즈(Saudi Games)가 모바일 게임 '모바일 레전드'를 개발한 문톤(Moonton)을 60억 달러에 인수하는 전략적 M&A",
-    "company": "Moonton Technology",
-    "acquirer": "Saudi Games",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "60억 달러",
-    "deal_stage": "협상",
-    "url": "https://zdnet.co.kr/view/?no=20260324113050",
-    "date": "2026.03.24"
-  },
-  {
-    "title": "카카오게임즈 경영권, 일본 라인야후 품으로",
-    "summary": "카카오게임즈가 엘트리플에이 인베스트먼트(라인야후 계열)에 경영권을 넘기는 전환사채 인수 구조의 거래. 600억원 규모를 포함한 사모 CB 발행을 통해 경영권 이양 추진 중",
-    "company": "카카오게임즈",
-    "acquirer": "엘트리플에이 인베스트먼트",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://zdnet.co.kr/view/?no=20260325095459",
     "date": "2026.03.25"
   }
 ]
