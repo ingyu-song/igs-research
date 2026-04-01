@@ -1,5 +1,510 @@
 [
   {
+    "title": "KG그룹, 케이카에 5500억 베팅한 이유는… \"제조-유통-플랫폼 완전체로...",
+    "summary": "KG그룹이 사모펀드 캑터스프라이빗에쿼티와 공동 투자 방식으로 케이카를 인수하기 위한 계약을 체결했다. 약 5500억원 규모의 전략적 M&A 거래다.",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "계약",
+    "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58774",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG스틸, 중고차 플랫폼 '케이카' 인수…몸집 2배로",
+    "summary": "KG그룹이 사모펀드 운용사 한앤컴퍼니로부터 중고차 플랫폼 케이카와 케이카캐피탈을 인수하는 전략적 M&A를 추진 중",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.mtn.co.kr/news-detail/2026040110122677978",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 중고차 업체 케이카 인수…KGM 잔존가치 상승?",
+    "summary": "KG그룹 산하 KG스틸이 사모펀드 캑터스프라이빗에쿼티와 공동으로 중고차 직거래 업체 케이카를 인수하는 전략적 M&A",
+    "company": "K car",
+    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5,500억원",
+    "deal_stage": "계약",
+    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=126458",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 케이카 품었다…'통합 모빌리티' 사업 구축",
+    "summary": "KG스틸이 사모펀드 캑터스프라이빗에쿼티와 공동 투자 방식으로 모빌리티 플랫폼 케이카를 인수하며, 한앤코오토홀딩스로부터 케이카의 보통주 3524만5670주를 매수하는 거래",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.sportschosun.com/life/2026-04-01/202604010100006520000145",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG스틸, 5500억원에 케이카 인수…\"포트폴리오 다각화로 성장 동력 확보...",
+    "summary": "KG스틸이 사모펀드 한앤코오토홀딩스와 함께 중고차 거래 플랫폼 케이카의 72.19% 지분을 5500억원에 인수하기로 계약했다.",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "계약",
+    "url": "https://www.widedaily.com/news/articleView.html?idxno=291448",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "케이카, 경영권 매각에 장중 14% '급락'",
+    "summary": "사모펀드 운용사 한앤컴퍼니가 보유한 케이카의 경영권 지분 72.19%를 KG그룹과 캑터스프라이빗에쿼티(PE)의 공동 투자로 매각하는 거래",
+    "company": "케이카",
+    "acquirer": "KG그룹, 캑터스프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "발표",
+    "url": "https://www.hankyung.com/article/2026040111156",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤컴퍼니, 케이카·케이카캐피탈 '기업가치 1.2조'에 매각",
+    "summary": "PE 운용사 한앤컴퍼니가 보유 중인 중고차 플랫폼 케이카와 금융사 케이카캐피탈을 기업가치 1.2조원에 매각하는 엑싯 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "완료",
+    "url": "https://www.mt.co.kr/stock/2026/04/01/2026040110253541691",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 케이카·케이카캐피탈 7500억 인수…한앤코 8년만 '엑시트'",
+    "summary": "PE운용사 한앤컴퍼니가 보유한 케이카와 케이카캐피탈을 KG그룹에 총 7500억원에 매각하는 엑시트 딜. 한앤코는 2016년 인수 이후 8년 만에 원금의 5배가 넘는 수익을 실현",
+    "company": "케이카, 케이카캐피탈",
+    "acquirer": "KG그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202604010871r",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "[시경today-금융] 우투증권, S클래스 펀드 담은 중개형 ISA 출시 外",
+    "summary": "한앤컴퍼니가 케이카·케이카캐피탈과 함께 KG그룹 컨소시엄에 매각되는 거래로, 총 기업가치 1.2조 원 규모의 전략적 M&A",
+    "company": "한앤컴퍼니",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "완료",
+    "url": "https://www.meconomynews.com/news/articleView.html?idxno=129636",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "[특징주]케이카, 경영권 매각 소식에 12% 급락…KG그룹 주가는 '방긋'",
+    "summary": "한앤컴퍼니가 보유 중인 케이카의 경영권(지분 72.19%)을 KG스틸이 주도하는 KG그룹 컨소시엄에 5500억원에 매각하는 거래",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "완료",
+    "url": "https://www.sidae.com/article/2026040110061923696",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 케이카·케이카캐피탈 7500억에 인수...한앤코는 5배 차익 '대박...",
+    "summary": "KG스틸이 한앤컴퍼니로부터 케이카와 케이카캐피탈의 72.19% 지분을 7500억원에 인수하는 거래. 캑터스프라이빗에쿼티도 함께 참여하는 전략적 M&A",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "계약",
+    "url": "https://www.livebiz.today/news/articleView.html?idxno=201381",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "케이카, 경영권 매각 소식에 14%대 급락",
+    "summary": "한앤컴퍼니가 보유 중인 카셰어링 업체 케이카의 경영권을 KG그룹 컨소시엄(KG스틸과 사모펀드 한앤코오토홀딩스)에 매각하는 딜로, 지분 72.19%를 5500억원에 매입하기로 함",
+    "company": "케이카",
+    "acquirer": "KG그룹 컨소시엄(KG스틸, 한앤코오토홀딩스)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "계약",
+    "url": "https://www.newsis.com/view/NISX20260401_0003572892",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 5500억원에 케이카 인수…\"제조∙유통∙플랫폼 통합 모빌리티...",
+    "summary": "KG스틸이 한앤코오토홀딩스(사모펀드)로부터 차량공유 플랫폼 케이카의 72.19% 지분을 5500억원에 인수하는 거래. 한앤컴퍼니의 PE 엑싯 딜로, 상장과 배당을 거쳐 최종 전량 매각하는 것",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20026797?ref=naver",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤컴퍼니, '국내 1위 중고차' 케이카 매각…KG그룹 인수",
+    "summary": "PE 운용사 한앤컴퍼니가 보유한 중고차 플랫폼 케이카와 케이카캐피탈을 KG그룹에 매각하는 거래로, SPA를 체결하여 엑싯을 추진 중",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10707258?ref=naver",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤컴퍼니, 케이카·케이카캐피탈 KG그룹 컨소시엄에 매각…기업가치...",
+    "summary": "PE 소유 기업인 한앤컴퍼니가 케이카·케이카캐피탈과 KG그룹 컨소시엄에 매각되는 엑싯 거래. 약 3,000억 원의 구주 매출이 이루어짐.",
+    "company": "한앤컴퍼니",
+    "acquirer": "케이카·케이카캐피탈·KG그룹 컨소시엄",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "완료",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266639",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 케이카 1.2兆에 품는다…한앤코 '5배 잭팟'",
+    "summary": "PE 운용사 한앤컴퍼니가 보유한 케이카의 경영권 지분과 케이카캐피탈을 KG그룹 컨소시엄에 매각하는 거래로, 딜 규모는 1조2000억원이며 한앤코의 인수 8년 만의 엑싯이다.",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "계약",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44181",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤컴퍼니, 케이카·케이카캐피탈 KG그룹에 판다… 매각가 7500억원",
+    "summary": "PE 운용사 한앤컴퍼니가 2018년 인수한 중고차 직영 기업 케이카를 7500억원에 KG그룹 컨소시엄에 매각하는 엑싯 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/stock/stock_general/2026/04/01/SBTP5MTKVFHJDHEQMCVB7NSL5Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤코, 케이카 지분 전량 KG컨소시엘에 매각…가격 5천500억(종합)",
+    "summary": "한앤코가 보유한 케이카의 전량 지분을 KG그룹과 PEF 운용사 캑터스프라이빗에쿼티로 구성된 컨소시엄에 5,500억원에 매각하는 거래",
+    "company": "케이카",
+    "acquirer": "KG그룹·캑터스프라이빗에쿼티 컨소시엘",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5,500억원",
+    "deal_stage": "완료",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407078",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤코, 케이카·케이카캐피탈 7500억에 KG스틸 매각 [시그널]",
+    "summary": "PE운용사 한앤컴퍼니(한앤코)가 보유한 KG스틸을 케이카와 케이카캐피탈에 7500억 원에 매각하는 엑싯 거래",
+    "company": "KG스틸",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20026777?ref=naver",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "[특징주]케이카, KG그룹 인수 소식에 9%↓",
+    "summary": "한앤컴퍼니가 보유한 케이카의 경영권 지분 72.19%와 케이카캐피탈 지분 100%를 KG그룹 컨소시엄에 매각하는 SPA를 체결했으며, 매각 대금은 7,500억원",
+    "company": "케이카",
+    "acquirer": "KG그룹 컨소시엄",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7,500억원",
+    "deal_stage": "계약",
+    "url": "https://www.namdonews.com/news/articleView.html?idxno=906019",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤코, 케이카·케이카캐피탈 KG그룹 컨소시엄에 매각",
+    "summary": "PE운용사 한앤컴퍼니가 보유한 중고차 플랫폼 케이카와 금융사 케이카캐피탈을 KG그룹 컨소시엄에 매각하는 딜. 한앤코의 PE 엑싯 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://view.asiae.co.kr/article/2026040109185640028",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "[마켓인]케이카, KG그룹이 1.2조에 품는다…한앤코, '5배 잭팟'",
+    "summary": "PE 운용사 한앤컴퍼니가 2018년에 2000억원에 인수한 중고차 플랫폼 케이카를 KG그룹에 1.2조원대에 매각하는 엑싯 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "계약",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03614566645411856",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "한앤컴퍼니, 케이카·케이카캐피탈 7500억 매각…새주인에 KG스틸",
+    "summary": "PE 운용사 한앤컴퍼니가 보유한 중고차 거래 플랫폼 케이카와 케이카캐피탈의 경영권 지분을 KG스틸과 캑터스프라이빗에쿼티에 7,500억원에 매각하는 exit 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12004555",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "정지이, 현대엘리베이터 지분 매입 본격화",
+    "summary": "H&Q코리아가 현대엘리베이터 보통주를 교환 대상으로 하는 교환사채를 행사해 확보한 4.9% 지분을 블록딜로 매각하는 엑싯 거래",
+    "company": "현대엘리베이터",
+    "acquirer": "H&Q코리아",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.topdaily.kr/articles/109464",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "KG그룹, K Car 인수···통합 모빌리티 체계 구축",
+    "summary": "KG그룹이 국내 최대 직영 중고차 플랫폼 기업 K Car를 캑터스프라이빗에쿼티(PE)로부터 인수하는 딜을 진행 중",
+    "company": "null",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.koreastocknews.com/news/articleView.html?idxno=117655",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 중고차 플랫폼 '케이카' 품었다…\"제조·유통·플랫폼 통합 모빌...",
+    "summary": "KG그룹이 중고차 플랫폼 케이카를 인수하기 위한 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 관여한 전략적 M&A 거래",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.goodkyung.com/news/articleView.html?idxno=285229",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, '직영 중고차 1위' 케이카 인수…'제조·유통·플랫폼' 시너...",
+    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와의 공동 투자를 통해 직영 중고차 플랫폼 케이카를 인수하는 전략적 M&A 거래",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.dt.co.kr/article/12055081?ref=naver",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, '케이카' 인수…'제조·유통·플랫폼' 잇는 통합 모빌리티 체계...",
+    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와 공동으로 케이카를 인수하는 전략적 M&A 거래",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.epnc.co.kr/news/articleView.html?idxno=330687",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, K Car 인수 계약 체결…\"통합 모빌리티 체계 구축\"",
+    "summary": "KG그룹이 K Car를 인수하기 위해 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 관여한 거래로 차량 매입·판매, 렌터카, 자동차 금융 등을 통합하는 모빌리티 사업 확대를 추진 중",
+    "company": "K Car",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005803158",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, K Car 인수···제조부터 유통·플랫폼까지 '통합 모빌리티 생...",
+    "summary": "KG그룹이 K Car를 인수하기 위한 계약을 체결했다. 캑터스프라이빗에쿼티(PE)가 보유한 K Car를 KG그룹이 인수하는 거래로, 피인수 기업은 전국 48개 직영점과 온라인 플랫폼을 기반으로 한 자동차 유통 기업이다.",
+    "company": "K Car",
+    "acquirer": "KG그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.finomy.com/news/articleView.html?idxno=252438",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, 중고차 플랫폼 '케이카' 인수…제조·유통·플랫폼 '통합 모빌리...",
+    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와의 공동 투자를 통해 중고차 플랫폼 '케이카'를 인수하기로 계약을 체결했다. 이는 자동차 산업의 급변하는 환경에 대응하기 위한 전략적 인수다.",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=79521",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, '케이카' 인수…통합 모빌리티 체계 구축",
+    "summary": "KG그룹이 국내 최대 직영 중고차 플랫폼 기업 K Car(케이카)를 캑터스프라이빗에쿼티와의 공동 투자로 인수하며, 자동차 제조부터 유통까지 통합 모빌리티 체계를 구축하는 전략적 M&A를 추진 중이다.",
+    "company": "null",
+    "acquirer": "KG그룹, 캑터스프라이빗에쿼티",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.widedaily.com/news/articleView.html?idxno=291445",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "KG그룹, K Car 인수 통합 모빌리티 체계 구축",
+    "summary": "KG그룹이 K Car를 인수하기 위한 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 참여한 거래로 자동차 산업 환경 변화에 대응하기 위한 전략적 M&A",
+    "company": "K Car",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266651",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "M&A 빅딜 가뭄 속…삼일, 재무·회계 '2관왕'",
+    "summary": "사모펀드 운용사 한앤컴퍼니가 보유한 대한항공씨앤디서비스를 대한항공에 매각하는 거래로, PE의 기업 매각(exit) 딜",
+    "company": "대한항공씨앤디서비스",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.mk.co.kr/article/12003810",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "VIG, 유영산업 매각 본입찰 임박… 英 섬유 업체 '코츠' 등 3파전 압축",
+    "summary": "PE 운용사 VIG파트너스가 보유한 국내 2위 신발 섬유소재 기업 유영산업의 매각을 추진 중이며, 영국 섬유 업체 코츠 등 3개사가 본입찰 경쟁에 참여하는 중",
+    "company": "유영산업",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/03/31/2ZU5CX75SNFCZKSDHYOCLWBZXU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "[특징주] 케이카, KG그룹에 경영권 매각 소식에 12%대 급락",
+    "summary": "중고차 플랫폼 기업 케이카가 KG그룹에 경영권을 매각한다는 소식이 발표되었으며, 이에 따라 케이카 주가가 급락했다.",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "발표",
+    "url": "https://www.ajunews.com/view/20260401101947709",
+    "date": "2026.04.01"
+  },
+  {
     "title": "[단독] 어피니티, 롯데렌탈 인수가격 인하 요청... 그룹과 재협상 중",
     "summary": "글로벌 사모펀드 어피니티에쿼티파트너스가 롯데그룹으로부터 롯데렌탈을 인수하기 위해 인수가격 인하를 요청하며 재협상을 진행 중인 상황",
     "company": "롯데렌탈",
@@ -896,509 +1401,5 @@
     "deal_stage": "협상",
     "url": "http://www.sisaon.co.kr/news/articleView.html?idxno=181817",
     "date": "2026.03.26"
-  },
-  {
-    "title": "오너가 물러나는 애경산업…태광 체제 속 '토탈뷰티'로 사업 재편",
-    "summary": "티투프라이빗에쿼티(PE)와 유안타인베스트먼트 컨소시엄이 애경산업 지분 63%(1667만주)을 약 4442억원에 인수하는 M&A를 완료했다.",
-    "company": "애경산업",
-    "acquirer": "티투프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "4442억원",
-    "deal_stage": "완료",
-    "url": "https://www.newspim.com/news/view/20260326000964",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "JC파트너스, '수도권매립지' KES환경개발 9년 만에 엑시트 [fn마켓워치]",
-    "summary": "JC파트너스가 2014년에 인수한 폐기물 처리 기업 KES환경개발을 9년 만에 매각하는 엑시트를 추진 중이다.",
-    "company": "KES환경개발",
-    "acquirer": "JC파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202603260932127584",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "한국피자헛, '인가 전 영업양도' 허가…회생 절차 속 영업 연속성 확보",
-    "summary": "회생 절차 중인 한국피자헛의 영업이 윈터골드와 케이클라비스인베스트먼트가 참여하는 PH코리아에 인가 전 영업양도 방식으로 매각되는 거래. 회생 성공 가능성을 높이기 위해 기업가치를 유지한 상태에서 진행되는 M&A",
-    "company": "한국피자헛",
-    "acquirer": "윈터골드, 케이클라비스인베스트먼트",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703590",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "차백신연구소 딜, FI 곳곳이 리스크…'줄상폐' 로아앤코도 관여",
-    "summary": "차백신연구소를 238억원에 매각하는 딜이 진행 중이며, 인수자는 소룩스, 아리바이오투자목적 13·15호 펀드이다.",
-    "company": "차백신연구소",
-    "acquirer": "소룩스, 아리바이오투자목적 13·15호",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "238억원",
-    "deal_stage": "협상",
-    "url": "https://www.sentv.co.kr/article/view/sentv202603250173",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "[더벨]매각되는 카카오게임즈, 새주인 정체 '페트리코'",
-    "summary": "PE사 페트리코가 자사 사모펀드 페트리코제6호PEF 산하 투자목적법인(SPC) LAAA인베스트먼트를 통해 카카오게임즈를 인수하는 거래",
-    "company": "카카오게임즈",
-    "acquirer": "페트리코",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603251038454840108056",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "이스트브릿지, 이도 엑시트로 '두 마리 토끼' 잡았다",
-    "summary": "PE운용사 이스트브릿지파트너스가 2021년 인수한 환경 기업 이도(YIDO)를 매각하는 엑싯 거래. 2300억원 규모의 지분을 매각하여 당초 투입 자본금과 수익을 실현하는 거래",
-    "company": "이도",
-    "acquirer": "이스트브릿지파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "2300억원",
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44059",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "라인야후 품에 안긴 카카오게임즈...한상우 대표 \"올해까지 영업 기조 ...",
-    "summary": "라인야후 출자 사모펀드 LAAA 인베스트먼트가 카카오게임즈 대주주 카카오의 지분 일부를 인수하며 최대주주로 올라섰으며, 2,400억 원 규모의 제3자배정 유상증자를 함께 진행하는 전략적 투자 거래",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2400억원",
-    "deal_stage": "완료",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=506013",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "'다음' 이어 '게임'도 떼내는 카카오… 정신아 체제 '선택과 집중...",
-    "summary": "카카오게임즈의 대주주인 카카오가 보유한 지분(37.6%)의 일부를 라인야후 출자 사모펀드 LAAA 인베스트먼트에 매각하는 블록딜",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "2400억원",
-    "deal_stage": "협상",
-    "url": "https://www.kmib.co.kr/article/view.asp?arcid=1774430774&code=11151400&cp=nv",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "'라인야후에 인수' 카카오게임즈…한상우 대표 \"전략적 방향성 협의 마...",
-    "summary": "라인야후가 출자한 PEF 엘트리플에이(LAAA) 인베스트먼트가 카카오가 보유한 카카오게임즈 지분 일부를 인수하여 최대주주로 올라선 블록딜",
-    "company": "카카오게임즈",
-    "acquirer": "라인야후",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "2400억원",
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2569603",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "'라인야후에 인수' 카카오게임즈 CEO \"전략적 방향 협의 마쳐\"(종합)",
-    "summary": "라인야후가 출자한 PEF 엘트리플에이(LAAA) 인베스트먼트가 카카오게임즈의 대주주 카카오가 보유한 지분 일부를 인수하여 최대 주주에 올랐다. 라인야후 측이 카카오게임즈에 대한 전략적 방향 협의를 완료했다고 밝혔다.",
-    "company": "카카오게임즈",
-    "acquirer": "라인야후 (LAAA 인베스트먼트)",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.yna.co.kr/view/AKR20260326049151017?input=1195m",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "'라인야후에 인수' 카카오게임즈 CEO \"전략적 방향 협의 마쳐\"",
-    "summary": "라인야후가 출자한 PEF 엘트리플에이(LAAA) 인베스트먼트가 카카오게임즈의 대주주인 카카오가 보유한 지분 일부를 인수하여 최대 주주에 올랐다. 이는 라인야후의 PE 펀드를 통한 카카오게임즈 인수 거래이다.",
-    "company": "카카오게임즈",
-    "acquirer": "엘트리플에이(LAAA) 인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.yna.co.kr/view/AKR20260326049100017?input=1195m",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "[Invest]MBK파트너스, 골프존카운티 매각 추진",
-    "summary": "MBK파트너스가 보유한 골프존카운티를 매각하기 위해 기업과 사모펀드 등 잠재적 투자자를 대상으로 티저레터를 발송하고 있으며, 모건스탠리와 삼정KPMG가 자문을 담당하고 있다.",
-    "company": "골프존카운티",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/03/25/2026032580218.html",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "JC파트너스, KES환경개발 매각…엑시트 성과 잇는다",
-    "summary": "PE운용사 JC파트너스가 보유한 폐기물 매립장 운영사 KES환경개발을 매각하며 투자금을 회수(엑싯)하는 거래",
-    "company": "KES환경개발",
-    "acquirer": "JC파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "2000억원대",
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44052",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오, 카카오게임즈 일본 라인야후에 매각…게임 사업 정리",
-    "summary": "카카오가 보유한 카카오게임즈 지분을 라인야후의 사모펀드인 LAAA 인베스트먼트에 매각하는 거래로, 카카오의 게임 사업 정리 차원의 전략적 매각",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703405",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈 매각 '3자 셈법' 따져보니",
-    "summary": "카카오가 카카오게임즈의 경영권을 일본 라인 야후에 넘기는 전략적 M&A 거래. 카카오는 일부 사업을 인수하고 신주 및 전환사채 인수에 참여하는 구조의 거래.",
-    "company": "카카오게임즈",
-    "acquirer": "라인 야후",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.ekn.kr/web/view.php?key=20260325027241140",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "[더벨]베이커리에 꽂힌 다올PE, 유로베이크·엘유코리아 인수 추진",
-    "summary": "다올PE가 베이커리 기업 유로베이크와 엘유코리아를 한꺼번에 인수하는 구조로 추진 중이며, 한국성장금융의 IBK 성장 M&A펀드(2차) 등 주요 출자사업에서 지원받는 중이다.",
-    "company": "유로베이크, 엘유코리아",
-    "acquirer": "다올PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603240828373220102443",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "식품업계, 중동 불안·내수 침체에 '이종 사업' 진출 속도",
-    "summary": "나프타가 독일의 의약용 아미노산 전문기업 아미노 유한회사의 지분 100%를 약 502억원에 인수하는 전략적 M&A 거래",
-    "company": "Amino Limited Company",
-    "acquirer": "나프타",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "502억원",
-    "deal_stage": "완료",
-    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=298079",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "카카오게임즈 '카카오' 떠나 일본 라인야후 품에 안겨, 라인게임즈와 합...",
-    "summary": "라인야후가 카카오게임즈를 인수하며, 기존 계열사인 라인게임즈와 합병을 추진 중. 앵커PE가 보유한 라인게임즈의 IPO 지연으로 투자금 회수를 위한 전략적 거래",
-    "company": "카카오게임즈",
-    "acquirer": "라인야후",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434022",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "[더벨]카카오, 카카오게임즈 매각 추진…적자 자회사 정리",
-    "summary": "카카오가 보유한 카카오게임즈 지분을 LAAA인베스트먼트에 매각하는 구주 딜. 카카오게임즈의 경영권이 라인야후로 넘어가는 전략적 매각 거래",
-    "company": "카카오게임즈",
-    "acquirer": "카카오",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603250757359460106572",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "카카오, 라인야후에 카카오게임즈 매각",
-    "summary": "카카오가 보유한 카카오게임즈 지분(37.6%)을 라인야후의 사모펀드인 LAAA 인베스트먼트에 매각하는 블록딜. LAAA 인베스트먼트가 최대주주로 부상.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10702352?ref=naver",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카겜, 일본으로 넘어간다…라인야후 1대주주로",
-    "summary": "라인야후가 출자한 투자 목적 사모펀드 LAAA Investment가 카카오 보유 카카오게임즈 지분 일부를 인수하고 신규 투자에 참여하는 블록딜",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA Investment (라인야후 출자 사모펀드)",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.4th.kr/news/articleView.html?idxno=2109518",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 라인야후로 최대주주 변경...주가 급등",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오게임즈의 대주주 카카오가 보유한 지분을 인수하여 최대주주로 올라섰다. 이는 PE펀드에 의한 기업 지분 인수 거래이다.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트 (라인야후 출자 PEF)",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=77612",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 일본으로 넘어갔다",
-    "summary": "라인야후 계열 사모펀드 LAAA 인베스트먼트가 카카오게임즈의 최대주주 카카오가 보유한 37.6% 지분을 인수하기로 합의했다. 이를 통해 LAAA 인베스트먼트가 카카오게임즈의 실질적 경영권을 확보하게 된다.",
-    "company": "카카오게임즈",
-    "acquirer": "엘트리플에이 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.globalepic.co.kr/view.php?ud=20260325111015778148439a4874_29",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "일본 라인야후, 카카오게임즈 인수",
-    "summary": "라인야후의 사모펀드인 LAAA 인베스트먼트가 카카오게임즈의 대주주 카카오(지분율 37.6%)가 보유한 지분을 인수하여 최대 주주에 올랐다.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.yonhapnewstv.co.kr/AKR20260325110742w90",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 2400억 원 유상증자 단행",
-    "summary": "LAAA 인베스트먼트(라인야후 출자 사모펀드)가 카카오 보유 카카오게임즈 지분을 인수하여 최대주주로 올라서는 블록딜. 2400억 원 규모의 제3자배정 유상증자를 통해 진행.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "2400억원",
-    "deal_stage": "완료",
-    "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=260027",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 日 라인야후에 매각…빅테크 업고 글로벌 정조침",
-    "summary": "라인야후 출자 사모펀드 LAAA 인베스트먼트가 카카오의 카카오게임즈 지분을 인수하여 최대주주 자리를 확보하는 전략적 인수 거래",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.asiatime.co.kr/article/20260325500036",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 최대주주 라인야후로 변경…3000억원 조달",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오게임즈에 제3자배정 증자를 통해 2400억원을 투자하여 최대주주로 변경되며, 동시에 자금 조달이 이뤄지는 거래",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트 (라인야후)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "https://www.ngetnews.com/news/articleView.html?idxno=549454",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈 대주주 라인야후로 변경...카카오는 2대 주주로 물러나",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오로부터 카카오게임즈 지분을 인수하여 최대주주로 변경되는 블록딜 거래",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.khgames.co.kr/news/articleView.html?idxno=302739",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "소프트뱅크 산하 라인야후, 카카오게임즈 경영권 3천억에 인수...라인게...",
-    "summary": "라인야후 산하 사모펀드 LAAA 인베스트먼트가 카카오가 보유한 카카오게임즈 지분을 약 3천억원에 인수하여 최대주주로 등극했다.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3천억원",
-    "deal_stage": "완료",
-    "url": "https://www.livebiz.today/news/articleView.html?idxno=201258",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 카카오서 日 라인야후 품으로···최대주주 교체·3000억...",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오로부터 카카오게임즈 지분을 인수하고 2400억원 규모의 제3자배정을 통해 최대주주 지위를 확보하는 블록딜",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "https://www.smartbizn.com/news/articleView.html?idxno=140188",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 최대주주 라인야후로 변경...3000억원 투자 유치",
-    "summary": "라인야후의 사모펀드 LAAA 인베스트먼트가 카카오게임즈의 카카오 지분을 인수하고 추가 투자에 참여하면서 최대주주로 변경되는 거래. 총 3000억원 규모의 투자 유치.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=505650",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "'매각설' 현실로…카카오게임즈 새 주인은 '라인야후'",
-    "summary": "라인야후가 출자한 사모펀드 엘트리플에이 인베스트먼트가 카카오게임즈의 최대 주주로 올라섰으며, 카카오는 보유 지분 37.6% 중 일부를 매각하면서 2대 주주로 하락했다.",
-    "company": "카카오게임즈",
-    "acquirer": "엘트리플에이 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.sbs.co.kr/article_hub/20000299750?division=NAVER",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "[단독] 회원 수 290만 '시원스쿨 운영사' 골드앤에스, M&A 매물로",
-    "summary": "코링크프라이빗에쿼티가 2017년 인수한 골드앤에스의 지분 50%를 매각 추진 중이며, 이는 PE의 기업 엑싯 거래",
-    "company": "골드앤에스",
-    "acquirer": "코링크프라이빗에쿼티",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/03/25/J72HXGGL5JAITF7MA2MEDX7DAA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈 매각 현실화, 라인야후 품 안긴다",
-    "summary": "카카오게임즈가 카카오의 계열 사모펀드에 인수되는 딜로, 카카오는 구주 매각 대금 중 일부를 재투자하여 약 14% 지분을 보유한 2대 주주가 된다.",
-    "company": "카카오게임즈",
-    "acquirer": "카카오 계열 사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://news.dealsitetv.com/articles/167455",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈 최대주주 라인야후로 변경…카카오는 2대 주주로",
-    "summary": "라인야후 출자 사모펀드인 LAAA 인베스트먼트가 카카오로부터 카카오게임즈 지분을 인수하여 최대주주로 올라섰다.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.bizwnews.com/news/articleView.html?idxno=130678",
-    "date": "2026.03.25"
-  },
-  {
-    "title": "카카오게임즈, 최대주주 라인야후로 변경",
-    "summary": "라인야후가 출자한 사모펀드 LAAA 인베스트먼트가 카카오게임즈의 기존 최대주주 지분 일부를 인수하고 제3자배정 유상증자 및 전환사채 발행에 참여하여 최대주주로 올라섰다.",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트 (라인야후 출자 PEF)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://sateconomy.co.kr/news/view/1065572054816498",
-    "date": "2026.03.25"
   }
 ]
