@@ -1,5 +1,201 @@
 [
   {
+    "title": "한앤컴퍼니 '중고차 1위' 케이카 매각",
+    "summary": "PE 운용사 한앤컴퍼니가 보유한 중고차 기업 케이카와 케이카캐피탈을 KG그룹 컨소시엄에 7,500억원에 매각하는 거래로, SPA를 체결하며 진행 중",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10709442?ref=naver",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "KG그룹, 직영중고차 케이카 인수…'현대차웨이' 확대할까",
+    "summary": "KG그룹이 한앤컴퍼니가 보유한 직영중고차 플랫폼 케이카의 지분 72.19%를 5,500억원에 인수하는 전략적 M&A",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "발표",
+    "url": "https://www.electimes.com/news/articleView.html?idxno=366672",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[단독] '연세크림빵'으로 대박난 이 회사, PEF가 인수한다",
+    "summary": "베이커리 제조업체 조이푸드가 사모펀드 원레이크파트너스에 인수되는 거래. 원레이크파트너스가 조이푸드 지분 70%를 인수하는 주식매매계약(SPA)을 최근 체결했다.",
+    "company": "조이푸드",
+    "acquirer": "원레이크파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.hankyung.com/article/202604012362r",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "인텔, Fab 34 합작 지분 전량 재매입 파운드리 사업 반격",
+    "summary": "인텔이 2024년 아폴로 글로벌 매니지먼트에 매각했던 Fab 34 합작회사 지분을 재매입하는 거래. 인텔은 49% 지분을 112억 달러에 매각하여 자금을 조달하고 51% 지분으로 경영권을 확보",
+    "company": "Fab 34 합작회사",
+    "acquirer": "인텔",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "112억 달러",
+    "deal_stage": "완료",
+    "url": "http://www.joseilbo.com/news/news_read.php?uid=565910&class=78&grp=",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[경영권 무덤 상속세] \"적자는 버텨도 세금폭탄 못 버텨\" 30~40년차 허리...",
+    "summary": "33년 연속 흑자를 기록한 국내 생활가전 전문기업 청호나이스가 미국계 글로벌 사모펀드 칼라일과 경영권 매각을 위한 양해각서(MOU)를 체결하고 인수 협상을 진행 중",
+    "company": "청호나이스",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ajunews.com/view/20260402145144957",
+    "date": "2026.04.02"
+  },
+  {
+    "title": "라인야후, 신생PE 통해 카겜 인수... 카카오는 구주 24% 팔며 2500억 현금...",
+    "summary": "페트리코파트너스가 라인야후를 출자자로 확보하여 카카오게임즈의 경영권을 인수하는 딜. 카카오는 보유 지분의 24%를 매각하며 약 2500억원의 현금을 확보",
+    "company": "카카오게임즈",
+    "acquirer": "페트리코파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/04/02/MQKVLXGL35BXPBMRH4D5XIF26Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.02"
+  },
+  {
+    "title": "[단독] 더존비즈온 김용우 회장, 일본 자회사 되산다",
+    "summary": "EQT파트너스의 더존비즈온 인수가 진행 중인 상황에서 창업주 김용우 회장이 더존비즈온의 일본 자회사 제노랩을 되사는 방안을 추진 중. 제노랩의 창업주 지분 회수 거래.",
+    "company": "제노랩",
+    "acquirer": "김용우",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/04/02/W6OTITWVPBDCHAR2AHTKGPAABU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.02"
+  },
+  {
+    "title": "케이카, 중고차 개인 거래 사업 진출…하반기 KGM과 시너지 예고",
+    "summary": "KG그룹이 한앤컴퍼니로부터 케이카를 인수하는 딜로, 주식매매 계약이 6월 30일 완료될 예정이며 인수 후 중고차 C2C 사업 진출과 KGM과의 시너지를 추진하는 전략적 M&A",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.news1.kr/industry/auto-industry/6123677",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[마켓Q] 한앤코, 케이카 등 잇단 엑시트 성공...'중꺾마'",
+    "summary": "대한항공이 한앤컴퍼니로부터 보유하고 있던 대한항공씨앤디서비스 지분 80%를 7500억원에 재인수하는 거래. 한앤컴퍼니의 엑싯 사례를 다루는 기사.",
+    "company": "대한항공씨앤디서비스",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "완료",
+    "url": "https://www.asiatime.co.kr/article/20260401500429",
+    "date": "2026.04.01"
+  },
+  {
+    "title": "[단독] SK이노의 대한송유관 지분, IMM인베 품으로",
+    "summary": "SK이노베이션이 보유한 대한송유관 지분을 IMM인베스트먼트가 인수하는 블록딜. SK그룹의 인프라 자산 정리 전략의 일환",
+    "company": "대한송유관공사",
+    "acquirer": "IMM인베스트먼트",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.mk.co.kr/article/11999479",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "현대차 렌터카 진출, KGM은 K Car 인수…모빌리티 판 바뀐다",
+    "summary": "KG그룹이 PE사 캑터스프라이빗과 공동 투자 방식으로 직영 중고차 플랫폼 K Car를 인수하는 거래",
+    "company": "K Car",
+    "acquirer": "KG그룹, 캑터스프라이빗",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=442213",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "애큐온캐피탈, 매각 입찰 흥행… 저축은행 '서울 영업' 통했다",
+    "summary": "PE펀드 EQT파트너스가 보유한 애큐온캐피탈의 매각 입찰을 추진 중이며, 기업가치는 1조~1조3000억원대로 평가되고 있는 엑싯 딜",
+    "company": "애큐온캐피탈",
+    "acquirer": "EQT파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조~1조3000억원",
+    "deal_stage": "협상",
+    "url": "https://www.etoday.co.kr/news/view/2572155",
+    "date": "2026.04.02"
+  },
+  {
+    "title": "[단독] SK에코플랜트, 금리 7.5% 주고 FI들 지분 되산다",
+    "summary": "SK에코플랜트가 FI(금융투자자)들이 보유한 전환우선주 약 6000억원어치와 보통주 약 2000억원어치를 인수하는 조기 정산 거래. IPO 무산으로 인한 기존 주주와 FI 간의 지분 정리 거래",
+    "company": "SK에코플랜트",
+    "acquirer": "SK에코플랜트",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": "8000억원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/04/02/4SLMTH5P2FF6DGL77YORT6V27M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.02"
+  },
+  {
+    "title": "[더벨][KG그룹 케이카 인수] 곽재선 회장, 'M&A 본능 재가동'...완성차 생...",
+    "summary": "KG그룹의 곽재선 회장이 한앤코로부터 케이카캐피탈의 경영권 지분(약 72%)을 인수하기 위해 주식매매계약(SPA)을 체결했으며, 딜 규모는 약 1조1800억원 수준",
+    "company": "케이카캐피탈",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.18조원",
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604010829559380109574",
+    "date": "2026.04.03"
+  },
+  {
     "title": "카카오게임즈, 라인야후 주도 '성장→수익성' 전략 전환 본격화",
     "summary": "라인야후가 출자한 사모펀드 LAAA인베스트먼트를 통해 카카오게임즈의 구주를 인수하고 3,000억원 규모의 신규 투자를 단행하여 최대 주주가 된 전략적 M&A",
     "company": "카카오게임즈",
@@ -1204,202 +1400,6 @@
     "ev": "3000억원",
     "deal_stage": "협상",
     "url": "http://www.joseilbo.com/news/news_read.php?uid=565466&class=17&grp=",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "청호나이스, '3000억 상속세'에 매각 절차 밟나",
-    "summary": "글로벌 사모펀드 칼라일그룹이 청호나이스 유족 측과 단독 인수 협상을 위한 양해각서(MOU)를 체결하고 기업 실사에 착수했으며, 상속세 문제로 인한 매각이 진행 중인 거래",
-    "company": "청호나이스",
-    "acquirer": "칼라일그룹(The Carlyle Group)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://mdtoday.co.kr/news/view/1065581134002108",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "[마켓파워] 9900억에 팔고 1.5조에 되산 조원태 대한항공…PEF '꽃길 엑시...",
-    "summary": "대한항공이 한앤컴퍼니로부터 대한항공씨앤디서비스 지분 80%를 7500억원에 인수하는 전략적 M&A 거래",
-    "company": "대한항공씨앤디서비스",
-    "acquirer": "대한항공",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "계약",
-    "url": "https://www.asiatoday.co.kr/view.php?key=20260326010008312",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "'이란전쟁 3주' 간 코스피 -7%…방산 '반짝 흥행' 재생에너지 '뒷심'",
-    "summary": "SK디스커버리와 한앤컴퍼니가 보유한 SK이터닉스 지분 전량을 글로벌 자산운용사 KKR에 총 3480억 원에 매각하는 블록딜",
-    "company": "SK이터닉스",
-    "acquirer": "KKR",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3480억원",
-    "deal_stage": "계약",
-    "url": "https://www.news1.kr/finance/general-stock/6108758",
-    "date": "2026.03.22"
-  },
-  {
-    "title": "SK이터닉스 3월 '불꽃 랠리'",
-    "summary": "KKR이 SK디스커버리와 한앤컴퍼니로부터 SK이터닉스 지분 43.5%를 3480억원에 인수하기로 합의한 전략적 M&A 거래",
-    "company": "SK이터닉스",
-    "acquirer": "KKR(콜버그크래비스로버츠)",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "3480억원",
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10698898?ref=naver",
-    "date": "2026.03.20"
-  },
-  {
-    "title": "SK이노, 대한송유관 지분 매각 우선협상대상자로 IMM인베 선정",
-    "summary": "SK이노베이션이 보유 중인 대한송유관공사 지분 41%를 IMM인베스트먼트에 매각하는 거래로, IMM인베가 우선협상대상자로 선정됨",
-    "company": "대한송유관공사",
-    "acquirer": "SK이노베이션",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mt.co.kr/industry/2026/03/27/2026032713592079642",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "法, 동성제약 강제인가 결정..유암코·태광 인수 순항",
-    "summary": "유암코 제약산업 제1호 사모투자 합자회사와 태광산업이 동성제약에 총 1600억 원을 투입하여 유상증자를 진행하고 지분율을 72.64%까지 확대하는 인수 거래",
-    "company": "동성제약",
-    "acquirer": "유암코",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1600억원",
-    "deal_stage": "완료",
-    "url": "http://www.00news.co.kr/news/articleView.html?idxno=102879",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "청호나이스, 상속세 부담에 매각설 확산",
-    "summary": "청호나이스 유족 측이 경영권 매각을 추진 중이며, 글로벌 사모펀드 칼라일이 유력 인수 후보로 거론되고 있다. 거래 규모는 8천억원 안팎으로 추산된다.",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "8,000억원",
-    "deal_stage": "소문",
-    "url": "https://www.jbnews.com/news/articleView.html?idxno=1501237",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "태광, 17년 만에 'M&A' 애경산업 인수…B2B서 K-뷰티 B2C로 체질 전환",
-    "summary": "태광그룹이 애경산업을 인수하여 B2B 중심의 사업 구조를 B2C 글로벌 뷰티 기업으로 전환하는 전략적 M&A를 추진 중이다.",
-    "company": "애경산업",
-    "acquirer": "태광그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsinside.kr/news/articleView.html?idxno=4541909",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "카카오게임즈, 라인야후와 아시아 게임 패권 노린다",
-    "summary": "라인야후가 카카오게임즈의 경영권을 확보하면서 최대주주 변경. 라인야후는 플랫폼과 글로벌 역량을 바탕으로 게임 사업에 본격 진출",
-    "company": "카카오게임즈",
-    "acquirer": "라인야후",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=310336",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "3000억 상속세 맞은 청호나이스… 美 사모펀드와 '매각 협의'",
-    "summary": "미국 사모펀드 칼라일이 배타적 협상권을 확보하고 청호나이스 유족 측과 단독 인수 협상을 진행 중이며, 현재 기업 실사 단계에 있음. 매각가는 지분 100% 기준 약 8000억 원 수준.",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "8000억원",
-    "deal_stage": "협상",
-    "url": "https://www.munhwa.com/article/11577848?ref=naver",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "더존비즈온 지분 90% 확보한 EQT, 2차 공개매수… 1차와 동일한 가격",
-    "summary": "PE 운용사 EQT가 투자목적회사 도로니쿰을 통해 더존비즈온에 대해 2차 공개매수를 진행 중이며, 1차 공개매수로 90% 지분을 확보한 후 소액주주 매수를 목표로 하고 있음",
-    "company": "더존비즈온",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.mk.co.kr/article/12000137",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "EQT, 더존비즈온 2차 공개매수 개시…주당 12만원 가격 유지",
-    "summary": "글로벌 사모펀드 EQT파트너스가 더존비즈온에 대해 2차 공개매수를 개시했으며, 1차 공개매수 완료 후 추진되는 지분 인수 거래",
-    "company": "더존비즈온",
-    "acquirer": "EQT파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "진행중",
-    "url": "https://news.bizwatch.co.kr/article/market/2026/03/27/0008",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "[더벨][이슈모니터] [영상]시지바이오 품는 IMM PE, 재생의료 시장에 꽂...",
-    "summary": "IMM프라이빗에쿼티가 대웅그룹의 재생의료 기업 시지바이오를 약 1조1000억원의 기업가치로 인수하며, EQT, CVC, TPG 등 글로벌 PEF를 제치고 인수전에서 승기를 거두었다.",
-    "company": "시지바이오",
-    "acquirer": "IMM프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.1조원",
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603271008454000106583",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "EQT, 더존비즈온 2차 공개매수 개시",
-    "summary": "글로벌 PE 운용사 EQT가 더존비즈온에 대한 2차 공개매수를 추진 중이며, 최대주주 지분 인수 가격과 동일한 수준에서 진행 중인 신규 딜",
-    "company": "더존비즈온",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.metroseoul.co.kr/article/20260327500081",
     "date": "2026.03.27"
   }
 ]
