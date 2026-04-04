@@ -1,5 +1,263 @@
 [
   {
+    "title": "'징벌적 상속세'에 짐 싸는 기업…청호나이스도 결국 매물 행렬",
+    "summary": "글로벌 사모펀드 칼라일이 국내 얼음정수기 시장 선두기업인 청호나이스의 인수를 검토 중인 것으로 알려졌다. 창업주 상속세 부담이 주요 배경으로 지적되고 있다.",
+    "company": "청호나이스",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.mediapen.com/news/view/1091244",
+    "date": "2026.04.04"
+  },
+  {
+    "title": "[단독]M&A 포식자 떠오른 태광…단독 협상으로 케이조선 인수 유력[시그...",
+    "summary": "태광이 케이조선 인수를 위해 글로벌 사모펀드 TPG와의 컨소시엄을 구성했으나 TPG가 이탈한 후 단독 협상으로 인수를 추진 중인 딜",
+    "company": "케이조선",
+    "acquirer": "태광",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20028076?ref=naver",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[단독] 마스턴투자운용, 경남에너지 지분 25% 인수한다 [시그널]",
+    "summary": "마스턴투자운용이 약 1,500억 원을 투자해 경남에너지의 지분 25%를 신규 인수하는 세컨더리 거래. 현재 프로스타캐피탈이 80.1% 보유 중",
+    "company": "경남에너지",
+    "acquirer": "마스턴투자운용",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": "1500억원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20028017?ref=naver",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "에코마케팅, 포괄적 주식교환 결정…교부금은 1만 6000원 [시그널]",
+    "summary": "베인캐피털이 지난해 인수한 코스닥 상장사 에코마케팅을 완전 자회사로 만들기 위해 포괄적 주식교환을 결정했으며, 당시 주가에 약 50% 프리미엄을 붙여 공개매수를 진행 중인 거래",
+    "company": "에코마케팅",
+    "acquirer": "베인캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.sedaily.com/article/20028109?ref=naver",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[하파크리스틴 매각]③ 혁신과 위법 사이…리스크 된 '온라인 픽업'",
+    "summary": "사모펀드 운용사 케이엘앤파트너스가 국내 콘택트렌즈 브랜드 하파크리스틴을 보유한 피피비스튜디오스 인수를 추진 중인 PE 기업 인수 딜",
+    "company": "피피비스튜디오스",
+    "acquirer": "케이엘앤파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=658597",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "GS·SK·태영·IS동서, 사업 부문서 '환경' 떼고 'AI·반도체' 붙인다",
+    "summary": "IMM 컨소시엄이 에코비트를 인수했으며, IS동서·E&F PE 컨소시엄도 산업폐기물 업체 코엔텍 인수를 추진 중. 두 건 모두 환경 사업에서 AI·반도체 등 신사업으로의 전환을 목표로 함",
+    "company": [
+      "에코비트",
+      "코엔텍"
+    ],
+    "acquirer": [
+      "IMM 컨소시엄",
+      "IS동서·E&F PE 컨소시엄"
+    ],
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2.7조원",
+    "deal_stage": "완료 | 협상",
+    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244010",
+    "date": "2026.04.02"
+  },
+  {
+    "title": "SK이노, 대한송유관 지분 매각 우선협상대상자로 IMM인베 선정",
+    "summary": "SK이노베이션이 보유 중인 대한송유관공사 지분 41%을 IMM인베스트먼트를 우선협상대상자로 선정하여 매각하는 블록딜",
+    "company": "대한송유관공사",
+    "acquirer": "IMM인베스트먼트",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mt.co.kr/industry/2026/03/27/2026032713592079642",
+    "date": "2026.03.27"
+  },
+  {
+    "title": "2차전지 공격 투자 고전…'범 GS가' 코스모그룹 로봇기업 상장으로 반...",
+    "summary": "코스모그룹이 2023년 56억 원 규모의 제3자 배정 유상증자 방식으로 코스모로보틱스에 대한 경영권을 확보한 전략적 M&A",
+    "company": "코스모로보틱스",
+    "acquirer": "코스모그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "56억원",
+    "deal_stage": "완료",
+    "url": "https://ilyo.co.kr/?ac=article_view&entry_id=510242",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "KG그룹, 케이카 품었다…대기업 '중고차 패권 경쟁' 본격화",
+    "summary": "KG스틸이 중고차 플랫폼 케이카를 인수하며, 캑터스프라이빗에쿼티(PE)와 공동 투자 방식으로 진행된다. 거래는 6월 말 예정되어 있다.",
+    "company": "케이카",
+    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.ceoscoredaily.com/page/view/2026040311042291799",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "한화에어로스페이스, 풍산 탄약사업 인수 추진",
+    "summary": "한화에어로스페이스가 풍산그룹의 탄약사업부를 인수하려는 전략적 M&A 거래로, 풍산그룹의 경영권 승계 문제와 관련하여 탄약사업부 매각이 추진되고 있음",
+    "company": "풍산",
+    "acquirer": "한화에어로스페이스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.getnews.co.kr/news/articleView.html?idxno=866979",
+    "date": "2026.04.04"
+  },
+  {
+    "title": "'포 강자' 한화, 포·탄 시너지?... 풍산 탄약 인수전 뛰어들었다",
+    "summary": "한화가 풍산의 방산 부문(탄약 사업) 인수전에 참여하고 있으며, 기존 포 사업과의 시너지 창출을 목표로 하는 전략적 인수를 추진 중",
+    "company": "풍산",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.5조원",
+    "deal_stage": "협상",
+    "url": "https://www.chosun.com/economy/industry-company/2026/04/04/DCW4IWGZMBHMRPK3V2VKOGEK5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "date": "2026.04.04"
+  },
+  {
+    "title": "한화에어로, 풍산 탄약사업부 인수 추진",
+    "summary": "한화에어로가 풍산의 탄약사업부를 인수하는 전략적 M&A. 풍산이 방산부문 매각을 추진하는 배경은 미국 시민권자인 2세 경영진으로 인한 방위사업법상 경영권 규제 때문",
+    "company": "풍산",
+    "acquirer": "한화에어로",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.g-enews.com/view.php?ud=202604032141156036a6e8311f64_1",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "한화, 풍산 탄약사업부 인수 추진... 최종제안서 제출",
+    "summary": "한화가 풍산의 탄약사업부(방산 부문)를 인수하기 위해 최종제안서를 제출했다. 풍산은 인적 분할을 통해 방산 부문을 분리한 후 매각하는 방식을 추진 중이다.",
+    "company": "풍산",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.fnnews.com/news/202604032017180109",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "한화, 풍산 탄약사업부 인수 추진…\"포·탄 시너지 확보\"",
+    "summary": "한화가 풍산의 탄약사업부를 인수하는 방식으로 풍산의 방산 부문 매각을 추진 중이며, 이를 통해 포·탄 사업 시너지 확보를 목표로 함",
+    "company": "풍산",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.news1.kr/industry/general-industry/6125153",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "풍산 탄약 사업부, 한화 품으로?…'포·탄 수직계열화'로 글로벌 정조준",
+    "summary": "풍산그룹이 탄약 사업부를 한화그룹에 매각하는 전략적 M&A 거래. 예상 매각가는 약 1조 5000억원 규모로, 한화그룹의 포·탄 수직계열화 전략의 일환",
+    "company": "풍산",
+    "acquirer": "한화그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.5조원",
+    "deal_stage": "협상",
+    "url": "https://magazine.hankyung.com/business/article/202604038050b",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "한화, 풍산 탄약사업부 인수전 참여…'무기+탄약' 수출 확대 노린다",
+    "summary": "한화가 풍산의 탄약사업부(방산부문) 인수전에 참여하고 있으며, 딜 규모는 약 1조5000억원 안팎으로 거론되고 있다. 이는 무기와 탄약을 함께 수출하는 방산 통합 전략의 일환이다.",
+    "company": "풍산",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.5조원",
+    "deal_stage": "협상",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1704421",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "클로봇, 2000억원 주주배정 유상증자..두산로지스틱스 인수대금 마련",
+    "summary": "클로봇이 두산로지스틱스솔루션을 인수하기 위해 2000억원 규모의 주주배정 유상증자를 추진하는 전략적 M&A 거래",
+    "company": "두산로지스틱스솔루션",
+    "acquirer": "클로봇",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.smarttoday.co.kr/ko-kr/articles/106151",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[단독] 한화, 풍산 탄약사업 인수 유력…'무기·포탄' 수직계열화",
+    "summary": "한화그룹이 풍산의 탄약사업을 인수하는 전략적 M&A를 추진 중이며, 딜 규모는 약 1조5000억원 수준으로 예상된다.",
+    "company": "풍산",
+    "acquirer": "한화그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.5조원",
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/2026040378121",
+    "date": "2026.04.03"
+  },
+  {
     "title": "한앤컴퍼니 '중고차 1위' 케이카 매각",
     "summary": "PE 운용사 한앤컴퍼니가 보유한 중고차 기업 케이카와 케이카캐피탈을 KG그룹 컨소시엄에 7,500억원에 매각하는 거래로, SPA를 체결하며 진행 중",
     "company": "케이카",
@@ -1147,259 +1405,5 @@
     "deal_stage": "완료",
     "url": "https://www.sidae.com/article/2026032715232837521",
     "date": "2026.03.29"
-  },
-  {
-    "title": "매각 앞두고 연임…한상우, 카카오게임즈 적자 탈출 '특명'",
-    "summary": "LAAA 인베스트먼트(라인야후 출자 PEF)가 카카오게임즈의 최대주주 카카오로부터 지분을 인수하고 3000억원 규모의 유상증자를 진행하는 PE 인수 거래",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1703671",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "중동 분쟁에 엇갈린 SK이터닉스 매매 희비",
-    "summary": "KKR이 SK이터닉스 경영권을 포함해 SK이노베이션 E&S, SK에코플랜트 등이 영위하는 신재생에너지 사업을 약 2조원에 인수하는 딜을 진행 중이며, 한앤컴퍼니는 SK디스커버리의 SK이터닉스 지분 매각에 대응 중",
-    "company": "SK이터닉스",
-    "acquirer": "KKR",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "2조원",
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/11995782",
-    "date": "2026.03.23"
-  },
-  {
-    "title": "SK이터닉스, KKR의 '국내 청정에너지 시장' 진입 교두보",
-    "summary": "KKR이 SK디스커버리와 한앤컴퍼니로부터 SK이터닉스 지분 43.5%를 3,480억 원에 인수하며, SK 그룹과 KKR은 JV 설립을 추진 중인 전략적 M&A",
-    "company": "SK이터닉스",
-    "acquirer": "KKR",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "3,480억 원",
-    "deal_stage": "계약",
-    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=77524",
-    "date": "2026.03.23"
-  },
-  {
-    "title": "\"86%나 올랐다고?\" 코스피 상승률 1위 SK이터닉스…고유가 공포에 신...",
-    "summary": "KKR(콜버그크래비스로버츠)이 SK디스커버리와 한앤컴퍼니로부터 SK이터닉스 지분 43.5%를 3480억원에 인수하기로 합의하였으며, SK그룹과 KKR이 합작법인을 설립하기로 함",
-    "company": "SK이터닉스",
-    "acquirer": "KKR(콜버그크래비스로버츠)",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "3480억원",
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10698830?ref=naver",
-    "date": "2026.03.20"
-  },
-  {
-    "title": "후계자 찾기 힘들고 상속세도 부담…PEF에 매각할 수밖에",
-    "summary": "국내 1위 가구 업체 한샘이 2021년 상속세 문제로 지분 전량을 사모펀드 IMM PE에 매각한 딜. PE펀드의 중소기업 인수 확대 추세를 보여주는 사례",
-    "company": "한샘",
-    "acquirer": "IMM PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/2026032694571",
-    "date": "2026.03.26"
-  },
-  {
-    "title": "[더벨]메가존, 메가존클라우드 지분 사들인다",
-    "summary": "메가존이 MBK파트너스와 IMM프라이빗에쿼티가 보유한 메가존클라우드 지분을 인수하는 거래로, PE의 기존 투자 지분을 회수하는 엑싯 성격의 블록딜",
-    "company": "메가존클라우드",
-    "acquirer": "메가존",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603191600438960105879",
-    "date": "2026.03.24"
-  },
-  {
-    "title": "선택과 집중 나선 카카오, 게임 넘기고 'AI·플랫폼 올인'",
-    "summary": "카카오가 보유 중인 카카오게임즈 지분을 라인야후 출자 법인인 LAAA 인베스트먼트에 매각하는 딜로, 카카오의 게임사업 구조 재편과 관련된 전략적 거래",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=356998",
-    "date": "2026.03.28"
-  },
-  {
-    "title": "[카카오 떠난 게임즈 ①] 카톡·AI 중심 '선택과 집중'···정신아, 조직...",
-    "summary": "카카오가 지난해 11월 카카오헬스케어의 경영권을 차바이오텍에 지분 교환 방식으로 매각하고, 올해 1월 다음 운영사 AXZ를 AI 스타트업 업스테이지에 주식교환 MOU 형태로 넘기는 전략적 M&A를 추진 중",
-    "company": "카카오헬스케어 / AXZ",
-    "acquirer": "카카오",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.seoulfn.com/news/articleView.html?idxno=624782",
-    "date": "2026.03.28"
-  },
-  {
-    "title": "수확기 들어간 MBK 'SS 1호' 펀드…골프존 '속도' bhc '신중'",
-    "summary": "MBK파트너스의 SS 1호 펀드가 포트폴리오 정리 수확기에 진입. 골프존카운티가 신세계개발의 기한이익상실 채무를 대신 갚고 골프장을 인수하는 엑싯 거래 추진 중",
-    "company": "신세계개발",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02427206645387912",
-    "date": "2026.03.28"
-  },
-  {
-    "title": "[주간사모펀드] VIG파트너스, 반도체 장비 제조기업 PTC 품는다…투자 ...",
-    "summary": "VIG파트너스가 반도체 장비 제조기업 PTC를 인수하며 포트폴리오를 확대하고 있다.",
-    "company": "PTC",
-    "acquirer": "VIG파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.tf.co.kr/read/economy/2307121.htm",
-    "date": "2026.03.28"
-  },
-  {
-    "title": "한때 업계 2위였는데... 청호나이스, 매물로 나온 이유",
-    "summary": "청호나이스 대주주 일가가 회사 경영권 매각을 추진 중이며, 현재 글로벌 사모펀드 칼라일과 논의 중인 것으로 알려졌다.",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://woman.chosun.com/news/articleView.html?idxno=125381",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "청호나이스 매각 추진…3000억 상속세에 흔들",
-    "summary": "글로벌 사모펀드 칼라일이 청호나이스 대주주 일가로부터 75.1% 지분을 인수하기 위해 MOU를 체결하고 기업 실사에 착수한 PE 인수 딜",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=298744",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "MBK, 일본서 투자 재개…실버 기업 '솔라스토' 인수 추진[시그널]",
-    "summary": "MBK파트너스가 일본의 실버 산업 서비스 선두 기업 솔라스토의 경영권 인수를 추진하고 있다.",
-    "company": "Solasto",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20025142?ref=naver",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "토종기업 줄줄이 外자본에…상속세 수난시대",
-    "summary": "미국 사모펀드 칼라일이 청호나이스를 약 8천억 원 규모로 인수하는 협상을 진행 중이며, 오너 가족회사인 핵심 필터 기술 제조계열사까지 포함될 가능성이 있는 거래",
-    "company": "청호나이스",
-    "acquirer": "칼라일(Carlyle)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "8천억원",
-    "deal_stage": "협상",
-    "url": "https://biz.sbs.co.kr/article_hub/20000300450?division=NAVER",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "EQT, 내달 22일까지 더존비즈온 잔여 지분 2차 공개매수",
-    "summary": "EQT파트너스의 특수목적법인이 더존비즈온의 잔여 지분에 대해 2차 공개매수를 진행 중이며, 이를 통해 더존비즈온의 자발적 상장폐지를 목표로 함",
-    "company": "더존비즈온",
-    "acquirer": "EQT파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.techm.kr/news/articleView.html?idxno=150616",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "청호나이스, 2천억 상속세에 매각 추진...30년 가업 명맥 끊기나",
-    "summary": "청호나이스 유족 측이 글로벌 사모펀드 칼라일에 기업 인수를 위한 양해각서(MOU)를 체결하고 실사를 진행 중인 PE buyout 딜",
-    "company": "청호나이스",
-    "acquirer": "칼라일(Carlyle)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newspim.com/news/view/20260327000947",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "청호나이스, 매물로…\"상속세 3000억 부담 된 듯\"",
-    "summary": "글로벌 사모펀드 칼라일이 청호나이스 대주주 일가로부터 지분 75.1%를 인수하기 위해 MOU를 체결하고 기업실사에 착수한 것으로 보도됨. 창업주 고 정휘동 회장 보유 지분의 매각 협상이 진행 중",
-    "company": "청호나이스",
-    "acquirer": "칼라일(Carlyle)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sentv.co.kr/article/view/sentv202603270080",
-    "date": "2026.03.27"
-  },
-  {
-    "title": "청호나이스, 사원들도 모르는 매각 추진",
-    "summary": "글로벌 사모펀드 칼라일이 청호나이스를 인수하는 거래를 추진 중이며, 창업주 별세 후 유족의 상속세 재원 마련 목적으로 진행되고 있다.",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "협상",
-    "url": "http://www.joseilbo.com/news/news_read.php?uid=565466&class=17&grp=",
-    "date": "2026.03.27"
   }
 ]
