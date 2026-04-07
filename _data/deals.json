@@ -1,5 +1,243 @@
 [
   {
+    "title": "대한항공, 글로벌 트래블러 어워즈 3년 연속 '최고 기내식' 쾌거",
+    "summary": "대한항공이 사모펀드 한앤컴퍼니로부터 보유하고 있던 기내식 및 기내면세점 판매 사업자인 대한항공C&D서비스 지분을 7500억원에 재인수한 전략적 M&A 거래",
+    "company": "대한항공씨앤디서비스",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "완료",
+    "url": "https://www.theguru.co.kr/news/article.html?no=100206",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "[기업家] 카카오 ㅣ 'AI·핀테크·모빌리티 전방위 확장…글로벌 협력 가...",
+    "summary": "LAAA 인베스트먼트(라인야후 출자 사모펀드)가 카카오로부터 카카오게임즈 지분을 인수하여 최대 주주가 되는 거래로, 제3자배정 유상증자 2,400억 원과 기존 지분 인수 600억 원 규모",
+    "company": "카카오게임즈",
+    "acquirer": "LAAA 인베스트먼트",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "3,000억 원",
+    "deal_stage": "완료",
+    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=565889",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "대한항공, 기내식 통합 큰 그림…GGK 계약 '선결과제'",
+    "summary": "대한항공이 한앤컴퍼니 사모펀드로부터 6년 전 매각했던 C&D를 약 7,500억원에 재인수하는 딜. PE 보유 자산의 전략적 역인수 거래",
+    "company": "대한항공씨앤디서비스",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7,500억원",
+    "deal_stage": "완료",
+    "url": "https://dealsite.co.kr/articles/159339",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "[이철민의 마켓 나우] K보험의 영토 확장과 주주가치의 딜레마",
+    "summary": "DB손해보험이 미국 보험그룹 포테그라의 지분 100%를 인수하는 계약을 체결했으며, 기존 주주인 팁트리와 사모펀드 워버그 핀커스 등에 지급하기로 한 금액은 약 16억5000만 달러(약 2조5000억원)이다.",
+    "company": "Fortegra Financial Group",
+    "acquirer": "DB손해보험",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2.5조원",
+    "deal_stage": "계약",
+    "url": "https://www.joongang.co.kr/article/25418022",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "SK가스, 울산GPS 지분 49% 매각…\"투자 재원 확보 목적\"",
+    "summary": "SK가스가 울산GPS와 SK멀티유틸리티 지분 49%를 스틱얼터너티브자산운용과 한국투자프라이빗에쿼티 컨소시엄에 매각하는 블록딜",
+    "company": "울산가스공사",
+    "acquirer": "스틱얼터너티브자산운용, 한국투자프라이빗에쿼티",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.mt.co.kr/industry/2026/04/06/2026040617255544114",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "[단독] 디시인사이드 매각가 1800억원 거론…역합병 절세안 검토",
+    "summary": "디시인사이드가 PE 운용사 에이치프라이빗에쿼티(H Private Equity)에 인수되는 딜로, 매각가는 약 1800억원 수준으로 거론되고 있으며 역합병을 통한 절세안이 검토 중",
+    "company": "디시인사이드",
+    "acquirer": "H Private Equity",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1800억원",
+    "deal_stage": "협상",
+    "url": "https://www.mt.co.kr/stock/2026/04/07/2026040616480585595",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "군살 빼는 'AI 기업' 카카오…日 라인야후에 카카오게임즈 경영권 매각",
+    "summary": "카카오가 보유한 카카오게임즈의 경영권을 사모펀드 LAAA 인베스트먼트에 매각하는 전략적 거래. 라인야후가 지난해부터 경영권 인수 의사를 타진해온 것으로 전해짐",
+    "company": "카카오게임즈",
+    "acquirer": "LAAA 인베스트먼트",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/2026040609591",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "스틱·한투PE, SK엠유·울산GPS 지분 1.6조에 인수 [시그널]",
+    "summary": "스틱얼터너티브자산운용과 한국투자프라이빗에쿼티 컨소시엄이 SK멀티유틸리티와 울산GPS 지분 49%를 1조 6000억 원에 인수하는 거래",
+    "company": "SK멀티유틸리티|울산GPS",
+    "acquirer": "스틱얼터너티브자산운용|한국투자프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.6조원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20028782?ref=naver",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "[단독] 어피니티, 롯데렌탈 인수가격 인하 요청... 그룹과 재협상 중",
+    "summary": "PE펀드 어피니티가 롯데렌탈 인수 시 주당 7만7115원에 합의한 가격의 인하를 요청하며 롯데그룹과 재협상을 진행 중인 사안",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/03/30/36JFNPXWQVG37K7TJXJ23BO6CI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "스틱·한투인프라PE, 1.6조 '빅딜'...울산GPS·SK엠유 지분 49% 인수",
+    "summary": "스틱과 한투인프라PE가 설립한 특수목적법인(SPC)이 울산GPS와 SK엠유의 지분 49%를 약 1.6조 원에 인수하는 딜. SK가스는 지분 51%를 보유하며 최대주주로 경영권을 유지.",
+    "company": "울산GPS, SK엠유",
+    "acquirer": "스틱·한투인프라PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.6조원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10711565?ref=naver",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "스틱-한투PE, '빅딜' 성사…SK 핵심 에너지 자산 1.6조에 인수",
+    "summary": "스틱과 한투PE가 설립한 SPC '스틱한투인프라 사모투자합...'가 SK가스의 에너지 자산을 1.6조 규모로 인수하는 딜로, SK가스는 51% 지분을 유지하며 경영권을 보유하는 구조",
+    "company": "SK가스",
+    "acquirer": "스틱한투인프라 사모투자합(스틱·한투PE 공동 설립 SPC)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.6조원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10711090?ref=naver",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "휠라-미래에셋PE의 아쿠쉬네트 인수, '새우가 고래를 삼킨' 기적은 어...",
+    "summary": "미래에셋PE가 인수한 아쿠쉬네트에 대해 블록딜 등을 통해 지분을 매각하며 투자 원금의 약 두 배 수익을 올린 엑싯 사례",
+    "company": "아쿠쉬네트",
+    "acquirer": "미래에셋PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hani.co.kr/arti/economy/economy_general/1252474.html",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "[코스피·코스닥,대우건설 SK가스 한화에어로스페이스 대양금속 데이타...",
+    "summary": "스틱·한투PE 컨소시엄이 울산GPS 지분 49%를 1조2242억원 규모로 매각받는 딜. 5월 29일 양도 예정. 한화에어로스페이스는 풍산의 탄약사업부문 인수 추진 중",
+    "company": "울산 GPS",
+    "acquirer": "스틱·한투PE 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조2242억원",
+    "deal_stage": "계약",
+    "url": "https://www.public25.com/news/articleView.html?idxno=43502",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "기업공시 [4월 6일]",
+    "summary": "SK가스가 스틱과 한투PE 컨소시엄에 울산GPS 지분 49%를 매각하는 전략적 M&A 거래",
+    "company": "울산GPS",
+    "acquirer": "스틱·한투PE 컨소시엄",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20028919?ref=naver",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "[유상증자 모니터] '자본잠식' 두산로지스틱스 정상화 추진 | 클로봇①",
+    "summary": "PE 운용사 펙투스PE와 컨소시엄을 구성한 클로봇이 두산그룹으로부터 두산로지스틱스(DLS)를 인수하는 딜로, 1200억원 규모의 인수·출자를 추진 중이다.",
+    "company": "두산로지스틱스",
+    "acquirer": "클로봇, 펙투스PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1200억원",
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=658693",
+    "date": "2026.04.06"
+  },
+  {
+    "title": "한화, 풍산 탄약사업 인수전 '본입찰'…K-방산 재편 신호탄",
+    "summary": "풍산이 탄약사업 매각을 검토하고 있으며, 한화가 본입찰 단계에 진입한 전략적 M&A 거래. 풍산의 경영권 승계 제약으로 인한 사업 분리 매각",
+    "company": "풍산",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=299554",
+    "date": "2026.04.07"
+  },
+  {
+    "title": "SK가스, 울산GPS 지분 49% 1조 2천억에 매각",
+    "summary": "SK가스가 울산GPS 지분 49%를 1조 2천억원에 매각하는 거래. SK가스는 매각 후에도 51% 지분을 보유해 경영권을 유지하는 부분 매각(partial exit) 성격의 전략적 거래",
+    "company": "울산가스분리액화센터",
+    "acquirer": "SK가스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "발표",
+    "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=355156",
+    "date": "2026.04.07"
+  },
+  {
     "title": "SK가스, 울산GPS 지분 매각으로 1.2조 확보…주가 4% 상승 [마켓시그널]",
     "summary": "SK멀티유틸리티는 울산GPS 소수 지분을 스틱·한투PE 컨소시엄(KKR 참여)에 매각하는 거래를 추진 중이며, 약 1.2조 규모의 자금을 확보할 예정",
     "company": "울산GPS",
@@ -1165,245 +1403,6 @@
     "ev": "1.2조원",
     "deal_stage": "계약",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44181",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "한앤컴퍼니, 케이카·케이카캐피탈 KG그룹에 판다… 매각가 7500억원",
-    "summary": "PE 운용사 한앤컴퍼니가 2018년 인수한 중고차 직영 기업 케이카를 7500억원에 KG그룹 컨소시엄에 매각하는 엑싯 거래",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/04/01/SBTP5MTKVFHJDHEQMCVB7NSL5Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "한앤코, 케이카 지분 전량 KG컨소시엘에 매각…가격 5천500억(종합)",
-    "summary": "한앤코가 보유한 케이카의 전량 지분을 KG그룹과 PEF 운용사 캑터스프라이빗에쿼티로 구성된 컨소시엄에 5,500억원에 매각하는 거래",
-    "company": "케이카",
-    "acquirer": "KG그룹·캑터스프라이빗에쿼티 컨소시엘",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5,500억원",
-    "deal_stage": "완료",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407078",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "한앤코, 케이카·케이카캐피탈 7500억에 KG스틸 매각 [시그널]",
-    "summary": "PE운용사 한앤컴퍼니(한앤코)가 보유한 KG스틸을 케이카와 케이카캐피탈에 7500억 원에 매각하는 엑싯 거래",
-    "company": "KG스틸",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20026777?ref=naver",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "[특징주]케이카, KG그룹 인수 소식에 9%↓",
-    "summary": "한앤컴퍼니가 보유한 케이카의 경영권 지분 72.19%와 케이카캐피탈 지분 100%를 KG그룹 컨소시엄에 매각하는 SPA를 체결했으며, 매각 대금은 7,500억원",
-    "company": "케이카",
-    "acquirer": "KG그룹 컨소시엄",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7,500억원",
-    "deal_stage": "계약",
-    "url": "https://www.namdonews.com/news/articleView.html?idxno=906019",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "한앤코, 케이카·케이카캐피탈 KG그룹 컨소시엄에 매각",
-    "summary": "PE운용사 한앤컴퍼니가 보유한 중고차 플랫폼 케이카와 금융사 케이카캐피탈을 KG그룹 컨소시엄에 매각하는 딜. 한앤코의 PE 엑싯 거래",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://view.asiae.co.kr/article/2026040109185640028",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "[마켓인]케이카, KG그룹이 1.2조에 품는다…한앤코, '5배 잭팟'",
-    "summary": "PE 운용사 한앤컴퍼니가 2018년에 2000억원에 인수한 중고차 플랫폼 케이카를 KG그룹에 1.2조원대에 매각하는 엑싯 거래",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03614566645411856",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "한앤컴퍼니, 케이카·케이카캐피탈 7500억 매각…새주인에 KG스틸",
-    "summary": "PE 운용사 한앤컴퍼니가 보유한 중고차 거래 플랫폼 케이카와 케이카캐피탈의 경영권 지분을 KG스틸과 캑터스프라이빗에쿼티에 7,500억원에 매각하는 exit 거래",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12004555",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "정지이, 현대엘리베이터 지분 매입 본격화",
-    "summary": "H&Q코리아가 현대엘리베이터 보통주를 교환 대상으로 하는 교환사채를 행사해 확보한 4.9% 지분을 블록딜로 매각하는 엑싯 거래",
-    "company": "현대엘리베이터",
-    "acquirer": "H&Q코리아",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.topdaily.kr/articles/109464",
-    "date": "2026.03.30"
-  },
-  {
-    "title": "KG그룹, K Car 인수···통합 모빌리티 체계 구축",
-    "summary": "KG그룹이 국내 최대 직영 중고차 플랫폼 기업 K Car를 캑터스프라이빗에쿼티(PE)로부터 인수하는 딜을 진행 중",
-    "company": "null",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.koreastocknews.com/news/articleView.html?idxno=117655",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 중고차 플랫폼 '케이카' 품었다…\"제조·유통·플랫폼 통합 모빌...",
-    "summary": "KG그룹이 중고차 플랫폼 케이카를 인수하기 위한 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 관여한 전략적 M&A 거래",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.goodkyung.com/news/articleView.html?idxno=285229",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, '직영 중고차 1위' 케이카 인수…'제조·유통·플랫폼' 시너...",
-    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와의 공동 투자를 통해 직영 중고차 플랫폼 케이카를 인수하는 전략적 M&A 거래",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.dt.co.kr/article/12055081?ref=naver",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, '케이카' 인수…'제조·유통·플랫폼' 잇는 통합 모빌리티 체계...",
-    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와 공동으로 케이카를 인수하는 전략적 M&A 거래",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.epnc.co.kr/news/articleView.html?idxno=330687",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, K Car 인수 계약 체결…\"통합 모빌리티 체계 구축\"",
-    "summary": "KG그룹이 K Car를 인수하기 위해 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 관여한 거래로 차량 매입·판매, 렌터카, 자동차 금융 등을 통합하는 모빌리티 사업 확대를 추진 중",
-    "company": "K Car",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005803158",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, K Car 인수···제조부터 유통·플랫폼까지 '통합 모빌리티 생...",
-    "summary": "KG그룹이 K Car를 인수하기 위한 계약을 체결했다. 캑터스프라이빗에쿼티(PE)가 보유한 K Car를 KG그룹이 인수하는 거래로, 피인수 기업은 전국 48개 직영점과 온라인 플랫폼을 기반으로 한 자동차 유통 기업이다.",
-    "company": "K Car",
-    "acquirer": "KG그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.finomy.com/news/articleView.html?idxno=252438",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 중고차 플랫폼 '케이카' 인수…제조·유통·플랫폼 '통합 모빌리...",
-    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와의 공동 투자를 통해 중고차 플랫폼 '케이카'를 인수하기로 계약을 체결했다. 이는 자동차 산업의 급변하는 환경에 대응하기 위한 전략적 인수다.",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=79521",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, '케이카' 인수…통합 모빌리티 체계 구축",
-    "summary": "KG그룹이 국내 최대 직영 중고차 플랫폼 기업 K Car(케이카)를 캑터스프라이빗에쿼티와의 공동 투자로 인수하며, 자동차 제조부터 유통까지 통합 모빌리티 체계를 구축하는 전략적 M&A를 추진 중이다.",
-    "company": "null",
-    "acquirer": "KG그룹, 캑터스프라이빗에쿼티",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.widedaily.com/news/articleView.html?idxno=291445",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, K Car 인수 통합 모빌리티 체계 구축",
-    "summary": "KG그룹이 K Car를 인수하기 위한 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 참여한 거래로 자동차 산업 환경 변화에 대응하기 위한 전략적 M&A",
-    "company": "K Car",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=266651",
     "date": "2026.04.01"
   }
 ]
