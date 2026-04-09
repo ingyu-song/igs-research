@@ -1,5 +1,161 @@
 [
   {
+    "title": "[더벨][이슈모니터] [영상]카카오게임즈, 결국 팔렸다…라인야후 진짜 ...",
+    "summary": "페트리코파트너스가 운용하는 사모펀드가 SPC 엘트리플에이인베스트먼트를 통해 카카오게임즈를 인수하며, 라인야후가 사모펀드의 주요 출자자로 참여하는 구조의 PE 인수 거래",
+    "company": "카카오게임즈",
+    "acquirer": "페트리코파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604090738571620106654",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "베인캐피탈, 고려아연 지분 메리츠에 매각",
+    "summary": "베인캐피탈이 보유한 고려아연 2.01% 지분을 메리츠금융그룹에 전량 매각하는 블록딜. 약 5000억원 규모의 거래로 1년 6개월 만에 30% 이상의 수익률을 달성한 성공적 엑싯.",
+    "company": "고려아연",
+    "acquirer": "베인캐피탈",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10713422?ref=naver",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "[더벨]에버마운트, 건기식 전문 '에이브바이오랩스' 새 주인으로",
+    "summary": "PE펀드 에버마운트가 건강기능식품 전문 회사 에이브바이오랩스의 경영권 인수를 완료했다.",
+    "company": "에이브바이오랩스",
+    "acquirer": "에버마운트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604071146243880108241",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "[더벨]MBK, 골프존카운티 매각 하이라이트 '전국 인프라·수익률'",
+    "summary": "PE 운용사 MBK파트너스가 보유한 골프존카운티의 경영권 매각을 추진 중인 엑싯 딜",
+    "company": "골프존카운티",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604061104509000102845",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "베인캐피탈, 고려아연 지분 메리츠금융에 매각",
+    "summary": "PE 베인캐피탈이 보유하던 고려아연 지분 2.01%를 메리츠금융그룹에 장외거래를 통해 매각한 PE의 엑싯 거래",
+    "company": "고려아연",
+    "acquirer": "베인캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newsis.com/view/NISX20260409_0003584093",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "베인캐피탈, 고려아연 지분 5000억 매각…메리츠 崔 '새 백기사'로",
+    "summary": "PE 운용사 베인캐피탈이 보유한 고려아연 지분 5000억원을 메리츠금융그룹에 전략 매각하는 딜. 베인캐피탈의 엑싯 거래이자 메리츠의 블록딜 인수.",
+    "company": "고려아연",
+    "acquirer": "베인캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "완료",
+    "url": "https://www.ajunews.com/view/20260409093703386",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "베인, 고려아연 지분 메리츠금융에 매각[시그널]",
+    "summary": "PE 운용사 베인캐피털이 보유한 고려아연 지분 2.01%를 메리츠금융그룹에 전량 매각하는 블록딜 거래",
+    "company": "고려아연",
+    "acquirer": "베인캐피털",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20030116?ref=naver",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "베인캐피탈 고려아연 지분 … 메리츠금융그룹에 매각",
+    "summary": "베인캐피탈이 보유한 고려아연 지분 2%를 메리츠금융그룹에 매각하는 블록딜. 거래 규모는 약 5,000억원대",
+    "company": "고려아연",
+    "acquirer": "베인캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": "5,000억원",
+    "deal_stage": "완료",
+    "url": "https://www.mk.co.kr/article/12011766",
+    "date": "2026.04.08"
+  },
+  {
+    "title": "TKG태광, 정밀화학 영토 확장 … 제이앤PE가 500억 투자 조력",
+    "summary": "정밀화학·첨단소재 기업 TKG휴켐스가 PE 운용사 제이앤프라이빗에쿼티(제이앤PE)로부터 500억 원 규모의 사모 전환사채 인수를 통해 자금을 조달하는 투자 거래",
+    "company": "TKG휴켐스",
+    "acquirer": "제이앤프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "500억원",
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/12011764",
+    "date": "2026.04.08"
+  },
+  {
+    "title": "케이카까지 받친 캑터스PE…KG그룹 딜 조력자 굳혔다",
+    "summary": "KG그룹이 한앤컴퍼니로부터 케이카 지분 72.19%를 인수해 경영권을 확보하고, 캑터스PE가 케이카캐피탈 지분 100%를 인수하는 구조의 거래로, 전체 딜 규모는 약 1조 2000억원",
+    "company": "케이카",
+    "acquirer": "KG그룹, 캑터스PE",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44307",
+    "date": "2026.04.08"
+  },
+  {
+    "title": "배우던 나라에서 가르치는 나라로...K-미용실도 수출시대",
+    "summary": "블랙스톤이 준오헤어의 경영권을 인수한 딜. 글로벌 사모펀드가 한국 미용실을 인수한 첫 사례로, 서비스 중심 산업의 확장성을 인정받았다.",
+    "company": "준오헤어",
+    "acquirer": "블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604081022573120416",
+    "date": "2026.04.09"
+  },
+  {
     "title": "브릭스톤PE, '미코 CB' 장외 블록딜로 150억원 회수 완료 [fn마켓워치]",
     "summary": "브릭스톤PE가 포트폴리오 기업 미코에 대한 지분을 장외 블록딜로 150억원에 매각하여 엑싯을 완료했으며, 이는 약 250억원 규모의 기존 인수 딜의 부분 회수",
     "company": "미코",
@@ -1251,160 +1407,6 @@
     "ev": null,
     "deal_stage": "계약",
     "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=351586",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "[더벨][PE 포트폴리오 엿보기] 어피니티, 서브원 볼트온 '적중'…비아다...",
-    "summary": "PE펀드 어피니티가 자회사 서브원을 통해 2023년 비아다빈치 지분 51%를 기업가치 약 1조원에 인수한 볼트온 거래",
-    "company": "비아다빈치",
-    "acquirer": "어피니티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603270958500080102215",
-    "date": "2026.04.02"
-  },
-  {
-    "title": "KG그룹, 국내 1위 직영 중고차 플랫폼도 삼켰다… 모빌리티 사업 다각화",
-    "summary": "KG그룹이 국내 최대 직영 중고차 플랫폼 기업인 케이카(K Car)를 캑터스프라이빗에쿼티와의 공동 투자 방식으로 인수하는 계약을 3월 31일 체결했다.",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.wikitree.co.kr/articles/1129235",
-    "date": "2026.04.02"
-  },
-  {
-    "title": "KG그룹, K Car 인수 돌입... '통합 모빌리티 체계' 구축 시동",
-    "summary": "KG그룹이 K Car를 인수하기 위한 계약을 체결했으며, 자동차산업 환경 변화에 대응하기 위한 전략적 전환으로 추진 중",
-    "company": "K Car",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.newsbrite.net/news/articleView.html?idxno=197276",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 케이카 인수…'제조·유통·플랫폼' 잇는 통합 모빌리티 구축",
-    "summary": "KG그룹이 K Car를 인수하기 위한 계약을 체결했으며, 캑터스프라이빗에쿼티(PE)가 참여한 전략적 M&A 거래",
-    "company": "K Car",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.apnews.kr/news/articleView.html?idxno=3047362",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 'K Car' 인수…모빌리티 생태계 구축 발판 마련",
-    "summary": "KG그룹이 캑터스프라이빗에쿼티(PE)와의 공동 투자 방식으로 'K Car'를 인수하며, 급변하는 자동차 산업 환경에 대응하기 위한 전략적 모빌리티 생태계 구축을 추진 중이다.",
-    "company": "K Car",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.bizwnews.com/news/articleView.html?idxno=132040",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 중고차 1위 '케이카' 인수",
-    "summary": "KG PE와 계열사 KG스틸이 공동으로 한앤코오토홀딩스가 보유한 케이카 지분 72.2%를 인수하는 전략적 M&A",
-    "company": "한앤코오토홀딩스",
-    "acquirer": "KG PE",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.hankyung.com/article/2026040126161",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "곽재선의 '모빌리티 승부수' KG그룹, '케이카' 편입…사업 영역 다변...",
-    "summary": "KG그룹이 사모펀드 캑터스프라이빗에쿼티(PE)와 공동 투자 방식으로 모빌리티 서비스 회사 케이카를 인수하는 전략적 M&A",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "https://www.asiatoday.co.kr/view.php?key=20260401010000219",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 케이카에 5500억 베팅한 이유는… \"제조-유통-플랫폼 완전체로...",
-    "summary": "KG그룹이 사모펀드 캑터스프라이빗에쿼티와 공동 투자 방식으로 케이카를 인수하기 위한 계약을 체결했다. 약 5500억원 규모의 전략적 M&A 거래다.",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5500억원",
-    "deal_stage": "계약",
-    "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58774",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG스틸, 중고차 플랫폼 '케이카' 인수…몸집 2배로",
-    "summary": "KG그룹이 사모펀드 운용사 한앤컴퍼니로부터 중고차 플랫폼 케이카와 케이카캐피탈을 인수하는 전략적 M&A를 추진 중",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.mtn.co.kr/news-detail/2026040110122677978",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 중고차 업체 케이카 인수…KGM 잔존가치 상승?",
-    "summary": "KG그룹 산하 KG스틸이 사모펀드 캑터스프라이빗에쿼티와 공동으로 중고차 직거래 업체 케이카를 인수하는 전략적 M&A",
-    "company": "K car",
-    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5,500억원",
-    "deal_stage": "계약",
-    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=126458",
-    "date": "2026.04.01"
-  },
-  {
-    "title": "KG그룹, 케이카 품었다…'통합 모빌리티' 사업 구축",
-    "summary": "KG스틸이 사모펀드 캑터스프라이빗에쿼티와 공동 투자 방식으로 모빌리티 플랫폼 케이카를 인수하며, 한앤코오토홀딩스로부터 케이카의 보통주 3524만5670주를 매수하는 거래",
-    "company": "케이카",
-    "acquirer": "KG스틸",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.sportschosun.com/life/2026-04-01/202604010100006520000145",
     "date": "2026.04.01"
   }
 ]
