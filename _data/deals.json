@@ -1,5 +1,187 @@
 [
   {
+    "title": "고려아연 지분 사들이는 메리츠, 新 캐스팅보터 '급부상'",
+    "summary": "메리츠가 베인캐피탈로부터 고려아연 지분을 인수하는 블록딜을 진행 중. 인수가는 원금 약 4000억원에 이자와 부대비용을 포함한 규모",
+    "company": "고려아연",
+    "acquirer": "메리츠",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "4000억원",
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=659307",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[더벨]HD현대오일뱅크, 일본 에네오스 제치고 대경오앤티 품는다",
+    "summary": "HD현대오일뱅크가 테넷에쿼티파트너스(테넷PE)와 컨소시엄을 구성하여 대경오앤티를 인수하는 거래. 친환경 에너지 원료 수급을 목적으로 일본 에네오스와의 인수 경쟁에서 우위를 점함",
+    "company": "대경오앤티",
+    "acquirer": "HD현대오일뱅크, 테넷에쿼티파트너스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604130746257660108473",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[더벨]'TKG휴켐스 투자' 제이앤PE, 첨단소재 사업 확장 돕는다",
+    "summary": "PE 운용사 제이앤프라이빗에쿼티(제이앤PE)가 첨단소재 기업 TKG휴켐스에 투자하며 반도체 포토공정용 하드마스크 소재 등 전자재료 사업을 확장한다.",
+    "company": "TKG휴켐스",
+    "acquirer": "제이앤프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604090854511120107413",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[AI의 종목 이야기] \"커밍그룹, 사모펀드에 30억달러 매각 발표 임박\"",
+    "summary": "사모펀드 운용사 레너드 그린 앤드 파트너스가 뉴 마운틴 캐피털로부터 건설 프로젝트 컨설팅 기업 커밍 그룹을 약 30억 달러에 인수할 예정이다.",
+    "company": "Corning Group",
+    "acquirer": "Leonard Green & Partners",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": "30억 달러",
+    "deal_stage": "소문",
+    "url": "https://www.newspim.com/news/view/20260413000036",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[Invest]롯데케미칼, 은행 도움 받아 채권 찍고 비주력사업부도 매각",
+    "summary": "롯데케미칼의 첨단소재 사업부문 내 인조대리석 사업부를 PEF 등 잠재 투자자들을 대상으로 매각 추진 중. UBS가 매각 주관을 맡고 있으며 이달 중 인수 제안이 예상됨",
+    "company": "롯데케미칼 인조대리석 사업부",
+    "acquirer": "미정 (PEF 등 잠재 투자자 접촉 중)",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/04/10/2026041080095.html",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "롯데케미칼, 건자재 사업부 판다…非석화 구조조정 본격화",
+    "summary": "롯데케미칼이 건자재 사업부를 분할 매각하기 위해 UBS를 주관사로 선정하고 사모펀드 운용사들에 매각 의사를 타진 중. PE의 건자재 사업부 인수를 추진 중인 딜.",
+    "company": "롯데케미칼",
+    "acquirer": "사모펀드(미정)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.hankyung.com/article/202604102743r",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[단독]더현대 품절대란 스킨케어 '휩드', 토종PEF 케이스톤 품으로 [시...",
+    "summary": "국내 PEF 운용사 케이스톤파트너스가 스킨케어 브랜드 휩드를 보유한 세모컴퍼니의 경영권을 약 500억 원의 기업가치로 인수하는 거래를 완료했다.",
+    "company": "세모컴퍼니",
+    "acquirer": "케이스톤파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "500억원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20031379?ref=naver",
+    "date": "2026.04.12"
+  },
+  {
+    "title": "[단독] 아주산업, 그린에코솔루션 인수 추진…노앤파트너스와 각축전 [...]",
+    "summary": "레미콘 제조·납품 업체인 아주산업이 한앤컴퍼니가 매각 중인 그린에코솔루션 인수를 추진하고 있으며, 한국투자프라이빗에쿼티 등 여러 인수 후보자들과 경쟁 중인 상황",
+    "company": "그린에코솔루션",
+    "acquirer": "아주산업",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20030953?ref=naver",
+    "date": "2026.04.10"
+  },
+  {
+    "title": "HD현대오일뱅크, 대경오앤티 인수 우협 선정[시그널]",
+    "summary": "HD현대오일뱅크가 유진프라이빗에쿼티와 산업은행, SK온이 보유한 바이오디젤 원료 생산기업 대경오앤티의 인수 우선협상대상자로 선정되었으며, 이는 PE의 포트폴리오 회사 엑싯 거래임",
+    "company": "대경오앤티",
+    "acquirer": "HD현대오일뱅크",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20031635?ref=naver",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[Invest]HD현대오일뱅크·테넷PE, 대경오앤티 인수 우협 선정",
+    "summary": "HD현대오일뱅크와 테넷PE가 컨소시엄을 구성하여 대경오앤티 인수전에서 우선협상대상자로 선정되었으며, 딜 규모는 약 5,000억원 수준으로 평가됨",
+    "company": "대경오앤티",
+    "acquirer": "HD현대오일뱅크·테넷PE",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5,000억원",
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380065.html",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[단독] HD현대오일뱅크 컨소, 대경오앤티 인수 우협 선정",
+    "summary": "HD현대오일뱅크 컨소시엄이 SK온과 유진PE, 산업은행PE가 공동 보유한 바이오원료 기업 대경오앤티의 100% 지분 인수 우선협상대상자로 선정되었다. SK온의 재무구조 개선을 목적으로 한 PE 엑싯 거래이다.",
+    "company": "대경오앤티",
+    "acquirer": "HD현대오일뱅크",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202604135673r",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "케이카 품는 KG그룹, 오너2세 곽정현 승계 '힘싣기'",
+    "summary": "KG스틸이 케이카 지분 72%를 5500억원에 인수하고, 캑터스PE가 케이카캐피탈을 2000억원에 인수하는 거래로, 6월 30일 종결 예정",
+    "company": "케이카|케이카캐피탈",
+    "acquirer": "KG스틸|캑터스PE",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "계약",
+    "url": "https://dealsite.co.kr/articles/159919",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "한솔테크닉스, 반도체 검사 1위 기업 품는다",
+    "summary": "한솔테크닉스가 윌테크놀러지의 경영권을 인수하며, 자금은 유상증자로 조달하고 지주사인 한솔홀딩스가 구주 매각과 유상증자 참여로 지원하는 전략적 M&A",
+    "company": "윌테크놀러지",
+    "acquirer": "한솔테크닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://dealsite.co.kr/articles/160055",
+    "date": "2026.04.13"
+  },
+  {
     "title": "노앤파트너스, 더블유씨피 CB 인수…성장성 기반 후속 투자 단행",
     "summary": "PE 노앤파트너스가 이차전지 분리막 기업 더블유씨피(WCP)에 대해 약 200억원 규모의 사모 전환사채(CB)를 인수하는 후속 투자를 단행했다.",
     "company": "더블유씨피",
@@ -1227,187 +1409,5 @@
     "deal_stage": "협상",
     "url": "https://www.mt.co.kr/industry/2026/03/27/2026032713592079642",
     "date": "2026.03.27"
-  },
-  {
-    "title": "2차전지 공격 투자 고전…'범 GS가' 코스모그룹 로봇기업 상장으로 반...",
-    "summary": "코스모그룹이 2023년 56억 원 규모의 제3자 배정 유상증자 방식으로 코스모로보틱스에 대한 경영권을 확보한 전략적 M&A",
-    "company": "코스모로보틱스",
-    "acquirer": "코스모그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "56억원",
-    "deal_stage": "완료",
-    "url": "https://ilyo.co.kr/?ac=article_view&entry_id=510242",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "KG그룹, 케이카 품었다…대기업 '중고차 패권 경쟁' 본격화",
-    "summary": "KG스틸이 중고차 플랫폼 케이카를 인수하며, 캑터스프라이빗에쿼티(PE)와 공동 투자 방식으로 진행된다. 거래는 6월 말 예정되어 있다.",
-    "company": "케이카",
-    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.ceoscoredaily.com/page/view/2026040311042291799",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "한화에어로스페이스, 풍산 탄약사업 인수 추진",
-    "summary": "한화에어로스페이스가 풍산그룹의 탄약사업부를 인수하려는 전략적 M&A 거래로, 풍산그룹의 경영권 승계 문제와 관련하여 탄약사업부 매각이 추진되고 있음",
-    "company": "풍산",
-    "acquirer": "한화에어로스페이스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.getnews.co.kr/news/articleView.html?idxno=866979",
-    "date": "2026.04.04"
-  },
-  {
-    "title": "'포 강자' 한화, 포·탄 시너지?... 풍산 탄약 인수전 뛰어들었다",
-    "summary": "한화가 풍산의 방산 부문(탄약 사업) 인수전에 참여하고 있으며, 기존 포 사업과의 시너지 창출을 목표로 하는 전략적 인수를 추진 중",
-    "company": "풍산",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.5조원",
-    "deal_stage": "협상",
-    "url": "https://www.chosun.com/economy/industry-company/2026/04/04/DCW4IWGZMBHMRPK3V2VKOGEK5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "date": "2026.04.04"
-  },
-  {
-    "title": "한화에어로, 풍산 탄약사업부 인수 추진",
-    "summary": "한화에어로가 풍산의 탄약사업부를 인수하는 전략적 M&A. 풍산이 방산부문 매각을 추진하는 배경은 미국 시민권자인 2세 경영진으로 인한 방위사업법상 경영권 규제 때문",
-    "company": "풍산",
-    "acquirer": "한화에어로",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.g-enews.com/view.php?ud=202604032141156036a6e8311f64_1",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "한화, 풍산 탄약사업부 인수 추진... 최종제안서 제출",
-    "summary": "한화가 풍산의 탄약사업부(방산 부문)를 인수하기 위해 최종제안서를 제출했다. 풍산은 인적 분할을 통해 방산 부문을 분리한 후 매각하는 방식을 추진 중이다.",
-    "company": "풍산",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.fnnews.com/news/202604032017180109",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "한화, 풍산 탄약사업부 인수 추진…\"포·탄 시너지 확보\"",
-    "summary": "한화가 풍산의 탄약사업부를 인수하는 방식으로 풍산의 방산 부문 매각을 추진 중이며, 이를 통해 포·탄 사업 시너지 확보를 목표로 함",
-    "company": "풍산",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.news1.kr/industry/general-industry/6125153",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "풍산 탄약 사업부, 한화 품으로?…'포·탄 수직계열화'로 글로벌 정조준",
-    "summary": "풍산그룹이 탄약 사업부를 한화그룹에 매각하는 전략적 M&A 거래. 예상 매각가는 약 1조 5000억원 규모로, 한화그룹의 포·탄 수직계열화 전략의 일환",
-    "company": "풍산",
-    "acquirer": "한화그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.5조원",
-    "deal_stage": "협상",
-    "url": "https://magazine.hankyung.com/business/article/202604038050b",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "한화, 풍산 탄약사업부 인수전 참여…'무기+탄약' 수출 확대 노린다",
-    "summary": "한화가 풍산의 탄약사업부(방산부문) 인수전에 참여하고 있으며, 딜 규모는 약 1조5000억원 안팎으로 거론되고 있다. 이는 무기와 탄약을 함께 수출하는 방산 통합 전략의 일환이다.",
-    "company": "풍산",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.5조원",
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1704421",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "클로봇, 2000억원 주주배정 유상증자..두산로지스틱스 인수대금 마련",
-    "summary": "클로봇이 두산로지스틱스솔루션을 인수하기 위해 2000억원 규모의 주주배정 유상증자를 추진하는 전략적 M&A 거래",
-    "company": "두산로지스틱스솔루션",
-    "acquirer": "클로봇",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.smarttoday.co.kr/ko-kr/articles/106151",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "[단독] 한화, 풍산 탄약사업 인수 유력…'무기·포탄' 수직계열화",
-    "summary": "한화그룹이 풍산의 탄약사업을 인수하는 전략적 M&A를 추진 중이며, 딜 규모는 약 1조5000억원 수준으로 예상된다.",
-    "company": "풍산",
-    "acquirer": "한화그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.5조원",
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/2026040378121",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "한앤컴퍼니 '중고차 1위' 케이카 매각",
-    "summary": "PE 운용사 한앤컴퍼니가 보유한 중고차 기업 케이카와 케이카캐피탈을 KG그룹 컨소시엄에 7,500억원에 매각하는 거래로, SPA를 체결하며 진행 중",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10709442?ref=naver",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "KG그룹, 직영중고차 케이카 인수…'현대차웨이' 확대할까",
-    "summary": "KG그룹이 한앤컴퍼니가 보유한 직영중고차 플랫폼 케이카의 지분 72.19%를 5,500억원에 인수하는 전략적 M&A",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5500억원",
-    "deal_stage": "발표",
-    "url": "https://www.electimes.com/news/articleView.html?idxno=366672",
-    "date": "2026.04.03"
   }
 ]
