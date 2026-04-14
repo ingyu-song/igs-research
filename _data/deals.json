@@ -1,5 +1,173 @@
 [
   {
+    "title": "E&F PE, KES환경개발 인수자금 조달 착수",
+    "summary": "PE 운용사 E&F 프라이빗에쿠티가 JC파트너스 지분 80%를 인수하여 폐기물 매립지 기업 KES환경개발을 인수하기 위해 자금조달을 추진 중",
+    "company": "KES환경개발",
+    "acquirer": "E&F 프라이빗에쿠티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2000억원",
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10716699?ref=naver",
+    "date": "2026.04.14"
+  },
+  {
+    "title": "H&Q-한화갤러리아, 수익성 떨어진 '파이브가이즈' M&A 가격 조정 들어가...",
+    "summary": "PE운용사 H&Q코리아의 자회사 H&Q에쿼티파트너스가 한화갤러리아로부터 파이브가이즈를 운영하는 에프지코리아 지분 100%를 인수하는 거래에서 수익성 악화로 인한 가격 조정 협상을 진행 중이다.",
+    "company": "에프지코리아",
+    "acquirer": "H&Q에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.etoday.co.kr/news/view/2575496",
+    "date": "2026.04.14"
+  },
+  {
+    "title": "㈜두산 전자BG, 기업가치 19兆 육박",
+    "summary": "두산그룹이 세계 3위 반도체 웨이퍼 제조사 SK실트론의 지분 70.6%를 인수하기 위해 우선협상대상자로 선정되었으며, 딜 규모는 최대 5조원 규모로 추정됨",
+    "company": "SK실트론",
+    "acquirer": "두산그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5조원",
+    "deal_stage": "협상",
+    "url": "http://www.fnnews.com/news/202604140758230341",
+    "date": "2026.04.14"
+  },
+  {
+    "title": "[더벨]'엠앤씨솔루션 인수' 한투파PE, 한투·우리은행과 맞손 유력",
+    "summary": "한국투자파트너스 PE본부가 방산·우주 부품 기업 엠앤씨솔루션을 인수하기 위해 우선협상대상자로 낙점된 후 인수금융을 준비 중인 신규 딜",
+    "company": "엠앤씨솔루션",
+    "acquirer": "한국투자파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604091506542600105477",
+    "date": "2026.04.14"
+  },
+  {
+    "title": "E&F PE, '수도권 매립지' KES환경개발 인수금융 조달 협상 착수",
+    "summary": "PE 운용사 E&F PE가 폐기물 매립지 운영업체 KES환경개발의 인수를 위해 인수금융(Debt) 조달 협상을 시작했으며, 이는 신규 인수거래(Buyout)의 본격적인 추진 단계",
+    "company": "KES환경개발",
+    "acquirer": "E&F PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10716356?ref=naver",
+    "date": "2026.04.14"
+  },
+  {
+    "title": "SK네트웍스, SK일렉링크 지분 매각 완료…\"사업구조 최적화 속도\"",
+    "summary": "SK네트웍스가 홍콩계 사모펀드 앵커에쿼티파트너스에 충전 사업 자회사 SK일렉링크의 지분을 매각하는 거래를 완료했다. PE의 기업 매각(엑싯) 거래에 해당한다.",
+    "company": "SK일렉링크",
+    "acquirer": "SK네트웍스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newsis.com/view/NISX20260414_0003589979",
+    "date": "2026.04.14"
+  },
+  {
+    "title": "[PEF열전] 日 지배구조 개편주·韓 밸류업 우량주 투자",
+    "summary": "MBK파트너스가 일본 공작기계 제조업체인 마키노 밀링 머신을 약 2조원 규모의 공개 매수(TOB)를 통해 인수하는 딜",
+    "company": "Makino Milling Machine",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2조원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12015712",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "HD현대오일뱅크·테넷EP … 대경오앤티 인수 우협 선정",
+    "summary": "HD현대오일뱅크와 사모펀드 테넷EP 컨소시엄이 폐식용유 처리 전문 업체 대경오앤티의 인수 우선협상대상자로 선정되었으며, 약 5,000억원 규모로 지분 100% 인수를 추진 중인 전략적 M&A 거래",
+    "company": "대경오앤티",
+    "acquirer": "HD현대오일뱅크",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12015681",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "[마켓인]'1조 패키지 딜'의 유혹…애큐온에 베팅한 금융지주들",
+    "summary": "1조원대 몸값의 애큐온캐피탈을 둘러싸고 국내외 금융지주와 사모펀드(PEF) 운용사들이 인수에 나서고 있으며, 캐피탈과 저축은행을 함께 인수하는 패키지 딜이 추진 중",
+    "company": "애큐온캐피탈",
+    "acquirer": null,
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "소문",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526645415792",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "현대오일뱅크, '바이오연료 1위' 대경오앤티 인수 우협 선정",
+    "summary": "현대오일뱅크가 국내 최대 바이오디젤 원료 생산기업 대경오앤티 인수전에서 우선협상대상자로 선정됨. SK온과 유진PE·산업은행PE가 공동 보유한 대경오앤티의 전략적 매각 거래",
+    "company": "대경오앤티",
+    "acquirer": "현대오일뱅크",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://view.asiae.co.kr/article/2026041319295082647",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "HD현대오일뱅크, 日 에네오스 꺾고 '대경오앤티' 우협 선정…5000억 빅딜",
+    "summary": "HD현대오일뱅크가 유진프라이빗에쿼티와 산업은행, SK온이 보유한 국내 최대 바이오디젤 원료 생산기업 대경오앤티의 인수전에서 일본 에네오스를 제치고 우선협상대상자로 선정되었다.",
+    "company": "대경오앤티",
+    "acquirer": "HD현대오일뱅크",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "협상",
+    "url": "http://www.fnnews.com/news/202604131605408212",
+    "date": "2026.04.13"
+  },
+  {
+    "title": "예별손보, '운명의 주'…16일 본입찰, 불발 시 계약이전",
+    "summary": "예별손보 매각을 두고 한국투자금융지주, 하나금융지주, JC플라워 등 복수의 인수 후보자들이 16일 본입찰에 참여하는 전략적 M&A 딜",
+    "company": "예별손보",
+    "acquirer": "한국투자금융지주, 하나금융지주, JC플라워",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newspim.com/news/view/20260413001101",
+    "date": "2026.04.13"
+  },
+  {
     "title": "고려아연 지분 사들이는 메리츠, 新 캐스팅보터 '급부상'",
     "summary": "메리츠가 베인캐피탈로부터 고려아연 지분을 인수하는 블록딜을 진행 중. 인수가는 원금 약 4000억원에 이자와 부대비용을 포함한 규모",
     "company": "고려아연",
@@ -1235,179 +1403,5 @@
     "deal_stage": "소문",
     "url": "https://www.sedaily.com/article/20028331?ref=naver",
     "date": "2026.04.05"
-  },
-  {
-    "title": "이음PE의 투자 전략, 투자기업 '지분 100% 인수' [넘버스]",
-    "summary": "이음PE가 총 1700억원을 투입해 전선·배선 제조기업 삼원액트의 지분 100%를 인수하는 PE 버나웃 딜",
-    "company": "삼원액트",
-    "acquirer": "이음PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1700억원",
-    "deal_stage": "완료",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=658676",
-    "date": "2026.04.05"
-  },
-  {
-    "title": "은둔의 태광, M&A 새 포식자로…2.3조 실탄 바이오·조선 '정조준'",
-    "summary": "태광산업이 2.3조원의 실탄을 바탕으로 케이조선 인수를 추진 중이며, 인수의향서(LOI)를 제출하고 이달 중순 경영권 확보를 위한 법적 절차를 진행할 예정",
-    "company": "한국조선해양",
-    "acquirer": "태광산업",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2.3조원",
-    "deal_stage": "협상",
-    "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=836719",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "[특징주] 풍산, 한화에어로스페이스 탄약사업부 인수 추진 소식에 19%대...",
-    "summary": "풍산이 한화에어로스페이스의 탄약사업부를 인수하기 위해 추진 중인 전략적 M&A 거래. 한화에어로스페이스 회장의 승계 문제(한국 국적 요건)로 인해 탄약사업부 매각이 추진되고 있음.",
-    "company": "한화에어로스페이스 탄약사업부",
-    "acquirer": "풍산",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.tokenpost.kr/news/economy/346581",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "한화에어로스페이스, 풍산 탄약 사업 인수 추진",
-    "summary": "한화에어로스페이스가 풍산의 탄약 사업부를 인수하기 위해 비공개 입찰에 참여하여 최종 입찰 제안서를 제출했다. 풍산은 소구경부터 대구경까지 다양한 군용 탄약을 생산하는 기업이다.",
-    "company": "풍산",
-    "acquirer": "한화에어로스페이스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7158490",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "베인캐피탈, 에코마케팅 완전 자회사로…포괄적 주식 교환 추진 [fn마켓...",
-    "summary": "글로벌 사모펀드 베인캐피탈이 에코마케팅을 완전 자회사로 편입하기 위해 포괄적 주식교환을 추진 중인 딜. 베인캐피탈의 에코마케팅 인수로 소수주주 지분을 모두 통합하는 전략적 인수거래",
-    "company": "에코마케팅",
-    "acquirer": "베인캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.fnnews.com/news/202604041604132730",
-    "date": "2026.04.04"
-  },
-  {
-    "title": "'징벌적 상속세'에 짐 싸는 기업…청호나이스도 결국 매물 행렬",
-    "summary": "글로벌 사모펀드 칼라일이 국내 얼음정수기 시장 선두기업인 청호나이스의 인수를 검토 중인 것으로 알려졌다. 창업주 상속세 부담이 주요 배경으로 지적되고 있다.",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.mediapen.com/news/view/1091244",
-    "date": "2026.04.04"
-  },
-  {
-    "title": "[단독]M&A 포식자 떠오른 태광…단독 협상으로 케이조선 인수 유력[시그...",
-    "summary": "태광이 케이조선 인수를 위해 글로벌 사모펀드 TPG와의 컨소시엄을 구성했으나 TPG가 이탈한 후 단독 협상으로 인수를 추진 중인 딜",
-    "company": "케이조선",
-    "acquirer": "태광",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20028076?ref=naver",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "[단독] 마스턴투자운용, 경남에너지 지분 25% 인수한다 [시그널]",
-    "summary": "마스턴투자운용이 약 1,500억 원을 투자해 경남에너지의 지분 25%를 신규 인수하는 세컨더리 거래. 현재 프로스타캐피탈이 80.1% 보유 중",
-    "company": "경남에너지",
-    "acquirer": "마스턴투자운용",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "1500억원",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20028017?ref=naver",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "에코마케팅, 포괄적 주식교환 결정…교부금은 1만 6000원 [시그널]",
-    "summary": "베인캐피털이 지난해 인수한 코스닥 상장사 에코마케팅을 완전 자회사로 만들기 위해 포괄적 주식교환을 결정했으며, 당시 주가에 약 50% 프리미엄을 붙여 공개매수를 진행 중인 거래",
-    "company": "에코마케팅",
-    "acquirer": "베인캐피털",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.sedaily.com/article/20028109?ref=naver",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "[하파크리스틴 매각]③ 혁신과 위법 사이…리스크 된 '온라인 픽업'",
-    "summary": "사모펀드 운용사 케이엘앤파트너스가 국내 콘택트렌즈 브랜드 하파크리스틴을 보유한 피피비스튜디오스 인수를 추진 중인 PE 기업 인수 딜",
-    "company": "피피비스튜디오스",
-    "acquirer": "케이엘앤파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=658597",
-    "date": "2026.04.03"
-  },
-  {
-    "title": "GS·SK·태영·IS동서, 사업 부문서 '환경' 떼고 'AI·반도체' 붙인다",
-    "summary": "IMM 컨소시엄이 에코비트를 인수했으며, IS동서·E&F PE 컨소시엄도 산업폐기물 업체 코엔텍 인수를 추진 중. 두 건 모두 환경 사업에서 AI·반도체 등 신사업으로의 전환을 목표로 함",
-    "company": [
-      "에코비트",
-      "코엔텍"
-    ],
-    "acquirer": [
-      "IMM 컨소시엄",
-      "IS동서·E&F PE 컨소시엄"
-    ],
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "2.7조원",
-    "deal_stage": "완료 | 협상",
-    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244010",
-    "date": "2026.04.02"
-  },
-  {
-    "title": "SK이노, 대한송유관 지분 매각 우선협상대상자로 IMM인베 선정",
-    "summary": "SK이노베이션이 보유 중인 대한송유관공사 지분 41%을 IMM인베스트먼트를 우선협상대상자로 선정하여 매각하는 블록딜",
-    "company": "대한송유관공사",
-    "acquirer": "IMM인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mt.co.kr/industry/2026/03/27/2026032713592079642",
-    "date": "2026.03.27"
   }
 ]
