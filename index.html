@@ -33,8 +33,9 @@ title: IGS Research
 <!-- ===================== PORTFOLIO (기본) ===================== -->
 <section id="portfolio" class="panel panel--active" role="tabpanel">
   <div class="panel__intro">
+    <div class="panel__label">Selected Works</div>
     <h2 class="panel__title">Research Portfolio</h2>
-    <p class="panel__desc">PE / M&amp;A 딜 리서치 메모 아카이브. PDF는 바로 브라우저에서 미리 볼 수 있으며, 엑셀 모델은 다운로드 가능합니다.</p>
+    <p class="panel__desc">Case Competition, Co-curricular, 그리고 이전 업무에서 수행한 작업물입니다. PDF는 바로 브라우저에서 미리 볼 수 있으며, Excel 모델은 다운로드 가능합니다.</p>
   </div>
 
   {% assign items = site.data.portfolio | sort: 'date' | reverse %}
@@ -42,59 +43,57 @@ title: IGS Research
   {% if items.size == 0 %}
     <p class="empty">아직 업로드된 항목이 없습니다.</p>
   {% else %}
-    <div class="portfolio-grid">
+    <div class="pf-list">
       {% for item in items %}
-        {% assign sector_slug = item.sector | default: 'general' | downcase | replace: ' ', '-' | replace: '&', 'and' %}
-        <article class="pf-card pf-card--{{ sector_slug }}" data-sector="{{ item.sector }}">
-          <div class="pf-card__head">
-            <span class="pf-card__icon" aria-hidden="true">{{ item.icon | default: '📊' }}</span>
-            <span class="pf-card__sector">{{ item.sector | default: 'General' }}</span>
-          </div>
-
-          <div class="pf-card__body">
-            <h3 class="pf-card__title">{{ item.title }}</h3>
-
-            {% if item.acquirer or item.company %}
-              <p class="pf-card__parties">
-                {% if item.acquirer %}<span class="pf-party">{{ item.acquirer }}</span>{% endif %}
-                {% if item.acquirer and item.company %}<span class="pf-party__arrow">→</span>{% endif %}
-                {% if item.company %}<span class="pf-party">{{ item.company }}</span>{% endif %}
-              </p>
+        <article class="pf-proj" id="{{ item.id }}">
+          <header class="pf-proj__head">
+            <div class="pf-proj__title-wrap">
+              <h3 class="pf-proj__title">{{ item.title }}</h3>
+              {% if item.badge %}
+                <span class="pf-proj__badge">{{ item.badge }}</span>
+              {% endif %}
+            </div>
+            {% if item.subtitle %}
+              <p class="pf-proj__subtitle">{{ item.subtitle }}</p>
             {% endif %}
+          </header>
 
-            <p class="pf-card__date">{{ item.date | date: '%Y.%m.%d' }}</p>
+          {% if item.summary %}
+            <p class="pf-proj__summary">{{ item.summary }}</p>
+          {% endif %}
 
-            <p class="pf-card__summary">{{ item.summary }}</p>
+          {% if item.tags %}
+            <div class="pf-proj__tags">
+              {% for tag in item.tags %}
+                <span class="pf-tag">{{ tag }}</span>
+              {% endfor %}
+            </div>
+          {% endif %}
 
-            {% if item.tags %}
-              <div class="pf-card__tags">
-                {% for tag in item.tags %}
-                  <span class="pf-tag">{{ tag }}</span>
-                {% endfor %}
-              </div>
-            {% endif %}
-          </div>
-
-          <div class="pf-card__actions">
-            {% if item.pdf %}
-              <a href="{{ '/preview.html?file=' | append: item.pdf | append: '&title=' | append: item.title | relative_url }}"
-                 class="pf-btn pf-btn--primary">
-                <span>PDF 미리보기</span>
-              </a>
-              <a href="{{ '/assets/portfolio/pdf/' | append: item.pdf | relative_url }}"
-                 class="pf-btn pf-btn--ghost"
-                 download>
-                <span>PDF 다운로드</span>
-              </a>
-            {% endif %}
-            {% if item.xlsx %}
-              <a href="{{ '/assets/portfolio/xlsx/' | append: item.xlsx | relative_url }}"
-                 class="pf-btn pf-btn--ghost"
-                 download>
-                <span>Excel 다운로드</span>
-              </a>
-            {% endif %}
-          </div>
+          <ul class="pf-files">
+            {% for f in item.files %}
+              <li class="pf-file pf-file--{{ f.type }}">
+                <div class="pf-file__main">
+                  <span class="pf-file__icon" aria-hidden="true">
+                    {% if f.type == 'pdf' %}📄{% else %}📊{% endif %}
+                  </span>
+                  <span class="pf-file__label">{{ f.label }}</span>
+                  <span class="pf-file__type">{{ f.type | upcase }}</span>
+                </div>
+                <div class="pf-file__actions">
+                  {% if f.type == 'pdf' %}
+                    <a href="{{ '/preview.html?file=' | append: f.file | append: '&title=' | append: item.title | append: ' — ' | append: f.label | relative_url }}"
+                       class="pf-file__btn pf-file__btn--preview">Preview</a>
+                    <a href="{{ '/assets/portfolio/pdf/' | append: f.file | relative_url }}"
+                       class="pf-file__btn" download>Download</a>
+                  {% else %}
+                    <a href="{{ '/assets/portfolio/xlsx/' | append: f.file | relative_url }}"
+                       class="pf-file__btn" download>Download</a>
+                  {% endif %}
+                </div>
+              </li>
+            {% endfor %}
+          </ul>
         </article>
       {% endfor %}
     </div>
@@ -104,11 +103,10 @@ title: IGS Research
 <!-- ===================== DEAL NEWS ===================== -->
 <section id="dealnews" class="panel" role="tabpanel" hidden>
   <div class="panel__intro">
+    <div class="panel__label">Auto-archived · Korea PE / M&amp;A</div>
     <h2 class="panel__title">Deal News</h2>
-    <p class="panel__desc">한국 M&amp;A / PE 딜 뉴스 아카이브. 매일 자동 업데이트.</p>
   </div>
 
-  <!-- 필터 칩 -->
   <div class="chips" role="group" aria-label="Deal filters">
     <button class="chip chip--active" data-filter="all">전체</button>
     <button class="chip" data-filter="acq">인수</button>
@@ -119,7 +117,6 @@ title: IGS Research
     <button class="chip" data-filter="strategic">전략적M&amp;A</button>
   </div>
 
-  <!-- 딜 리스트 -->
   <div class="deal-list" id="deal-list">
     {% assign deals = site.data.deals | sort: 'date' | reverse %}
     {% assign prev_date = '' %}
@@ -159,8 +156,8 @@ title: IGS Research
 <!-- ===================== SECTOR ANALYSIS ===================== -->
 <section id="sector" class="panel" role="tabpanel" hidden>
   <div class="panel__intro">
+    <div class="panel__label">Industry Research</div>
     <h2 class="panel__title">Sector Analysis</h2>
-    <p class="panel__desc">섹터별 딜 흐름 및 테마 분석.</p>
   </div>
   <p class="empty">준비 중입니다.</p>
 </section>

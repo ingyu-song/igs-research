@@ -1,36 +1,92 @@
 # =============================================================
 # Portfolio Data
 # -------------------------------------------------------------
-# 새 메모 추가 방법:
-# 1) PDF 파일을 assets/portfolio/pdf/ 에 업로드
-# 2) (있으면) Excel 파일을 assets/portfolio/xlsx/ 에 업로드
-# 3) 아래 형식으로 항목 추가
+# 구조:
+#   - 각 프로젝트(project)가 카드 하나
+#   - 프로젝트 안에 files[] 목록 (Presentation, Report, Model 등)
 #
-# id:        고유 식별자 (URL/파일명 안전 문자만)
-# title:     카드에 표시되는 메모 제목
-# company:   딜 타깃 회사
-# acquirer:  인수자 / PE 펀드
-# date:      YYYY-MM-DD (정렬 기준, 최신순)
-# sector:    섹터명 (카드 색상 결정) — 아래 sector_slug 참고
-# icon:      카드 좌상단 아이콘 이모지 (없으면 📊)
-# summary:   카드 본문 설명 (1~2문장 권장)
-# pdf:       PDF 파일명 (assets/portfolio/pdf/ 기준)
-# xlsx:      Excel 파일명 (assets/portfolio/xlsx/ 기준, 선택)
-# tags:      태그 리스트 (선택)
+# 파일 업로드 위치:
+#   - PDF  → assets/portfolio/pdf/{filename}
+#   - XLSX → assets/portfolio/xlsx/{filename}
 #
-# 지원하는 sector_slug (CSS 색상 매핑):
-#   asset-management, financial-services, consumer, industrial,
-#   technology, healthcare, energy, real-estate, general
+# 필드:
+#   id:       고유 식별자 (URL-safe)
+#   title:    카드 제목
+#   subtitle: 카드 부제 (선택)
+#   date:     YYYY-MM-DD (정렬 기준, 최신순)
+#   badge:    우측 상단 배지 텍스트 (예: First Runner Up)
+#   tags:     태그 리스트 (선택)
+#   summary:  카드 본문 설명 (1~2문장)
+#   files:    파일 목록
+#     - label:    파일 레이블 (예: Presentation, Report, Model)
+#       name:     표시용 파일명
+#       file:     실제 파일명 (확장자 포함)
+#       type:     pdf | xlsx
+#       size:     파일 크기 (선택, 예: "3.9 MB")
 # =============================================================
 
-- id: 2025-01-igis-hillhouse
-  title: 이지스자산운용 인수 분석
-  company: 이지스자산운용
-  acquirer: Hillhouse Capital
-  date: 2025-01-15
-  sector: Asset Management
-  icon: 🏢
-  summary: 힐하우스 캐피탈의 이지스자산운용 지분 인수 구조 및 밸류에이션 분석. DCF 기반 EV 산정, QoE 조정 내역, 섹터 비교 멀티플 포함.
-  pdf: 2025-01-igis-hillhouse.pdf
-  # xlsx: 2025-01-igis-model.xlsx   ← Excel 모델 있을 경우 주석 해제
-  tags: [PE, Asset Management, Cross-border]
+- id: nus-pe-club
+  title: NUS Private Equity Club
+  subtitle: Deal Team 4
+  date: 2025-03-01
+  tags: [Private Equity, Deal Research]
+  summary: NUS PE Club Deal Team 4에서 수행한 두 건의 딜 메모 및 밸류에이션 모델. EOS Energy(청정에너지 스토리지)와 Coinbase(디지털 자산 거래소) 대상.
+  files:
+    - label: EOS Energy — Memo
+      file: nuspe-eos-energy-memo.pdf
+      type: pdf
+    - label: EOS Energy — Model
+      file: nuspe-eos-energy-model.xlsx
+      type: xlsx
+    - label: Coinbase — Memo
+      file: nuspe-coinbase-memo.pdf
+      type: pdf
+    - label: Coinbase — Model
+      file: nuspe-coinbase-model.xlsx
+      type: xlsx
+
+- id: cfa-challenge-2025
+  title: CFA Research Challenge 2025
+  subtitle: NUS Team A04 — NCC Capital
+  date: 2025-02-01
+  badge: First Runner Up
+  tags: [Equity Research, Valuation]
+  summary: 2025 CFA Institute Research Challenge 출품작. 상장사 NCC Capital에 대한 투자 분석 및 밸류에이션을 수행하고 국가 결선에서 준우승.
+  files:
+    - label: Presentation
+      file: cfa-challenge-2025-presentation.pdf
+      type: pdf
+    - label: Report
+      file: cfa-challenge-2025-report.pdf
+      type: pdf
+    - label: Model
+      file: cfa-challenge-2025-model.xlsx
+      type: xlsx
+
+- id: linetype-technologies
+  title: Linetype Technologies
+  subtitle: KSGC Application
+  date: 2024-11-01
+  tags: [Startup, Pitch Deck]
+  summary: K-Startup Grand Challenge(KSGC) 지원을 위한 Linetype Technologies의 사업 지원 자료. 지원서, 피치덱, 추천서 포함.
+  files:
+    - label: Application Form
+      file: linetype-ksgc-application.pdf
+      type: pdf
+    - label: Pitch Deck
+      file: linetype-pitch-deck.pdf
+      type: pdf
+    - label: Recommendation Letter
+      file: linetype-recommendation-letter.pdf
+      type: pdf
+
+- id: nus-cfa-club
+  title: NUS CFA Club
+  subtitle: Weekly Meeting
+  date: 2024-09-01
+  tags: [CFA, Study Group]
+  summary: NUS CFA Club 주간 스터디 세션 발표 자료. 기업 발행자 분석 관련.
+  files:
+    - label: Week 2 — Corporate Issuer
+      file: nuscfa-week2-corporate-issuer.pdf
+      type: pdf
