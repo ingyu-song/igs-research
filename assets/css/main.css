@@ -1,88 +1,520 @@
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Geist',sans-serif;font-size:14px;background:#fff;color:#1a1a1a}
-a{text-decoration:none;color:inherit}
+/* ===========================================================
+   IGS Research — main.css
+   Portfolio-first redesign
+   =========================================================== */
 
-.wrap{max-width:900px;margin:0 auto;padding:2rem 1.5rem}
+:root {
+  --bg:           #0b0f1a;
+  --bg-elev:      #121826;
+  --bg-card:      #1a2233;
+  --border:       #2a3346;
+  --border-soft:  #1f2738;
 
-.topnav{display:flex;align-items:center;justify-content:space-between;padding-bottom:1.25rem;border-bottom:0.5px solid #e5e5e5;margin-bottom:2rem}
-.brand{font-family:'Instrument Serif',serif;font-size:20px;letter-spacing:-0.3px}
-.brand em{font-style:italic;color:#888}
-.navlinks{display:flex;gap:4px}
-.navlink{font-size:12px;color:#888;padding:5px 14px;border:0.5px solid transparent;border-radius:8px;cursor:pointer;font-family:'DM Mono',monospace;letter-spacing:0.03em;transition:all 0.15s}
-.navlink:hover{color:#1a1a1a}
-.navlink.active{color:#1a1a1a;border-color:#d0d0d0;background:#f5f5f5}
+  --text:         #e6ebf5;
+  --text-dim:     #8b94a7;
+  --text-faint:   #5a6478;
 
-.section{display:none}
-.section.visible{display:block}
+  --accent:       #c9a961;   /* gold */
+  --accent-dim:   #8a7540;
+  --link:         #7ab8ff;
 
-.section-head{margin-bottom:1.5rem}
-.section-label{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.12em;color:#aaa;margin-bottom:0.4rem;text-transform:uppercase}
-.section-title{font-family:'Instrument Serif',serif;font-size:28px;color:#1a1a1a;line-height:1.2}
+  --navy-deep:    #0d1526;
 
-.filter-row{display:flex;gap:6px;margin-bottom:1.25rem;flex-wrap:wrap}
-.chip{font-size:11px;padding:4px 12px;border-radius:20px;border:0.5px solid #e0e0e0;color:#888;cursor:pointer;font-family:'DM Mono',monospace;transition:all 0.15s}
-.chip.active{background:#1a1a1a;color:#fff;border-color:#1a1a1a}
+  /* 섹터 컬러 팔레트 */
+  --sec-asset-management:  #c9a961;
+  --sec-financial-services:#7ab8ff;
+  --sec-consumer:          #e07a9a;
+  --sec-industrial:        #9ca3af;
+  --sec-technology:        #8b5cf6;
+  --sec-healthcare:        #4ade80;
+  --sec-energy:            #fb923c;
+  --sec-real-estate:       #facc15;
+  --sec-general:           #8b94a7;
 
-.deal-list{display:flex;flex-direction:column}
-.deal-row{display:grid;grid-template-columns:90px 1fr auto;align-items:start;gap:16px;padding:14px 0;border-bottom:0.5px solid #f0f0f0}
-.deal-row.hidden{display:none}
-.deal-date{font-family:'DM Mono',monospace;font-size:11px;color:#aaa;padding-top:2px}
-.deal-title{font-size:14px;font-weight:500;color:#1a1a1a;margin-bottom:4px;line-height:1.4}
-.deal-sub{font-size:12px;color:#666;line-height:1.5}
-.deal-tags{display:flex;gap:4px;margin-top:6px;flex-wrap:wrap}
-.dtag{font-size:10px;padding:2px 7px;border-radius:3px;font-family:'DM Mono',monospace;font-weight:500}
-.dtag.acq{background:#E6F1FB;color:#0C447C}
-.dtag.exit{background:#EAF3DE;color:#27500A}
-.dtag.lbo{background:#FAEEDA;color:#633806}
-.dtag.sec{background:#EEEDFE;color:#3C3489}
-.deal-ev{font-size:13px;font-weight:500;color:#1a1a1a;white-space:nowrap;padding-top:2px}
+  /* Deal stage 색상 */
+  --stage-rumor:   #e07a9a;
+  --stage-nego:    #fb923c;
+  --stage-signed:  #7ab8ff;
+  --stage-closed:  #4ade80;
+}
 
-/* deal stage 배지 */
-.stage-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:2px 8px;border-radius:20px;border:0.5px solid #e0e0e0;color:#888;font-family:'DM Mono',monospace;vertical-align:middle;margin-left:6px}
-.stage-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
-.stage--소문 .stage-dot{background:#db2777}
-.stage--협상 .stage-dot{background:#d97706}
-.stage--계약 .stage-dot{background:#2563eb}
-.stage--완료 .stage-dot{background:#059669}
+* { box-sizing: border-box; }
 
-.memo-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
-.memo-card{border:0.5px solid #e5e5e5;border-radius:12px;padding:1.25rem;background:#fff;cursor:pointer;transition:border-color 0.15s;display:block}
-.memo-card:hover{border-color:#aaa}
-.mc-sector{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.08em;color:#aaa;text-transform:uppercase;margin-bottom:6px}
-.mc-title{font-family:'Instrument Serif',serif;font-size:17px;color:#1a1a1a;line-height:1.3;margin-bottom:10px}
-.mc-meta{display:flex;gap:6px;flex-wrap:wrap}
-.mc-tag{font-size:10px;padding:2px 7px;border-radius:3px;font-family:'DM Mono',monospace}
-.mc-tag.deal{background:#E6F1FB;color:#0C447C}
-.mc-footer{margin-top:12px;padding-top:10px;border-top:0.5px solid #f0f0f0;font-size:11px;color:#aaa;font-family:'DM Mono',monospace}
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Pretendard', 'Apple SD Gothic Neo',
+               'Noto Sans KR', 'Segoe UI', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
 
-.sector-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
-.sec-cat{border:0.5px solid #e5e5e5;border-radius:12px;overflow:hidden}
-.sec-cat-head{padding:1rem;border-bottom:0.5px solid #f0f0f0}
-.sec-cat-name{font-size:13px;font-weight:500;color:#1a1a1a;margin-bottom:2px}
-.sec-cat-sub{font-size:11px;color:#aaa}
-.sec-items{padding:0.75rem}
-.sec-item{display:block;padding:8px 0;border-bottom:0.5px solid #f5f5f5}
-.sec-item:last-child{border-bottom:none}
-.sec-item:hover .sec-item-title{color:#378ADD}
-.sec-item-title{font-size:12px;color:#1a1a1a;line-height:1.4;margin-bottom:3px;transition:color 0.15s}
-.sec-item-date{font-family:'DM Mono',monospace;font-size:10px;color:#aaa}
-a.deal-row{display:grid;text-decoration:none;color:inherit}
-a.deal-row:hover .deal-title{color:#378ADD}
-.deal-group{border-bottom:0.5px solid #f0f0f0}
-.deal-group.hidden{display:none}
-.deal-group-header{display:grid;grid-template-columns:90px 1fr auto;align-items:start;gap:16px;padding:14px 0;cursor:pointer}
-.deal-group-header:hover .deal-title{color:#378ADD}
-.article-count{font-size:11px;font-family:'DM Mono',monospace;color:#aaa;margin-left:6px}
-.arrow{font-size:11px;color:#aaa;margin-left:4px}
-.deal-articles{display:none;margin:0 0 12px 106px;flex-direction:column;gap:0;border-left:2px solid #f0f0f0;padding-left:16px}
-.deal-articles.open{display:flex}
-.deal-article-item{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:0.5px solid #f5f5f5;text-decoration:none}
-.deal-article-item:hover .deal-article-title{color:#378ADD}
-.deal-article-title{font-size:13px;color:#1a1a1a;line-height:1.4}
-.deal-article-date{font-family:'DM Mono',monospace;font-size:11px;color:#aaa;white-space:nowrap;margin-left:12px}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
 
-/* region toggle */
-.nav-left{display:flex;align-items:center;gap:12px}
-.region-toggle{display:flex;background:#f0f0f0;border-radius:8px;padding:2px;gap:2px}
-.region-btn{font-size:11px;padding:4px 10px;border-radius:6px;cursor:pointer;font-family:'DM Mono',monospace;color:#888;transition:all 0.15s}
-.region-btn.active{background:#fff;color:#1a1a1a;box-shadow:0 1px 3px rgba(0,0,0,0.1)}
+/* =========================================================
+   Site Header (상단 링크 바)
+   ========================================================= */
+.site-header {
+  background: var(--navy-deep);
+  border-bottom: 1px solid var(--border);
+  padding: 28px 40px 24px;
+}
+.site-header__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.site-title {
+  font-size: 26px;
+  margin: 0;
+  color: var(--accent);
+  letter-spacing: 0.5px;
+  font-weight: 700;
+}
+.site-tagline {
+  font-size: 13px;
+  color: var(--text-dim);
+  margin: 4px 0 0;
+  letter-spacing: 0.3px;
+}
+.site-links {
+  display: flex;
+  gap: 10px;
+}
+.site-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text);
+  font-size: 13px;
+  transition: all 0.15s ease;
+}
+.site-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  text-decoration: none;
+}
+.site-link__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+/* =========================================================
+   Tabs
+   ========================================================= */
+.tabs {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+  display: flex;
+  gap: 4px;
+  border-bottom: 1px solid var(--border);
+}
+.tab {
+  background: transparent;
+  border: none;
+  color: var(--text-dim);
+  padding: 16px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all 0.15s ease;
+  font-family: inherit;
+}
+.tab:hover { color: var(--text); }
+.tab--active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* =========================================================
+   Panel
+   ========================================================= */
+.panel {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 40px 80px;
+}
+.panel[hidden] { display: none; }
+
+.panel__intro { margin-bottom: 28px; }
+.panel__title {
+  font-size: 22px;
+  margin: 0 0 6px;
+  color: var(--text);
+  font-weight: 600;
+}
+.panel__desc {
+  font-size: 14px;
+  color: var(--text-dim);
+  margin: 0;
+}
+
+.empty {
+  color: var(--text-faint);
+  text-align: center;
+  padding: 60px 0;
+  font-size: 14px;
+}
+
+/* =========================================================
+   Portfolio Grid
+   ========================================================= */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+.pf-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+}
+.pf-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent-dim);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+/* 카드 헤더 (아이콘 + 섹터 컬러) */
+.pf-card__head {
+  padding: 18px 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid var(--border-soft);
+  background: linear-gradient(135deg, var(--sector-color, var(--sec-general)) 0%, transparent 120%);
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+.pf-card__icon {
+  font-size: 24px;
+  line-height: 1;
+}
+.pf-card__sector {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-dim);
+  font-weight: 600;
+}
+
+/* 섹터별 컬러 오버라이드 */
+.pf-card--asset-management  .pf-card__head { border-left: 3px solid var(--sec-asset-management); }
+.pf-card--asset-management  .pf-card__sector { color: var(--sec-asset-management); }
+.pf-card--financial-services .pf-card__head { border-left: 3px solid var(--sec-financial-services); }
+.pf-card--financial-services .pf-card__sector { color: var(--sec-financial-services); }
+.pf-card--consumer          .pf-card__head { border-left: 3px solid var(--sec-consumer); }
+.pf-card--consumer          .pf-card__sector { color: var(--sec-consumer); }
+.pf-card--industrial        .pf-card__head { border-left: 3px solid var(--sec-industrial); }
+.pf-card--industrial        .pf-card__sector { color: var(--sec-industrial); }
+.pf-card--technology        .pf-card__head { border-left: 3px solid var(--sec-technology); }
+.pf-card--technology        .pf-card__sector { color: var(--sec-technology); }
+.pf-card--healthcare        .pf-card__head { border-left: 3px solid var(--sec-healthcare); }
+.pf-card--healthcare        .pf-card__sector { color: var(--sec-healthcare); }
+.pf-card--energy            .pf-card__head { border-left: 3px solid var(--sec-energy); }
+.pf-card--energy            .pf-card__sector { color: var(--sec-energy); }
+.pf-card--real-estate       .pf-card__head { border-left: 3px solid var(--sec-real-estate); }
+.pf-card--real-estate       .pf-card__sector { color: var(--sec-real-estate); }
+.pf-card--general           .pf-card__head { border-left: 3px solid var(--sec-general); }
+
+/* 카드 본문 */
+.pf-card__body {
+  padding: 18px 20px;
+  flex: 1;
+}
+.pf-card__title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 10px;
+  line-height: 1.4;
+}
+.pf-card__parties {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin: 0 0 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.pf-party {
+  background: var(--bg-elev);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+}
+.pf-party__arrow { color: var(--accent); }
+.pf-card__date {
+  font-size: 12px;
+  color: var(--text-faint);
+  margin: 0 0 12px;
+  font-family: 'SF Mono', Menlo, monospace;
+}
+.pf-card__summary {
+  font-size: 13px;
+  color: var(--text-dim);
+  line-height: 1.6;
+  margin: 0 0 14px;
+}
+.pf-card__tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+.pf-tag {
+  font-size: 10px;
+  padding: 3px 8px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text-dim);
+  letter-spacing: 0.3px;
+}
+
+/* 카드 액션 */
+.pf-card__actions {
+  padding: 14px 20px;
+  border-top: 1px solid var(--border-soft);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.pf-btn {
+  flex: 1;
+  min-width: 100px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-size: 12px;
+  text-align: center;
+  transition: all 0.15s ease;
+  border: 1px solid transparent;
+  font-weight: 500;
+}
+.pf-btn:hover { text-decoration: none; }
+.pf-btn--primary {
+  background: var(--accent);
+  color: var(--navy-deep);
+}
+.pf-btn--primary:hover {
+  background: #d7b870;
+}
+.pf-btn--ghost {
+  background: transparent;
+  border-color: var(--border);
+  color: var(--text-dim);
+}
+.pf-btn--ghost:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* =========================================================
+   Preview Page (PDF)
+   ========================================================= */
+.preview-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 40px 60px;
+}
+.preview-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.preview-back {
+  color: var(--text-dim);
+  font-size: 13px;
+}
+.preview-back:hover { color: var(--accent); text-decoration: none; }
+.preview-title {
+  flex: 1;
+  margin: 0;
+  font-size: 16px;
+  color: var(--text);
+  font-weight: 600;
+}
+.preview-dl {
+  padding: 8px 16px;
+  background: var(--accent);
+  color: var(--navy-deep);
+  border-radius: 5px;
+  font-size: 13px;
+  font-weight: 500;
+}
+.preview-dl:hover { background: #d7b870; text-decoration: none; }
+
+.preview-frame-wrap {
+  width: 100%;
+  height: calc(100vh - 200px);
+  min-height: 600px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+}
+#preview-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.preview-fallback {
+  text-align: center;
+  color: var(--text-faint);
+  font-size: 12px;
+  margin-top: 16px;
+}
+
+/* =========================================================
+   Deal News (기존 스타일 유지)
+   ========================================================= */
+.chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+.chip {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.15s ease;
+}
+.chip:hover { border-color: var(--accent-dim); color: var(--text); }
+.chip--active {
+  background: var(--accent);
+  color: var(--navy-deep);
+  border-color: var(--accent);
+}
+
+.deal-date {
+  font-size: 12px;
+  color: var(--text-faint);
+  font-family: 'SF Mono', Menlo, monospace;
+  letter-spacing: 1px;
+  margin: 24px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border-soft);
+}
+.deal-date:first-of-type { margin-top: 0; }
+
+.deal {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--border-soft);
+}
+.deal__head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+.deal__company {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.deal__ev {
+  font-size: 12px;
+  color: var(--accent);
+  font-family: 'SF Mono', Menlo, monospace;
+}
+.deal__title { margin: 4px 0; font-size: 14px; }
+.deal__title a { color: var(--text); }
+.deal__title a:hover { color: var(--link); }
+.deal__summary {
+  font-size: 13px;
+  color: var(--text-dim);
+  margin: 4px 0 8px;
+  line-height: 1.6;
+}
+.deal__meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 11px;
+}
+.deal__acquirer {
+  color: var(--accent-dim);
+  font-weight: 500;
+}
+.deal__tag {
+  color: var(--text-faint);
+  padding: 1px 8px;
+  border: 1px solid var(--border-soft);
+  border-radius: 10px;
+}
+
+/* Stage Badge */
+.stage-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 9px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+.stage-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--text-faint);
+}
+.stage--소문   .stage-dot, .stage--소문   { color: var(--stage-rumor);  }
+.stage--협상   .stage-dot, .stage--협상   { color: var(--stage-nego);   }
+.stage--계약   .stage-dot, .stage--계약   { color: var(--stage-signed); }
+.stage--완료   .stage-dot, .stage--완료   { color: var(--stage-closed); }
+.stage--소문   .stage-dot { background: var(--stage-rumor);  }
+.stage--협상   .stage-dot { background: var(--stage-nego);   }
+.stage--계약   .stage-dot { background: var(--stage-signed); }
+.stage--완료   .stage-dot { background: var(--stage-closed); }
+
+/* =========================================================
+   Responsive
+   ========================================================= */
+@media (max-width: 768px) {
+  .site-header,
+  .tabs,
+  .panel,
+  .preview-wrap { padding-left: 20px; padding-right: 20px; }
+  .portfolio-grid { grid-template-columns: 1fr; }
+  .site-header__inner { flex-direction: column; align-items: flex-start; }
+}
