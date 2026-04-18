@@ -1,127 +1,169 @@
 ---
 layout: default
-title: Korea PE Research
+title: IGS Research
 ---
-<div class="wrap">
-  <nav class="topnav">
-    <div class="brand">IGS <em>Research</em></div>
-    <div class="navlinks">
-      <div class="navlink active" onclick="show('flow',this)">Deal Flow</div>
-      <div class="navlink" onclick="show('memo',this)">Deal Memo</div>
-      <div class="navlink" onclick="show('sector',this)">Sector</div>
-    </div>
-  </nav>
 
-  <div id="flow" class="section visible">
-    <div class="section-head">
-      <div class="section-label">Auto-archived · Korea PE/M&A</div>
-      <div class="section-title">Deal Flow</div>
+<!-- ===================== 상단 링크 바 ===================== -->
+<header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-header__brand">
+      <h1 class="site-title">IGS Research</h1>
+      <p class="site-tagline">Korean PE / M&amp;A Deal Research</p>
     </div>
-    <div class="filter-row">
-      <div class="chip active" onclick="filterDeal('all',this)">전체</div>
-      <div class="chip" onclick="filterDeal('acq',this)">인수</div>
-      <div class="chip" onclick="filterDeal('exit',this)">엑싯</div>
-      <div class="chip" onclick="filterDeal('lbo',this)">LBO</div>
-      <div class="chip" onclick="filterDeal('sec',this)">Secondary</div>
-      <div class="chip" onclick="filterDeal('block',this)">블록딜</div>
-      <div class="chip" onclick="filterDeal('strategic',this)">전략적M&A</div>
-    </div>
-    <div class="deal-list" id="deal-list">
-      {% for deal in site.data.deals %}
-      <div class="deal-row"
-        data-type="{{ deal.type }}"
-        data-title="{{ deal.title }}"
-        data-date="{{ deal.date }}"
-        data-summary="{{ deal.summary }}"
-        data-url="{{ deal.url }}"
-        data-ev="{{ deal.ev }}"
-        data-company="{{ deal.company }}"
-        data-acquirer="{{ deal.acquirer }}"
-        data-deal-stage="{{ deal.deal_stage }}">        <div class="deal-date">{{ deal.date }}</div>
-        <div class="deal-body">
-          <div class="deal-title">{{ deal.title }}</div>
-          <div class="deal-sub">{{ deal.summary }}</div>
-          <div class="deal-tags">
-            {% for t in deal.tags %}
-            <span class="dtag {{ t }}">{{ t | upcase }}</span>
-            {% endfor %}
+    <nav class="site-links" aria-label="Personal links">
+      <a href="mailto:igsong522@gmail.com" class="site-link" aria-label="Email">
+        <span class="site-link__icon">✉</span>
+        <span class="site-link__label">Email</span>
+      </a>
+      <a href="https://www.linkedin.com/in/in-gyu-andy-song/" class="site-link" target="_blank" rel="noopener" aria-label="LinkedIn">
+        <span class="site-link__icon">in</span>
+        <span class="site-link__label">LinkedIn</span>
+      </a>
+    </nav>
+  </div>
+</header>
+
+<!-- ===================== 탭 네비게이션 ===================== -->
+<nav class="tabs" role="tablist" aria-label="Main sections">
+  <button class="tab tab--active" data-tab="portfolio" role="tab" aria-selected="true">Portfolio</button>
+  <button class="tab" data-tab="dealnews" role="tab" aria-selected="false">Deal News</button>
+  <button class="tab" data-tab="sector" role="tab" aria-selected="false">Sector Analysis</button>
+</nav>
+
+<!-- ===================== PORTFOLIO (기본) ===================== -->
+<section id="portfolio" class="panel panel--active" role="tabpanel">
+  <div class="panel__intro">
+    <h2 class="panel__title">Research Portfolio</h2>
+    <p class="panel__desc">PE / M&amp;A 딜 리서치 메모 아카이브. PDF는 바로 브라우저에서 미리 볼 수 있으며, 엑셀 모델은 다운로드 가능합니다.</p>
+  </div>
+
+  {% assign items = site.data.portfolio | sort: 'date' | reverse %}
+
+  {% if items.size == 0 %}
+    <p class="empty">아직 업로드된 항목이 없습니다.</p>
+  {% else %}
+    <div class="portfolio-grid">
+      {% for item in items %}
+        {% assign sector_slug = item.sector | default: 'general' | downcase | replace: ' ', '-' | replace: '&', 'and' %}
+        <article class="pf-card pf-card--{{ sector_slug }}" data-sector="{{ item.sector }}">
+          <div class="pf-card__head">
+            <span class="pf-card__icon" aria-hidden="true">{{ item.icon | default: '📊' }}</span>
+            <span class="pf-card__sector">{{ item.sector | default: 'General' }}</span>
           </div>
-        </div>
-        <div class="deal-ev">{{ deal.ev | default: "—" }}</div>
-      </a>
+
+          <div class="pf-card__body">
+            <h3 class="pf-card__title">{{ item.title }}</h3>
+
+            {% if item.acquirer or item.company %}
+              <p class="pf-card__parties">
+                {% if item.acquirer %}<span class="pf-party">{{ item.acquirer }}</span>{% endif %}
+                {% if item.acquirer and item.company %}<span class="pf-party__arrow">→</span>{% endif %}
+                {% if item.company %}<span class="pf-party">{{ item.company }}</span>{% endif %}
+              </p>
+            {% endif %}
+
+            <p class="pf-card__date">{{ item.date | date: '%Y.%m.%d' }}</p>
+
+            <p class="pf-card__summary">{{ item.summary }}</p>
+
+            {% if item.tags %}
+              <div class="pf-card__tags">
+                {% for tag in item.tags %}
+                  <span class="pf-tag">{{ tag }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="pf-card__actions">
+            {% if item.pdf %}
+              <a href="{{ '/preview.html?file=' | append: item.pdf | append: '&title=' | append: item.title | relative_url }}"
+                 class="pf-btn pf-btn--primary">
+                <span>PDF 미리보기</span>
+              </a>
+              <a href="{{ '/assets/portfolio/pdf/' | append: item.pdf | relative_url }}"
+                 class="pf-btn pf-btn--ghost"
+                 download>
+                <span>PDF 다운로드</span>
+              </a>
+            {% endif %}
+            {% if item.xlsx %}
+              <a href="{{ '/assets/portfolio/xlsx/' | append: item.xlsx | relative_url }}"
+                 class="pf-btn pf-btn--ghost"
+                 download>
+                <span>Excel 다운로드</span>
+              </a>
+            {% endif %}
+          </div>
+        </article>
       {% endfor %}
     </div>
+  {% endif %}
+</section>
+
+<!-- ===================== DEAL NEWS ===================== -->
+<section id="dealnews" class="panel" role="tabpanel" hidden>
+  <div class="panel__intro">
+    <h2 class="panel__title">Deal News</h2>
+    <p class="panel__desc">한국 M&amp;A / PE 딜 뉴스 아카이브. 매일 자동 업데이트.</p>
   </div>
 
-  <div id="memo" class="section">
-    <div class="section-head">
-      <div class="section-label">In-depth analysis</div>
-      <div class="section-title">Deal Memo</div>
-    </div>
-    <div class="memo-grid">
-      {% for post in site.memo %}
-      <a class="memo-card" href="{{ post.url | relative_url }}">
-        <div class="mc-sector">{{ post.sector }}</div>
-        <div class="mc-title">{{ post.title }}</div>
-        <div class="mc-meta">
-          {% for tag in post.tags %}
-          <span class="mc-tag deal">{{ tag }}</span>
-          {% endfor %}
-        </div>
-        <div class="mc-footer">{{ post.date | date: "%Y.%m.%d" }} · {{ post.pages }}p</div>
-      </a>
-      {% endfor %}
-    </div>
+  <!-- 필터 칩 -->
+  <div class="chips" role="group" aria-label="Deal filters">
+    <button class="chip chip--active" data-filter="all">전체</button>
+    <button class="chip" data-filter="acq">인수</button>
+    <button class="chip" data-filter="exit">엑싯</button>
+    <button class="chip" data-filter="lbo">LBO</button>
+    <button class="chip" data-filter="sec">세컨더리</button>
+    <button class="chip" data-filter="block">블록딜</button>
+    <button class="chip" data-filter="strategic">전략적M&amp;A</button>
   </div>
 
-  <div id="sector" class="section">
-    <div class="section-head">
-      <div class="section-label">Industry Research</div>
-      <div class="section-title">Sector Analysis</div>
-    </div>
-    <div class="sector-grid">
-      <div class="sec-cat">
-        <div class="sec-cat-head">
-          <div class="sec-cat-name">Macro / Geo-political</div>
-          <div class="sec-cat-sub">거시경제 · 지정학 리스크</div>
+  <!-- 딜 리스트 -->
+  <div class="deal-list" id="deal-list">
+    {% assign deals = site.data.deals | sort: 'date' | reverse %}
+    {% assign prev_date = '' %}
+
+    {% for deal in deals %}
+      {% assign this_date = deal.date | date: '%Y.%m.%d' %}
+      {% if this_date != prev_date %}
+        <div class="deal-date" data-date="{{ this_date }}">{{ this_date }}</div>
+        {% assign prev_date = this_date %}
+      {% endif %}
+
+      <article class="deal"
+               data-type="{{ deal.type }}"
+               data-company="{{ deal.company }}">
+        <div class="deal__head">
+          <h3 class="deal__company">
+            {{ deal.company }}
+            {% if deal.deal_stage %}
+              <span class="stage-badge stage--{{ deal.deal_stage }}">
+                <span class="stage-dot"></span>{{ deal.deal_stage }}
+              </span>
+            {% endif %}
+          </h3>
+          {% if deal.ev %}<span class="deal__ev">{{ deal.ev }}</span>{% endif %}
         </div>
-        <div class="sec-items">
-          {% for post in site.sector %}{% if post.category == 'macro' %}
-          <a class="sec-item" href="{{ post.url | relative_url }}">
-            <div class="sec-item-title">{{ post.title }}</div>
-            <div class="sec-item-date">{{ post.date | date: "%Y.%m.%d" }}</div>
-          </a>
-          {% endif %}{% endfor %}
+        <p class="deal__title"><a href="{{ deal.url }}" target="_blank" rel="noopener">{{ deal.title }}</a></p>
+        <p class="deal__summary">{{ deal.summary }}</p>
+        <div class="deal__meta">
+          {% if deal.acquirer %}<span class="deal__acquirer">{{ deal.acquirer }}</span>{% endif %}
+          {% for tag in deal.tags %}<span class="deal__tag">{{ tag }}</span>{% endfor %}
         </div>
-      </div>
-      <div class="sec-cat">
-        <div class="sec-cat-head">
-          <div class="sec-cat-name">Sector Deep-dive</div>
-          <div class="sec-cat-sub">섹터별 구조 분석</div>
-        </div>
-        <div class="sec-items">
-          {% for post in site.sector %}{% if post.category == 'sector' %}
-          <a class="sec-item" href="{{ post.url | relative_url }}">
-            <div class="sec-item-title">{{ post.title }}</div>
-            <div class="sec-item-date">{{ post.date | date: "%Y.%m.%d" }}</div>
-          </a>
-          {% endif %}{% endfor %}
-        </div>
-      </div>
-      <div class="sec-cat">
-        <div class="sec-cat-head">
-          <div class="sec-cat-name">Market Intelligence</div>
-          <div class="sec-cat-sub">딜 트렌드 · 멀티플 추이</div>
-        </div>
-        <div class="sec-items">
-          {% for post in site.sector %}{% if post.category == 'market' %}
-          <a class="sec-item" href="{{ post.url | relative_url }}">
-            <div class="sec-item-title">{{ post.title }}</div>
-            <div class="sec-item-date">{{ post.date | date: "%Y.%m.%d" }}</div>
-          </a>
-          {% endif %}{% endfor %}
-        </div>
-      </div>
-    </div>
+      </article>
+    {% endfor %}
   </div>
-</div>
+</section>
+
+<!-- ===================== SECTOR ANALYSIS ===================== -->
+<section id="sector" class="panel" role="tabpanel" hidden>
+  <div class="panel__intro">
+    <h2 class="panel__title">Sector Analysis</h2>
+    <p class="panel__desc">섹터별 딜 흐름 및 테마 분석.</p>
+  </div>
+  <p class="empty">준비 중입니다.</p>
+</section>
+
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/groupdeals.js' | relative_url }}"></script>

@@ -1,0 +1,36 @@
+# =============================================================
+# Portfolio Data
+# -------------------------------------------------------------
+# 새 메모 추가 방법:
+# 1) PDF 파일을 assets/portfolio/pdf/ 에 업로드
+# 2) (있으면) Excel 파일을 assets/portfolio/xlsx/ 에 업로드
+# 3) 아래 형식으로 항목 추가
+#
+# id:        고유 식별자 (URL/파일명 안전 문자만)
+# title:     카드에 표시되는 메모 제목
+# company:   딜 타깃 회사
+# acquirer:  인수자 / PE 펀드
+# date:      YYYY-MM-DD (정렬 기준, 최신순)
+# sector:    섹터명 (카드 색상 결정) — 아래 sector_slug 참고
+# icon:      카드 좌상단 아이콘 이모지 (없으면 📊)
+# summary:   카드 본문 설명 (1~2문장 권장)
+# pdf:       PDF 파일명 (assets/portfolio/pdf/ 기준)
+# xlsx:      Excel 파일명 (assets/portfolio/xlsx/ 기준, 선택)
+# tags:      태그 리스트 (선택)
+#
+# 지원하는 sector_slug (CSS 색상 매핑):
+#   asset-management, financial-services, consumer, industrial,
+#   technology, healthcare, energy, real-estate, general
+# =============================================================
+
+- id: 2025-01-igis-hillhouse
+  title: 이지스자산운용 인수 분석
+  company: 이지스자산운용
+  acquirer: Hillhouse Capital
+  date: 2025-01-15
+  sector: Asset Management
+  icon: 🏢
+  summary: 힐하우스 캐피탈의 이지스자산운용 지분 인수 구조 및 밸류에이션 분석. DCF 기반 EV 산정, QoE 조정 내역, 섹터 비교 멀티플 포함.
+  pdf: 2025-01-igis-hillhouse.pdf
+  # xlsx: 2025-01-igis-model.xlsx   ← Excel 모델 있을 경우 주석 해제
+  tags: [PE, Asset Management, Cross-border]

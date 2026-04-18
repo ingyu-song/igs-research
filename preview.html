@@ -1,0 +1,46 @@
+---
+layout: default
+title: PDF Preview
+permalink: /preview.html
+---
+
+<div class="preview-wrap">
+  <div class="preview-bar">
+    <a href="{{ '/' | relative_url }}" class="preview-back">← Portfolio로 돌아가기</a>
+    <h2 class="preview-title" id="preview-title">문서 미리보기</h2>
+    <a href="#" id="preview-download" class="preview-dl" download>다운로드</a>
+  </div>
+
+  <div class="preview-frame-wrap">
+    <iframe id="preview-frame" title="PDF Preview"></iframe>
+  </div>
+
+  <p class="preview-fallback">
+    PDF가 표시되지 않는 경우 <a href="#" id="preview-fallback-link">여기를 클릭</a>해 다운로드해 주십시오.
+  </p>
+</div>
+
+<script>
+(function () {
+  const params = new URLSearchParams(window.location.search);
+  const file   = params.get('file');
+  const title  = params.get('title') || '문서 미리보기';
+
+  if (!file) {
+    document.querySelector('.preview-wrap').innerHTML =
+      '<p style="padding:40px;text-align:center;">파일이 지정되지 않았습니다. <a href="{{ "/" | relative_url }}">Portfolio로 돌아가기</a></p>';
+    return;
+  }
+
+  // XSS 최소 방어: 파일명에서 영숫자/하이픈/언더스코어/점만 허용
+  const safeFile = file.replace(/[^a-zA-Z0-9_\-\.]/g, '');
+  const base     = '{{ "/assets/portfolio/pdf/" | relative_url }}';
+  const fullUrl  = base + safeFile;
+
+  document.getElementById('preview-title').textContent    = title;
+  document.title                                          = title + ' — IGS Research';
+  document.getElementById('preview-frame').src            = fullUrl;
+  document.getElementById('preview-download').href        = fullUrl;
+  document.getElementById('preview-fallback-link').href   = fullUrl;
+})();
+</script>

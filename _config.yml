@@ -1,22 +1,25 @@
 title: IGS Research
-email: andysong1616@gmail.com
+description: Korean PE / M&A Deal Research
 baseurl: "/igs-research"
 url: "https://ingyu-song.github.io"
+
+# Jekyll 3 (GitHub Pages) 호환 설정
 markdown: kramdown
-theme: null
-plugins:
-  - jekyll-feed
-future: true
-collections:
-  sector:
-    output: true
-    permalink: /sector/:name/
-  memo:
-    output: true
-    permalink: /memo/:name/
+highlighter: rouge
+
+# 빌드 제외
+exclude:
+  - scraper/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .github/
+  - vendor/
+  - node_modules/
+
+# 기본 레이아웃
 defaults:
   - scope:
       path: ""
-      type: "memo"
     values:
-      layout: "memo"
+      layout: default
