@@ -1,6 +1,6 @@
 /* ===========================================================
    IGS Research — main.css
-   White minimal theme. Unified Korean font stack.
+   White minimal theme. Unified font stack.
    Navy accents for navigation + CTAs.
    =========================================================== */
 
@@ -48,9 +48,7 @@ a { text-decoration: none; color: inherit; }
 /* =========================================================
    Site Header
    ========================================================= */
-.site-header {
-  padding: 2rem 1.5rem 0;
-}
+.site-header { padding: 2rem 1.5rem 0; }
 .site-header__inner {
   display: flex;
   justify-content: space-between;
@@ -76,10 +74,7 @@ a { text-decoration: none; color: inherit; }
   letter-spacing: 0.12em;
   margin-top: 4px;
 }
-.site-links {
-  display: flex;
-  gap: 8px;
-}
+.site-links { display: flex; gap: 8px; }
 .site-link {
   display: inline-flex;
   align-items: center;
@@ -141,9 +136,7 @@ a { text-decoration: none; color: inherit; }
 /* =========================================================
    Panel
    ========================================================= */
-.panel {
-  padding: 0 1.5rem 4rem;
-}
+.panel { padding: 0 1.5rem 4rem; }
 .panel[hidden] { display: none; }
 
 .panel__intro { margin-bottom: 1.75rem; }
@@ -171,7 +164,6 @@ a { text-decoration: none; color: inherit; }
   margin: 0;
   max-width: 700px;
 }
-
 .empty {
   color: var(--text-faint);
   text-align: center;
@@ -188,7 +180,6 @@ a { text-decoration: none; color: inherit; }
   flex-direction: column;
   gap: 2rem;
 }
-
 .pf-proj {
   border: 0.5px solid var(--border);
   border-radius: 12px;
@@ -197,7 +188,6 @@ a { text-decoration: none; color: inherit; }
   transition: border-color 0.15s ease;
 }
 .pf-proj:hover { border-color: #c8c8c8; }
-
 .pf-proj__head {
   margin-bottom: 0.75rem;
   padding-bottom: 0.75rem;
@@ -236,14 +226,12 @@ a { text-decoration: none; color: inherit; }
   color: var(--text-dim);
   letter-spacing: 0.03em;
 }
-
 .pf-proj__summary {
   font-size: 13px;
   color: var(--text-mid);
   line-height: 1.65;
   margin: 0 0 0.75rem;
 }
-
 .pf-proj__tags {
   display: flex;
   gap: 5px;
@@ -259,7 +247,6 @@ a { text-decoration: none; color: inherit; }
   border-radius: 3px;
   letter-spacing: 0.02em;
 }
-
 .pf-files {
   list-style: none;
   padding: 0;
@@ -274,7 +261,6 @@ a { text-decoration: none; color: inherit; }
   border-bottom: 0.5px solid var(--border-soft);
 }
 .pf-file:last-child { border-bottom: none; }
-
 .pf-file__main {
   display: flex;
   align-items: center;
@@ -291,8 +277,6 @@ a { text-decoration: none; color: inherit; }
   font-size: 13px;
   color: var(--text);
   line-height: 1.3;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .pf-file__type {
   font-family: var(--font-mono);
@@ -304,15 +288,8 @@ a { text-decoration: none; color: inherit; }
   letter-spacing: 0.05em;
   flex-shrink: 0;
 }
-.pf-file--pdf .pf-file__type {
-  background: #fef2e8;
-  color: #9c4221;
-}
-.pf-file--xlsx .pf-file__type {
-  background: #e8f5e8;
-  color: #1f5130;
-}
-
+.pf-file--pdf .pf-file__type { background: #fef2e8; color: #9c4221; }
+.pf-file--xlsx .pf-file__type { background: #e8f5e8; color: #1f5130; }
 .pf-file__actions {
   display: flex;
   gap: 4px;
@@ -348,7 +325,7 @@ a { text-decoration: none; color: inherit; }
 }
 
 /* =========================================================
-   Preview Page (PDF)
+   Preview Page
    ========================================================= */
 .preview-wrap { padding: 1.5rem 1.5rem 4rem; }
 .preview-bar {
@@ -384,7 +361,6 @@ a { text-decoration: none; color: inherit; }
   font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.03em;
-  transition: background 0.15s ease;
 }
 .preview-dl:hover { background: var(--navy-hover); text-decoration: none; }
 .preview-frame-wrap {
@@ -406,8 +382,12 @@ a { text-decoration: none; color: inherit; }
 }
 
 /* =========================================================
-   Deal News — group structure
+   Deal News — 원본 deal-row (JS가 처리 전엔 숨김)
    ========================================================= */
+.deal-row {
+  display: none;  /* JS가 처리 후 제거됨 */
+}
+
 .chips {
   display: flex;
   gap: 6px;
@@ -426,13 +406,14 @@ a { text-decoration: none; color: inherit; }
   transition: all 0.15s ease;
 }
 .chip:hover { color: var(--text); }
-.chip--active {
+.chip--active, .chip.chip--active {
   background: var(--text);
   color: #fff;
   border-color: var(--text);
 }
 
-.deal-date {
+/* 날짜 헤더 (그룹 위) */
+.deal-date-header {
   font-family: var(--font-mono);
   font-size: 11px;
   color: var(--text-faint);
@@ -441,70 +422,96 @@ a { text-decoration: none; color: inherit; }
   margin-bottom: 4px;
   letter-spacing: 0.03em;
 }
-.deal-date:first-of-type { padding-top: 0; }
+.deal-date-header:first-of-type { padding-top: 0; }
 
+/* Deal group */
 .deal-group {
+  padding: 14px 0;
   border-bottom: 0.5px solid var(--border-soft);
 }
-.deal-group:last-child { border-bottom: none; }
+.deal-group.hidden { display: none; }
 
-.deal {
-  padding: 14px 0 12px;
-}
-.deal__head {
+.deal-group-header {
   display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 12px;
-  margin-bottom: 4px;
+  gap: 16px;
+  align-items: flex-start;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
 }
-.deal__company {
+.deal-group-header:hover { opacity: 0.8; }
+
+.deal-body {
+  flex: 1;
+  min-width: 0;
+}
+.deal-title {
   font-size: 14px;
   font-weight: 500;
   color: var(--text);
-  margin: 0;
+  margin-bottom: 4px;
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
+  flex-wrap: wrap;
+  line-height: 1.4;
+}
+.deal-sub {
+  font-size: 12px;
+  color: var(--text-mid);
+  line-height: 1.5;
+  margin-bottom: 4px;
+}
+.deal-tags {
+  display: flex;
+  gap: 4px;
+  margin-top: 6px;
   flex-wrap: wrap;
 }
-.deal__ev {
+.deal-ev {
   font-family: var(--font-mono);
   font-size: 13px;
   font-weight: 500;
   color: var(--text);
   white-space: nowrap;
+  padding-top: 2px;
 }
-.deal__title {
-  font-size: 13px;
-  margin: 2px 0;
-  line-height: 1.4;
+.arrow {
+  font-size: 11px;
+  color: var(--text-faint);
+  margin-left: 4px;
 }
-.deal__title a { color: var(--text); }
-.deal__title a:hover { color: var(--link-hover); }
-.deal__summary {
-  font-size: 12px;
-  color: var(--text-mid);
-  line-height: 1.5;
-  margin: 4px 0 6px;
-}
-.deal__meta {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-  font-family: var(--font-mono);
-  font-size: 10px;
-  margin-top: 4px;
-}
-.deal__acquirer {
+
+.deal-acquirer {
   color: var(--text-mid);
   font-weight: 500;
 }
-.deal__tag {
-  color: var(--text-faint);
+
+/* Tag chips (dtag) */
+.dtag {
+  font-family: var(--font-mono);
+  font-size: 10px;
   padding: 2px 7px;
-  background: var(--bg-chip);
   border-radius: 3px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.dtag.acq        { background: #E6F1FB; color: #0C447C; }
+.dtag.exit       { background: #EAF3DE; color: #27500A; }
+.dtag.lbo        { background: #FAEEDA; color: #633806; }
+.dtag.sec        { background: #EEEDFE; color: #3C3489; }
+.dtag.block      { background: #FFE4E6; color: #881337; }
+.dtag.strategic  { background: #E0E7FF; color: #3730A3; }
+
+/* Article count badge */
+.article-count {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  padding: 2px 8px;
+  background: var(--bg-chip);
+  color: var(--text-dim);
+  border-radius: 10px;
+  font-weight: 500;
+  border: 0.5px solid #e0e0e0;
 }
 
 /* Stage Badge */
@@ -518,7 +525,6 @@ a { text-decoration: none; color: inherit; }
   border-radius: 20px;
   border: 0.5px solid #e0e0e0;
   color: var(--text-dim);
-  vertical-align: middle;
 }
 .stage-dot {
   width: 6px;
@@ -531,68 +537,26 @@ a { text-decoration: none; color: inherit; }
 .stage--계약 .stage-dot { background: #2563eb; }
 .stage--완료 .stage-dot { background: #059669; }
 
-/* Toggle button */
-.deal-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  background: var(--bg-chip);
-  border: 0.5px solid #e0e0e0;
-  color: var(--text-dim);
-  padding: 2px 8px;
-  border-radius: 20px;
-  font-family: var(--font-mono);
-  font-size: 10px;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  vertical-align: middle;
-}
-.deal-toggle:hover {
-  background: #ececec;
-  color: var(--text);
-  border-color: #c8c8c8;
-}
-.deal-toggle[aria-expanded="true"] {
-  background: var(--text);
-  color: #fff;
-  border-color: var(--text);
-}
-.deal-toggle__arrow {
-  display: inline-block;
-  font-size: 9px;
-  line-height: 1;
-}
-.deal-toggle__count {
-  font-weight: 500;
-  letter-spacing: 0.02em;
-}
-
-/* Extra articles (expanded) */
-.deal-extras {
-  list-style: none;
-  margin: 0 0 12px 0;
-  padding: 0 0 6px 0;
+/* 확장 기사 리스트 (토글) */
+.deal-articles {
+  display: none;
+  margin: 10px 0 0 0;
+  padding: 6px 0 6px 14px;
+  flex-direction: column;
   border-left: 2px solid var(--border-soft);
-  padding-left: 14px;
-  margin-left: 2px;
 }
-.deal-extras[hidden] { display: none; }
-.deal-extra {
-  padding: 0;
-}
-.deal-extra__link {
+.deal-articles.open { display: flex; }
+.deal-article-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 12px;
   padding: 7px 0;
   border-bottom: 0.5px solid #f5f5f5;
-  transition: all 0.15s ease;
 }
-.deal-extra:last-child .deal-extra__link { border-bottom: none; }
-.deal-extra__link:hover { text-decoration: none; }
-.deal-extra__link:hover .deal-extra__title { color: var(--link-hover); }
-.deal-extra__title {
+.deal-article-item:last-child { border-bottom: none; }
+.deal-article-item:hover .deal-article-title { color: var(--link-hover); }
+.deal-article-title {
   font-size: 12px;
   color: var(--text);
   line-height: 1.4;
@@ -600,7 +564,7 @@ a { text-decoration: none; color: inherit; }
   min-width: 0;
   transition: color 0.15s ease;
 }
-.deal-extra__date {
+.deal-article-date {
   font-family: var(--font-mono);
   font-size: 10px;
   color: var(--text-faint);

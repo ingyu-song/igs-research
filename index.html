@@ -30,7 +30,7 @@ title: IGS Research
   <button class="tab" data-tab="sector" role="tab" aria-selected="false">Sector Analysis</button>
 </nav>
 
-<!-- ===================== PORTFOLIO (기본) ===================== -->
+<!-- ===================== PORTFOLIO ===================== -->
 <section id="portfolio" class="panel panel--active" role="tabpanel">
   <div class="panel__intro">
     <div class="panel__label">Selected Works</div>
@@ -101,7 +101,7 @@ title: IGS Research
   {% endif %}
 </section>
 
-<!-- ===================== DEAL NEWS ===================== -->
+<!-- ===================== DEAL NEWS (이전 검증된 구조) ===================== -->
 <section id="dealnews" class="panel" role="tabpanel" hidden>
   <div class="panel__intro">
     <div class="panel__label">Auto-archived · Korea PE / M&amp;A</div>
@@ -109,31 +109,39 @@ title: IGS Research
   </div>
 
   <div class="chips" role="group" aria-label="Deal filters">
-    <button class="chip chip--active" data-filter="all">전체</button>
-    <button class="chip" data-filter="acq">인수</button>
-    <button class="chip" data-filter="exit">엑싯</button>
-    <button class="chip" data-filter="lbo">LBO</button>
-    <button class="chip" data-filter="sec">세컨더리</button>
-    <button class="chip" data-filter="block">블록딜</button>
-    <button class="chip" data-filter="strategic">전략적M&amp;A</button>
+    <button class="chip chip--active" onclick="filterDeal('all', this)">전체</button>
+    <button class="chip" onclick="filterDeal('acq', this)">인수</button>
+    <button class="chip" onclick="filterDeal('exit', this)">엑싯</button>
+    <button class="chip" onclick="filterDeal('lbo', this)">LBO</button>
+    <button class="chip" onclick="filterDeal('sec', this)">세컨더리</button>
+    <button class="chip" onclick="filterDeal('block', this)">블록딜</button>
+    <button class="chip" onclick="filterDeal('strategic', this)">전략적M&amp;A</button>
   </div>
 
-  <!-- 원본 데이터: JS가 이걸 읽어 그룹핑 후 다시 렌더링 -->
-  <div class="deal-list" id="deal-list" data-source="raw">
-    {% assign deals = site.data.deals | sort: 'date' | reverse %}
-    {% for deal in deals %}
-      <article class="deal"
-               data-type="{{ deal.type | xml_escape }}"
-               data-company="{{ deal.company | xml_escape }}"
-               data-date="{{ deal.date | date: '%Y.%m.%d' }}"
-               data-title="{{ deal.title | xml_escape }}"
-               data-url="{{ deal.url | xml_escape }}"
-               data-summary="{{ deal.summary | xml_escape }}"
-               data-acquirer="{{ deal.acquirer | xml_escape }}"
-               data-ev="{{ deal.ev | xml_escape }}"
-               data-stage="{{ deal.deal_stage | xml_escape }}"
-               data-tags="{{ deal.tags | join: ',' | xml_escape }}">
-      </article>
+  <div class="deal-list" id="deal-list">
+    {% for deal in site.data.deals %}
+    <div class="deal-row"
+         data-type="{{ deal.type }}"
+         data-title="{{ deal.title }}"
+         data-date="{{ deal.date }}"
+         data-summary="{{ deal.summary }}"
+         data-url="{{ deal.url }}"
+         data-ev="{{ deal.ev }}"
+         data-company="{{ deal.company }}"
+         data-acquirer="{{ deal.acquirer }}"
+         data-deal-stage="{{ deal.deal_stage }}">
+      <div class="deal-date">{{ deal.date }}</div>
+      <div class="deal-body">
+        <div class="deal-title">{{ deal.title }}</div>
+        <div class="deal-sub">{{ deal.summary }}</div>
+        <div class="deal-tags">
+          {% for t in deal.tags %}
+          <span class="dtag {{ t }}">{{ t | upcase }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="deal-ev">{{ deal.ev | default: "—" }}</div>
+    </div>
     {% endfor %}
   </div>
 </section>
@@ -147,5 +155,5 @@ title: IGS Research
   <p class="empty">준비 중입니다.</p>
 </section>
 
-<script src="{{ '/assets/js/groupdeals.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/groupdeals.js' | relative_url }}"></script>
