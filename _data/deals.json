@@ -1,5 +1,370 @@
 [
   {
+    "title": "샌디에이고, MLB 사상 최고액에 인수? …'연봉 상한제' 도입에 큰 변수...",
+    "summary": "사모펀드 클리어레이크 캐피털 창업주인 호세 펠리시아노 부부가 MLB 샌디에이고 구단을 39억 달러(약 5조7000억원)에 인수하는 계약을 체결했다.",
+    "company": "샌디에이고 파드레스",
+    "acquirer": "클리어레이크 캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "39억 달러 (약 5조7000억원)",
+    "deal_stage": "계약",
+    "url": "https://sports.khan.co.kr/article/202604191200003?pt=nv",
+    "date": "2026.04.19"
+  },
+  {
+    "title": "샌디에이고 파드리스, 5조7000억에 매각…MLB 역대 최고가",
+    "summary": "사모펀드 클리어레이크 캐피털의 창업주 호세가 MLB 샌디에이고 파드리스 구단을 약 5조7000억 원에 인수하는 딜로, MLB 역대 최고가 거래",
+    "company": "San Diego Padres",
+    "acquirer": "Clearwater Capital Partners (클리어레이크 캐피털)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5조7000억 원",
+    "deal_stage": "완료",
+    "url": "https://www.dailian.co.kr/news/view/830832/?sc=Naver",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "[위클리IB]실패 딛고 재매각 추진…맘스터치, 이번엔 1조 통할까",
+    "summary": "사모펀드 케이엘앤파트너스가 2019년에 인수한 맘스터치의 지분을 재매각하기 위해 국내외 주요 투자은행과 함께 딜을 추진 중",
+    "company": "맘스터치",
+    "acquirer": "케이엘앤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02184486645417432",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "MLB 샌디에이고 파드리스 5.7조원에 매각…역대 최고가",
+    "summary": "사모펀드 클리어레이크 캐피털의 창업주가 MLB 샌디에이고 파드리스를 5.7조원에 인수하는 딜. MLB 구단 거래 역대 최고가 기록.",
+    "company": "San Diego Padres",
+    "acquirer": "Clearlake Capital",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5.7조원",
+    "deal_stage": "완료",
+    "url": "http://www.fnnews.com/news/202604181139053133",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "[위클립] 4월 3주",
+    "summary": "청호나이스가 사모펀드 운용사 칼라일그룹과 경영권 매각을 위한 양해각서를 체결하고 협상을 진행 중인 딜",
+    "company": "청호나이스",
+    "acquirer": "칼라일그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=40699",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "오케스트라PE, KFC 투자회수…2000억 매각 마침표",
+    "summary": "오케스트라프라이빗에쿼티가 2022년 4월 인수한 KFC코리아를 약 2000억원에 매각 완료했으며, 3년 만에 기업가치를 3배 가까이 상승시키며 첫 대형 엑싯을 달성했다.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2000억원",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44474",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "KFC코리아, 칼라일 품으로…오케스트라 PE 3년 만에 '50% 수익률'",
+    "summary": "오케스트라프라이빗에쿼티가 보유 중인 KFC코리아를 칼라일에 매각하는 엑시트 거래를 완료했다. 2023년 인수한 지 3년 만에 약 50% 수익률을 달성했다.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.ddaily.co.kr/page/view/2026041715062118921",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "'검은 반도체' 김에 글로벌 자금 몰린다…만전식품 인수전 '후끈'",
+    "summary": "만전식품의 매각을 주관하는 EY한영이 국내외 원재료업체 및 글로벌 사모펀드들을 대상으로 제한적 경쟁입찰을 진행 중인 신규 인수거래",
+    "company": "만전식품",
+    "acquirer": "미공개 (글로벌 사모펀드 다수 참여)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1705801",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "오케스트라 PE, 칼라일에 KFC코리아 매각 완료",
+    "summary": "오케스트라 PE가 2023년 730억원에 인수한 KFC코리아를 칼라일에 매각하며 3년 만에 엑싯을 완료했다. 매각가격은 2000억원대로 추정된다.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라 프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "약 200억원",
+    "deal_stage": "완료",
+    "url": "https://www.mk.co.kr/article/12019924",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "오케스트라PE, KFC코리아 칼라일에 매각 완료…3년만에 엑시트",
+    "summary": "사모펀드 오케스트라PE가 2023년 인수한 KFC코리아를 글로벌 PE사 칼라일에 매각하는 거래를 완료했으며, 약 3년의 보유 기간을 거쳐 엑시트를 실현했다.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202604177807r",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "오케스트라PE, 칼라일에 KFC코리아 매각 완료 [시그널]",
+    "summary": "PE펀드 오케스트라가 보유 중인 KFC코리아를 글로벌 PE 칼라일에 매각하는 거래를 완료했다. 이는 오케스트라의 포트폴리오 회사 엑싯 사례로, 삼일PwC가 매각 주관을 맡았다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20033747?ref=naver",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "오케스트라PE, KG그룹이 손절한 KFC 성공적 엑시트",
+    "summary": "오케스트라PE가 운용하는 오케스트라 프라이빗 에쿼티 VI가 보유한 KFC코리아 지분 100%를 글로벌 사모펀드 칼라일그룹의 아시아 바이아웃 펀드인 칼라일 아시아 파트너스 V에 매각하는 엑시트 거래",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스 V",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.smarttoday.co.kr/ko-kr/articles/106647",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "[더벨]SK·HD현대 이어 삼성까지…KKR, 국내 대기업 '성장 파트너' 입증",
+    "summary": "KKR이 SK디스커버리와 한앤컴퍼니가 보유한 SK이터닉스 지분 총 43.5%를 3479억원에 인수하는 계약을 체결했으며, 이는 SK이터닉스를 신재생에너지 통합 플랫폼으로 성장시키기 위한 전략적 투자이다.",
+    "company": "SK이터닉스",
+    "acquirer": "KKR",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3479억원",
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604151201120240103730",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "현대아이에프씨, 상장 한다",
+    "summary": "한앤컴퍼니가 보유한 케이카 경영권 지분 72.19%를 7500억원에 KG그룹에 매각하는 exit 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "공시",
+    "url": "https://www.the-stock.kr/news/articleView.html?idxno=32382",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "[핀포인트] [케이카캐피탈] KG캐피탈과 계열사 중복…합병vs병존 '갈림길...",
+    "summary": "사모펀드 운용사 한앤컴퍼니가 KG그룹 컨소시엄으로부터 케이카와 케이카캐피탈을 2000억원에 인수하는 거래",
+    "company": "케이카캐피탈",
+    "acquirer": "한앤컴퍼니",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2000억원",
+    "deal_stage": "계약",
+    "url": "https://news.dealsitetv.com/articles/168621",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "총차입 1.5조 줄인 롯데... 월드타워 담보·보증채 '부담'",
+    "summary": "호텔롯데와 부산롯데호텔이 어피니티에 롯데렌탈 지분 56.2%를 1조5729억원에 매각하는 주식매매계약을 체결한 거래",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.5729조원",
+    "deal_stage": "계약",
+    "url": "https://www.insight.co.kr/news/550466",
+    "date": "2026.04.16"
+  },
+  {
+    "title": "[더벨]'청호나이스 인수 속도' 칼라일, 조직쇄신 전환점 맞나",
+    "summary": "칼라일이 청호나이스와 마이크로필터를 약 8000억원 규모로 인수하는 딜을 추진 중이며, 한국 사무소 인력 변동을 통해 조직 개편을 진행하고 있음",
+    "company": "청호나이스",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "8000억원",
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604061248352120102069",
+    "date": "2026.04.16"
+  },
+  {
+    "title": "칼라일, KFC코리아 인수 완료…오케스트라PE 3년 만에 투자금 회수",
+    "summary": "사모펀드 칼라일이 오케스트라프라이빗에쿼티로부터 KFC코리아의 경영권을 인수 완료했으며, 오케스트라PE는 약 3년 만에 투자금을 회수하는 엑싯을 실현했다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1359446",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "휠라-미래에셋PE의 아쿠쉬네트 인수, '새우가 고래를 삼킨' 기적은 어...",
+    "summary": "미래에셋PE가 인수한 아쿠쉬네트(Acushnet)의 지분을 블록딜 등을 통해 매각하며 투자 원금의 약 2배 수익을 실현한 PE 엑싯 사례",
+    "company": "Acushnet Holdings Co.",
+    "acquirer": "미래에셋PE",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hani.co.kr/arti/economy/economy_general/1252474.html",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "LB PE, 폐윤활유 정제기업 클린코리아 매각한다 [시그널]",
+    "summary": "LB PE가 포트폴리오 회사인 폐윤활유 정제기업 클린코리아를 매각하는 엑싯 거래. 약 450억 원의 투자 대비 실적 개선을 통한 가치 창출 후 매각 추진 중",
+    "company": "클린코리아",
+    "acquirer": "LB PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "약 450억원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20033821?ref=naver",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "혁신의 상징이 된 대가?…샘 올트먼, 왜 화염병 공격 대상이 됐나",
+    "summary": "구글이 미국 뉴욕 본사의 이스라엘 사이버보안 기업 위즈를 320억달러에 최종 인수한 전략적 M&A 거래. 기존 주주로는 PE 운용사 알토르와 기후테크 투자사 하이24 등이 참여했다.",
+    "company": "Wiz",
+    "acquirer": "Google",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "320억달러",
+    "deal_stage": "완료",
+    "url": "https://www.mt.co.kr/future/2026/04/18/2026041708550176491",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "오케스트라PE, KFC코리아 투자 3년 만에 엑시트…칼라일그룹에 매각 완...",
+    "summary": "오케스트라PE가 2022년 4월 인수한 KFC코리아를 칼라일그룹에 매각하는 엑시트 거래를 완료했다.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833717",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "오케스트라PE, 3년 만에 'KFC코리아' 엑시트 성공...칼라일 품으로 [fn마...",
+    "summary": "오케스트라PE가 2022년 4월에 인수한 KFC코리아를 칼라일그룹에 매각하는 엑시트 거래. 3년간 보유한 후 피인수인에게 매각 완료.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.fnnews.com/news/202604171404588920",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "오케스트라PE, KFC코리아 투자 3년 만에 엑시트 완료",
+    "summary": "오케스트라PE는 2022년 4월 인수한 KFC코리아 지분 100%를 엑시트 완료했다. 이는 저평가 자산 발굴 후 구조 개선을 거친 PE 전형적인 버이아웃-엑시트 거래다.",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.etoday.co.kr/news/view/2576710",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "[단독] 태광, 케이조선 인수 위해 그린하버와 맞손…오성첨단소재가 자...",
+    "summary": "태광이 케이조선 인수를 위해 그린하버와 컨소시엄을 구성했다. TPG의 이탈 이후 새롭게 파트너를 확보하고 인수전을 추진 중인 상황이다.",
+    "company": "케이조선",
+    "acquirer": "태광",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202604165616r",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "예별손보 본입찰서 확인한 한투지주의 의지, 보험사 M&A 판 흔드나",
+    "summary": "예금보험공사가 진행 중인 예별손보 공개매각 본입찰에서 하나금융지주, 한국투자금융지주, JC플라워 등이 예비인수자로 선정되었으며, 한투지주의 인수 의지가 보험사 M&A 시장의 새 변수로 떠오르고 있다.",
+    "company": "예별손보",
+    "acquirer": "하나금융지주, 한국투자금융지주, JC플라워",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.raonnews.com/news/article.html?no=57555",
+    "date": "2026.04.17"
+  },
+  {
     "title": "KKR, 삼성SDS에 1.2조 투자… '적극적 소수지분' 참여",
     "summary": "글로벌 사모펀드 KKR이 삼성SDS의 신규 발행 전환사채(CB) 인수를 통해 약 1조 2200억원을 투자하는 전략적 파트너십 거래",
     "company": "삼성SDS",
@@ -1036,372 +1401,5 @@
     "deal_stage": "완료",
     "url": "https://www.ajunews.com/view/20260409093703386",
     "date": "2026.04.09"
-  },
-  {
-    "title": "베인, 고려아연 지분 메리츠금융에 매각[시그널]",
-    "summary": "PE 운용사 베인캐피털이 보유한 고려아연 지분 2.01%를 메리츠금융그룹에 전량 매각하는 블록딜 거래",
-    "company": "고려아연",
-    "acquirer": "베인캐피털",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20030116?ref=naver",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈 고려아연 지분 … 메리츠금융그룹에 매각",
-    "summary": "베인캐피탈이 보유한 고려아연 지분 2%를 메리츠금융그룹에 매각하는 블록딜. 거래 규모는 약 5,000억원대",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": "5,000억원",
-    "deal_stage": "완료",
-    "url": "https://www.mk.co.kr/article/12011766",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "TKG태광, 정밀화학 영토 확장 … 제이앤PE가 500억 투자 조력",
-    "summary": "정밀화학·첨단소재 기업 TKG휴켐스가 PE 운용사 제이앤프라이빗에쿼티(제이앤PE)로부터 500억 원 규모의 사모 전환사채 인수를 통해 자금을 조달하는 투자 거래",
-    "company": "TKG휴켐스",
-    "acquirer": "제이앤프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "500억원",
-    "deal_stage": "계약",
-    "url": "https://www.mk.co.kr/article/12011764",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "케이카까지 받친 캑터스PE…KG그룹 딜 조력자 굳혔다",
-    "summary": "KG그룹이 한앤컴퍼니로부터 케이카 지분 72.19%를 인수해 경영권을 확보하고, 캑터스PE가 케이카캐피탈 지분 100%를 인수하는 구조의 거래로, 전체 딜 규모는 약 1조 2000억원",
-    "company": "케이카",
-    "acquirer": "KG그룹, 캑터스PE",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "협상",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44307",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "배우던 나라에서 가르치는 나라로...K-미용실도 수출시대",
-    "summary": "블랙스톤이 준오헤어의 경영권을 인수한 딜. 글로벌 사모펀드가 한국 미용실을 인수한 첫 사례로, 서비스 중심 산업의 확장성을 인정받았다.",
-    "company": "준오헤어",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604081022573120416",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "브릭스톤PE, '미코 CB' 장외 블록딜로 150억원 회수 완료 [fn마켓워치]",
-    "summary": "브릭스톤PE가 포트폴리오 기업 미코에 대한 지분을 장외 블록딜로 150억원에 매각하여 엑싯을 완료했으며, 이는 약 250억원 규모의 기존 인수 딜의 부분 회수",
-    "company": "미코",
-    "acquirer": "브릭스톤프라이빗에쿼티",
-    "type": "block",
-    "tags": [
-      "block",
-      "exit"
-    ],
-    "ev": "150억원",
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202604081056081201",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "[단독] 두산, '알짜' SK실트론 품는다…4월 중 본계약 체결",
-    "summary": "두산그룹이 SK그룹으로부터 SK실트론을 인수하기 위해 4월 중 본계약을 체결할 예정이며, 이미 우선협상대상자로 선정되어 실사를 완료한 전략적 M&A 거래",
-    "company": "SK실트론",
-    "acquirer": "두산그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1704746",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "[조현민과 한진] 헐값 매수한 부산항…황금알 낳는 거위",
-    "summary": "사모펀드 IMM인베스트먼트가 펠리샤를 통해 한진네트웍스컴퍼니(HJNC)의 제3자배정 유상증자에 참여하고 부산항만운영(BW)을 인수하여 경영권을 확보한 거래",
-    "company": "한진네트웍스컴퍼니",
-    "acquirer": "IMM인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://dealsite.co.kr/articles/159743",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "JKL파트너스, 롯데손보 매각 재시동…삼정KPMG 주관",
-    "summary": "PE사 JKL파트너스가 보유한 롯데손해보험의 매각을 재추진하며, 삼정KPMG를 매각 주관사로 선정했다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2573732",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "[더벨][태광그룹 사업구조 재편] 뷰티·바이오 넘어 조선업까지…제조업...",
-    "summary": "태광산업이 미국계 사모펀드 TPG와 함께 케이조선 인수를 위해 인수의향서를 제출하며 M&A 협상을 진행 중",
-    "company": "케이조선",
-    "acquirer": "태광산업, TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604031332060200103091",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "UCK, 테라로사 지분 추가 매입…창업주 완전 퇴진[시그널]",
-    "summary": "PE운용사 UCK파트너스가 커피 전문점 테라로사의 운영법인 학산으로부터 지분 24.2%를 115억 원에 추가 인수하면서 창업주의 완전 퇴진이 이루어졌다.",
-    "company": "학산",
-    "acquirer": "UCK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "115억원",
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20029474?ref=naver",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "JKL파트너스, 롯데손해보험 매각 재시동…삼정KPMG 주관 [시그널]",
-    "summary": "PE 운용사 JKL파트너스가 보유한 롯데손해보험을 매각 재추진하고 있으며, 손해보험 계열사가 없는 대형 금융지주가 주요 인수 후보로 거론되고 있는 Exit 딜",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20029472?ref=naver",
-    "date": "2026.04.08"
-  },
-  {
-    "title": "SK가스, 울산GPS 지분 49% 매각…'1석3조' 효과",
-    "summary": "SK가스가 울산GPS의 지분 49%를 IMM인베스트먼트, IMM크레딧앤솔루션, 스틱얼터너티브자산운용, 한국투자프라이빗에쿼티 컨소시엄 및 맥쿼리자산운용에 매각하는 블록딜",
-    "company": "울산GPS",
-    "acquirer": "스틱얼터너티브자산운용, 한국투자프라이빗에쿼티, IMM인베스트먼트, IMM크레딧앤솔루션, 맥쿼리자산운용",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.e2news.com/news/articleView.html?idxno=329316",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "IMM PE, '제뉴원사이언스 성공 DNA' 시지바이오에 심는다",
-    "summary": "IMM프라이빗에쿼티가 대웅그룹의 재생의료 계열사 시지바이오를 인수하는 거래를 진행 중이며, 과거 제뉴원사이언스 투자 경험을 바탕으로 밸류업을 추진할 계획",
-    "company": "시지바이오",
-    "acquirer": "IMM프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10711571?ref=naver",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "일본서 M&A에 집중하는 MBK…한국 신규 투자는 난항",
-    "summary": "MBK파트너스와 미국 반도체 테스트사 폼팩터가 컨소시엄을 구성하여 일본의 FICT 경영권을 1000억엔에 인수했다.",
-    "company": "FICT",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1000억엔",
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/202604061540r",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "정지이, 현대엘리베이터 지분 매입 본격화",
-    "summary": "사모펀드 H&Q코리아가 현대엘리베이터 보통주 교환 대상 교환사채를 처분하고 블록딜을 통해 현대엘리베이터 지분 4.9%를 매각하는 엑싯 거래",
-    "company": "현대엘리베이터",
-    "acquirer": "H&Q코리아",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.topdaily.kr/articles/109464",
-    "date": "2026.03.30"
-  },
-  {
-    "title": "'맘스터치' 매각 나선 KL&P… 최대 실적에도 1조대 몸값 논란",
-    "summary": "PE 케이엘앤파트너스(KL&P)가 보유 중인 햄버거 프랜차이즈 맘스터치의 매각을 추진 중이며, 1조원대 기업가치 평가를 두고 논의 중인 엑싯 거래",
-    "company": "맘스터치",
-    "acquirer": "케이엘앤파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원대",
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2573535",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "대한항공, 글로벌 트래블러 어워즈 3년 연속 '최고 기내식' 쾌거",
-    "summary": "대한항공이 사모펀드 한앤컴퍼니로부터 보유하고 있던 기내식 및 기내면세점 판매 사업자인 대한항공C&D서비스 지분을 7500억원에 재인수한 전략적 M&A 거래",
-    "company": "대한항공씨앤디서비스",
-    "acquirer": "대한항공",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "완료",
-    "url": "https://www.theguru.co.kr/news/article.html?no=100206",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "[기업家] 카카오 ㅣ 'AI·핀테크·모빌리티 전방위 확장…글로벌 협력 가...",
-    "summary": "LAAA 인베스트먼트(라인야후 출자 사모펀드)가 카카오로부터 카카오게임즈 지분을 인수하여 최대 주주가 되는 거래로, 제3자배정 유상증자 2,400억 원과 기존 지분 인수 600억 원 규모",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "3,000억 원",
-    "deal_stage": "완료",
-    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=565889",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "대한항공, 기내식 통합 큰 그림…GGK 계약 '선결과제'",
-    "summary": "대한항공이 한앤컴퍼니 사모펀드로부터 6년 전 매각했던 C&D를 약 7,500억원에 재인수하는 딜. PE 보유 자산의 전략적 역인수 거래",
-    "company": "대한항공씨앤디서비스",
-    "acquirer": "대한항공",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7,500억원",
-    "deal_stage": "완료",
-    "url": "https://dealsite.co.kr/articles/159339",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "[이철민의 마켓 나우] K보험의 영토 확장과 주주가치의 딜레마",
-    "summary": "DB손해보험이 미국 보험그룹 포테그라의 지분 100%를 인수하는 계약을 체결했으며, 기존 주주인 팁트리와 사모펀드 워버그 핀커스 등에 지급하기로 한 금액은 약 16억5000만 달러(약 2조5000억원)이다.",
-    "company": "Fortegra Financial Group",
-    "acquirer": "DB손해보험",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2.5조원",
-    "deal_stage": "계약",
-    "url": "https://www.joongang.co.kr/article/25418022",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "SK가스, 울산GPS 지분 49% 매각…\"투자 재원 확보 목적\"",
-    "summary": "SK가스가 울산GPS와 SK멀티유틸리티 지분 49%를 스틱얼터너티브자산운용과 한국투자프라이빗에쿼티 컨소시엄에 매각하는 블록딜",
-    "company": "울산가스공사",
-    "acquirer": "스틱얼터너티브자산운용, 한국투자프라이빗에쿼티",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.mt.co.kr/industry/2026/04/06/2026040617255544114",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "[단독] 디시인사이드 매각가 1800억원 거론…역합병 절세안 검토",
-    "summary": "디시인사이드가 PE 운용사 에이치프라이빗에쿼티(H Private Equity)에 인수되는 딜로, 매각가는 약 1800억원 수준으로 거론되고 있으며 역합병을 통한 절세안이 검토 중",
-    "company": "디시인사이드",
-    "acquirer": "H Private Equity",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1800억원",
-    "deal_stage": "협상",
-    "url": "https://www.mt.co.kr/stock/2026/04/07/2026040616480585595",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "군살 빼는 'AI 기업' 카카오…日 라인야후에 카카오게임즈 경영권 매각",
-    "summary": "카카오가 보유한 카카오게임즈의 경영권을 사모펀드 LAAA 인베스트먼트에 매각하는 전략적 거래. 라인야후가 지난해부터 경영권 인수 의사를 타진해온 것으로 전해짐",
-    "company": "카카오게임즈",
-    "acquirer": "LAAA 인베스트먼트",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/2026040609591",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "스틱·한투PE, SK엠유·울산GPS 지분 1.6조에 인수 [시그널]",
-    "summary": "스틱얼터너티브자산운용과 한국투자프라이빗에쿼티 컨소시엄이 SK멀티유틸리티와 울산GPS 지분 49%를 1조 6000억 원에 인수하는 거래",
-    "company": "SK멀티유틸리티|울산GPS",
-    "acquirer": "스틱얼터너티브자산운용|한국투자프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.6조원",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20028782?ref=naver",
-    "date": "2026.04.06"
-  },
-  {
-    "title": "[단독] 어피니티, 롯데렌탈 인수가격 인하 요청... 그룹과 재협상 중",
-    "summary": "PE펀드 어피니티가 롯데렌탈 인수 시 주당 7만7115원에 합의한 가격의 인하를 요청하며 롯데그룹과 재협상을 진행 중인 사안",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/03/30/36JFNPXWQVG37K7TJXJ23BO6CI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.03.30"
   }
 ]
