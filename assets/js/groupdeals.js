@@ -1,146 +1,183 @@
-document.addEventListener('DOMContentLoaded', function() {
-  const list = document.getElementById('deal-list');
-  if (!list) return;
-  const rows = Array.from(list.querySelectorAll('.deal-row'));
-  if (!rows.length) return;
+/* ===========================================================
+   IGS Research — groupdeals.js
+   Groups deals by company; collapsed by default; click to expand.
+   Reads raw data from [data-source="raw"] and re-renders.
+   =========================================================== */
 
-  const NOISE_TITLE_KEYWORDS = [
-    '주가', '랠리', '시황', '마감', '주주환원', '자사주', '배당',
-    '이사회', '사외이사', 'CFO', '대표이사', '인사', '조직',
-    '노조', '파업', '의결권', '총파업', '규탄', '비판', '반발',
-    '촉구', '경고', '거버넌스 개혁', '개정상법', '기상도',
-    'People', 'Story', '영상', 'Board Change',
-    '증권업계', '불꽃', '역설', '오버행', '보호예수', '수급 부담'
-  ];
+(function () {
+  'use strict';
 
-  const MEDIA_PREFIXES = [
-    '더벨', '단독', '마켓인', '시그널', '이데일리', 'thebell',
-    'note', 'Company Watch', 'PE는 지금', 'GP 블라인드',
-    'PE 포트폴리오', '주간사모펀드', 'Who Is', '재계 인사이드',
-    '재벌승계', '펫뉴스', '기획', '진단', 'PMI', '동십자각',
-    '증권업계', '자사주 점검', 'PEF 줌인'
-  ];
-
-  const ALIAS_MAP = {
+  // 회사명 통합 (alias) — 같은 회사의 다른 표기를 하나로
+  var ALIAS_MAP = {
     '이지스운용':             '이지스자산운용',
     '이지스자산운용㈜':       '이지스자산운용',
     '씨앤디서비스':           '대한항공씨앤디서비스',
     '대한항공 기내식 사업부': '대한항공씨앤디서비스',
     'KC&D':                   '대한항공씨앤디서비스',
-    'SK AI데이터센터':        'SK AI 데이터센터',
+    'SK AI데이터센터':        'SK AI 데이터센터'
   };
 
-  function isNoise(title) {
-    for (const kw of NOISE_TITLE_KEYWORDS) {
-      if (title.includes(kw)) return true;
-    }
-    for (const prefix of MEDIA_PREFIXES) {
-      if (title.startsWith('[' + prefix) || title.startsWith(prefix)) return true;
-    }
-    return false;
+  function normalize(name) {
+    if (!name) return '';
+    var trimmed = name.trim();
+    return ALIAS_MAP[trimmed] || trimmed;
   }
 
-  function normalizeCompany(name) {
-    if (!name || name === 'null' || name === 'undefined') return null;
-    const cleaned = name
-      .replace(/^(주식회사|㈜|유한회사|합자회사)\s*/g, '')
-      .replace(/\s*(주식회사|㈜|유한회사)$/g, '')
-      .replace(/\s+/g, ' ')
-      .trim();
-    if (!cleaned) return null;
-    return ALIAS_MAP[cleaned] || cleaned;
+  function esc(s) {
+    if (s == null) return '';
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
   }
 
-  const groups = {};
-  const order = [];
+  function render() {
+    var container = document.getElementById('deal-list');
+    if (!container) return;
 
-  rows.forEach(row => {
-    const title = row.dataset.title || '';
-    if (isNoise(title)) return;
-    const key = normalizeCompany(row.dataset.company);
-    if (!key) return;
-    if (!groups[key]) {
-      groups[key] = [];
-      order.push(key);
-    }
-    groups[key].push(row);
-  });
+    // 원본 데이터 수집
+    var rawRows = Array.from(container.querySelectorAll('.deal[data-source-row], .deal'));
+    // 첫 렌더 시점에는 placeholder .deal만 있음 — 그걸 원본으로 사용
+    var rows = Array.from(container.children).filter(function (el) {
+      return el.classList && el.classList.contains('deal');
+    });
 
-  order.sort((a, b) => {
-    const dateA = groups[a][0].dataset.date || '';
-    const dateB = groups[b][0].dataset.date || '';
-    return dateB.localeCompare(dateA);
-  });
+    // 원본 데이터를 객체 배열로 추출
+    var deals = rows.map(function (el) {
+      return {
+        type:     el.dataset.type     || '',
+        company:  normalize(el.dataset.company),
+        date:     el.dataset.date     || '',
+        title:    el.dataset.title    || '',
+        url:      el.dataset.url      || '',
+        summary:  el.dataset.summary  || '',
+        acquirer: el.dataset.acquirer || '',
+        ev:       el.dataset.ev       || '',
+        stage:    el.dataset.stage    || '',
+        tags:     (el.dataset.tags || '').split(',').filter(Boolean)
+      };
+    });
 
-  list.innerHTML = '';
-  let lastDate = '';
+    // 날짜 → 회사별로 그룹화
+    // 구조: { date: { company: [deal, deal, ...] } }
+    var byDate = {};
+    var dateOrder = [];
 
-  order.forEach(company => {
-    const items = groups[company];
-    items.sort((a, b) => (b.dataset.date || '').localeCompare(a.dataset.date || ''));
+    deals.forEach(function (d) {
+      if (!byDate[d.date]) {
+        byDate[d.date] = { companies: {}, order: [] };
+        dateOrder.push(d.date);
+      }
+      var bucket = byDate[d.date];
+      var key = d.company || '_unknown_';
+      if (!bucket.companies[key]) {
+        bucket.companies[key] = [];
+        bucket.order.push(key);
+      }
+      bucket.companies[key].push(d);
+    });
 
-    const types = [...new Set(items.map(r => r.dataset.type))].join(' ');
-    const latest = items[0];
-    const date = latest.dataset.date || '';
-    const ev = latest.dataset.ev && latest.dataset.ev !== 'null' ? latest.dataset.ev : '—';
-    const tagsHTML = latest.querySelector('.deal-tags')
-      ? latest.querySelector('.deal-tags').innerHTML : '';
+    // HTML 생성
+    var html = '';
 
-    const stage = latest.dataset.dealStage || '';
-    const stageLabel = { '소문': 'Rumor', '협상': 'Nego', '계약': 'Signed', '완료': 'Closed' }[stage] || stage;
-    const stageBadge = stage
-      ? `<span class="stage-badge stage--${stage}"><span class="stage-dot"></span>${stageLabel}</span>` : '';
+    dateOrder.forEach(function (date) {
+      html += '<div class="deal-date" data-date="' + esc(date) + '">' + esc(date) + '</div>';
 
-    const acquirer = latest.dataset.acquirer || '';
-    const acquirerText = acquirer
-      ? `<span class="deal-acquirer">${acquirer}</span>` : '';
+      var bucket = byDate[date];
+      bucket.order.forEach(function (company) {
+        var group = bucket.companies[company];
+        var lead  = group[0]; // 대표 기사
+        var extras = group.slice(1);
 
-    const hasMultiple = items.length > 1;
-    const showDate = date !== lastDate;
-    lastDate = date;
+        // 그룹 types 집합 (필터링용)
+        var allTypes = Array.from(new Set(group.map(function (d) { return d.type; }))).join(' ');
+        var hasMore = extras.length > 0;
 
-    const group = document.createElement('div');
-    group.className = 'deal-group';
-    group.dataset.types = types;
+        html += '<article class="deal-group" data-types="' + esc(allTypes) + '" data-company="' + esc(company) + '">';
+        html +=   '<div class="deal" data-type="' + esc(lead.type) + '">';
+        html +=     '<div class="deal__head">';
+        html +=       '<h3 class="deal__company">';
+        html +=         esc(company);
+        if (lead.stage) {
+          html +=     ' <span class="stage-badge stage--' + esc(lead.stage) + '">';
+          html +=       '<span class="stage-dot"></span>' + esc(lead.stage);
+          html +=     '</span>';
+        }
+        if (hasMore) {
+          html +=     ' <button class="deal-toggle" type="button" aria-expanded="false">';
+          html +=       '<span class="deal-toggle__arrow">▸</span>';
+          html +=       '<span class="deal-toggle__count">+' + extras.length + '</span>';
+          html +=     '</button>';
+        }
+        html +=       '</h3>';
+        if (lead.ev) {
+          html +=   '<span class="deal__ev">' + esc(lead.ev) + '</span>';
+        }
+        html +=     '</div>';
+        html +=     '<p class="deal__title"><a href="' + esc(lead.url) + '" target="_blank" rel="noopener">' + esc(lead.title) + '</a></p>';
+        html +=     '<p class="deal__summary">' + esc(lead.summary) + '</p>';
+        html +=     '<div class="deal__meta">';
+        if (lead.acquirer) html += '<span class="deal__acquirer">' + esc(lead.acquirer) + '</span>';
+        lead.tags.forEach(function (t) {
+          html +=     '<span class="deal__tag">' + esc(t) + '</span>';
+        });
+        html +=     '</div>';
+        html +=   '</div>';
 
-    group.innerHTML = `
-      <div class="deal-group-header" onclick="${hasMultiple
-        ? 'toggleGroup(this)'
-        : `window.open('${latest.dataset.url}','_blank')`}">
-        <div class="deal-date" data-date="${date}">${showDate ? date : ''}</div>
-        <div class="deal-body">
-          <div class="deal-title">
-            ${company}
-            ${stageBadge}
-            ${hasMultiple ? `<span class="article-count">${items.length}개 기사</span>` : ''}
-          </div>
-          <div class="deal-sub">
-            ${acquirerText}${acquirerText && latest.dataset.summary ? ' · ' : ''}${latest.dataset.summary || ''}
-          </div>
-          <div class="deal-tags">${tagsHTML}</div>
-        </div>
-        <div class="deal-ev">${ev}${hasMultiple ? ' <span class="arrow">▸</span>' : ''}</div>
-      </div>
-      ${hasMultiple ? `<div class="deal-articles">${items.map(r => `
-        <a class="deal-article-item" href="${r.dataset.url}" target="_blank" rel="noopener">
-          <span class="deal-article-title">${r.dataset.title}</span>
-          <span class="deal-article-date">${r.dataset.date}</span>
-        </a>`).join('')}</div>` : ''}
-    `;
+        // 확장 영역: 나머지 기사들
+        if (hasMore) {
+          html += '<ul class="deal-extras" hidden>';
+          extras.forEach(function (d) {
+            html += '<li class="deal-extra">';
+            html +=   '<a class="deal-extra__link" href="' + esc(d.url) + '" target="_blank" rel="noopener">';
+            html +=     '<span class="deal-extra__title">' + esc(d.title) + '</span>';
+            html +=     '<span class="deal-extra__date">' + esc(d.date) + '</span>';
+            html +=   '</a>';
+            html += '</li>';
+          });
+          html += '</ul>';
+        }
 
-    list.appendChild(group);
-  });
-});
+        html += '</article>';
+      });
+    });
 
-function toggleGroup(el) {
-  const articles = el.closest('.deal-group').querySelector('.deal-articles');
-  const arrow = el.querySelector('.arrow');
-  if (!articles) return;
-  if (articles.classList.contains('open')) {
-    articles.classList.remove('open');
-    if (arrow) arrow.textContent = '▸';
+    container.innerHTML = html;
+
+    // 토글 이벤트
+    container.querySelectorAll('.deal-toggle').forEach(function (btn) {
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var group = btn.closest('.deal-group');
+        if (!group) return;
+        var extras = group.querySelector('.deal-extras');
+        var arrow  = btn.querySelector('.deal-toggle__arrow');
+        if (!extras) return;
+
+        var isOpen = !extras.hasAttribute('hidden');
+        if (isOpen) {
+          extras.setAttribute('hidden', '');
+          btn.setAttribute('aria-expanded', 'false');
+          if (arrow) arrow.textContent = '▸';
+        } else {
+          extras.removeAttribute('hidden');
+          btn.setAttribute('aria-expanded', 'true');
+          if (arrow) arrow.textContent = '▾';
+        }
+      });
+    });
+  }
+
+  // DOM 준비 후 렌더링
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', render);
   } else {
-    articles.classList.add('open');
-    if (arrow) arrow.textContent = '▾';
+    render();
   }
-}
+
+  // 필터 재호출을 위해 전역 노출 (main.js에서 사용)
+  window.__dealGroupRender__ = render;
+})();

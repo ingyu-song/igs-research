@@ -6,11 +6,6 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* ---- Font stacks (한글 폰트 통일) ----
-   Sans:  Geist → Apple SD Gothic Neo → Noto Sans KR → fallback
-   Mono:  DM Mono → SF Mono → Menlo
-   Serif: Instrument Serif는 사용하지 않음 (한영 mismatch 방지)
-*/
 :root {
   --font-sans:  'Geist', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo',
                 'Noto Sans KR', 'Pretendard', sans-serif;
@@ -115,7 +110,7 @@ a { text-decoration: none; color: inherit; }
 }
 
 /* =========================================================
-   Tabs — 활성 탭 회색 배경 박스
+   Tabs
    ========================================================= */
 .tabs {
   display: flex;
@@ -186,7 +181,7 @@ a { text-decoration: none; color: inherit; }
 }
 
 /* =========================================================
-   Portfolio — Project list (이다지 스타일)
+   Portfolio
    ========================================================= */
 .pf-list {
   display: flex;
@@ -201,9 +196,7 @@ a { text-decoration: none; color: inherit; }
   background: #fff;
   transition: border-color 0.15s ease;
 }
-.pf-proj:hover {
-  border-color: #c8c8c8;
-}
+.pf-proj:hover { border-color: #c8c8c8; }
 
 .pf-proj__head {
   margin-bottom: 0.75rem;
@@ -267,14 +260,10 @@ a { text-decoration: none; color: inherit; }
   letter-spacing: 0.02em;
 }
 
-/* ---- 파일 목록 ---- */
 .pf-files {
   list-style: none;
   padding: 0;
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0;
 }
 .pf-file {
   display: flex;
@@ -361,9 +350,7 @@ a { text-decoration: none; color: inherit; }
 /* =========================================================
    Preview Page (PDF)
    ========================================================= */
-.preview-wrap {
-  padding: 1.5rem 1.5rem 4rem;
-}
+.preview-wrap { padding: 1.5rem 1.5rem 4rem; }
 .preview-bar {
   display: flex;
   align-items: center;
@@ -378,10 +365,7 @@ a { text-decoration: none; color: inherit; }
   font-size: 11px;
   color: var(--text-dim);
 }
-.preview-back:hover {
-  color: var(--link-hover);
-  text-decoration: none;
-}
+.preview-back:hover { color: var(--link-hover); text-decoration: none; }
 .preview-title {
   flex: 1;
   margin: 0;
@@ -402,10 +386,7 @@ a { text-decoration: none; color: inherit; }
   letter-spacing: 0.03em;
   transition: background 0.15s ease;
 }
-.preview-dl:hover {
-  background: var(--navy-hover);
-  text-decoration: none;
-}
+.preview-dl:hover { background: var(--navy-hover); text-decoration: none; }
 .preview-frame-wrap {
   width: 100%;
   height: calc(100vh - 180px);
@@ -415,11 +396,7 @@ a { text-decoration: none; color: inherit; }
   overflow: hidden;
   background: var(--bg-soft);
 }
-#preview-frame {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
+#preview-frame { width: 100%; height: 100%; border: none; }
 .preview-fallback {
   text-align: center;
   color: var(--text-faint);
@@ -429,7 +406,7 @@ a { text-decoration: none; color: inherit; }
 }
 
 /* =========================================================
-   Deal News (기존 스타일)
+   Deal News — group structure
    ========================================================= */
 .chips {
   display: flex;
@@ -466,9 +443,13 @@ a { text-decoration: none; color: inherit; }
 }
 .deal-date:first-of-type { padding-top: 0; }
 
-.deal {
-  padding: 14px 0;
+.deal-group {
   border-bottom: 0.5px solid var(--border-soft);
+}
+.deal-group:last-child { border-bottom: none; }
+
+.deal {
+  padding: 14px 0 12px;
 }
 .deal__head {
   display: flex;
@@ -549,6 +530,83 @@ a { text-decoration: none; color: inherit; }
 .stage--협상 .stage-dot { background: #d97706; }
 .stage--계약 .stage-dot { background: #2563eb; }
 .stage--완료 .stage-dot { background: #059669; }
+
+/* Toggle button */
+.deal-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--bg-chip);
+  border: 0.5px solid #e0e0e0;
+  color: var(--text-dim);
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  vertical-align: middle;
+}
+.deal-toggle:hover {
+  background: #ececec;
+  color: var(--text);
+  border-color: #c8c8c8;
+}
+.deal-toggle[aria-expanded="true"] {
+  background: var(--text);
+  color: #fff;
+  border-color: var(--text);
+}
+.deal-toggle__arrow {
+  display: inline-block;
+  font-size: 9px;
+  line-height: 1;
+}
+.deal-toggle__count {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Extra articles (expanded) */
+.deal-extras {
+  list-style: none;
+  margin: 0 0 12px 0;
+  padding: 0 0 6px 0;
+  border-left: 2px solid var(--border-soft);
+  padding-left: 14px;
+  margin-left: 2px;
+}
+.deal-extras[hidden] { display: none; }
+.deal-extra {
+  padding: 0;
+}
+.deal-extra__link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 7px 0;
+  border-bottom: 0.5px solid #f5f5f5;
+  transition: all 0.15s ease;
+}
+.deal-extra:last-child .deal-extra__link { border-bottom: none; }
+.deal-extra__link:hover { text-decoration: none; }
+.deal-extra__link:hover .deal-extra__title { color: var(--link-hover); }
+.deal-extra__title {
+  font-size: 12px;
+  color: var(--text);
+  line-height: 1.4;
+  flex: 1;
+  min-width: 0;
+  transition: color 0.15s ease;
+}
+.deal-extra__date {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-faint);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
 
 /* =========================================================
    Responsive

@@ -118,37 +118,21 @@ title: IGS Research
     <button class="chip" data-filter="strategic">전략적M&amp;A</button>
   </div>
 
-  <div class="deal-list" id="deal-list">
+  <!-- 원본 데이터: JS가 이걸 읽어 그룹핑 후 다시 렌더링 -->
+  <div class="deal-list" id="deal-list" data-source="raw">
     {% assign deals = site.data.deals | sort: 'date' | reverse %}
-    {% assign prev_date = '' %}
-
     {% for deal in deals %}
-      {% assign this_date = deal.date | date: '%Y.%m.%d' %}
-      {% if this_date != prev_date %}
-        <div class="deal-date" data-date="{{ this_date }}">{{ this_date }}</div>
-        {% assign prev_date = this_date %}
-      {% endif %}
-
       <article class="deal"
                data-type="{{ deal.type }}"
-               data-company="{{ deal.company }}">
-        <div class="deal__head">
-          <h3 class="deal__company">
-            {{ deal.company }}
-            {% if deal.deal_stage %}
-              <span class="stage-badge stage--{{ deal.deal_stage }}">
-                <span class="stage-dot"></span>{{ deal.deal_stage }}
-              </span>
-            {% endif %}
-          </h3>
-          {% if deal.ev %}<span class="deal__ev">{{ deal.ev }}</span>{% endif %}
-        </div>
-        <p class="deal__title"><a href="{{ deal.url }}" target="_blank" rel="noopener">{{ deal.title }}</a></p>
-        <p class="deal__summary">{{ deal.summary }}</p>
-        <div class="deal__meta">
-          {% if deal.acquirer %}<span class="deal__acquirer">{{ deal.acquirer }}</span>{% endif %}
-          {% for tag in deal.tags %}<span class="deal__tag">{{ tag }}</span>{% endfor %}
-        </div>
+               data-company="{{ deal.company }}"
+               data-date="{{ deal.date | date: '%Y.%m.%d' }}"
+               data-title="{{ deal.title | escape }}"
+               data-url="{{ deal.url }}"
+               data-summary="{{ deal.summary | escape }}"
+               data-acquirer="{{ deal.acquirer }}"
+               data-ev="{{ deal.ev }}"
+               data-stage="{{ deal.deal_stage }}"
+               data-tags="{{ deal.tags | join: ',' }}">
       </article>
     {% endfor %}
   </div>
@@ -163,5 +147,5 @@ title: IGS Research
   <p class="empty">준비 중입니다.</p>
 </section>
 
-<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/groupdeals.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
