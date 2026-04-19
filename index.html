@@ -123,16 +123,16 @@ title: IGS Research
     {% assign deals = site.data.deals | sort: 'date' | reverse %}
     {% for deal in deals %}
       <article class="deal"
-               data-type="{{ deal.type }}"
-               data-company="{{ deal.company }}"
+               data-type="{{ deal.type | xml_escape }}"
+               data-company="{{ deal.company | xml_escape }}"
                data-date="{{ deal.date | date: '%Y.%m.%d' }}"
-               data-title="{{ deal.title | escape }}"
-               data-url="{{ deal.url }}"
-               data-summary="{{ deal.summary | escape }}"
-               data-acquirer="{{ deal.acquirer }}"
-               data-ev="{{ deal.ev }}"
-               data-stage="{{ deal.deal_stage }}"
-               data-tags="{{ deal.tags | join: ',' }}">
+               data-title="{{ deal.title | xml_escape }}"
+               data-url="{{ deal.url | xml_escape }}"
+               data-summary="{{ deal.summary | xml_escape }}"
+               data-acquirer="{{ deal.acquirer | xml_escape }}"
+               data-ev="{{ deal.ev | xml_escape }}"
+               data-stage="{{ deal.deal_stage | xml_escape }}"
+               data-tags="{{ deal.tags | join: ',' | xml_escape }}">
       </article>
     {% endfor %}
   </div>
