@@ -19,10 +19,8 @@
 #   summary:  카드 본문 설명 (1~2문장)
 #   files:    파일 목록
 #     - label:    파일 레이블 (예: Presentation, Report, Model)
-#       name:     표시용 파일명
 #       file:     실제 파일명 (확장자 포함)
 #       type:     pdf | xlsx
-#       size:     파일 크기 (선택, 예: "3.9 MB")
 # =============================================================
 
 - id: nus-pe-club
@@ -30,19 +28,19 @@
   subtitle: Deal Team 4
   date: 2025-03-01
   tags: [Private Equity, Deal Research]
-  summary: NUS PE Club Deal Team 4에서 수행한 두 건의 딜 메모 및 밸류에이션 모델. EOS Energy(청정에너지 스토리지)와 Coinbase(디지털 자산 거래소) 대상.
+  summary: NUS PE Club Deal Team 4에서 수행한 두 건의 딜 메모 및 밸류에이션 모델. Coinbase(디지털 자산 거래소)와 EOS Energy(청정에너지 스토리지) 대상.
   files:
-    - label: EOS Energy — Memo
-      file: nuspe-eos-energy-memo.pdf
-      type: pdf
-    - label: EOS Energy — Model
-      file: nuspe-eos-energy-model.xlsx
-      type: xlsx
     - label: Coinbase — Memo
       file: nuspe-coinbase-memo.pdf
       type: pdf
     - label: Coinbase — Model
       file: nuspe-coinbase-model.xlsx
+      type: xlsx
+    - label: EOS Energy — Memo
+      file: nuspe-eos-energy-memo.pdf
+      type: pdf
+    - label: EOS Energy — Model
+      file: nuspe-eos-energy-model.xlsx
       type: xlsx
 
 - id: cfa-challenge-2025

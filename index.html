@@ -11,11 +11,11 @@ title: IGS Research
       <p class="site-tagline">Korean PE / M&amp;A Deal Research</p>
     </div>
     <nav class="site-links" aria-label="Personal links">
-      <a href="mailto:igsong522@gmail.com" class="site-link" aria-label="Email">
+      <a href="mailto:YOUR_EMAIL@example.com" class="site-link" aria-label="Email">
         <span class="site-link__icon">✉</span>
         <span class="site-link__label">Email</span>
       </a>
-      <a href="https://www.linkedin.com/in/in-gyu-andy-song/" class="site-link" target="_blank" rel="noopener" aria-label="LinkedIn">
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/" class="site-link" target="_blank" rel="noopener" aria-label="LinkedIn">
         <span class="site-link__icon">in</span>
         <span class="site-link__label">LinkedIn</span>
       </a>
@@ -72,6 +72,10 @@ title: IGS Research
 
           <ul class="pf-files">
             {% for f in item.files %}
+              {% assign preview_title = item.title | append: ' — ' | append: f.label | url_encode %}
+              {% capture pdf_url %}{{ site.baseurl }}/assets/portfolio/pdf/{{ f.file }}{% endcapture %}
+              {% capture xlsx_url %}{{ site.baseurl }}/assets/portfolio/xlsx/{{ f.file }}{% endcapture %}
+              {% capture preview_url %}{{ site.baseurl }}/preview.html?file={{ f.file }}&title={{ preview_title }}{% endcapture %}
               <li class="pf-file pf-file--{{ f.type }}">
                 <div class="pf-file__main">
                   <span class="pf-file__icon" aria-hidden="true">
@@ -82,13 +86,10 @@ title: IGS Research
                 </div>
                 <div class="pf-file__actions">
                   {% if f.type == 'pdf' %}
-                    <a href="{{ '/preview.html?file=' | append: f.file | append: '&title=' | append: item.title | append: ' — ' | append: f.label | relative_url }}"
-                       class="pf-file__btn pf-file__btn--preview">Preview</a>
-                    <a href="{{ '/assets/portfolio/pdf/' | append: f.file | relative_url }}"
-                       class="pf-file__btn" download>Download</a>
+                    <a href="{{ preview_url }}" class="pf-file__btn pf-file__btn--preview">Preview</a>
+                    <a href="{{ pdf_url }}" class="pf-file__btn" download="{{ f.file }}">Download</a>
                   {% else %}
-                    <a href="{{ '/assets/portfolio/xlsx/' | append: f.file | relative_url }}"
-                       class="pf-file__btn" download>Download</a>
+                    <a href="{{ xlsx_url }}" class="pf-file__btn" download="{{ f.file }}">Download</a>
                   {% endif %}
                 </div>
               </li>

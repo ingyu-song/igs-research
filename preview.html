@@ -8,7 +8,7 @@ permalink: /preview.html
   <div class="preview-bar">
     <a href="{{ '/' | relative_url }}" class="preview-back">← Portfolio로 돌아가기</a>
     <h2 class="preview-title" id="preview-title">문서 미리보기</h2>
-    <a href="#" id="preview-download" class="preview-dl" download>다운로드</a>
+    <a href="#" id="preview-download" class="preview-dl">다운로드</a>
   </div>
 
   <div class="preview-frame-wrap">
@@ -22,25 +22,37 @@ permalink: /preview.html
 
 <script>
 (function () {
-  const params = new URLSearchParams(window.location.search);
-  const file   = params.get('file');
-  const title  = params.get('title') || '문서 미리보기';
+  var params = new URLSearchParams(window.location.search);
+  var file   = params.get('file');
+  var title  = params.get('title') || '문서 미리보기';
 
   if (!file) {
     document.querySelector('.preview-wrap').innerHTML =
-      '<p style="padding:40px;text-align:center;">파일이 지정되지 않았습니다. <a href="{{ "/" | relative_url }}">Portfolio로 돌아가기</a></p>';
+      '<p style="padding:40px;text-align:center;">파일이 지정되지 않았습니다.</p>';
     return;
   }
 
   // XSS 최소 방어: 파일명에서 영숫자/하이픈/언더스코어/점만 허용
-  const safeFile = file.replace(/[^a-zA-Z0-9_\-\.]/g, '');
-  const base     = '{{ "/assets/portfolio/pdf/" | relative_url }}';
-  const fullUrl  = base + safeFile;
+  var safeFile = file.replace(/[^a-zA-Z0-9_\-\.]/g, '');
 
-  document.getElementById('preview-title').textContent    = title;
-  document.title                                          = title + ' — IGS Research';
-  document.getElementById('preview-frame').src            = fullUrl;
-  document.getElementById('preview-download').href        = fullUrl;
-  document.getElementById('preview-fallback-link').href   = fullUrl;
+  // baseurl 처리: Jekyll의 site.baseurl을 JS에서 사용하도록 출력
+  var baseUrl = '{{ site.baseurl }}';
+  var fullUrl = baseUrl + '/assets/portfolio/pdf/' + safeFile;
+
+  // 타이틀 설정
+  document.getElementById('preview-title').textContent = title;
+  document.title = title + ' — IGS Research';
+
+  // iframe에 PDF 로드
+  document.getElementById('preview-frame').src = fullUrl;
+
+  // 다운로드 링크 (download 속성 + 절대 경로 사용)
+  var dlLink = document.getElementById('preview-download');
+  dlLink.href = fullUrl;
+  dlLink.setAttribute('download', safeFile);
+
+  var fbLink = document.getElementById('preview-fallback-link');
+  fbLink.href = fullUrl;
+  fbLink.setAttribute('download', safeFile);
 })();
 </script>
