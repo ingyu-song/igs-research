@@ -8,38 +8,25 @@
 # 파일 업로드 위치:
 #   - PDF  → assets/portfolio/pdf/{filename}
 #   - XLSX → assets/portfolio/xlsx/{filename}
-#
-# 필드:
-#   id:       고유 식별자 (URL-safe)
-#   title:    카드 제목
-#   subtitle: 카드 부제 (선택)
-#   date:     YYYY-MM-DD (정렬 기준, 최신순)
-#   badge:    우측 상단 배지 텍스트 (예: First Runner Up)
-#   tags:     태그 리스트 (선택)
-#   summary:  카드 본문 설명 (1~2문장)
-#   files:    파일 목록
-#     - label:    파일 레이블 (예: Presentation, Report, Model)
-#       file:     실제 파일명 (확장자 포함)
-#       type:     pdf | xlsx
 # =============================================================
 
 - id: nus-pe-club
   title: NUS Private Equity Club
   subtitle: Deal Team 4
   date: 2025-03-01
-  tags: [Private Equity, Deal Research]
-  summary: NUS PE Club Deal Team 4에서 수행한 두 건의 딜 메모 및 밸류에이션 모델. Coinbase(디지털 자산 거래소)와 EOS Energy(청정에너지 스토리지) 대상.
+  tags: [Private Equity, LBO, Equity Research]
+  summary: NUS PE Club Deal Team 4에서 수행한 두 건의 딜 분석. Coinbase는 가상의 LBO 시나리오 기반 인수 구조 및 밸류에이션을, EOS Energy는 Equity Research 관점의 투자 분석을 수행.
   files:
-    - label: Coinbase — Memo
+    - label: Coinbase — LBO Memo
       file: nuspe-coinbase-memo.pdf
       type: pdf
-    - label: Coinbase — Model
+    - label: Coinbase — LBO Model
       file: nuspe-coinbase-model.xlsx
       type: xlsx
-    - label: EOS Energy — Memo
+    - label: EOS Energy — Equity Research Memo
       file: nuspe-eos-energy-memo.pdf
       type: pdf
-    - label: EOS Energy — Model
+    - label: EOS Energy — Equity Research Model
       file: nuspe-eos-energy-model.xlsx
       type: xlsx
 
@@ -47,9 +34,9 @@
   title: CFA Research Challenge 2025
   subtitle: NUS Team A04 — NCC Capital
   date: 2025-02-01
-  badge: First Runner Up
+  badge: 2nd / 60 Teams (NUS Round)
   tags: [Equity Research, Valuation]
-  summary: 2025 CFA Institute Research Challenge 출품작. 상장사 NCC Capital에 대한 투자 분석 및 밸류에이션을 수행하고 국가 결선에서 준우승.
+  summary: 2025 CFA Institute Research Challenge 참가. 상장사 NCC Capital에 대한 투자 분석 및 밸류에이션을 수행했으며, NUS 라운드에서 총 60개 팀 중 2위(First Runner Up) 기록.
   files:
     - label: Presentation
       file: cfa-challenge-2025-presentation.pdf
@@ -63,10 +50,10 @@
 
 - id: linetype-technologies
   title: Linetype Technologies
-  subtitle: KSGC Application
+  subtitle: K-Startup Grand Challenge 2024 Application
   date: 2024-11-01
-  tags: [Startup, Pitch Deck]
-  summary: K-Startup Grand Challenge(KSGC) 지원을 위한 Linetype Technologies의 사업 지원 자료. 지원서, 피치덱, 추천서 포함.
+  tags: [Startup, Pitch Deck, KSGC]
+  summary: K-Startup Grand Challenge(KSGC) 2024 프로그램 지원을 위한 Linetype Technologies의 사업 자료. 지원서, 피치덱, 그리고 Linetype 창업자가 직접 작성한 추천서 포함.
   files:
     - label: Application Form
       file: linetype-ksgc-application.pdf
@@ -74,16 +61,16 @@
     - label: Pitch Deck
       file: linetype-pitch-deck.pdf
       type: pdf
-    - label: Recommendation Letter
+    - label: Recommendation Letter (from Founder)
       file: linetype-recommendation-letter.pdf
       type: pdf
 
 - id: nus-cfa-club
   title: NUS CFA Club
-  subtitle: Weekly Meeting
+  subtitle: Case Study — Weekly Meeting
   date: 2024-09-01
-  tags: [CFA, Study Group]
-  summary: NUS CFA Club 주간 스터디 세션 발표 자료. 기업 발행자 분석 관련.
+  tags: [CFA, Case Study]
+  summary: NUS CFA Club 주간 세션 케이스 스터디 자료. 기업 발행자(Corporate Issuer) 분석 사례 다룸.
   files:
     - label: Week 2 — Corporate Issuer
       file: nuscfa-week2-corporate-issuer.pdf
