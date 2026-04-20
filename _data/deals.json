@@ -1,5 +1,103 @@
 [
   {
+    "title": "'연기금 큰 손' PEF수익률 톱10…글랜우드·스카이레이크 상위권",
+    "summary": "KCC가 SJL파트너스 등과 컨소시엄을 구성하여 2019년 미국 실리콘 기업 모멘티브퍼포먼스머티리얼즈를 인수한 딜로, 엠오엠제1호사모투자 합자회사 펀드를 통해 진행되었다.",
+    "company": "Momentive Performance Materials",
+    "acquirer": "KCC",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202604178340r",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "KFC코리아, 칼라일 품에 안겨…오케스트라PE 지분 100% 매각",
+    "summary": "오케스트라 PE가 운용하는 OPE VI펀드가 보유 중인 KFC코리아 지분 100%를 칼라일 그룹에 매각하는 엑싯 거래. 2022년 4월 인수 후 약 3년 만에 완료된 거래이다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://mdtoday.co.kr/news/view/1065596182097882",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "[더벨]신생 PEF 블루리프, '일차전지 강자' 제노에너지 품는다",
+    "summary": "신생 사모펀드 운용사 블루리프가 일차전지 제조업체 제노에너지의 경영권 인수를 추진 중이다. 2024년 7월 설립된 블루리프는 코렌스 RCPS 투자, 마린텍 경영권 인수에 이어 제노에너지 인수를 추진하고 있다.",
+    "company": "제노에너지",
+    "acquirer": "블루리프",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604160956409520106460",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "[더벨]ICG, 유도 지분 오너 일가에 되팔아…수익률 '2.6배'",
+    "summary": "영국계 PE 운용사 ICG가 플라스틱 사출 성형 제조 회사 유도홀딩스의 지분을 오너 일가(센트로이드)에 전량 매각하는 엑싯 거래. 수익률은 2.6배로 평가됨",
+    "company": "유도홀딩스",
+    "acquirer": "ICG",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604151557030120109385",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "브릭스톤PE, '미코 CB' 장외 블록딜로 150억원 회수 완료 [fn마켓워치]",
+    "summary": "브릭스톤PE가 보유 중인 미코의 제13회차 무보증 사모 전환사채를 장외 블록딜 방식으로 매각하여 150억원을 회수했다.",
+    "company": "미코",
+    "acquirer": "브릭스톤PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "150억원",
+    "deal_stage": "완료",
+    "url": "http://www.fnnews.com/news/202604081056081201",
+    "date": "2026.04.08"
+  },
+  {
+    "title": "HJ중공업, '엔지니어링 DNA' 심었다...'제3의 도약기'",
+    "summary": "동부건설이 사모펀드(PE)와 함께 SPC(에코프라임마린퍼시픽)를 설립하여 HJ중공업을 인수한 거래",
+    "company": "HJ중공업",
+    "acquirer": "동부건설",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.thevaluenews.co.kr/news/view.php?idx=198181",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "오케스트라PE, 칼라일에 KFC코리아 2천억대 매각",
+    "summary": "오케스트라PE가 2023년 인수한 KFC코리아를 칼라일(Carlyle)에 2천억대 규모로 매각하는 엑싯 거래",
+    "company": "KFC코리아",
+    "acquirer": "오케스트라PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2000억원대",
+    "deal_stage": "완료",
+    "url": "https://news.mtn.co.kr/news-detail/2026041716394583781",
+    "date": "2026.04.17"
+  },
+  {
     "title": "샌디에이고, MLB 사상 최고액에 인수? …'연봉 상한제' 도입에 큰 변수...",
     "summary": "사모펀드 클리어레이크 캐피털 창업주인 호세 펠리시아노 부부가 MLB 샌디에이고 구단을 39억 달러(약 5조7000억원)에 인수하는 계약을 체결했다.",
     "company": "샌디에이고 파드레스",
@@ -1302,104 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604091535348160104551",
     "date": "2026.04.10"
-  },
-  {
-    "title": "글로벌 PE가 일본 패스트푸드에 수천억원 투자한 까닭은?",
-    "summary": "골드만삭스가 버거킹 재팬을 700억 엔(약 6500억원)에 인수한 데 이어, 글로벌 PE들이 일본 패스트푸드 기업에 대규모 투자를 진행 중이며, 디지털 전환을 통해 기업 가치를 제고할 계획",
-    "company": "버거킹 재팬",
-    "acquirer": "골드만삭스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "6500억원",
-    "deal_stage": "완료",
-    "url": "https://www.joongang.co.kr/article/25418905",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "[더벨][이슈모니터] [영상]카카오게임즈, 결국 팔렸다…라인야후 진짜 ...",
-    "summary": "페트리코파트너스가 운용하는 사모펀드가 SPC 엘트리플에이인베스트먼트를 통해 카카오게임즈를 인수하며, 라인야후가 사모펀드의 주요 출자자로 참여하는 구조의 PE 인수 거래",
-    "company": "카카오게임즈",
-    "acquirer": "페트리코파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604090738571620106654",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈, 고려아연 지분 메리츠에 매각",
-    "summary": "베인캐피탈이 보유한 고려아연 2.01% 지분을 메리츠금융그룹에 전량 매각하는 블록딜. 약 5000억원 규모의 거래로 1년 6개월 만에 30% 이상의 수익률을 달성한 성공적 엑싯.",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10713422?ref=naver",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "[더벨]에버마운트, 건기식 전문 '에이브바이오랩스' 새 주인으로",
-    "summary": "PE펀드 에버마운트가 건강기능식품 전문 회사 에이브바이오랩스의 경영권 인수를 완료했다.",
-    "company": "에이브바이오랩스",
-    "acquirer": "에버마운트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604071146243880108241",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "[더벨]MBK, 골프존카운티 매각 하이라이트 '전국 인프라·수익률'",
-    "summary": "PE 운용사 MBK파트너스가 보유한 골프존카운티의 경영권 매각을 추진 중인 엑싯 딜",
-    "company": "골프존카운티",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604061104509000102845",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈, 고려아연 지분 메리츠금융에 매각",
-    "summary": "PE 베인캐피탈이 보유하던 고려아연 지분 2.01%를 메리츠금융그룹에 장외거래를 통해 매각한 PE의 엑싯 거래",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newsis.com/view/NISX20260409_0003584093",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈, 고려아연 지분 5000억 매각…메리츠 崔 '새 백기사'로",
-    "summary": "PE 운용사 베인캐피탈이 보유한 고려아연 지분 5000억원을 메리츠금융그룹에 전략 매각하는 딜. 베인캐피탈의 엑싯 거래이자 메리츠의 블록딜 인수.",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "완료",
-    "url": "https://www.ajunews.com/view/20260409093703386",
-    "date": "2026.04.09"
   }
 ]
