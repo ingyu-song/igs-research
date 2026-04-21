@@ -1,5 +1,159 @@
 [
   {
+    "title": "데이터센터 냉각 기술 업계 재편 탄력...포토닉도 매각 추진",
+    "summary": "산업용 기업 이콜랩(Ecolab)이 사모펀드 KKR로부터 데이터센터 냉각 기업 쿨IT 시스템스(CoolIT Systems)를 47억5000만달러에 인수했으며, 포토닉도 매각을 추진 중인 것으로 알려짐",
+    "company": "CoolIT Systems",
+    "acquirer": "Ecolab",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "47.5억 달러",
+    "deal_stage": "완료",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658764",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "'몸값 1조원' 애큐온캐피탈 인수전…메리츠·한화생명 '양강구도'",
+    "summary": "바이칼인베가 전략적 투자자와 함께 애큐온캐피탈 인수전에 나서고 있으며, 메리츠금융지주와 한화생명이 경쟁 중인 상황으로, 금융사 자본 적정성 규제에 따른 대주주 변경 승인 절차가 진행 중",
+    "company": "애큐온캐피탈",
+    "acquirer": "바이칼인베",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=513379",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "화공플랜트 업체 범한메카텍, 상장 전 투자유치 추진…1500억원 규모",
+    "summary": "범한메카텍이 상장 전 투자유치를 추진하며, 범한산업이 두산메카텍 지분 82.38%를 865억원에 인수하고 메티스톤PE가 펀드를 통해 참여하는 규모 1500억원의 투자유치 딜",
+    "company": "두산메카텍",
+    "acquirer": "범한산업, 메티스톤PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1500억원",
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202604202259r",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "[더벨]'애큐온캐피탈 인수 추진' 바이칼인베, 세우글로벌과 맞손",
+    "summary": "신생 사모펀드 운용사 바이칼인베스트먼트가 애큐온캐피탈 인수전에 참여하며, 전략적 투자자로 세우글로벌을 확보한 신규 인수 추진 거래",
+    "company": "애큐온캐피탈",
+    "acquirer": "바이칼인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604171406024160103570",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "[더벨]'KB국민은행 맞손' 블루리프, 제노에너지 인수 막바지",
+    "summary": "PE운용사 블루리프에쿼티파트너스가 산업용 일차전지 제조사 제노에너지를 인수하기 위해 KB국민은행으로부터 인수금융을 확보하며 거래 종결을 앞두고 있음",
+    "company": "제노에너지",
+    "acquirer": "블루리프에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604171445491120109540",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "[Invest]3조 SK 데이터센터 투자유치 구조 윤곽...KKR 29% 대 IMM 컨소 20%",
+    "summary": "KKR과 IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄이 SK의 데이터센터 지분 49% 중 KKR 29%, IMM 컨소 20%를 각각 인수하는 투자 구조 추진",
+    "company": "SK데이터센터",
+    "acquirer": "KKR, IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3조원",
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/04/20/2026042080172.html",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "[초점] '최고(最古)' 기업 두산 박정원, AI 시대 대변신 주도",
+    "summary": "두산이 SK그룹으로부터 반도체 후공정 테스트기업 SK실트론을 인수하기 위해 우선협상대상자로 선정되어 실사를 마친 상태이며, 조만간 본계약을 체결할 것으로 알려짐",
+    "company": "SK실트론",
+    "acquirer": "두산",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.newswatch.kr/news/articleView.html?idxno=79284",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "[애큐온 새판짜기]① 캐피탈·저축銀 묶어 1조…'최대어' 매각 흥행할까",
+    "summary": "스웨덴계 사모펀드 EQT파트너스가 보유한 애큐온캐피탈을 매각하는 거래. 대형 금융사들이 인수전에 참여 중이며 기대 몸값은 1조원대",
+    "company": "애큐온캐피탈",
+    "acquirer": "EQT파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원대",
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=660006",
+    "date": "2026.04.20"
+  },
+  {
+    "title": "日 공작기계 '마키노밀링' 2조에 인수하는 MBK... 6월 중 공개매수",
+    "summary": "MBK파트너스가 6호 바이아웃 펀드를 통해 일본 공작기계 회사 마키노밀링을 약 2조원 규모로 인수하는 딜. 6월 중 공개매수를 진행할 예정.",
+    "company": "마키노밀링",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2조원",
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/04/21/HCXEDW32Y5AAPGFXUDMH5CHKMQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "[이철민의 마켓 나우] 계약이 끝나도 빅딜은 끝나지 않는다",
+    "summary": "한앤컴퍼니가 보유한 상장 중고차 거래 플랫폼 케이카를 KG그룹에 약 7,500억원에 매각하는 계약을 체결한 PE 엑싯 거래",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7,500억원",
+    "deal_stage": "계약",
+    "url": "https://www.joongang.co.kr/article/25421813",
+    "date": "2026.04.21"
+  },
+  {
+    "title": "한국투자파트너스, 오비고에 13년째 '진심'…CB 인수로 재투자 단행",
+    "summary": "한국투자파트너스와 키움프라이빗에쿼티가 오비고의 전환사채(CB)를 인수하는 재투자를 단행했으며, 한국투자파트너스는 50억원, 키움PE는 100억원을 각각 인수했다.",
+    "company": "오비고",
+    "acquirer": "한국투자파트너스, 키움프라이빗에쿼티",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": "150억원",
+    "deal_stage": "완료",
+    "url": "https://www.topdaily.kr/articles/109751",
+    "date": "2026.04.20"
+  },
+  {
     "title": "'연기금 큰 손' PEF수익률 톱10…글랜우드·스카이레이크 상위권",
     "summary": "KCC가 SJL파트너스 등과 컨소시엄을 구성하여 2019년 미국 실리콘 기업 모멘티브퍼포먼스머티리얼즈를 인수한 딜로, 엠오엠제1호사모투자 합자회사 펀드를 통해 진행되었다.",
     "company": "Momentive Performance Materials",
@@ -1244,161 +1398,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "http://www.fins.co.kr/news/articleView.html?idxno=108168",
-    "date": "2026.04.10"
-  },
-  {
-    "title": "1조대 애큐온캐피탈 인수전, 메리츠금융·한화생명 참전 [시그널]",
-    "summary": "메리츠금융과 한화생명이 EQT파트너스가 보유한 애큐온캐피탈 인수에 참전하는 중이며, 인수 성공 시 캐피털 사업 전개 및 저축은행 자산 규모 확대가 가능함",
-    "company": "애큐온캐피탈",
-    "acquirer": "메리츠금융, 한화생명",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조대",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20030577?ref=naver",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "더함파트너스, SK에코 수처리 자회사 정상 가동 돌입",
-    "summary": "PE운용사 더함파트너스가 SK에코플랜트로부터 인수한 수처리 자회사 리뉴리퀴드호남을 정상 가동 개시했다.",
-    "company": "리뉴리퀴드호남",
-    "acquirer": "더함파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44335",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "KG그룹, 케이카 인수…'현대차·캐피탈' 모델로",
-    "summary": "한앤컴퍼니(PEF 운용사)가 한앤코오토서비스홀딩스를 통해 캐피탈을 인수하며 자동차 제조·유통·금융을 아우르는 통합 모빌리티 체계 구축에 나서는 전략적 인수 거래",
-    "company": "케이캐피탈",
-    "acquirer": "한앤컴퍼니",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.newstomato.com/ReadNews.aspx?no=1297296&inflow=N",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "중동 전쟁, 고금리에 중고차 시장 성장 주춤한데…KG그룹은 왜 케이카 ...",
-    "summary": "KG스틸과 캑터스PE가 한앤코로부터 케이카를 공동 인수하며, 케이카캐피탈 지분 100%을 2000억 원에 매각하는 딜",
-    "company": "케이카",
-    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "2000억원",
-    "deal_stage": "계약",
-    "url": "https://ilyo.co.kr/?ac=article_view&entry_id=510336",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈 보유 '고려아연 지분' 메리츠금융 품으로 [fn마켓워치]",
-    "summary": "글로벌 사모펀드 베인캐피탈이 보유 중인 고려아연 지분(2.01%, 약 5000억원)을 메리츠금융그룹이 인수하는 블록딜이 체결되었다.",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202604091500098514",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "KGM의 K카 인수, '신의 한 수'?… 7500억 자금 조달이 관건",
-    "summary": "KG그룹이 사모펀드 한앤컴퍼니로부터 K카 지분 72.19%를 약 5500억 원에 인수하는 거래로, K카캐피탈을 포함한 전체 규모는 약 7500억 원에 달한다.",
-    "company": "K카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "완료",
-    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=300514",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "[한온시스템 체질개선] ①한국앤컴퍼니 편입 1년, 안정화 성과 가시화",
-    "summary": "2014년 말 한앤컴퍼니와 한국타이어가 미국 비스테온으로부터 한라비스테온공조 지분 69.99%를 약 4조원에 인수한 전략적 M&A. 한앤컴퍼니가 50.5%, 한국타이어가 19.5%의 지분을 보유.",
-    "company": "한라비스테온공조",
-    "acquirer": "한앤컴퍼니, 한국타이어",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "약 4조원",
-    "deal_stage": "완료",
-    "url": "https://www.fetv.co.kr/news/article.html?no=216434",
-    "date": "2026.04.07"
-  },
-  {
-    "title": "[더벨][PE 포트폴리오 엿보기] 어피니티, 서브원 볼트온 '적중'…비아다...",
-    "summary": "PE펀드 어피니티가 자회사 서브원을 통해 2023년 비아다빈치 지분 51%를 약 1조원 규모로 인수한 볼트온 거래",
-    "company": "비아다빈치",
-    "acquirer": "어피니티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603270958500080102215",
-    "date": "2026.04.02"
-  },
-  {
-    "title": "베인캐피탈, 고려아연 지분 2.01% 메리츠금융에 매각",
-    "summary": "PE 운용사 베인캐피탈이 보유 중이던 고려아연 지분 2.01%를 메리츠금융그룹에 매각하는 블록딜",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.delighti.co.kr/news/articleView.html?idxno=114950",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈, 고려아연 지분 메리츠에 매각…베인·고려 '윈윈'",
-    "summary": "PE 운용사 베인캐피탈이 보유 중이던 고려아연 지분을 메리츠금융그룹에 블록딜로 매각했다. 베인캐피탈의 고려아연 투자에 대한 엑싯 거래이다.",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10713422?ref=naver",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "[더벨]'한일전' 대경오앤티 본입찰 마감, '속전속결' 우협 선정 임박",
-    "summary": "유진PE와 산업은행, SK온이 보유한 대경오앤티의 경영권 지분 100%를 매각하는 딜로, 본입찰이 마감되고 우선협상자 선정이 임박한 상태",
-    "company": "대경오앤티",
-    "acquirer": "유진PE, 산업은행, SK온",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604091535348160104551",
     "date": "2026.04.10"
   }
 ]
