@@ -1,5 +1,145 @@
 [
   {
+    "title": "애큐온캐피탈 인수전 나선 한화생명, 금융그룹 '퍼즐' 완성할까",
+    "summary": "한화생명이 애큐온캐피탈 인수를 위해 다른 금융지주, 사모펀드와 함께 숏리스트에 선정되어 본입찰을 추진 중인 전략적 M&A",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.topdaily.kr/articles/109804",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "메리츠금융, 애큐온 인수전 등판…'조달 리스크' 해소 목적 [넘버스]",
+    "summary": "메리츠금융그룹이 EQT파트너스가 선정한 애큐온캐피탈 매각 프로세스에 한화생명, BNK금융, 다우키움, 바이칼인베스트먼트 등과 함께 5파전으로 인수전에 참여하는 신규 딜",
+    "company": "애큐온캐피탈",
+    "acquirer": "메리츠금융그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=660311",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "[더벨]키스톤PE, 영신정공과 손잡고 '코아비스' 인수 목전",
+    "summary": "키스톤PE가 영신정공과 함께 코아비스 인수를 추진 중인 세컨더리 딜로, 기존 사모펀드 포트폴리오를 인수하는 거래",
+    "company": "코아비스",
+    "acquirer": "키스톤PE",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604211037186920101286",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "홀로서기 나선 한화 김동선, 백화점·F&B '시험대'…성과로 증명할까",
+    "summary": "한화그룹 산하 파이브가이즈 코리아가 사모펀드 운용사 H&Q에 매각을 앞두고 있는 거래. 2023년 론칭 후 2년 만에 기업가치를 3배 상승시킨 후 엑싯하는 PE 관점의 매각 사례",
+    "company": "파이브가이즈코리아",
+    "acquirer": "H&Q",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsis.com/view/NISX20260422_0003602278",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "생보업계, GA 자회사 앞세워 중대형 GA 인수전 '군불'",
+    "summary": "JC파트너스가 보유한 굿리치 지분 약 60%를 매각하는 엑싯 절차를 진행 중이며, 딜 규모는 7000억~8000억원 수준으로 추산됨",
+    "company": "굿리치",
+    "acquirer": "JC파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7000억~8000억원",
+    "deal_stage": "소문",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=513993",
+    "date": "2026.04.22"
+  },
+  {
+    "title": "현대투자파트너스, 승명실업 바이아웃 완료…투자영역 확대",
+    "summary": "현대투자파트너스가 승명실업에 대한 바이아웃(경영권 인수)을 완료하며 PE 투자 영역을 확대했다.",
+    "company": "승명실업",
+    "acquirer": "현대투자파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.topdaily.kr/articles/109786",
+    "date": "2026.04.22"
+  },
+  {
+    "title": "케이카 품은 KG그룹…스틸·이니시스가 케이카·캐피탈 각각 인수",
+    "summary": "KG그룹이 한앤컴퍼니로부터 케이카와 케이카캐피탈의 경영권을 인수하며, 계열사인 KG스틸과 이니시스가 각각 케이카와 케이카캐피탈을 인수하는 구조적 M&A 거래",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411004",
+    "date": "2026.04.22"
+  },
+  {
+    "title": "KG그룹, 케이카 인수 '투트랙 재편'.…계열사 시너지 극대화",
+    "summary": "KG그룹 산하 KG스틸이 중고차 플랫폼 기업 케이카의 지분(19%)을 5500억원대에 인수하는 주식매매계약을 체결했다. KG그룹이 캑터스PE와 함께 진행하는 전략적 M&A 거래이다.",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5500억868만350원",
+    "deal_stage": "계약",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=660274",
+    "date": "2026.04.22"
+  },
+  {
+    "title": "DKME, 경영권 매각 재추진…덕양에너젠·울프로 변경 [공시pick]",
+    "summary": "DKME가 경영권 매각을 재추진하며, 덕양에너젠과 울프가 새로운 인수자로 나서 최대주주 지분 인수와 유상증자를 동시에 추진하는 전략적 M&A 거래",
+    "company": "디케이엠이",
+    "acquirer": "덕양에너젠, 울프",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.joseilbo.com/news/news_read.php?uid=567083&class=17&grp=",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "하림 김홍국, 홈플 익스프레스 인수 베팅… '승자의 저주' 우려 불식시...",
+    "summary": "하림이 회생 중인 홈플러스 익스프레스를 인수하기 위해 우선협상대상자로 선정되어 협상을 진행 중이며, 회생법원이 회생계획안 제출 기한을 5월 4일까지 연장한 상황",
+    "company": "홈플러스익스프레스",
+    "acquirer": "하림",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092160787",
+    "date": "2026.04.22"
+  },
+  {
     "title": "HD현대, 국내 최초 해외 쇄빙전용선 수주",
     "summary": "HD현대오일뱅크가 사모펀드 운용사 테넷에쿼티파트너스와 함께 국내 최대 바이오디젤 원료 생산 기업인 대경오앤티의 인수 우선협상대상자로 선정됨",
     "company": "대경오앤티",
@@ -1260,145 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.sedaily.com/article/20030953?ref=naver",
     "date": "2026.04.10"
-  },
-  {
-    "title": "HD현대오일뱅크, 대경오앤티 인수 우협 선정[시그널]",
-    "summary": "HD현대오일뱅크가 유진프라이빗에쿼티와 산업은행, SK온이 보유한 바이오디젤 원료 생산기업 대경오앤티의 인수 우선협상대상자로 선정되었으며, 이는 PE의 포트폴리오 회사 엑싯 거래임",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20031635?ref=naver",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[Invest]HD현대오일뱅크·테넷PE, 대경오앤티 인수 우협 선정",
-    "summary": "HD현대오일뱅크와 테넷PE가 컨소시엄을 구성하여 대경오앤티 인수전에서 우선협상대상자로 선정되었으며, 딜 규모는 약 5,000억원 수준으로 평가됨",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크·테넷PE",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5,000억원",
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380065.html",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[단독] HD현대오일뱅크 컨소, 대경오앤티 인수 우협 선정",
-    "summary": "HD현대오일뱅크 컨소시엄이 SK온과 유진PE, 산업은행PE가 공동 보유한 바이오원료 기업 대경오앤티의 100% 지분 인수 우선협상대상자로 선정되었다. SK온의 재무구조 개선을 목적으로 한 PE 엑싯 거래이다.",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202604135673r",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "케이카 품는 KG그룹, 오너2세 곽정현 승계 '힘싣기'",
-    "summary": "KG스틸이 케이카 지분 72%를 5500억원에 인수하고, 캑터스PE가 케이카캐피탈을 2000억원에 인수하는 거래로, 6월 30일 종결 예정",
-    "company": "케이카|케이카캐피탈",
-    "acquirer": "KG스틸|캑터스PE",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "계약",
-    "url": "https://dealsite.co.kr/articles/159919",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "한솔테크닉스, 반도체 검사 1위 기업 품는다",
-    "summary": "한솔테크닉스가 윌테크놀러지의 경영권을 인수하며, 자금은 유상증자로 조달하고 지주사인 한솔홀딩스가 구주 매각과 유상증자 참여로 지원하는 전략적 M&A",
-    "company": "윌테크놀러지",
-    "acquirer": "한솔테크닉스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://dealsite.co.kr/articles/160055",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "노앤파트너스, 더블유씨피 CB 인수…성장성 기반 후속 투자 단행",
-    "summary": "PE 노앤파트너스가 이차전지 분리막 기업 더블유씨피(WCP)에 대해 약 200억원 규모의 사모 전환사채(CB)를 인수하는 후속 투자를 단행했다.",
-    "company": "더블유씨피",
-    "acquirer": "노앤파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "200억원",
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2574624",
-    "date": "2026.04.12"
-  },
-  {
-    "title": "[단독] 아주산업, 그린에코솔루션 인수 추진…노앤파트너스와 각축전",
-    "summary": "레미콘 제조·납품 업체 아주산업이 한앤컴퍼니가 매각 중인 그린에코솔루션의 인수를 추진하고 있으며, 한국투자PE 등 다른 인수 후보자들과 경쟁 중인 전략적 M&A 거래",
-    "company": "그린에코솔루션",
-    "acquirer": "아주산업",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20030953?ref=naver",
-    "date": "2026.04.10"
-  },
-  {
-    "title": "엠플러스운용 매각, 금융당국 문턱 넘었다…이달 딜 마무리[only 이데일...",
-    "summary": "에이펙스인베스트가 엠플러스운용을 인수하며, 군인공제회는 주요 주주로 남는 공동 주주 체제가 형성되는 PE의 기업 인수 딜로, 금융당국 승인을 획득하고 이달 중 완료될 예정",
-    "company": "엠플러스운용",
-    "acquirer": "에이펙스인베스트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=04444406645414808",
-    "date": "2026.04.10"
-  },
-  {
-    "title": "이지스운용, 중국 사모펀드에 매각 앞두고 '증권 강화' 박차",
-    "summary": "중국계 사모펀드 힐하우스 인베스트먼트가 이지스운용을 인수하는 거래로, 실사를 완료하고 주식매매계약(SPA) 체결 전 금융당국의 대주주 인가를 앞두고 있는 단계",
-    "company": "이지스자산운용",
-    "acquirer": "힐하우스 인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.ceoscoredaily.com/page/view/2026041015325903173",
-    "date": "2026.04.11"
-  },
-  {
-    "title": "[주간사모펀드] 베인캐피탈, '최윤범 백기사' 엑시트…메리츠금융이 바...",
-    "summary": "스틱얼터너티브자산운용과 한국투자프라이빗에쿼티 컨소시엄이 SK그룹의 에너지 인프라 자회사 SK엠유와 울산GPS를 인수하는 1.6조 규모의 딜을 추진 중",
-    "company": "SK에너지유통|울산GPS",
-    "acquirer": "스틱얼터너티브자산운용|한국투자프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.6조원",
-    "deal_stage": "협상",
-    "url": "https://news.tf.co.kr/read/economy/2311949.htm",
-    "date": "2026.04.11"
   }
 ]
