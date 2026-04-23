@@ -66,6 +66,14 @@ a { text-decoration: none; color: inherit; }
   letter-spacing: -0.3px;
   margin: 0;
 }
+.site-subtitle {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-faint);
+  letter-spacing: 0.04em;
+  margin: 2px 0 0;
+}
 .site-tagline {
   font-family: var(--font-mono);
   font-size: 10px;
