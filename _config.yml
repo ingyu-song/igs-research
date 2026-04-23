@@ -7,6 +7,12 @@ url: "https://ingyu-song.github.io"
 markdown: kramdown
 highlighter: rouge
 
+# Collections
+collections:
+  sector:
+    output: true
+    permalink: /sector/:slug/
+
 # 빌드 제외
 exclude:
   - scraper/
@@ -23,3 +29,8 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: ""
+      type: sector
+    values:
+      layout: sector

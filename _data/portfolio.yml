@@ -38,13 +38,13 @@
   tags: [Equity Research, Valuation]
   summary: 2025 CFA Institute Research Challenge 참가. 상장사 NCC Capital에 대한 투자 분석 및 밸류에이션을 수행했으며, NUS 라운드에서 총 60개 팀 중 2위(First Runner Up) 기록.
   files:
-    - label: Presentation
+    - label: Grab Holdings - Presentation
       file: cfa-challenge-2025-presentation.pdf
       type: pdf
-    - label: Report
+    - label: Grab Holdings - Report
       file: cfa-challenge-2025-report.pdf
       type: pdf
-    - label: Model
+    - label: Grab Holdings - Model
       file: cfa-challenge-2025-model.xlsx
       type: xlsx
 

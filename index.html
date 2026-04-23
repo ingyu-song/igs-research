@@ -8,7 +8,9 @@ title: IGS Research
   <div class="site-header__inner">
     <div class="site-header__brand">
       <h1 class="site-title">IGS Research</h1>
-      <p class="site-tagline">Korean PE / M&amp;A Deal Research</p>
+      <h2 class="site-title">created by Song In Gyu</h2>
+
+      <p class="site-tagline">Korean PE / Deal Research</p>
     </div>
     <nav class="site-links" aria-label="Personal links">
       <a href="mailto:ingyu.song@u.nus.edu" class="site-link" aria-label="Email">
@@ -152,8 +154,44 @@ title: IGS Research
   <div class="panel__intro">
     <div class="panel__label">Industry Research</div>
     <h2 class="panel__title">Sector Analysis</h2>
+    <p class="panel__desc">Korean PE / M&A 딜 및 섹터 분석 리포트입니다. 각 리포트를 클릭하면 상세 분석을 확인할 수 있습니다.</p>
   </div>
-  <p class="empty">준비 중입니다.</p>
+
+  {% assign posts = site.sector | sort: 'date' | reverse %}
+  {% if posts.size == 0 %}
+    <p class="empty">리포트가 아직 없습니다.</p>
+  {% else %}
+    <div class="sa-list">
+      {% for post in posts %}
+      <a href="{{ post.url | relative_url }}" class="sa-card">
+        <div class="sa-card__top">
+          <span class="sa-card__type">{{ post.cover_type | default: "Sector Analysis" }}</span>
+          <div class="sa-card__right">
+            {% if post.opinion %}
+              <span class="sa-card__opinion sa-opinion--{{ post.opinion | downcase }}">{{ post.opinion }}</span>
+            {% endif %}
+            <span class="sa-card__date">{{ post.date | date: "%Y.%m.%d" }}</span>
+          </div>
+        </div>
+        <h3 class="sa-card__title">{{ post.title }}</h3>
+        {% if post.subtitle %}
+          <p class="sa-card__subtitle">{{ post.subtitle }}</p>
+        {% endif %}
+        {% if post.summary %}
+          <p class="sa-card__summary">{{ post.summary }}</p>
+        {% endif %}
+        <div class="sa-card__footer">
+          {% if post.sector %}
+            <span class="pf-tag">{{ post.sector }}</span>
+          {% endif %}
+          {% if post.deal_size %}
+            <span class="pf-tag">{{ post.deal_size }}</span>
+          {% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  {% endif %}
 </section>
 
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>

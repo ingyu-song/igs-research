@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — IGS Research</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    /* ── CSS Variables ───────────────────────────────────────── */
+    :root {
+      --navy:      #1A2744;
+      --card-bg:   #243055;
+      --hover-bg:  #2E3D6B;
+      --border:    #2E4070;
+      --gold:      #C8A96E;
+      --gold-lt:   #DFC08A;
+      --gold-dk:   #A8894E;
+      --cream:     #F0E8D5;
+      --white:     #FAF6EF;
+      --muted:     #8FA0C0;
+      --bull:      #7EC89A;
+      --base:      #DFC08A;
+      --bear:      #E08070;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--navy);
+      color: var(--cream);
+      font-family: 'Geist', 'Malgun Gothic', Arial, sans-serif;
+      font-size: 10pt;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold-lt); }
+
+    /* ── Top Nav ─────────────────────────────────────────────── */
+    .memo-nav {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 40px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .memo-nav .back {
+      color: var(--muted);
+      font-size: 8.5pt;
+      letter-spacing: 0.08em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      transition: color 0.2s;
+    }
+    .memo-nav .back:hover { color: var(--gold); }
+    .memo-nav .brand {
+      color: var(--white);
+      font-size: 11pt;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+    .memo-nav .brand em {
+      color: var(--gold);
+      font-style: italic;
+      font-weight: 400;
+    }
+
+    /* ── Page wrapper ────────────────────────────────────────── */
+    .page { max-width: 900px; margin: 0 auto; padding: 40px 32px 80px; }
+
+    /* ── Section Tag ─────────────────────────────────────────── */
+    .sec-tag {
+      border-left: 4px solid var(--gold);
+      padding-left: 10px;
+      color: var(--gold);
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    /* ── Gold Divider ────────────────────────────────────────── */
+    .gold-divider {
+      border: none;
+      border-bottom: 1px solid var(--gold-dk);
+      margin: 12px 0 20px;
+    }
+
+    /* ── Section wrapper ─────────────────────────────────────── */
+    .section { margin-bottom: 48px; }
+    .section-title {
+      font-size: 18pt;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 4px;
+    }
+
+    /* ── Cover ───────────────────────────────────────────────── */
+    .cover {
+      padding: 48px 0 40px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 48px;
+    }
+    .cover-type {
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 16px;
+    }
+    .cover-title {
+      font-size: 26pt;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 8px;
+      line-height: 1.2;
+    }
+    .cover-sub {
+      font-size: 12pt;
+      color: var(--muted);
+      margin-bottom: 28px;
+    }
+    .cover-meta {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .cover-meta-item { display: flex; flex-direction: column; gap: 4px; }
+    .cover-meta-label { font-size: 8pt; color: var(--muted); letter-spacing: 0.08em; }
+    .cover-meta-value { font-size: 10pt; color: var(--cream); font-weight: 700; }
+    .opinion-badge {
+      display: inline-block;
+      padding: 3px 12px;
+      border: 1px solid var(--gold);
+      color: var(--gold-lt);
+      font-size: 8.5pt;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── KPI Stat Cards ──────────────────────────────────────── */
+    .kpi-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .kpi-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .kpi-label { font-size: 8.5pt; color: var(--muted); }
+    .kpi-value {
+      font-size: 22pt;
+      font-weight: 700;
+      color: var(--gold-lt);
+      line-height: 1;
+    }
+    .kpi-sub { font-size: 8.5pt; color: var(--muted); }
+
+    /* ── Content Cards ───────────────────────────────────────── */
+    .content-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 16px 18px;
+      margin-bottom: 12px;
+    }
+    .content-card.two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+    }
+    .card-col { padding: 0 16px; }
+    .card-col:first-child { padding-left: 0; border-right: 1px solid var(--border); }
+    .card-col:last-child { padding-right: 0; }
+    .card-subtitle {
+      font-size: 10pt;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 10px;
+    }
+    .card-body { font-size: 10pt; color: var(--cream); line-height: 1.65; }
+    .card-list { list-style: none; display: flex; flex-direction: column; gap: 5px; }
+    .card-list li { font-size: 10pt; color: var(--muted); }
+    .card-list li::before { content: "— "; color: var(--muted); }
+
+    .core-judgment {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 18px 20px;
+      margin-bottom: 12px;
+      font-size: 10pt;
+      color: var(--cream);
+      line-height: 1.7;
+    }
+
+    /* ── Investment Thesis Rows ──────────────────────────────── */
+    .thesis-list { display: flex; flex-direction: column; gap: 12px; }
+    .thesis-row {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+      display: grid;
+      grid-template-columns: 36px 1fr;
+      gap: 14px;
+      align-items: start;
+    }
+    .thesis-num {
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10pt;
+      font-weight: 700;
+      color: var(--gold);
+      flex-shrink: 0;
+    }
+    .thesis-title {
+      font-size: 11pt;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 6px;
+    }
+    .thesis-body { font-size: 9.5pt; color: var(--muted); line-height: 1.6; }
+
+    /* ── Risk Grid ───────────────────────────────────────────── */
+    .risk-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    .risk-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 14px 16px;
+    }
+    .risk-title {
+      font-size: 10pt;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 6px;
+    }
+    .risk-body { font-size: 9.5pt; color: var(--muted); line-height: 1.6; }
+
+    /* ── Scenario Table ──────────────────────────────────────── */
+    .scenario-table { width: 100%; border-collapse: collapse; }
+    .scenario-table th {
+      background: var(--hover-bg);
+      color: var(--gold);
+      font-size: 8.5pt;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 10px 14px;
+      text-align: left;
+      border: 1px solid var(--border);
+    }
+    .scenario-table td {
+      background: var(--card-bg);
+      color: var(--cream);
+      font-size: 10pt;
+      padding: 12px 14px;
+      border: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    .scenario-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+    }
+    .badge-bull { background: rgba(126,200,154,0.15); color: var(--bull); }
+    .badge-base { background: rgba(223,192,138,0.15); color: var(--base); }
+    .badge-bear { background: rgba(224,128,112,0.15); color: var(--bear); }
+    .val-bull { color: var(--bull); font-weight: 700; }
+    .val-base { color: var(--base); font-weight: 700; }
+    .val-bear { color: var(--bear); font-weight: 700; }
+
+    /* ── Conclusion Card ─────────────────────────────────────── */
+    .conclusion-card {
+      background: var(--card-bg);
+      border: 1px solid var(--gold-dk);
+      padding: 20px 22px;
+      margin-bottom: 12px;
+    }
+    .conclusion-opinion {
+      font-size: 8pt;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 8px;
+    }
+    .conclusion-body {
+      font-size: 10pt;
+      color: var(--cream);
+      line-height: 1.7;
+    }
+
+    /* ── Two Col Grid ────────────────────────────────────────── */
+    .two-col-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    /* ── Disclaimer ──────────────────────────────────────────── */
+    .disclaimer {
+      text-align: center;
+      font-size: 8pt;
+      font-style: italic;
+      color: var(--muted);
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      line-height: 1.6;
+    }
+
+    /* ── Mobile ──────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .page { padding: 24px 16px 60px; }
+      .kpi-row { grid-template-columns: 1fr; }
+      .cover-meta { grid-template-columns: 1fr 1fr; }
+      .content-card.two-col { grid-template-columns: 1fr; }
+      .card-col:first-child { border-right: none; border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 16px; }
+      .risk-grid { grid-template-columns: 1fr; }
+      .two-col-grid { grid-template-columns: 1fr; }
+      .memo-nav { padding: 12px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Top Nav ──────────────────────────────────────────────── -->
+<nav class="memo-nav">
+  <a class="back" href="{{ site.baseurl }}/#sector">
+    <span>←</span> <span>Sector Analysis</span>
+  </a>
+  <div class="brand">IGS <em>Research</em></div>
+</nav>
+
+<div class="page">
+
+  <!-- ── Cover ─────────────────────────────────────────────── -->
+  <div class="cover">
+    <div class="cover-type">{{ page.cover_type | default: "Sector Analysis" }}</div>
+    <div class="cover-title">{{ page.title }}</div>
+    {% if page.subtitle %}
+      <div class="cover-sub">{{ page.subtitle }}</div>
+    {% endif %}
+    <div class="cover-meta">
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">보고서 일자</span>
+        <span class="cover-meta-value">{{ page.date | date: "%Y.%m.%d" }}</span>
+      </div>
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">딜 규모</span>
+        <span class="cover-meta-value">{{ page.deal_size | default: "—" }}</span>
+      </div>
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">투자 의견</span>
+        <span class="opinion-badge">{{ page.opinion | default: "Watch" }}</span>
+      </div>
+      <div class="cover-meta-item">
+        <span class="cover-meta-label">섹터</span>
+        <span class="cover-meta-value">{{ page.sector | default: "—" }}</span>
+      </div>
+    </div>
+    {% if page.summary %}
+      <div class="core-judgment">{{ page.summary }}</div>
+    {% endif %}
+  </div>
+
+  <!-- ── Body Content (Sections 01–08) ─────────────────────── -->
+  {{ content }}
+
+  <!-- ── Disclaimer ────────────────────────────────────────── -->
+  <div class="disclaimer">
+    본 리서치는 공개된 뉴스 및 시장 정보를 기반으로 작성된 정보 제공 목적의 자료이며, 투자 권유 또는 법적 조언이 아닙니다.
+    수록된 수치 및 분석은 추정치를 포함하며 실제와 다를 수 있습니다. IGS Research는 본 자료의 활용으로 인한 결과에 대해 책임을 지지 않습니다.
+  </div>
+
+</div><!-- /page -->
+</body>
+</html>
