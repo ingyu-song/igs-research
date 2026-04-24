@@ -111,6 +111,34 @@ a { text-decoration: none; color: inherit; }
   font-size: 11px;
   font-weight: 700;
 }
+.lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0;
+  border: 0.5px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.lang-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-faint);
+  font-size: 11px;
+  font-family: var(--font-mono);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  padding: 5px 10px;
+  transition: background 0.15s ease, color 0.15s ease;
+  line-height: 1;
+}
+.lang-btn:hover { color: var(--navy); background: var(--bg-subtle, #f0f0ec); }
+.lang-btn--active { color: var(--navy); background: var(--bg-subtle, #f0f0ec); }
+.lang-sep {
+  width: 0.5px;
+  align-self: stretch;
+  background: var(--border);
+}
 
 /* =========================================================
    Tabs

@@ -321,6 +321,32 @@
       gap: 12px;
     }
 
+    /* ── Lang Toggle ─────────────────────────────────────────── */
+    .lang-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 0;
+      border: 0.5px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .lang-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 10px;
+      font-family: 'DM Mono', monospace;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      padding: 4px 9px;
+      transition: background 0.15s, color 0.15s;
+      line-height: 1;
+    }
+    .lang-btn:hover { color: var(--white); background: var(--hover-bg); }
+    .lang-btn--active { color: var(--gold); background: var(--hover-bg); }
+    .lang-sep { width: 0.5px; align-self: stretch; background: var(--border); }
+
     /* ── Disclaimer ──────────────────────────────────────────── */
     .disclaimer {
       text-align: center;
@@ -351,9 +377,14 @@
 <!-- ── Top Nav ──────────────────────────────────────────────── -->
 <nav class="memo-nav">
   <a class="back" href="{{ site.baseurl }}/#sector">
-    <span>←</span> <span>Sector Analysis</span>
+    <span>←</span> <span data-i18n="nav.back">Sector Analysis</span>
   </a>
   <div class="brand">IGS <em>Research</em></div>
+  <div class="lang-toggle" aria-label="Language" style="margin-left:auto;">
+    <button class="lang-btn lang-btn--active" data-lang="ko">KO</button>
+    <span class="lang-sep" aria-hidden="true"></span>
+    <button class="lang-btn" data-lang="en">EN</button>
+  </div>
 </nav>
 
 <div class="page">
@@ -367,19 +398,19 @@
     {% endif %}
     <div class="cover-meta">
       <div class="cover-meta-item">
-        <span class="cover-meta-label">보고서 일자</span>
+        <span class="cover-meta-label" data-i18n="meta.date">보고서 일자</span>
         <span class="cover-meta-value">{{ page.date | date: "%Y.%m.%d" }}</span>
       </div>
       <div class="cover-meta-item">
-        <span class="cover-meta-label">딜 규모</span>
+        <span class="cover-meta-label" data-i18n="meta.dealsize">딜 규모</span>
         <span class="cover-meta-value">{{ page.deal_size | default: "—" }}</span>
       </div>
       <div class="cover-meta-item">
-        <span class="cover-meta-label">투자 의견</span>
+        <span class="cover-meta-label" data-i18n="meta.opinion">투자 의견</span>
         <span class="opinion-badge">{{ page.opinion | default: "Watch" }}</span>
       </div>
       <div class="cover-meta-item">
-        <span class="cover-meta-label">섹터</span>
+        <span class="cover-meta-label" data-i18n="meta.sector">섹터</span>
         <span class="cover-meta-value">{{ page.sector | default: "—" }}</span>
       </div>
     </div>
@@ -392,11 +423,12 @@
   {{ content }}
 
   <!-- ── Disclaimer ────────────────────────────────────────── -->
-  <div class="disclaimer">
+  <div class="disclaimer" data-i18n="disclaimer">
     본 리서치는 공개된 뉴스 및 시장 정보를 기반으로 작성된 정보 제공 목적의 자료이며, 투자 권유 또는 법적 조언이 아닙니다.
     수록된 수치 및 분석은 추정치를 포함하며 실제와 다를 수 있습니다. IGS Research는 본 자료의 활용으로 인한 결과에 대해 책임을 지지 않습니다.
   </div>
 
 </div><!-- /page -->
+<script src="{{ site.baseurl }}/assets/js/i18n.js"></script>
 </body>
 </html>

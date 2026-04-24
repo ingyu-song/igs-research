@@ -21,6 +21,11 @@ title: IGS Research
         <span class="site-link__icon">in</span>
         <span class="site-link__label">LinkedIn</span>
       </a>
+      <div class="lang-toggle" aria-label="Language">
+        <button class="lang-btn lang-btn--active" data-lang="ko">KO</button>
+        <span class="lang-sep" aria-hidden="true"></span>
+        <button class="lang-btn" data-lang="en">EN</button>
+      </div>
     </nav>
   </div>
 </header>
@@ -37,13 +42,13 @@ title: IGS Research
   <div class="panel__intro">
     <div class="panel__label">Selected Works</div>
     <h2 class="panel__title">Research Portfolio</h2>
-    <p class="panel__desc">Case Competition, Co-curricular, 그리고 이전 업무에서 수행한 작업물입니다. PDF는 바로 브라우저에서 미리 볼 수 있으며, Excel 모델은 다운로드 가능합니다.</p>
+    <p class="panel__desc" data-i18n="portfolio.desc">Case Competition, Co-curricular, 그리고 이전 업무에서 수행한 작업물입니다. PDF는 바로 브라우저에서 미리 볼 수 있으며, Excel 모델은 다운로드 가능합니다.</p>
   </div>
 
   {% assign items = site.data.portfolio | sort: 'date' | reverse %}
 
   {% if items.size == 0 %}
-    <p class="empty">아직 업로드된 항목이 없습니다.</p>
+    <p class="empty" data-i18n="portfolio.empty">아직 업로드된 항목이 없습니다.</p>
   {% else %}
     <div class="pf-list">
       {% for item in items %}
@@ -108,17 +113,17 @@ title: IGS Research
   <div class="panel__intro">
     <div class="panel__label">Auto-archived · Korea PE / M&amp;A</div>
     <h2 class="panel__title">Deal News</h2>
-    <p class="panel__desc">한국 PE/M&A/딜 관련 기사들을 자동으로 스크래핑하는 뉴스레터를 만들었습니다.</p>
+    <p class="panel__desc" data-i18n="dealnews.desc">한국 PE/M&A/딜 관련 기사들을 자동으로 스크래핑하는 뉴스레터를 만들었습니다.</p>
   </div>
 
   <div class="chips" role="group" aria-label="Deal filters">
-    <button class="chip chip--active" onclick="filterDeal('all', this)">전체</button>
-    <button class="chip" onclick="filterDeal('acq', this)">인수</button>
-    <button class="chip" onclick="filterDeal('exit', this)">엑싯</button>
-    <button class="chip" onclick="filterDeal('lbo', this)">LBO</button>
-    <button class="chip" onclick="filterDeal('sec', this)">세컨더리</button>
-    <button class="chip" onclick="filterDeal('block', this)">블록딜</button>
-    <button class="chip" onclick="filterDeal('strategic', this)">전략적M&amp;A</button>
+    <button class="chip chip--active" onclick="filterDeal('all', this)" data-i18n="chip.all">전체</button>
+    <button class="chip" onclick="filterDeal('acq', this)" data-i18n="chip.acq">인수</button>
+    <button class="chip" onclick="filterDeal('exit', this)" data-i18n="chip.exit">엑싯</button>
+    <button class="chip" onclick="filterDeal('lbo', this)" data-i18n="chip.lbo">LBO</button>
+    <button class="chip" onclick="filterDeal('sec', this)" data-i18n="chip.sec">세컨더리</button>
+    <button class="chip" onclick="filterDeal('block', this)" data-i18n="chip.block">블록딜</button>
+    <button class="chip" onclick="filterDeal('strategic', this)" data-i18n="chip.strategic">전략적M&amp;A</button>
   </div>
 
   <div class="deal-list" id="deal-list">
@@ -154,12 +159,12 @@ title: IGS Research
   <div class="panel__intro">
     <div class="panel__label">Industry Research</div>
     <h2 class="panel__title">Sector Analysis</h2>
-    <p class="panel__desc">Korean PE / M&A 딜 및 섹터 분석 리포트입니다. 각 리포트를 클릭하면 상세 분석을 확인할 수 있습니다.</p>
+    <p class="panel__desc" data-i18n="sector.desc">Korean PE / M&A 딜 및 섹터 분석 리포트입니다. 각 리포트를 클릭하면 상세 분석을 확인할 수 있습니다.</p>
   </div>
 
   {% assign posts = site.sector | sort: 'date' | reverse %}
   {% if posts.size == 0 %}
-    <p class="empty">리포트가 아직 없습니다.</p>
+    <p class="empty" data-i18n="sector.empty">리포트가 아직 없습니다.</p>
   {% else %}
     <div class="sa-list">
       {% for post in posts %}
