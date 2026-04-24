@@ -1,5 +1,173 @@
 [
   {
+    "title": "일본 정부에 가로막힌 MBK의 마키노 인수...이유는?",
+    "summary": "PE 운용사 MBK파트너스가 일본 공작기계 제조사 마키노후라이스제작소(마키노밀링머신)를 인수하려던 딜이 방위산업 연관성을 이유로 일본 정부의 규제에 직면했다.",
+    "company": "마키노후라이스제작소",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=5713",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "케이카캐피탈, 캑터스PE 빠지고 KG가 직접 인수... 이유는",
+    "summary": "KG스틸이 캑터스프라이빗에쿼티 대신 케이카캐피탈을 직접 인수하기로 방향을 전환했다. 당초 PE가 주도하던 거래에서 KG그룹 계열사의 직접 인수로 구조가 변경된 전략적 인수거래이다.",
+    "company": "케이카캐피탈",
+    "acquirer": "KG스틸",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/04/24/J7YLN6I7WVHL3PP5BSMZEZIJ6E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "[AI의 종목 이야기] 허니웰 \"중동 전쟁으로 매출·이익 전망 타격\"",
+    "summary": "허니웰(Honeywell)이 창고·물류 솔루션(Warehouse and Workflow Solutions) 사업부를 사모펀드 아메리칸 인더스트리얼 파트너스(American Industrial Partners LP)에 매각하기로 합의한 딜",
+    "company": "허니웰 창고·물류 솔루션 사업부",
+    "acquirer": "American Industrial Partners LP",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.newspim.com/news/view/20260424000019",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "[더벨]우리PE, 2500억 단독 블라인드펀드 조성 시동",
+    "summary": "우리PE가 3530억원 규모의 프로젝트펀드 '우리베일리국민성장PEF'를 통해 선박 엔진 핵심 소재 및 부품 업체인 현대IFC의 지분 100%를 인수했다.",
+    "company": "현대IFC",
+    "acquirer": "우리베일리국민성장PEF(우리PE)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3530억원",
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604221341483200109542",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "[더벨][KG그룹 케이카 인수] 'KG 깐부' 캑터스PE, 케이카 지분 20% 품는 배...",
+    "summary": "KG스틸과 캑터스PE가 케이카의 최대주주 한앤컴퍼니로부터 보통주 3524만5670주(지분율 72.19%)를 인수하는 딜로, 캑터스PE는 약 20% 지분을 확보하게 됨",
+    "company": "케이카",
+    "acquirer": "캑터스프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604221520552400102953",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "KG스틸, 대한전선 CB '잭팟'으로 케이카 품는다",
+    "summary": "KG스틸이 한앤컴퍼니 운용사에 케이카 지분 52.5%를 4000억원 규모로 인수하기 위해 대한전선 전환사채(CB)를 자산 현금화하여 자금을 조달한다.",
+    "company": "케이카",
+    "acquirer": "KG스틸",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "4000억원",
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44587",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "에코비트, 창원에너텍 인수 재추진한다",
+    "summary": "SG PE-SKS PE 컨소시엄이 창원에너텍 인수를 재추진하고 있으며, 해당 회사는 2024년 12월 IMM 컨소시엄에 약 2조원에 인수된 바 있음",
+    "company": "창원에너텍",
+    "acquirer": "SG프라이빗에쿼티-SKS프라이빗에쿼티",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10724852?ref=naver",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "[단독] 에코비트, 창원에너텍 인수 재추진한다",
+    "summary": "SG PE-SKS PE가 에코비트를 통해 창원에너텍 인수를 재추진하고 있으며, 에코비트의 최대주주인 IMM컨소시엄이 관여한 신규 인수 시도",
+    "company": "창원에너텍",
+    "acquirer": "SG프라이빗에쿼티·SKS프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10724235?ref=naver",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "[더벨]롯데그룹, 롯데렌탈 재매각 시동…TPG·EQT·MBK·현대차 후보 거...",
+    "summary": "롯데그룹이 어피니티에 매각하기로 한 롯데렌탈의 재매각을 추진 중이며, TPG, EQT, MBK파트너스, 현대차 등이 인수 후보로 거론되고 있다.",
+    "company": "롯데렌탈",
+    "acquirer": "롯데그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604151341183840102025",
+    "date": "2026.04.17"
+  },
+  {
+    "title": "사모펀드行 K-뷰티...몸집은 커졌는데 내실은 물음표",
+    "summary": "미국계 PE인 KKR이 국내 화장품 용기 제조사인 삼화를 7330억원에 기존 대주주인 TPG캐피탈로부터 인수한 거래",
+    "company": "삼화",
+    "acquirer": "KKR",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "7330억원",
+    "deal_stage": "완료",
+    "url": "https://www.greened.kr/news/articleView.html?idxno=339722",
+    "date": "2026.04.23"
+  },
+  {
+    "title": "산은, KDB생명 매각 재추진… 지분 99.7% 공개 매각 착수",
+    "summary": "산업은행이 보유 중인 KDB생명 지분 99.7%를 공개 매각하는 엑싯 절차를 본격화했다. 경영권 지분 전량을 대상으로 공개 매각을 추진 중이다.",
+    "company": "KDB생명",
+    "acquirer": "산업은행",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=448244",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "산은, KDB생명 7번째 매각 시동…연내 새 주인 찾는다",
+    "summary": "산업은행이 KDB생명 전량 지분(1억1천632만주)을 매각하여 경영권을 이전하는 딜. 산은이 현재 최대주주로서 보유한 지분을 신규 매입자에게 양도하는 엑싯 거래",
+    "company": "KDB생명보험",
+    "acquirer": "산업은행",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411472",
+    "date": "2026.04.24"
+  },
+  {
     "title": "애큐온캐피탈 인수전 나선 한화생명, 금융그룹 '퍼즐' 완성할까",
     "summary": "한화생명이 애큐온캐피탈 인수를 위해 다른 금융지주, 사모펀드와 함께 숏리스트에 선정되어 본입찰을 추진 중인 전략적 M&A",
     "company": "애큐온캐피탈",
@@ -1232,173 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.mk.co.kr/article/12015681",
     "date": "2026.04.13"
-  },
-  {
-    "title": "[마켓인]'1조 패키지 딜'의 유혹…애큐온에 베팅한 금융지주들",
-    "summary": "1조원대 몸값의 애큐온캐피탈을 둘러싸고 국내외 금융지주와 사모펀드(PEF) 운용사들이 인수에 나서고 있으며, 캐피탈과 저축은행을 함께 인수하는 패키지 딜이 추진 중",
-    "company": "애큐온캐피탈",
-    "acquirer": null,
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "소문",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03719526645415792",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "현대오일뱅크, '바이오연료 1위' 대경오앤티 인수 우협 선정",
-    "summary": "현대오일뱅크가 국내 최대 바이오디젤 원료 생산기업 대경오앤티 인수전에서 우선협상대상자로 선정됨. SK온과 유진PE·산업은행PE가 공동 보유한 대경오앤티의 전략적 매각 거래",
-    "company": "대경오앤티",
-    "acquirer": "현대오일뱅크",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://view.asiae.co.kr/article/2026041319295082647",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "HD현대오일뱅크, 日 에네오스 꺾고 '대경오앤티' 우협 선정…5000억 빅딜",
-    "summary": "HD현대오일뱅크가 유진프라이빗에쿼티와 산업은행, SK온이 보유한 국내 최대 바이오디젤 원료 생산기업 대경오앤티의 인수전에서 일본 에네오스를 제치고 우선협상대상자로 선정되었다.",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "협상",
-    "url": "http://www.fnnews.com/news/202604131605408212",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "예별손보, '운명의 주'…16일 본입찰, 불발 시 계약이전",
-    "summary": "예별손보 매각을 두고 한국투자금융지주, 하나금융지주, JC플라워 등 복수의 인수 후보자들이 16일 본입찰에 참여하는 전략적 M&A 딜",
-    "company": "예별손보",
-    "acquirer": "한국투자금융지주, 하나금융지주, JC플라워",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newspim.com/news/view/20260413001101",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "고려아연 지분 사들이는 메리츠, 新 캐스팅보터 '급부상'",
-    "summary": "메리츠가 베인캐피탈로부터 고려아연 지분을 인수하는 블록딜을 진행 중. 인수가는 원금 약 4000억원에 이자와 부대비용을 포함한 규모",
-    "company": "고려아연",
-    "acquirer": "메리츠",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "4000억원",
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=659307",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[더벨]HD현대오일뱅크, 일본 에네오스 제치고 대경오앤티 품는다",
-    "summary": "HD현대오일뱅크가 테넷에쿼티파트너스(테넷PE)와 컨소시엄을 구성하여 대경오앤티를 인수하는 거래. 친환경 에너지 원료 수급을 목적으로 일본 에네오스와의 인수 경쟁에서 우위를 점함",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크, 테넷에쿼티파트너스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604130746257660108473",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[더벨]'TKG휴켐스 투자' 제이앤PE, 첨단소재 사업 확장 돕는다",
-    "summary": "PE 운용사 제이앤프라이빗에쿼티(제이앤PE)가 첨단소재 기업 TKG휴켐스에 투자하며 반도체 포토공정용 하드마스크 소재 등 전자재료 사업을 확장한다.",
-    "company": "TKG휴켐스",
-    "acquirer": "제이앤프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604090854511120107413",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[AI의 종목 이야기] \"커밍그룹, 사모펀드에 30억달러 매각 발표 임박\"",
-    "summary": "사모펀드 운용사 레너드 그린 앤드 파트너스가 뉴 마운틴 캐피털로부터 건설 프로젝트 컨설팅 기업 커밍 그룹을 약 30억 달러에 인수할 예정이다.",
-    "company": "Corning Group",
-    "acquirer": "Leonard Green & Partners",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "30억 달러",
-    "deal_stage": "소문",
-    "url": "https://www.newspim.com/news/view/20260413000036",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[Invest]롯데케미칼, 은행 도움 받아 채권 찍고 비주력사업부도 매각",
-    "summary": "롯데케미칼의 첨단소재 사업부문 내 인조대리석 사업부를 PEF 등 잠재 투자자들을 대상으로 매각 추진 중. UBS가 매각 주관을 맡고 있으며 이달 중 인수 제안이 예상됨",
-    "company": "롯데케미칼 인조대리석 사업부",
-    "acquirer": "미정 (PEF 등 잠재 투자자 접촉 중)",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/04/10/2026041080095.html",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "롯데케미칼, 건자재 사업부 판다…非석화 구조조정 본격화",
-    "summary": "롯데케미칼이 건자재 사업부를 분할 매각하기 위해 UBS를 주관사로 선정하고 사모펀드 운용사들에 매각 의사를 타진 중. PE의 건자재 사업부 인수를 추진 중인 딜.",
-    "company": "롯데케미칼",
-    "acquirer": "사모펀드(미정)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.hankyung.com/article/202604102743r",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "[단독]더현대 품절대란 스킨케어 '휩드', 토종PEF 케이스톤 품으로 [시...",
-    "summary": "국내 PEF 운용사 케이스톤파트너스가 스킨케어 브랜드 휩드를 보유한 세모컴퍼니의 경영권을 약 500억 원의 기업가치로 인수하는 거래를 완료했다.",
-    "company": "세모컴퍼니",
-    "acquirer": "케이스톤파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "500억원",
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20031379?ref=naver",
-    "date": "2026.04.12"
-  },
-  {
-    "title": "[단독] 아주산업, 그린에코솔루션 인수 추진…노앤파트너스와 각축전 [...]",
-    "summary": "레미콘 제조·납품 업체인 아주산업이 한앤컴퍼니가 매각 중인 그린에코솔루션 인수를 추진하고 있으며, 한국투자프라이빗에쿼티 등 여러 인수 후보자들과 경쟁 중인 상황",
-    "company": "그린에코솔루션",
-    "acquirer": "아주산업",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20030953?ref=naver",
-    "date": "2026.04.10"
   }
 ]
