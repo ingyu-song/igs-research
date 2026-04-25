@@ -1,5 +1,145 @@
 [
   {
+    "title": "KDB생명 이번엔 팔리나…공적자금 회수율·가격 적정성 관건",
+    "summary": "산업은행이 보유한 KDB생명을 한국투자금융지주에 매각하는 것을 추진 중이며, 연내 보험사 인수 완료를 목표로 진행 중인 전략적 M&A 딜",
+    "company": "KDB생명보험",
+    "acquirer": "한국투자금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsis.com/view/NISX20260424_0003605835",
+    "date": "2026.04.25"
+  },
+  {
+    "title": "[주간사모펀드] 안갯속 롯데렌탈 인수전…어피니티, SK렌터카 재매각 카...",
+    "summary": "PE 운용사 어피니티에쿼티파트너스가 렌터카 시장 1위 사업자 롯데렌탈 인수를 추진 중이며, 인수 가격 조정을 두고 롯데그룹과 협상 중인 상황",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.tf.co.kr/read/economy/2317064.htm",
+    "date": "2026.04.25"
+  },
+  {
+    "title": "EQT, 더존비즈온 지분 94% 확보...\"자진 상폐 수순\" [fn마켓워치]",
+    "summary": "글로벌 사모펀드 EQT가 공개매수를 통해 더존비즈온의 지분 94%를 확보했으며, 회사의 자진 상장폐지 수순으로 진행 중인 인수 거래",
+    "company": "더존비즈온",
+    "acquirer": "EQT",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.fnnews.com/news/202604242126428154",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "EQT, 더존비즈온 공개매수 2차 종료…인수 마무리",
+    "summary": "글로벌 사모펀드 EQT파트너스가 더존비즈온에 대한 2차 공개매수를 완료하여 상장폐지 목적의 인수를 마무리했다.",
+    "company": "더존비즈온",
+    "acquirer": "EQT파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026042419212387228",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "EQT, 더존비즈온 2차 공개매수 마무리… 지분 94% 확보 자진 상폐 수순 ...",
+    "summary": "글로벌 사모펀드 EQT파트너스가 두 차례의 공개매수를 통해 더존비즈온의 지분율을 94%로 확보하며 인수를 마무리하고 자진 상폐를 추진 중",
+    "company": "더존비즈온",
+    "acquirer": "EQT파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20036935?ref=naver",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "EQT, 더존비즈온 인수 마무리…2차 공개매수로 지분 94% 확보",
+    "summary": "글로벌 사모펀드 EQT가 더존비즈온에 대한 2차 공개매수를 완료하여 지분 94%를 확보함으로써 인수 절차를 마무리했다.",
+    "company": "더존비즈온",
+    "acquirer": "EQT",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202604245432r",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "6000억 카카오게임즈 M&A, 한투가 인수금융 단독 주선",
+    "summary": "카카오가 카카오게임즈 지분 24%(구주 약 2200만주)를 PE 운용사 페트리코파트너스에 매각하는 블록딜로, 한국투자증권이 인수금융을 6%대 초반 금리, 3년 만기로 단독 주선",
+    "company": "카카오게임즈",
+    "acquirer": "페트리코파트너스",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "6000억원",
+    "deal_stage": "계약",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/04/24/ZUHHYSCRMVB4JOO74SCNHE6HC4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "안보 우려에 기업 인수 제동 건 日정부…고려아연은?",
+    "summary": "MBK파트너스가 지난해 6월 일본 마키노에 대한 주식 공개매수를 계획했으며, 약 8조원 규모의 바이아웃 펀드를 통해 인수를 추진 중이나 일본 정부의 안보 우려로 인수에 제동이 걸린 상황",
+    "company": "마키노",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "8조원",
+    "deal_stage": "협상",
+    "url": "https://news.bizwatch.co.kr/article/industry/2026/04/24/0005",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "반도체 호황 등에 업은 '에어퍼스트', 몸값 4조 돌파 [넘버스]",
+    "summary": "IMM PE가 산업용 가스 제조사 에어퍼스트(전 린데코리아)에서 엑시트할 채비를 하고 있으며, 에어퍼스트의 현재 몸값은 4조원대로 평가받고 있음",
+    "company": "에어퍼스트",
+    "acquirer": "IMM PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "4조원대",
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=660451",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "DKME 경영권, 에너진 아닌 덕양에너젠·울프로 넘긴다",
+    "summary": "코스피 상장사 DKME의 최대주주 지분을 덕양에너젠·울프 컨소시엄이 인수하여 경영권을 넘겨받는 전략적 M&A 거래",
+    "company": "DKME",
+    "acquirer": "덕양에너젠·울프",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.fieldnews.kr/news/articleView.html?idxno=28165",
+    "date": "2026.04.24"
+  },
+  {
     "title": "일본 정부에 가로막힌 MBK의 마키노 인수...이유는?",
     "summary": "PE 운용사 MBK파트너스가 일본 공작기계 제조사 마키노후라이스제작소(마키노밀링머신)를 인수하려던 딜이 방위산업 연관성을 이유로 일본 정부의 규제에 직면했다.",
     "company": "마키노후라이스제작소",
@@ -1260,145 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://dealsite.co.kr/articles/159843",
     "date": "2026.04.15"
-  },
-  {
-    "title": "현대오일뱅크, '대경오앤티' 인수 나서… 정유업계, 바이오 연료 원료 ...",
-    "summary": "HD현대오일뱅크와 테넷에쿼티파트너스(PE) 컨소시엄이 대경오앤티의 인수를 위한 우선협상권을 획득. 2027년 지속가능항공유(SAF) 의무화를 앞두고 바이오 연료 원료 기업을 전략적으로 인수하는 거래",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크, 테넷에쿼티파트너스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.greened.kr/news/articleView.html?idxno=339277",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "삼성SDS, 사모펀드 KKR 1.2조 투자에 19%↑",
-    "summary": "KKR이 삼성SDS에 전환사채 발행을 통해 1조2000억원대를 전략적 투자하며, 향후 인수합병(M&A)도 추진할 계획",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "협상",
-    "url": "https://www.newsis.com/view/NISX20260415_0003591866",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "E&F PE, KES환경개발 인수자금 조달 착수",
-    "summary": "PE 운용사 E&F 프라이빗에쿠티가 JC파트너스 지분 80%를 인수하여 폐기물 매립지 기업 KES환경개발을 인수하기 위해 자금조달을 추진 중",
-    "company": "KES환경개발",
-    "acquirer": "E&F 프라이빗에쿠티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "2000억원",
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10716699?ref=naver",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "H&Q-한화갤러리아, 수익성 떨어진 '파이브가이즈' M&A 가격 조정 들어가...",
-    "summary": "PE운용사 H&Q코리아의 자회사 H&Q에쿼티파트너스가 한화갤러리아로부터 파이브가이즈를 운영하는 에프지코리아 지분 100%를 인수하는 거래에서 수익성 악화로 인한 가격 조정 협상을 진행 중이다.",
-    "company": "에프지코리아",
-    "acquirer": "H&Q에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2575496",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "㈜두산 전자BG, 기업가치 19兆 육박",
-    "summary": "두산그룹이 세계 3위 반도체 웨이퍼 제조사 SK실트론의 지분 70.6%를 인수하기 위해 우선협상대상자로 선정되었으며, 딜 규모는 최대 5조원 규모로 추정됨",
-    "company": "SK실트론",
-    "acquirer": "두산그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5조원",
-    "deal_stage": "협상",
-    "url": "http://www.fnnews.com/news/202604140758230341",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "[더벨]'엠앤씨솔루션 인수' 한투파PE, 한투·우리은행과 맞손 유력",
-    "summary": "한국투자파트너스 PE본부가 방산·우주 부품 기업 엠앤씨솔루션을 인수하기 위해 우선협상대상자로 낙점된 후 인수금융을 준비 중인 신규 딜",
-    "company": "엠앤씨솔루션",
-    "acquirer": "한국투자파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604091506542600105477",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "E&F PE, '수도권 매립지' KES환경개발 인수금융 조달 협상 착수",
-    "summary": "PE 운용사 E&F PE가 폐기물 매립지 운영업체 KES환경개발의 인수를 위해 인수금융(Debt) 조달 협상을 시작했으며, 이는 신규 인수거래(Buyout)의 본격적인 추진 단계",
-    "company": "KES환경개발",
-    "acquirer": "E&F PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10716356?ref=naver",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "SK네트웍스, SK일렉링크 지분 매각 완료…\"사업구조 최적화 속도\"",
-    "summary": "SK네트웍스가 홍콩계 사모펀드 앵커에쿼티파트너스에 충전 사업 자회사 SK일렉링크의 지분을 매각하는 거래를 완료했다. PE의 기업 매각(엑싯) 거래에 해당한다.",
-    "company": "SK일렉링크",
-    "acquirer": "SK네트웍스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newsis.com/view/NISX20260414_0003589979",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "[PEF열전] 日 지배구조 개편주·韓 밸류업 우량주 투자",
-    "summary": "MBK파트너스가 일본 공작기계 제조업체인 마키노 밀링 머신을 약 2조원 규모의 공개 매수(TOB)를 통해 인수하는 딜",
-    "company": "Makino Milling Machine",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "2조원",
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12015712",
-    "date": "2026.04.13"
-  },
-  {
-    "title": "HD현대오일뱅크·테넷EP … 대경오앤티 인수 우협 선정",
-    "summary": "HD현대오일뱅크와 사모펀드 테넷EP 컨소시엄이 폐식용유 처리 전문 업체 대경오앤티의 인수 우선협상대상자로 선정되었으며, 약 5,000억원 규모로 지분 100% 인수를 추진 중인 전략적 M&A 거래",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12015681",
-    "date": "2026.04.13"
   }
 ]
