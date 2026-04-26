@@ -1,5 +1,47 @@
 [
   {
+    "title": "태광, 케이조선 인수 추진...완주 세가지 관건은?",
+    "summary": "태광그룹이 사모펀드 운용사 그린하버와 컨소시엄을 구성하여 케이조선 인수를 위한 최종 제안서를 제출하고 매도인과 협상을 진행 중인 PE/전략적 M&A 딜",
+    "company": "케이조선",
+    "acquirer": "태광그룹·그린하버",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=835227",
+    "date": "2026.04.26"
+  },
+  {
+    "title": "피부과 대기실에 먼저 도착한 글로벌 자본 [딜레터]",
+    "summary": "한앤컴퍼니가 루트로닉을 9645억원에 인수하고 글로벌 레이저 기업 사이노슈어를 3500억원에 추가 인수한 전략적 M&A 거래",
+    "company": "루트로닉",
+    "acquirer": "한앤컴퍼니",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "9645억원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10724859?ref=naver",
+    "date": "2026.04.24"
+  },
+  {
+    "title": "예별손보 이어 KDB생명도 매각 공고…한투지주 선택에 '주목'",
+    "summary": "한투지주가 보유한 KDB생명을 매각하는 거래. 하나금융그룹, JC플라워 등이 입찰에 참여했으나 본입찰 진행 여부 불명확",
+    "company": "KDB생명보험",
+    "acquirer": "한투지주",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sidae.com/article/2026042413414020877",
+    "date": "2026.04.24"
+  },
+  {
     "title": "KDB생명 이번엔 팔리나…공적자금 회수율·가격 적정성 관건",
     "summary": "산업은행이 보유한 KDB생명을 한국투자금융지주에 매각하는 것을 추진 중이며, 연내 보험사 인수 완료를 목표로 진행 중인 전략적 M&A 딜",
     "company": "KDB생명보험",
@@ -1357,48 +1399,6 @@
     "ev": "900억원",
     "deal_stage": "계약",
     "url": "https://news.dealsitetv.com/articles/168629",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "성호전자, 자회사 어매이징홀딩스 주식 전량 양수 결정",
-    "summary": "성호전자가 자회사 어매이징홀딩스의 주식을 전량 양수하기로 결정했으며, 이는 자회사에 대한 경영권 강화를 목적으로 한다.",
-    "company": "어매이징홀딩스",
-    "acquirer": "성호전자",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=656915",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "[단독] 'K-푸드' 본촌치킨 매각 급물살…본입찰 착수",
-    "summary": "PE운용사 VIG파트너스가 2018년 인수한 본촌인터내셔날의 경영권 지분 55%를 매각하기 위해 본입찰을 착수했다. 본촌치킨의 글로벌 확장성이 주목받으며 매각이 추진 중이다.",
-    "company": "본촌인터내셔날",
-    "acquirer": "VIG파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "600억원 (2018년 인수가 기준)",
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10717101?ref=naver",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "안전장치 뗀 1.6조 빅딜…스틱·한투PE 셈법은",
-    "summary": "스틱·한투PE 컨소시엄이 SK멀티유틸리티를 1조6000억원 규모로 인수하는 LBO 거래. 프로젝트 파이낸싱 8000억원을 포함한 레버리지 구조로 진행 중",
-    "company": "SK멀티유틸리티",
-    "acquirer": "스틱·한투PE",
-    "type": "lbo",
-    "tags": [
-      "lbo"
-    ],
-    "ev": "1.6조원",
-    "deal_stage": "협상",
-    "url": "https://dealsite.co.kr/articles/159843",
     "date": "2026.04.15"
   }
 ]
