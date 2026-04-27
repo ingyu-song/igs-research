@@ -1,5 +1,244 @@
 [
   {
+    "title": "KFC코리아, 美 사모펀드 칼라일에 인수…\"공격적 매장 확대 나서\"",
+    "summary": "칼라일 산하 아시아 파트너스가 오케스트라PE로부터 KFC 코리아 지분 100%를 인수하는 거래. 지난해 12월 SPA 체결 이후 절차를 거쳐 완료됨.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.mk.co.kr/article/12028073",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "'뒷심 부족' 한화생명, 애큐온저축 인수전 완주할까 [넘버스]",
+    "summary": "한화생명이 EQT파트너스가 보유한 애큐온저축은행과 캐피탈 인수전에 참전하여 적격인수후보(숏리스트)에 올랐으며, 신규 인수를 추진 중인 거래",
+    "company": "애큐온저축은행",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=660633",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC 코리아 품은 칄라일…외식 시장 공략 속도 붙는다",
+    "summary": "글로벌 사모펀드 칼라일이 오케스트라프라이빗에쿼티로부터 KFC 코리아의 지분 100%를 인수하는 세컨더리 거래",
+    "company": "KFC 코리아",
+    "acquirer": "칼라일",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=514907",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아 새주인에 미국 사모펀드 '칼라일'",
+    "summary": "칼라일 아시아 파트너스 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 인수했으며, 지난해 12월 SPA 체결 이후 17일 최종 완료했다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.getnews.co.kr/news/articleView.html?idxno=868717",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 사모펀드 칼라일에 인수…\"매장 공격적 확대\"",
+    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 취득하는 인수 거래. 지난해 12월 SPA 체결을 통해 진행됨",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10726126?ref=naver",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC 코리아, 사모펀드 '칼라일'과 국내 성장 가속화",
+    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라프라이빗에쿼티로부터 KFC 코리아 지분 100%를 인수하는 PE 기업 인수 거래",
+    "company": "KFC 코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=311395",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 칼라일로 새 주인…\"매장 확대·디지털 강화\"",
+    "summary": "글로벌 사모펀드 칼라일이 기존 투자자 오케스트라 프라이빗에쿼티로부터 KFC코리아를 인수하는 거래. 오케스트라는 3년 만에 약 3배 규모의 투자 회수를 실현하며 엑시트에 성공.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.newsprime.co.kr/news/article.html?no=731590",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 美사모펀드 칼라일 품으로…\"국내 사업 확장 속도\"",
+    "summary": "칼라일 아시아 파트너스 계열사가 오케스트라프라이빗에쿼티로부터 KFC코리아 지분 100%를 인수하는 거래를 완료했다. 이는 PE의 기업 인수 및 기존 PE로부터의 세컨더리 매각 거래이다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202604278544g",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC 코리아, 美사모펀드 칼라일 품에 안겨…중장기 성장 전략 띄운다",
+    "summary": "오케스트라PE가 보유한 KFC 코리아 지분 100%를 칼라일 아시아 파트너스 계열사가 인수하는 PE 엑싯 거래",
+    "company": "KFC 코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=1367903",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 칼라일 품으로…\"인수 마무리, 매장 확대·앱 개발 나서\"",
+    "summary": "글로벌 사모펀드 칼라일그룹이 오케스트라프라이빗에쿼티로부터 KFC코리아의 지분 100%를 인수하여 거래를 완료했다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.mydaily.co.kr/page/view/2026042709445366440",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 美사모펀드 칼라일 품으로…지배 구조 개편 마무리",
+    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 인수하는 거래. 지난해 12월 SPA 체결되었으며 지배 구조 개편이 마무리됨.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.widedaily.com/news/articleView.html?idxno=292968",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 칼라일에 매각 완료…매장 확대·디지털 강화 속도",
+    "summary": "칼라일 아시아 파트너스가 오케스트라프라이빗에쿼티로부터 KFC코리아의 지분 100%를 인수하는 거래를 완료했으며, 이는 PE의 기업 인수(buyout) 거래이자 기존 PE의 엑싯에 해당한다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02145126645420384",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC코리아, 美사모펀드 칼라일 품으로…지배 구조 개편 마무리",
+    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 인수하는 거래로, 지난해 12월 SPA 체결 후 완료됨",
+    "company": "KFC코리아",
+    "acquirer": "칼라일 아시아 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newsis.com/view/NISX20260427_0003607180",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "KFC, 사모펀드 칼라일에 팔렸다",
+    "summary": "KFC 코리아가 글로벌 사모펀드 칼라일 산하의 오케스트라프라이빗에쿼티(오케스트라PE)에 매각되었다. 이는 PE펀드에 의한 기업 인수 거래이다.",
+    "company": "KFC 코리아",
+    "acquirer": "오케스트라프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.naeil.com/news/read/586873?ref=naver",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "두산, SK실트론 인수…FI 없이 홀로 나서나 [넘버스]",
+    "summary": "두산이 SK실트론을 인수하려는 거래로, 2025년에 사모펀드 등을 통한 자금조달을 추진 중인 전략적 M&A",
+    "company": "SK실트론",
+    "acquirer": "두산",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=660601",
+    "date": "2026.04.26"
+  },
+  {
+    "title": "[고려아연 경영권 분쟁] 급했던 최윤범 회장 도운 베인캐피탈, 얼마나 ...",
+    "summary": "베인캐피탈이 보유 중인 고려아연 지분 전량을 2026년 4월 8일 블록딜로 매각했으며, 이는 펀드 만기와 출자자 수익 배분 일정을 고려한 유동성 확보 결정이다.",
+    "company": "고려아연",
+    "acquirer": "베인캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.smarttoday.co.kr/ko-kr/articles/106332",
+    "date": "2026.04.09"
+  },
+  {
+    "title": "\"삼성이 하면 다르다\" 글로벌 공조 '톱 티어ʼ도전장 [D램 넘어 삼성...",
+    "summary": "삼성전자가 영국계 사모펀드 트라이튼으로부터 플랙스그룹 지분 100%를 약 2조 6,000억 원(15억 유로)에 인수하는 전략적 M&A를 추진 중",
+    "company": "Flex Limited",
+    "acquirer": "삼성전자",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2.6조원",
+    "deal_stage": "협상",
+    "url": "http://www.fntimes.com/html/view.php?ud=202604260001309262dd55077bc2_18",
+    "date": "2026.04.27"
+  },
+  {
     "title": "태광, 케이조선 인수 추진...완주 세가지 관건은?",
     "summary": "태광그룹이 사모펀드 운용사 그린하버와 컨소시엄을 구성하여 케이조선 인수를 위한 최종 제안서를 제출하고 매도인과 협상을 진행 중인 PE/전략적 M&A 딜",
     "company": "케이조선",
@@ -1162,243 +1401,5 @@
     "deal_stage": "완료",
     "url": "https://www.mt.co.kr/future/2026/04/18/2026041708550176491",
     "date": "2026.04.18"
-  },
-  {
-    "title": "오케스트라PE, KFC코리아 투자 3년 만에 엑시트…칼라일그룹에 매각 완...",
-    "summary": "오케스트라PE가 2022년 4월 인수한 KFC코리아를 칼라일그룹에 매각하는 엑시트 거래를 완료했다.",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833717",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "오케스트라PE, 3년 만에 'KFC코리아' 엑시트 성공...칼라일 품으로 [fn마...",
-    "summary": "오케스트라PE가 2022년 4월에 인수한 KFC코리아를 칼라일그룹에 매각하는 엑시트 거래. 3년간 보유한 후 피인수인에게 매각 완료.",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202604171404588920",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "오케스트라PE, KFC코리아 투자 3년 만에 엑시트 완료",
-    "summary": "오케스트라PE는 2022년 4월 인수한 KFC코리아 지분 100%를 엑시트 완료했다. 이는 저평가 자산 발굴 후 구조 개선을 거친 PE 전형적인 버이아웃-엑시트 거래다.",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2576710",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "[단독] 태광, 케이조선 인수 위해 그린하버와 맞손…오성첨단소재가 자...",
-    "summary": "태광이 케이조선 인수를 위해 그린하버와 컨소시엄을 구성했다. TPG의 이탈 이후 새롭게 파트너를 확보하고 인수전을 추진 중인 상황이다.",
-    "company": "케이조선",
-    "acquirer": "태광",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202604165616r",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "예별손보 본입찰서 확인한 한투지주의 의지, 보험사 M&A 판 흔드나",
-    "summary": "예금보험공사가 진행 중인 예별손보 공개매각 본입찰에서 하나금융지주, 한국투자금융지주, JC플라워 등이 예비인수자로 선정되었으며, 한투지주의 인수 의지가 보험사 M&A 시장의 새 변수로 떠오르고 있다.",
-    "company": "예별손보",
-    "acquirer": "하나금융지주, 한국투자금융지주, JC플라워",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.raonnews.com/news/article.html?no=57555",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "KKR, 삼성SDS에 1.2조 투자… '적극적 소수지분' 참여",
-    "summary": "글로벌 사모펀드 KKR이 삼성SDS의 신규 발행 전환사채(CB) 인수를 통해 약 1조 2200억원을 투자하는 전략적 파트너십 거래",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "완료",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=659543",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "'K-푸드' 본촌치킨 매각 본입찰 착수",
-    "summary": "VIG파트너스가 2018년 인수한 본촌인터내셔날의 경영권 지분 55%를 매각하기 위해 본입찰을 착수했다. 이는 PE의 포트폴리오 회사 엑싯 거래이다.",
-    "company": "본촌인터내셔날",
-    "acquirer": "VIG파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10717704?ref=naver",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "KKR, 1조2000억원 규모 삼성SDS 전환사채 투자… AI 설루션 기업 도약 지...",
-    "summary": "글로벌 사모펀드 KKR이 삼성SDS의 신규 발행 전환사채 1조2200억원을 인수하는 최종 계약을 체결했다. 이는 PE펀드의 기업 투자 거래다.",
-    "company": "삼성SDS",
-    "acquirer": "KKR(콜버그크래비스로버츠)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/04/15/IK4OIGE4SBC5RDMNCHYEEONC6I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "1300억에 팔린 샤브올데이…'성장 동력'인가 '빚 탕감용'인가",
-    "summary": "졸리비가 샤브올데이의 약 70% 지분을 인수하고 나머지를 사모펀드가 인수하는 구조로 약 1300억원 규모의 M&A 거래가 성사됨",
-    "company": "샤브올데이",
-    "acquirer": "졸리비",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1300억원",
-    "deal_stage": "완료",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=1364522",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "동성제약 최대주주 유암코 제약산업 제1호 기업재무안정 사모투자합자...",
-    "summary": "제1호 PEF, 태광, 중기도약펀드 컨소시엄이 회생절차 중인 동성제약의 보통주식 및 전환사채를 인수하는 딜",
-    "company": "동성제약 주식회사",
-    "acquirer": "제1호 PEF, 태광, 중기도약펀드 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657058",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "KKR, 삼성SDS 전환사채 1.22조 인수…기업가치 제고 파트너십 체결 [시그...",
-    "summary": "글로벌 사모펀드 KKR이 삼성SDS의 1조 2200억 원 규모 전환사채를 인수하며, 삼성SDS의 M&A 등 기업가치 제고를 위해 협력하기로 합의한 전략적 지분 투자 거래",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.22조원",
-    "deal_stage": "계약",
-    "url": "https://www.sedaily.com/article/20032718?ref=naver",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "[Invest]KKR, 삼성SDS에 1조2000억원 전략적 투자…AI 전환 가속",
-    "summary": "글로벌 사모펀드 KKR이 삼성SDS에 신규 발행 전환사채(CB) 인수를 통해 1조2000억원 규모의 전략적 투자를 진행하며 삼성SDS 지분을 확보하는 구조의 거래",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/04/15/2026041580028.html",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "삼성SDS, KKR서 1.2조 투자 유치해 AI 투자 확대…주가 11%↑",
-    "summary": "KKR이 삼성SDS에 1.2조원 규모의 전환사채를 인수하는 투자 거래. 표면금리 2.5%, 6년 만기로 삼성SDS의 AI 투자 자금 조달 용도",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4409595",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "KKR, 삼성SDS '1조 2000억원 규모' 전략적 지분 투자 나선다 [fn마켓워치...",
-    "summary": "글로벌 사모펀드 KKR이 삼성SDS에 1조 2000억원 규모의 전환사채 인수를 통해 전략적 지분 투자를 진행하는 신규 거래",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "http://www.fnnews.com/news/202604150914277306",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "[청호나이스 M&A] 상속세 3000억 폭탄…외자에 넘어가는 알짜정수기",
-    "summary": "글로벌 사모펀드(PEF) 운용사가 청호나이스의 대주주 일가로부터 청호나이스와 핵심 제조 계열사인 마이크로필터를 동시에 인수하는 딜을 진행 중",
-    "company": "청호나이스",
-    "acquirer": null,
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://dealsite.co.kr/articles/159914",
-    "date": "2026.04.15"
-  },
-  {
-    "title": "'1조 매물' 애큐온캐피탈 인수전...메리츠금융·한화생명 등 각축",
-    "summary": "EQT파트너스가 보유한 애큐온캐피탈 지분 96.06%를 매각하기 위해 메리츠금융그룹, 한화생명, 바이칼인베스트먼트를 숏리스트로 선정하여 인수 입찰을 진행 중인 PE 엑싯 딜",
-    "company": "애큐온캐피탈",
-    "acquirer": "EQT파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://www.thepublic.kr/news/articleView.html?idxno=301129",
-    "date": "2026.04.14"
-  },
-  {
-    "title": "[한솔테크닉스 M&A] 외부 조달 급증…김진석 CFO 부각",
-    "summary": "한솔테크닉스가 반도체 후공정 장비기업 월테크놀로지의 경영권을 인수하기로 결정했으며, 총 900억원 규모의 자금을 은행 차입, 계열사 차입, 사모사채 등으로 조달하는 LBO 거래",
-    "company": "월테크놀로지",
-    "acquirer": "한솔테크닉스",
-    "type": "lbo",
-    "tags": [
-      "lbo"
-    ],
-    "ev": "900억원",
-    "deal_stage": "계약",
-    "url": "https://news.dealsitetv.com/articles/168629",
-    "date": "2026.04.15"
   }
 ]
