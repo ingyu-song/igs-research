@@ -1,5 +1,117 @@
 [
   {
+    "title": "사모펀드로 넘어간 테라로사… 공차의 선례와 예민한 갈림길",
+    "summary": "UCK파트너스가 2021년 테라로사 지분 37.1%를 인수한 데 이어 2022년 7월 창업주 김 대표의 잔여 지분을 모두 인수하면서 테라로사의 경영권을 완전히 확보했다.",
+    "company": "테라로사",
+    "acquirer": "UCK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=309967",
+    "date": "2026.04.29"
+  },
+  {
+    "title": "더존비즈온 상폐 수순…포괄적 주식교환 앞둬",
+    "summary": "EQT는 더존비즈온의 잔여지분 전량 매입을 통해 상장폐지를 진행 중이며, 지난해 11월 김용우 회장 등으로부터 주식을 인수한 이후 공개매수를 마치고 포괄적 주식교환으로 완전자회사화를 추진하고 있다.",
+    "company": "더존비즈온",
+    "acquirer": "EQT",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10728206?ref=naver",
+    "date": "2026.04.29"
+  },
+  {
+    "title": "[더벨]대신PE, 반도체 부품사 '오엔'에 200억 투자",
+    "summary": "대신PE가 운용하는 대신그로쓰캡2024PEF를 통해 반도체 부품사 오엔에 200억원을 투자하며, RCPS 100억원과 CB 100억원을 인수하는 방식으로 진행됨",
+    "company": "오엔",
+    "acquirer": "대신PE(대신그로쓰캡2024PEF)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "200억원",
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604270755551100102513",
+    "date": "2026.04.29"
+  },
+  {
+    "title": "[더벨][Company Watch] 유상감자 나선 플랜텍…미코그룹 지배력 커진다",
+    "summary": "미코와 페트라사모투자합자회사(페트라PEF)가 각각 50%씩 출자하여 유암코가 보유한 플랜텍의 경영권 지분 71.9%를 1542억원에 인수했다.",
+    "company": "플랜텍",
+    "acquirer": "미코, 페트라사모투자합자회사",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1542억원",
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604271456475000103740",
+    "date": "2026.04.29"
+  },
+  {
+    "title": "솔루스첨단소재 동박 사업, 스카이레이크서 3014억에 인수 [시그널]",
+    "summary": "PE 운용사 스카이레이크인베스트먼트가 솔루스첨단소재의 동박 사업부(볼타에너지솔루션 보유 동박생산 법인)를 3014억원에 인수하는 거래",
+    "company": "볼타에너지솔루션",
+    "acquirer": "스카이레이크인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3014억원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20038200?ref=naver",
+    "date": "2026.04.28"
+  },
+  {
+    "title": "[Who Is ?] 최진환 롯데렌탈 대표이사 사장",
+    "summary": "롯데그룹이 2024년 12월 사모펀드 어피니티에쿼티파트너스에 롯데렌탈을 매각하기로 결정하고 양해각서(MOU)를 체결한 거래",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=436692",
+    "date": "2026.04.29"
+  },
+  {
+    "title": "7000까지 5.8% 남았다…외국인 1조 순매수",
+    "summary": "어피니티에쿼티파트너스가 보유한 버거킹 국내 운영사 비케이알(BKR)의 매각을 추진 중이며, 해외 재무적·전략적 투자자를 인수 후보로 접촉하고 있음",
+    "company": "비케이알",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20037825?ref=naver",
+    "date": "2026.04.28"
+  },
+  {
+    "title": "버거킹 운영사 BKR 매물로…몸값 최대 1조, 외식업 M&A '빅딜' 신호탄",
+    "summary": "PE펀드 어피니티가 보유한 버거킹 운영사 BKR의 지분 100%를 매각하는 엑싯 거래. 딜 규모는 최대 1조 원 수준으로 평가되고 있으며, 후보 인수자 발굴 단계",
+    "company": "BKR",
+    "acquirer": "어피니티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "소문",
+    "url": "https://wemakenews.co.kr/news/view.php?no=25154",
+    "date": "2026.04.27"
+  },
+  {
     "title": "써모피셔, 미생물 사업부 10억7500만 달러에 매각",
     "summary": "써모피셔 사이언티픽이 보유한 미생물 사업부를 유럽계 사모펀드 운용사 아스토그에 10억7500만 달러에 매각하는 딜",
     "company": "Thermo Fisher Scientific - Microbiology Business",
@@ -1288,117 +1400,5 @@
     "deal_stage": "계약",
     "url": "https://sports.khan.co.kr/article/202604191200003?pt=nv",
     "date": "2026.04.19"
-  },
-  {
-    "title": "샌디에이고 파드리스, 5조7000억에 매각…MLB 역대 최고가",
-    "summary": "사모펀드 클리어레이크 캐피털의 창업주 호세가 MLB 샌디에이고 파드리스 구단을 약 5조7000억 원에 인수하는 딜로, MLB 역대 최고가 거래",
-    "company": "San Diego Padres",
-    "acquirer": "Clearwater Capital Partners (클리어레이크 캐피털)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5조7000억 원",
-    "deal_stage": "완료",
-    "url": "https://www.dailian.co.kr/news/view/830832/?sc=Naver",
-    "date": "2026.04.18"
-  },
-  {
-    "title": "[위클리IB]실패 딛고 재매각 추진…맘스터치, 이번엔 1조 통할까",
-    "summary": "사모펀드 케이엘앤파트너스가 2019년에 인수한 맘스터치의 지분을 재매각하기 위해 국내외 주요 투자은행과 함께 딜을 추진 중",
-    "company": "맘스터치",
-    "acquirer": "케이엘앤파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02184486645417432",
-    "date": "2026.04.18"
-  },
-  {
-    "title": "MLB 샌디에이고 파드리스 5.7조원에 매각…역대 최고가",
-    "summary": "사모펀드 클리어레이크 캐피털의 창업주가 MLB 샌디에이고 파드리스를 5.7조원에 인수하는 딜. MLB 구단 거래 역대 최고가 기록.",
-    "company": "San Diego Padres",
-    "acquirer": "Clearlake Capital",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5.7조원",
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202604181139053133",
-    "date": "2026.04.18"
-  },
-  {
-    "title": "[위클립] 4월 3주",
-    "summary": "청호나이스가 사모펀드 운용사 칼라일그룹과 경영권 매각을 위한 양해각서를 체결하고 협상을 진행 중인 딜",
-    "company": "청호나이스",
-    "acquirer": "칼라일그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=40699",
-    "date": "2026.04.18"
-  },
-  {
-    "title": "오케스트라PE, KFC 투자회수…2000억 매각 마침표",
-    "summary": "오케스트라프라이빗에쿼티가 2022년 4월 인수한 KFC코리아를 약 2000억원에 매각 완료했으며, 3년 만에 기업가치를 3배 가까이 상승시키며 첫 대형 엑싯을 달성했다.",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라프라이빗에쿼티",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "2000억원",
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44474",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "KFC코리아, 칼라일 품으로…오케스트라 PE 3년 만에 '50% 수익률'",
-    "summary": "오케스트라프라이빗에쿼티가 보유 중인 KFC코리아를 칼라일에 매각하는 엑시트 거래를 완료했다. 2023년 인수한 지 3년 만에 약 50% 수익률을 달성했다.",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라프라이빗에쿼티",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.ddaily.co.kr/page/view/2026041715062118921",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "'검은 반도체' 김에 글로벌 자금 몰린다…만전식품 인수전 '후끈'",
-    "summary": "만전식품의 매각을 주관하는 EY한영이 국내외 원재료업체 및 글로벌 사모펀드들을 대상으로 제한적 경쟁입찰을 진행 중인 신규 인수거래",
-    "company": "만전식품",
-    "acquirer": "미공개 (글로벌 사모펀드 다수 참여)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1705801",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "오케스트라 PE, 칼라일에 KFC코리아 매각 완료",
-    "summary": "오케스트라 PE가 2023년 730억원에 인수한 KFC코리아를 칼라일에 매각하며 3년 만에 엑싯을 완료했다. 매각가격은 2000억원대로 추정된다.",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라 프라이빗에쿼티",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "약 200억원",
-    "deal_stage": "완료",
-    "url": "https://www.mk.co.kr/article/12019924",
-    "date": "2026.04.17"
   }
 ]
