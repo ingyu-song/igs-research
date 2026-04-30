@@ -1,5 +1,47 @@
 [
   {
+    "title": "[딜 워치]'2% 지분 사수전'...시간 챙긴 최윤범, 실리 챙긴 메리츠",
+    "summary": "메리츠증권이 설립한 SPC 피23파트너스가 베인캐피탈이 보유하던 고려아연 지분 2.01%를 5141억원에 인수했으며, 이는 PE의 엑싯 거래로 분류되는 블록딜이다.",
+    "company": "고려아연",
+    "acquirer": "피23파트너스(메리츠증권)",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "5141억원",
+    "deal_stage": "완료",
+    "url": "https://news.bizwatch.co.kr/article/market/2026/04/28/0002",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "코네, TK엘리베이터 240억달러에 인수... 승강기 '3강 체제' 재편",
+    "summary": "코네(Kone)가 PE 컨소시엄(어드벤트·신벤)으로부터 TK엘리베이터를 약 240억 달러에 인수하는 전략적 M&A 거래",
+    "company": "TK엘리베이터",
+    "acquirer": "코네",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "240억 달러",
+    "deal_stage": "계약",
+    "url": "https://www.g-enews.com/view.php?ud=2026043002001484689a1f309431_1",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "[단독] 사모펀드 품에 안긴 저가커피 브랜드, 배당·본사마진 지속 확대...",
+    "summary": "저가커피 브랜드 매머드커피가 사모펀드 오케스트라프라이빗에쿼티(오케스트라PE)에 인수되었으며, 졸리비푸드는 엘리베이션프라이빗에쿼티 컨소시엄에 약 4,700억원에 인수됨",
+    "company": "매머드커피",
+    "acquirer": "오케스트라프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.etoday.co.kr/news/view/2580041",
+    "date": "2026.04.29"
+  },
+  {
     "title": "사모펀드로 넘어간 테라로사… 공차의 선례와 예민한 갈림길",
     "summary": "UCK파트너스가 2021년 테라로사 지분 37.1%를 인수한 데 이어 2022년 7월 창업주 김 대표의 잔여 지분을 모두 인수하면서 테라로사의 경영권을 완전히 확보했다.",
     "company": "테라로사",
@@ -1358,47 +1400,5 @@
     "deal_stage": "완료",
     "url": "http://www.fnnews.com/news/202604081056081201",
     "date": "2026.04.08"
-  },
-  {
-    "title": "HJ중공업, '엔지니어링 DNA' 심었다...'제3의 도약기'",
-    "summary": "동부건설이 사모펀드(PE)와 함께 SPC(에코프라임마린퍼시픽)를 설립하여 HJ중공업을 인수한 거래",
-    "company": "HJ중공업",
-    "acquirer": "동부건설",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.thevaluenews.co.kr/news/view.php?idx=198181",
-    "date": "2026.04.20"
-  },
-  {
-    "title": "오케스트라PE, 칼라일에 KFC코리아 2천억대 매각",
-    "summary": "오케스트라PE가 2023년 인수한 KFC코리아를 칼라일(Carlyle)에 2천억대 규모로 매각하는 엑싯 거래",
-    "company": "KFC코리아",
-    "acquirer": "오케스트라PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "2000억원대",
-    "deal_stage": "완료",
-    "url": "https://news.mtn.co.kr/news-detail/2026041716394583781",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "샌디에이고, MLB 사상 최고액에 인수? …'연봉 상한제' 도입에 큰 변수...",
-    "summary": "사모펀드 클리어레이크 캐피털 창업주인 호세 펠리시아노 부부가 MLB 샌디에이고 구단을 39억 달러(약 5조7000억원)에 인수하는 계약을 체결했다.",
-    "company": "샌디에이고 파드레스",
-    "acquirer": "클리어레이크 캐피털",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "39억 달러 (약 5조7000억원)",
-    "deal_stage": "계약",
-    "url": "https://sports.khan.co.kr/article/202604191200003?pt=nv",
-    "date": "2026.04.19"
   }
 ]
