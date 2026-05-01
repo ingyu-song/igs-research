@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 from bs4 import BeautifulSoup
-import anthropic
+import google.generativeai as genai
 
 KEYWORDS = [
     "사모펀드 인수", "사모펀드 매각", "PEF 인수", "바이아웃",
@@ -49,8 +49,9 @@ def fetch_naver_news(keyword, display=20):
         print(f"네이버 검색 오류 ({keyword}): {e}")
         return []
 
-def classify_with_claude(articles):
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+def classify_with_gemini(articles):
+    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+    model = genai.GenerativeModel("gemini-2.5-flash")
     results = []
 
     for article in articles:
@@ -92,7 +93,7 @@ def classify_with_claude(articles):
 
 ---
 
-판단 후, 포함이면 아래 JSON만 출력 (설명 없이), 제외이면 SKIP만 출력.
+판단 후, 포함이면 아래 JSON만 출력 (설명 없이, 마크다운 없이), 제외이면 SKIP만 출력.
 
 포함 시 JSON 형식:
 {{
@@ -107,29 +108,26 @@ def classify_with_claude(articles):
 }}"""
 
         try:
-            message = client.messages.create(
-                model="claude-haiku-4-5-20251001",
-                max_tokens=500,
-                messages=[{"role": "user", "content": prompt}]
-            )
-            response = message.content[0].text.strip()
-            response = response.replace("```json", "").replace("```", "").strip()
-            if response.upper() == "SKIP":
+            response = model.generate_content(prompt)
+            text = response.text.strip()
+            text = text.replace("```json", "").replace("```", "").strip()
+
+            if text.upper() == "SKIP":
                 continue
-            start = response.find("{")
-            end = response.rfind("}") + 1
+
+            start = text.find("{")
+            end = text.rfind("}") + 1
             if start != -1 and end != 0:
-                deal = json.loads(response[start:end])
+                deal = json.loads(text[start:end])
                 deal["url"] = article["url"]
                 deal["date"] = article["date"]
-                # company 없으면 저장 안 함
                 if not deal.get("company"):
                     print(f"✗ company 없음 — 제외: {deal.get('title', '')}")
                     continue
                 results.append(deal)
                 print(f"✓ [{deal.get('deal_stage','?')}] {deal['company']} ← {deal.get('acquirer','?')} ({deal['type']})")
         except json.JSONDecodeError as e:
-            print(f"JSON 파싱 오류: {e} | 응답: {response[:80]}")
+            print(f"JSON 파싱 오류: {e} | 응답: {text[:80]}")
         except Exception as e:
             print(f"분류 오류: {e}")
 
@@ -167,8 +165,8 @@ if __name__ == "__main__":
 
     print(f"\n총 {len(articles)}개 기사 수집됨\n")
 
-    print("Claude 분류 중...")
-    deals = classify_with_claude(articles)
+    print("Gemini 분류 중...")
+    deals = classify_with_gemini(articles)
 
     print("\ndeals.json 업데이트 중...")
     update_deals(deals)
