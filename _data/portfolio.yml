@@ -16,6 +16,7 @@
   date: 2025-03-01
   tags: [Private Equity, LBO, Equity Research]
   summary: NUS PE Club Deal Team 4에서 수행한 두 건의 딜 분석. Coinbase는 가상의 LBO 시나리오 기반 인수 구조 및 밸류에이션을, EOS Energy는 Equity Research 관점의 투자 분석을 수행.
+  summary_en: Two deal analyses conducted as part of NUS PE Club Deal Team 4. Coinbase covers a hypothetical LBO scenario with acquisition structure and valuation; EOS Energy covers an equity research investment analysis.
   files:
     - label: Coinbase — LBO Memo
       file: nuspe-coinbase-memo.pdf
@@ -37,6 +38,7 @@
   badge: 2nd / 60 Teams (NUS Round)
   tags: [Equity Research, Valuation]
   summary: 2025 CFA Institute Research Challenge 참가. 상장사 NCC Capital에 대한 투자 분석 및 밸류에이션을 수행했으며, NUS 라운드에서 총 60개 팀 중 2위(First Runner Up) 기록.
+  summary_en: Participated in the 2025 CFA Institute Research Challenge. Conducted investment analysis and valuation on listed company NCC Capital, placing 2nd (First Runner Up) out of 60 teams in the NUS round.
   files:
     - label: Grab Holdings - Presentation
       file: cfa-challenge-2025-presentation.pdf
@@ -54,6 +56,7 @@
   date: 2024-11-01
   tags: [Startup, Pitch Deck, KSGC]
   summary: K-Startup Grand Challenge(KSGC) 2024 프로그램 지원을 위한 Linetype Technologies의 사업 자료. 지원서, 피치덱, 그리고 Linetype 창업자가 직접 작성한 추천서 포함.
+  summary_en: Business materials for Linetype Technologies' K-Startup Grand Challenge (KSGC) 2024 application. Includes the application form, pitch deck, and a recommendation letter written by Linetype's founder.
   files:
     - label: Application Form
       file: linetype-ksgc-application.pdf
@@ -71,6 +74,7 @@
   date: 2024-09-01
   tags: [CFA, Case Study]
   summary: NUS CFA Club 주간 세션 케이스 스터디 자료. 기업 발행자(Corporate Issuer) 분석 사례 다룸.
+  summary_en: Case study materials from NUS CFA Club weekly sessions, covering a Corporate Issuer analysis.
   files:
     - label: Week 2 — Corporate Issuer
       file: nuscfa-week2-corporate-issuer.pdf
