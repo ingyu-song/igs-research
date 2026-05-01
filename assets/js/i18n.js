@@ -24,7 +24,7 @@
       'meta.dealsize':    '딜 규모',
       'meta.opinion':     '투자 의견',
       'meta.sector':      '섹터',
-      'nav.back':         'Sector Analysis',
+      'nav.back':         'Reports',
       'disclaimer':       '본 리서치는 공개된 뉴스 및 시장 정보를 기반으로 작성된 정보 제공 목적의 자료이며, 투자 권유 또는 법적 조언이 아닙니다. 수록된 수치 및 분석은 추정치를 포함하며 실제와 다를 수 있습니다. IGS Research는 본 자료의 활용으로 인한 결과에 대해 책임을 지지 않습니다.'
     },
     en: {
@@ -44,7 +44,7 @@
       'meta.dealsize':    'Deal Size',
       'meta.opinion':     'Opinion',
       'meta.sector':      'Sector',
-      'nav.back':         'Sector Analysis',
+      'nav.back':         'Reports',
       'disclaimer':       'This research is prepared solely for informational purposes based on publicly available news and market data, and does not constitute investment advice or legal counsel. Figures and analysis included herein contain estimates and may differ from actual results. IGS Research accepts no liability for any outcomes arising from use of this material.'
     }
   };
@@ -57,6 +57,11 @@
       var key  = el.getAttribute('data-i18n');
       var text = T[lang][key];
       if (text !== undefined) el.textContent = text;
+    });
+
+    document.querySelectorAll('[data-ko]').forEach(function (el) {
+      var text = el.getAttribute('data-' + lang);
+      if (text) el.textContent = text;
     });
 
     document.querySelectorAll('.lang-btn').forEach(function (btn) {
