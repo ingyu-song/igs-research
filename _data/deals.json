@@ -1,5 +1,103 @@
 [
   {
+    "title": "EQT 더존비즈온 상장폐지 청신호…기준 지분 확보 완료",
+    "summary": "글로벌 사모펀드 EQT파트너스가 더존비즈온의 상장폐지에 필요한 기준 지분을 확보 완료했으며, 지난해 11월 김용우 회장 등으로부터 보유지분을 인수하는 주식매매계약(SPA)을 체결한 상황",
+    "company": "더존비즈온",
+    "acquirer": "EQT파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10729704?ref=naver",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "[마켓인]태광, 넥스플렉스 인수 검토…M&A 광폭 행보",
+    "summary": "태광그룹이 MBK파트너스가 보유한 넥스플렉스의 인수를 검토 중인 단계로 알려졌다. MBK파트너스는 넥스플렉스의 최대주주로서 매각을 추진 중이다.",
+    "company": "넥스플렉스",
+    "acquirer": "태광그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=06681366645421368",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "[단독] 태광그룹, MBK 보유 넥스플렉스 인수 검토",
+    "summary": "태광그룹이 PE 운용사 MBK파트너스가 보유한 스마트폰용 FCCL 전문기업 넥스플렉스의 인수를 검토 중인 것으로 알려졌으며, MBK파트너스는 넥스플렉스 매각을 위해 잠재 원매자들과 접촉을 이어가고 있음",
+    "company": "넥스플렉스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.mk.co.kr/article/12032417",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "KPMG \"글로벌 PE 거래건수 5년來 최저···투자 가뭄 속 '빅딜' 쏠림",
+    "summary": "한국투자파트너스가 방산·우주 부품 전문기업 엠앤씨솔루션을 약 9450억원에 인수하는 딜이 진행 중이며, 글로벌 PE 시장이 대형·고품질 딜 중심으로 재편되고 있다.",
+    "company": "엠앤씨솔루션",
+    "acquirer": "한국투자파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "9450억원",
+    "deal_stage": "계약",
+    "url": "https://www.hankyung.com/article/202604307490r",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "[더벨]스틱, 의료기기 전문 '알에프메디컬' 매각 추진",
+    "summary": "PE사 스틱(그로쓰캐피탈 본부)이 주도 인수한 의료기기 전문 기업 알에프메디컬을 2023년부터 매각 준비에 들어갔으며, 지난해 부분 매각에 이어 올해 최종 엑시트를 추진 중",
+    "company": "알에프메디컬",
+    "acquirer": "스틱(그로쓰캐피탈)",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604281326557040102021",
+    "date": "2026.04.30"
+  },
+  {
+    "title": "[Stock Tracking] 시지메드텍, 4월 외인 매도 행렬...8주만에 시총 44% 증...",
+    "summary": "IMM PE가 시지바이오의 시지메드텍 지분 40.41%를 인수하는 거래로, IMM PE는 우협 선정 이후 상세 실사를 진행 중이며 본계약 체결을 앞두고 있음",
+    "company": "시지메드텍",
+    "acquirer": "IMM PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.greened.kr/news/articleView.html?idxno=340010",
+    "date": "2026.04.29"
+  },
+  {
+    "title": "두올, 1118억에 최대주주 바뀐다…모트렉스에 매각 [공시pick]",
+    "summary": "모트렉스가 두올의 최대주주 IHC 및 특수관계자로부터 지분을 인수하여 경영권을 이전받는 전략적 M&A 거래",
+    "company": "두올",
+    "acquirer": "모트렉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1118억원",
+    "deal_stage": "계약",
+    "url": "http://www.joseilbo.com/news/news_read.php?uid=567582&class=17&grp=",
+    "date": "2026.04.30"
+  },
+  {
     "title": "[딜 워치]'2% 지분 사수전'...시간 챙긴 최윤범, 실리 챙긴 메리츠",
     "summary": "메리츠증권이 설립한 SPC 피23파트너스가 베인캐피탈이 보유하던 고려아연 지분 2.01%를 5141억원에 인수했으며, 이는 PE의 엑싯 거래로 분류되는 블록딜이다.",
     "company": "고려아연",
@@ -1302,103 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://biz.chosun.com/stock/market_trend/2026/04/21/HCXEDW32Y5AAPGFXUDMH5CHKMQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
     "date": "2026.04.21"
-  },
-  {
-    "title": "[이철민의 마켓 나우] 계약이 끝나도 빅딜은 끝나지 않는다",
-    "summary": "한앤컴퍼니가 보유한 상장 중고차 거래 플랫폼 케이카를 KG그룹에 약 7,500억원에 매각하는 계약을 체결한 PE 엑싯 거래",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7,500억원",
-    "deal_stage": "계약",
-    "url": "https://www.joongang.co.kr/article/25421813",
-    "date": "2026.04.21"
-  },
-  {
-    "title": "한국투자파트너스, 오비고에 13년째 '진심'…CB 인수로 재투자 단행",
-    "summary": "한국투자파트너스와 키움프라이빗에쿼티가 오비고의 전환사채(CB)를 인수하는 재투자를 단행했으며, 한국투자파트너스는 50억원, 키움PE는 100억원을 각각 인수했다.",
-    "company": "오비고",
-    "acquirer": "한국투자파트너스, 키움프라이빗에쿼티",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "150억원",
-    "deal_stage": "완료",
-    "url": "https://www.topdaily.kr/articles/109751",
-    "date": "2026.04.20"
-  },
-  {
-    "title": "'연기금 큰 손' PEF수익률 톱10…글랜우드·스카이레이크 상위권",
-    "summary": "KCC가 SJL파트너스 등과 컨소시엄을 구성하여 2019년 미국 실리콘 기업 모멘티브퍼포먼스머티리얼즈를 인수한 딜로, 엠오엠제1호사모투자 합자회사 펀드를 통해 진행되었다.",
-    "company": "Momentive Performance Materials",
-    "acquirer": "KCC",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/202604178340r",
-    "date": "2026.04.20"
-  },
-  {
-    "title": "KFC코리아, 칼라일 품에 안겨…오케스트라PE 지분 100% 매각",
-    "summary": "오케스트라 PE가 운용하는 OPE VI펀드가 보유 중인 KFC코리아 지분 100%를 칼라일 그룹에 매각하는 엑싯 거래. 2022년 4월 인수 후 약 3년 만에 완료된 거래이다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 그룹",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://mdtoday.co.kr/news/view/1065596182097882",
-    "date": "2026.04.20"
-  },
-  {
-    "title": "[더벨]신생 PEF 블루리프, '일차전지 강자' 제노에너지 품는다",
-    "summary": "신생 사모펀드 운용사 블루리프가 일차전지 제조업체 제노에너지의 경영권 인수를 추진 중이다. 2024년 7월 설립된 블루리프는 코렌스 RCPS 투자, 마린텍 경영권 인수에 이어 제노에너지 인수를 추진하고 있다.",
-    "company": "제노에너지",
-    "acquirer": "블루리프",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604160956409520106460",
-    "date": "2026.04.20"
-  },
-  {
-    "title": "[더벨]ICG, 유도 지분 오너 일가에 되팔아…수익률 '2.6배'",
-    "summary": "영국계 PE 운용사 ICG가 플라스틱 사출 성형 제조 회사 유도홀딩스의 지분을 오너 일가(센트로이드)에 전량 매각하는 엑싯 거래. 수익률은 2.6배로 평가됨",
-    "company": "유도홀딩스",
-    "acquirer": "ICG",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604151557030120109385",
-    "date": "2026.04.20"
-  },
-  {
-    "title": "브릭스톤PE, '미코 CB' 장외 블록딜로 150억원 회수 완료 [fn마켓워치]",
-    "summary": "브릭스톤PE가 보유 중인 미코의 제13회차 무보증 사모 전환사채를 장외 블록딜 방식으로 매각하여 150억원을 회수했다.",
-    "company": "미코",
-    "acquirer": "브릭스톤PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "150억원",
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202604081056081201",
-    "date": "2026.04.08"
   }
 ]
