@@ -1,5 +1,61 @@
 [
   {
+    "title": "미국 프로야구 샌디에이고 파드리스, 5조8000억원 '역대 최고가' 매각",
+    "summary": "미국 프로야구 샌디에이고 파드리스 구단이 현 소유주인 세이들러 가문으로부터 사모펀드 투자자에게 약 5조8000억원에 매각되는 PE의 기업 인수(Buyout) 거래이다.",
+    "company": "샌디에이고 파드리스",
+    "acquirer": "사모펀드 투자자 (호세 E...)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5조8000억원",
+    "deal_stage": "완료",
+    "url": "https://www.kado.net/news/articleView.html?idxno=2047995",
+    "date": "2026.05.03"
+  },
+  {
+    "title": "'13년 만에 5배 점프' 송성문 소속 샌디에이고, MLB 사상 최고가 39억 달...",
+    "summary": "세이들러 가문이 보유한 MLB 야구팀 샌디에이고 파드리스의 경영권이 사모펀드 투자자 호세 E. 펠리시아노에게 39억 달러에 매각되는 PE 바이아웃 거래가 진행 중이다.",
+    "company": "샌디에이고 파드리스",
+    "acquirer": "호세 E. 펠리시아노",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "39억 달러",
+    "deal_stage": "계약",
+    "url": "http://www.maniareport.com/view.php?ud=2026050306414899486cf2d78c68_19",
+    "date": "2026.05.03"
+  },
+  {
+    "title": "MLB 샌디에이고, 펠리시아노·존스 부부 투자그룹에 팔린다",
+    "summary": "사모펀드 억만장자인 호세 E. 펠리시아노와 존스 부부 투자그룹이 미국프로야구 샌디에이고 파드리스를 인수하는 전략적 M&A 거래이다.",
+    "company": "샌디에이고 파드리스",
+    "acquirer": "호세 E. 펠리시아노·존스 부부 투자그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01390726645445312",
+    "date": "2026.05.03"
+  },
+  {
+    "title": "[MLB] 송성문의 샌디에이고, 구단 매각 발표...매각액 39억 달러 전망",
+    "summary": "세이들러 가문이 소유한 샌디에이고 파드리스 구단을 사모펀드 투자자 호세 E. 펠리시아노와 콴자에게 39억 달러에 매각 발표한 PE 인수 딜.",
+    "company": "샌디에이고 파드리스",
+    "acquirer": "호세 E. 펠리시아노, 콴자",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "39억 달러",
+    "deal_stage": "계약",
+    "url": "https://www.newspim.com/news/view/20260503000003",
+    "date": "2026.05.03"
+  },
+  {
     "title": "“삼전닉스가 받쳐주는데 왜 나와?”…IMM, 에어퍼스트 3조 지분 안판다",
     "summary": "IMM PE는 에어퍼스트 지분 3조원 규모의 매각 계획을 철회하고, 국내 최초로 에버그린 구조 펀드를 조성하여 장기 보유하기로 결정했다.",
     "company": "에어퍼스트",
@@ -1344,62 +1400,6 @@
     "ev": "47.5억 달러",
     "deal_stage": "완료",
     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658764",
-    "date": "2026.04.21"
-  },
-  {
-    "title": "'몸값 1조원' 애큐온캐피탈 인수전…메리츠·한화생명 '양강구도'",
-    "summary": "바이칼인베가 전략적 투자자와 함께 애큐온캐피탈 인수전에 나서고 있으며, 메리츠금융지주와 한화생명이 경쟁 중인 상황으로, 금융사 자본 적정성 규제에 따른 대주주 변경 승인 절차가 진행 중",
-    "company": "애큐온캐피탈",
-    "acquirer": "바이칼인베",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=513379",
-    "date": "2026.04.21"
-  },
-  {
-    "title": "화공플랜트 업체 범한메카텍, 상장 전 투자유치 추진…1500억원 규모",
-    "summary": "범한메카텍이 상장 전 투자유치를 추진하며, 범한산업이 두산메카텍 지분 82.38%를 865억원에 인수하고 메티스톤PE가 펀드를 통해 참여하는 규모 1500억원의 투자유치 딜",
-    "company": "두산메카텍",
-    "acquirer": "범한산업, 메티스톤PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1500억원",
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202604202259r",
-    "date": "2026.04.21"
-  },
-  {
-    "title": "[더벨]'애큐온캐피탈 인수 추진' 바이칼인베, 세우글로벌과 맞손",
-    "summary": "신생 사모펀드 운용사 바이칼인베스트먼트가 애큐온캐피탈 인수전에 참여하며, 전략적 투자자로 세우글로벌을 확보한 신규 인수 추진 거래",
-    "company": "애큐온캐피탈",
-    "acquirer": "바이칼인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604171406024160103570",
-    "date": "2026.04.21"
-  },
-  {
-    "title": "[더벨]'KB국민은행 맞손' 블루리프, 제노에너지 인수 막바지",
-    "summary": "PE운용사 블루리프에쿼티파트너스가 산업용 일차전지 제조사 제노에너지를 인수하기 위해 KB국민은행으로부터 인수금융을 확보하며 거래 종결을 앞두고 있음",
-    "company": "제노에너지",
-    "acquirer": "블루리프에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604171445491120109540",
     "date": "2026.04.21"
   }
 ]
