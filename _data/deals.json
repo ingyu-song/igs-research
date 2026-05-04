@@ -1,5 +1,33 @@
 [
   {
+    "title": "[#클라우드 월드] 아이티센글로벌 '전환사채 400억' 발행·김동환 포티투...",
+    "summary": "KCGI 혁신성장 ESG 사모투자합자펀드가 아이티센글로벌에 400억원 규모의 전환사채를 발행하여 투자하는 딜.",
+    "company": "아이티센글로벌",
+    "acquirer": "KCGI 혁신성장 ESG 사모투자합자펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "400억원",
+    "deal_stage": "계약",
+    "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=839749",
+    "date": "2026.05.04"
+  },
+  {
+    "title": "K-외식 브랜드 줄줄이 주인 바뀐다… 인수 릴레이 배경은",
+    "summary": "글로벌 사모펀드(PEF) 칼라일그룹이 외식 브랜드 KFC코리아의 인수를 마무리하며 PEF의 기업 인수(Buyout) 거래를 완료했다.",
+    "company": "KFC코리아",
+    "acquirer": "칼라일그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.seoulwire.com/news/articleView.html?idxno=719856",
+    "date": "2026.05.04"
+  },
+  {
     "title": "미국 프로야구 샌디에이고 파드리스, 5조8000억원 '역대 최고가' 매각",
     "summary": "미국 프로야구 샌디에이고 파드리스 구단이 현 소유주인 세이들러 가문으로부터 사모펀드 투자자에게 약 5조8000억원에 매각되는 PE의 기업 인수(Buyout) 거래이다.",
     "company": "샌디에이고 파드리스",
@@ -1373,33 +1401,5 @@
     "deal_stage": "계약",
     "url": "https://dealsite.co.kr/articles/160583",
     "date": "2026.04.22"
-  },
-  {
-    "title": "KG그룹, 중고차 플랫폼 KCar 유통 부문 KG스틸, 금융은 KG이니시스 분리...",
-    "summary": "캑터스프라이빗에쿼티(PE)와 KG그룹의 공동 투자를 통해 국내 1위 직영 중고차 플랫폼 K Car를 5,500억 원에 인수하는 거래",
-    "company": "K Car",
-    "acquirer": "캑터스프라이빗에쿼티, KG그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5,500억원",
-    "deal_stage": "발표",
-    "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=543470",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "데이터센터 냉각 기술 업계 재편 탄력...포토닉도 매각 추진",
-    "summary": "산업용 기업 이콜랩(Ecolab)이 사모펀드 KKR로부터 데이터센터 냉각 기업 쿨IT 시스템스(CoolIT Systems)를 47억5000만달러에 인수했으며, 포토닉도 매각을 추진 중인 것으로 알려짐",
-    "company": "CoolIT Systems",
-    "acquirer": "Ecolab",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "47.5억 달러",
-    "deal_stage": "완료",
-    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658764",
-    "date": "2026.04.21"
   }
 ]
