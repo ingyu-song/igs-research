@@ -1,5 +1,33 @@
 [
   {
+    "title": "[저축은행 인사이드] [페퍼저축은행] 장수 CEO 교체 강수…사모펀드 베...",
+    "summary": "사모펀드가 보유한 페퍼저축은행의 턴어라운드 이후 사모펀드의 매각(엑싯)이 재개될 가능성이 논의되는 기사입니다.",
+    "company": "페퍼저축은행",
+    "acquirer": "사모펀드",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://news.dealsitetv.com/articles/169704",
+    "date": "2026.05.07"
+  },
+  {
+    "title": "해외 자본 몰린 `저가커피`…고배당 잔치에 점주는 불안하다",
+    "summary": "2024년 컴포즈커피의 경영권이 필리핀 외식기업 졸리비푸즈와 사모펀드 엘리베이션프라이빗에쿼티 컨소시엄에 인수되었다.",
+    "company": "컴포즈커피",
+    "acquirer": "졸리비푸즈와 엘리베이션프라이빗에쿼티 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=05477606645446624",
+    "date": "2026.05.07"
+  },
+  {
     "title": "신사업 진출 미끼로 주가조작 후 시세차익으로 호화생활",
     "summary": "사모펀드 G가 사주 乙이 지배하는 부실업체 ㈜H의 전환사채 000억원을 인수하여 ㈜E의 법인자금을 부당유출한 딜.",
     "company": "㈜H",
@@ -1371,34 +1399,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.mhj21.com/news/articleView.html?idxno=251736",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "[더벨][thebell interview | 하이로닉 리부트 전략] 창업주 이진우 대표가...",
-    "summary": "캑터스PE가 하이로닉에 295억원 규모 투자를 실시하며 신주 260만주와 창업주 구주 일부를 인수하여 18.4% 지분율의 2대 주주로 편입된 PE 투자 거래",
-    "company": "하이로닉",
-    "acquirer": "캑터스프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "295억원",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604211556009800108945",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "버거업계 호실적인데…파이브가이즈 '먹구름' 왜?",
-    "summary": "한화갤러리아가 보유한 에프지코리아(파이브가이즈) 지분 100%를 사모펀드운용사 H&Q에쿼티파트너스에 매각하는 거래로, MOU 체결 후 협상 진행 중이며 상반기 내 완료 예정",
-    "company": "에프지코리아",
-    "acquirer": "H&Q에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302215",
     "date": "2026.04.22"
   }
 ]
