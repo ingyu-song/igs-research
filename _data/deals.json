@@ -1,5 +1,33 @@
 [
   {
+    "title": "바이아웃 전문 캑터스PE도 AI에 꽂혔다… 피아스페이스에 35억 베팅",
+    "summary": "사모펀드 캑터스프라이빗에쿼티가 AI 영상분석 스타트업 피아스페이스에 35억 규모의 소수지분 성장 금융 투자를 단행했다.",
+    "company": "피아스페이스",
+    "acquirer": "캑터스프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "35억원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/05/10/EFI5455L75ALDGLVBT4PV5WUFU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.09"
+  },
+  {
+    "title": "[주간사모펀드] 센트로이드PE, 더피플라이프 품고 시니어 산업 본격 진...",
+    "summary": "센트로이드PE가 상조회사 더피플라이프의 경영권 지분 약 80% 인수를 추진하고 있으며, 현재 실사가 진행 중이다.",
+    "company": "더피플라이프",
+    "acquirer": "센트로이드PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.tf.co.kr/read/economy/2320823.htm",
+    "date": "2026.05.09"
+  },
+  {
     "title": "[저축은행 인사이드] [페퍼저축은행] 장수 CEO 교체 강수…사모펀드 베...",
     "summary": "사모펀드가 보유한 페퍼저축은행의 턴어라운드 이후 사모펀드의 매각(엑싯)이 재개될 가능성이 논의되는 기사입니다.",
     "company": "페퍼저축은행",
@@ -1371,34 +1399,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://biz.heraldcorp.com/article/10723034?ref=naver",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "조선·전력기기 물 들어온다…HD현대 사상 첫 '매출 80조·영업익 8조'...",
-    "summary": "HD현대가 사모펀드 운용사인 테넷에쿼티파트너스와 함께 국내 최대 바이오디젤 원료 생산 기업인 대경오앤티의 인수 우선협상대상자로 선정되었다.",
-    "company": "대경오앤티",
-    "acquirer": "HD현대",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10722768?ref=naver",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "NS홈쇼핑, 홈플러스의 희망될까…홈플 익스프레스 우협 선정",
-    "summary": "MBK파트너스가 보유한 홈플러스의 익스프레스 사업부를 매각하는 과정에서 NS홈쇼핑이 우선협상대상자로 선정된 거래",
-    "company": "홈플러스",
-    "acquirer": "NS홈쇼핑",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mhj21.com/news/articleView.html?idxno=251736",
     "date": "2026.04.22"
   }
 ]
