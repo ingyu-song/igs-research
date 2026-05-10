@@ -1,5 +1,89 @@
 [
   {
+    "title": "'마키노 인수' 제동 걸린 MBK 6호 펀드…'中 CIC 출자' 논란 재점화",
+    "summary": "MBK파트너스가 마키노후라이스제작소 인수를 추진 중이며, 일본 정부의 제동으로 경제안보 논란이 재점화되고 있는 PE 바이아웃 딜이다.",
+    "company": "마키노후라이스제작소",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=518119",
+    "date": "2026.05.10"
+  },
+  {
+    "title": "“中자본 논란 재점화”…MBK, 고려아연 이어 日 마키노 인수도 ‘제동...",
+    "summary": "사모펀드 MBK파트너스가 일본 공작기계 업체 마키노후라이스제작소 인수를 추진하고 있으며, 일본 정부의 제동으로 관련 논란이 재점화되고 있다.",
+    "company": "마키노후라이스제작소",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.kyeonggi.com/article/20260510580110",
+    "date": "2026.05.10"
+  },
+  {
+    "title": "일본 정부, MBK 6호 펀드에 제동…고려아연 공개매수에도 동원됐나",
+    "summary": "MBK파트너스가 일본 마키노후라이스제작소 인수를 추진하는 과정에서 일본 정부의 제동이 걸리며 경제안보 논란이 불거진 PE 바이아웃(경영권 인수) 딜.",
+    "company": "마키노후라이스제작소",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sidae.com/article/2026051010531770985",
+    "date": "2026.05.10"
+  },
+  {
+    "title": "MBK 6호 펀드에 제동 건 日정부…’중국자본 출자’ 다시 회자",
+    "summary": "MBK 6호 펀드가 일본 기업 마키노에 대한 공개매수를 추진하던 중, 일본 정부가 중국 자본 출자 문제를 들어 인수를 중단 권고하며 제동을 건 PE의 기업 인수 딜이다.",
+    "company": "마키노",
+    "acquirer": "MBK 6호 펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.etoday.co.kr/news/view/2583020",
+    "date": "2026.05.10"
+  },
+  {
+    "title": "日 정부 '안보 우려'에 MBK 6호 펀드 마키노 인수 제동… 고려아연 논란...",
+    "summary": "사모펀드 MBK파트너스가 마키노후라이스제작소의 경영권을 인수하려는 바이아웃 딜에 일본 정부가 안보 우려로 제동을 걸어 추진이 난항을 겪고 있다.",
+    "company": "마키노후라이스제작소",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.etnews.com/20260510000038",
+    "date": "2026.05.10"
+  },
+  {
+    "title": "MBK 6호 펀드, '경제안보' 도마…中 CIC 출자 논란 재점화",
+    "summary": "MBK파트너스가 일본 공작기계 기업 마키노후라이스제작소의 경영권 인수를 추진 중이며, 일본 정부의 제동으로 인해 딜 추진에 대한 경제안보 논란이 재점화되고 있다.",
+    "company": "마키노후라이스제작소",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026051010400541817",
+    "date": "2026.05.10"
+  },
+  {
     "title": "바이아웃 전문 캑터스PE도 AI에 꽂혔다… 피아스페이스에 35억 베팅",
     "summary": "사모펀드 캑터스프라이빗에쿼티가 AI 영상분석 스타트업 피아스페이스에 35억 규모의 소수지분 성장 금융 투자를 단행했다.",
     "company": "피아스페이스",
@@ -1315,90 +1399,6 @@
     "ev": "7000억~8000억원",
     "deal_stage": "소문",
     "url": "https://www.joongangenews.com/news/articleView.html?idxno=513993",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "현대투자파트너스, 승명실업 바이아웃 완료…투자영역 확대",
-    "summary": "현대투자파트너스가 승명실업에 대한 바이아웃(경영권 인수)을 완료하며 PE 투자 영역을 확대했다.",
-    "company": "승명실업",
-    "acquirer": "현대투자파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.topdaily.kr/articles/109786",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "케이카 품은 KG그룹…스틸·이니시스가 케이카·캐피탈 각각 인수",
-    "summary": "KG그룹이 한앤컴퍼니로부터 케이카와 케이카캐피탈의 경영권을 인수하며, 계열사인 KG스틸과 이니시스가 각각 케이카와 케이카캐피탈을 인수하는 구조적 M&A 거래",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411004",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "KG그룹, 케이카 인수 '투트랙 재편'.…계열사 시너지 극대화",
-    "summary": "KG그룹 산하 KG스틸이 중고차 플랫폼 기업 케이카의 지분(19%)을 5500억원대에 인수하는 주식매매계약을 체결했다. KG그룹이 캑터스PE와 함께 진행하는 전략적 M&A 거래이다.",
-    "company": "케이카",
-    "acquirer": "KG스틸",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5500억868만350원",
-    "deal_stage": "계약",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=660274",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "DKME, 경영권 매각 재추진…덕양에너젠·울프로 변경 [공시pick]",
-    "summary": "DKME가 경영권 매각을 재추진하며, 덕양에너젠과 울프가 새로운 인수자로 나서 최대주주 지분 인수와 유상증자를 동시에 추진하는 전략적 M&A 거래",
-    "company": "디케이엠이",
-    "acquirer": "덕양에너젠, 울프",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.joseilbo.com/news/news_read.php?uid=567083&class=17&grp=",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "하림 김홍국, 홈플 익스프레스 인수 베팅… '승자의 저주' 우려 불식시...",
-    "summary": "하림이 회생 중인 홈플러스 익스프레스를 인수하기 위해 우선협상대상자로 선정되어 협상을 진행 중이며, 회생법원이 회생계획안 제출 기한을 5월 4일까지 연장한 상황",
-    "company": "홈플러스익스프레스",
-    "acquirer": "하림",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092160787",
-    "date": "2026.04.22"
-  },
-  {
-    "title": "HD현대, 국내 최초 해외 쇄빙전용선 수주",
-    "summary": "HD현대오일뱅크가 사모펀드 운용사 테넷에쿼티파트너스와 함께 국내 최대 바이오디젤 원료 생산 기업인 대경오앤티의 인수 우선협상대상자로 선정됨",
-    "company": "대경오앤티",
-    "acquirer": "HD현대오일뱅크, 테넷에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10723034?ref=naver",
     "date": "2026.04.22"
   }
 ]
