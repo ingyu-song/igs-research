@@ -1,5 +1,33 @@
 [
   {
+    "title": "예별손보 매각 재시동…이번엔 팔릴까",
+    "summary": "예별손보의 매각 절차가 재시동되었으며, 하나금융지주, 한국투자금융지주 등 금융지주와 JC플라워 등 사모펀드가 잠재 인수 후보로 거론되는 전략적 M&A 딜이다.",
+    "company": "예별손보",
+    "acquirer": "하나금융지주, 한국투자금융지주, JC플라워",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://m.skyedaily.com/news_view.html?ID=303805",
+    "date": "2026.05.11"
+  },
+  {
+    "title": "UCK, 2100억원에 만전식품 품는다",
+    "summary": "국내 사모펀드 운용사 UCK파트너스가 ‘만전김’을 판매하는 만전식품의 경영권을 인수하는 PE buyout 딜이다.",
+    "company": "만전식품",
+    "acquirer": "UCK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2100억원",
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/12043127",
+    "date": "2026.05.11"
+  },
+  {
     "title": "'마키노 인수' 제동 걸린 MBK 6호 펀드…'中 CIC 출자' 논란 재점화",
     "summary": "MBK파트너스가 마키노후라이스제작소 인수를 추진 중이며, 일본 정부의 제동으로 경제안보 논란이 재점화되고 있는 PE 바이아웃 딜이다.",
     "company": "마키노후라이스제작소",
@@ -1372,33 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604211037186920101286",
     "date": "2026.04.23"
-  },
-  {
-    "title": "홀로서기 나선 한화 김동선, 백화점·F&B '시험대'…성과로 증명할까",
-    "summary": "한화그룹 산하 파이브가이즈 코리아가 사모펀드 운용사 H&Q에 매각을 앞두고 있는 거래. 2023년 론칭 후 2년 만에 기업가치를 3배 상승시킨 후 엑싯하는 PE 관점의 매각 사례",
-    "company": "파이브가이즈코리아",
-    "acquirer": "H&Q",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsis.com/view/NISX20260422_0003602278",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "생보업계, GA 자회사 앞세워 중대형 GA 인수전 '군불'",
-    "summary": "JC파트너스가 보유한 굿리치 지분 약 60%를 매각하는 엑싯 절차를 진행 중이며, 딜 규모는 7000억~8000억원 수준으로 추산됨",
-    "company": "굿리치",
-    "acquirer": "JC파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7000억~8000억원",
-    "deal_stage": "소문",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=513993",
-    "date": "2026.04.22"
   }
 ]
