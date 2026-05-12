@@ -1,5 +1,131 @@
 [
   {
+    "title": "예별손보 재매각 돌입…한투 이어 흥국화재도 참전하나",
+    "summary": "예별손보의 재매각이 추진되고 있으며, 한국투자금융지주, 하나금융지주, JC플라워가 예비입찰에 참여했고, 본입찰에는 한국투자금융지주가 단독으로 최종인수제안서를 제출한 전략적 M&A 딜이다.",
+    "company": "예별손보",
+    "acquirer": "한국투자금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.econovill.com/news/articleView.html?idxno=739862",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "프랙시스캐피탈, 반려동물 장례플랫폼 21그램에 300억 추가 투자",
+    "summary": "사모펀드 운용사 프랙시스캐피탈파트너스가 기존에 경영권을 인수한 반려동물 장례 플랫폼 21그램에 300억원의 추가 투자를 단행했다.",
+    "company": "21그램",
+    "acquirer": "프랙시스캐피탈파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "300억원",
+    "deal_stage": "완료",
+    "url": "https://www.junggi.co.kr/news/articleView.html?idxno=36397",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "오픈AI, 6조원 규모 기업용 ‘AI 합작법인’ 설립",
+    "summary": "오픈AI가 6조원 규모 기업용 AI 합작법인 설립을 위해 컨설팅 회사 토모로를 인수했다.",
+    "company": "토모로",
+    "acquirer": "오픈AI",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "6조원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/it-science/ict/2026/05/12/TD44FM6DTJFKFMPEOT2QGOPJWI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "오픈AI, 5.9조원 투입 '기업 AI 배포' 합작법인 설립",
+    "summary": "오픈AI는 AI 컨설팅 기업 토모로를 인수하며 기업 AI 배포를 위한 합작법인 설립을 추진했다.",
+    "company": "토모로",
+    "acquirer": "오픈AI",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=242694",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "[뉴욕 브리핑] 중동 리스크 지운 AI 열풍…S&P500 7400 돌파",
+    "summary": "오픈AI가 AI 배포 사업 강화를 위해 컨설팅 회사 '토모로'를 인수했다.",
+    "company": "토모로",
+    "acquirer": "오픈AI",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://news.dealsitetv.com/articles/170121",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "MBK, 1.2조원에 日알루미늄 3위 업체 '아르테미라' 인수",
+    "summary": "MBK파트너스가 미국계 사모펀드 아폴로 글로벌 매니지먼트로부터 일본 알루미늄 업체 '아르테미라'를 약 1조2000억 원에 인수하기로 결정한 PE-to-PE 거래이다.",
+    "company": "아르테미라",
+    "acquirer": "MBK파트너스",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "계약",
+    "url": "https://www.newspim.com/news/view/20260512000095",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "오픈AI, 5.9조원 들여 기업 AI배포 합작법인 설립…기업시장 공략 가속",
+    "summary": "오픈AI가 기업 맞춤형 AI 모델 판매 촉진을 위해 컨설팅 회사 ‘토모로’를 인수했다.",
+    "company": "토모로",
+    "acquirer": "오픈AI",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "null",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10735633?ref=naver",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "[더벨]'밸류업 집중' UCK, 만전식품 오너 2세 정동훈 대표와 동행",
+    "summary": "UCK파트너스가 프리미엄 조미김 회사 만전식품을 인수하는 신규 바이아웃 딜을 추진하며, 기존 주주인 정동훈 대표이사는 지분 일부를 유지하고 경영에 참여한다.",
+    "company": "만전식품",
+    "acquirer": "UCK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "null",
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605111430303280104244",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "SK브로드밴드, SK그룹 AI사업 중심으로...데이터센터 구축 확대",
+    "summary": "글로벌 사모펀드 KKR과 IMM인베스트먼트·스톤브릿지캐피탈 컨소시엄이 SK브로드밴드 지분 매각 및 신규 투자 유치 딜의 우선협상대상자로 선정되었다.",
+    "company": "SK브로드밴드",
+    "acquirer": "KKR, IMM인베스트먼트, 스톤브릿지캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ppss.kr/news/articleView.html?idxno=295713",
+    "date": "2026.05.12"
+  },
+  {
     "title": "예별손보 매각 재시동…이번엔 팔릴까",
     "summary": "예별손보의 매각 절차가 재시동되었으며, 하나금융지주, 한국투자금융지주 등 금융지주와 JC플라워 등 사모펀드가 잠재 인수 후보로 거론되는 전략적 M&A 딜이다.",
     "company": "예별손보",
@@ -1273,132 +1399,6 @@
     "ev": "4000억원",
     "deal_stage": "협상",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44587",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "에코비트, 창원에너텍 인수 재추진한다",
-    "summary": "SG PE-SKS PE 컨소시엄이 창원에너텍 인수를 재추진하고 있으며, 해당 회사는 2024년 12월 IMM 컨소시엄에 약 2조원에 인수된 바 있음",
-    "company": "창원에너텍",
-    "acquirer": "SG프라이빗에쿼티-SKS프라이빗에쿼티",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10724852?ref=naver",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "[단독] 에코비트, 창원에너텍 인수 재추진한다",
-    "summary": "SG PE-SKS PE가 에코비트를 통해 창원에너텍 인수를 재추진하고 있으며, 에코비트의 최대주주인 IMM컨소시엄이 관여한 신규 인수 시도",
-    "company": "창원에너텍",
-    "acquirer": "SG프라이빗에쿼티·SKS프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10724235?ref=naver",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "[더벨]롯데그룹, 롯데렌탈 재매각 시동…TPG·EQT·MBK·현대차 후보 거...",
-    "summary": "롯데그룹이 어피니티에 매각하기로 한 롯데렌탈의 재매각을 추진 중이며, TPG, EQT, MBK파트너스, 현대차 등이 인수 후보로 거론되고 있다.",
-    "company": "롯데렌탈",
-    "acquirer": "롯데그룹",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604151341183840102025",
-    "date": "2026.04.17"
-  },
-  {
-    "title": "사모펀드行 K-뷰티...몸집은 커졌는데 내실은 물음표",
-    "summary": "미국계 PE인 KKR이 국내 화장품 용기 제조사인 삼화를 7330억원에 기존 대주주인 TPG캐피탈로부터 인수한 거래",
-    "company": "삼화",
-    "acquirer": "KKR",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "7330억원",
-    "deal_stage": "완료",
-    "url": "https://www.greened.kr/news/articleView.html?idxno=339722",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "산은, KDB생명 매각 재추진… 지분 99.7% 공개 매각 착수",
-    "summary": "산업은행이 보유 중인 KDB생명 지분 99.7%를 공개 매각하는 엑싯 절차를 본격화했다. 경영권 지분 전량을 대상으로 공개 매각을 추진 중이다.",
-    "company": "KDB생명",
-    "acquirer": "산업은행",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=448244",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "산은, KDB생명 7번째 매각 시동…연내 새 주인 찾는다",
-    "summary": "산업은행이 KDB생명 전량 지분(1억1천632만주)을 매각하여 경영권을 이전하는 딜. 산은이 현재 최대주주로서 보유한 지분을 신규 매입자에게 양도하는 엑싯 거래",
-    "company": "KDB생명보험",
-    "acquirer": "산업은행",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411472",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "애큐온캐피탈 인수전 나선 한화생명, 금융그룹 '퍼즐' 완성할까",
-    "summary": "한화생명이 애큐온캐피탈 인수를 위해 다른 금융지주, 사모펀드와 함께 숏리스트에 선정되어 본입찰을 추진 중인 전략적 M&A",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.topdaily.kr/articles/109804",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "메리츠금융, 애큐온 인수전 등판…'조달 리스크' 해소 목적 [넘버스]",
-    "summary": "메리츠금융그룹이 EQT파트너스가 선정한 애큐온캐피탈 매각 프로세스에 한화생명, BNK금융, 다우키움, 바이칼인베스트먼트 등과 함께 5파전으로 인수전에 참여하는 신규 딜",
-    "company": "애큐온캐피탈",
-    "acquirer": "메리츠금융그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=660311",
-    "date": "2026.04.23"
-  },
-  {
-    "title": "[더벨]키스톤PE, 영신정공과 손잡고 '코아비스' 인수 목전",
-    "summary": "키스톤PE가 영신정공과 함께 코아비스 인수를 추진 중인 세컨더리 딜로, 기존 사모펀드 포트폴리오를 인수하는 거래",
-    "company": "코아비스",
-    "acquirer": "키스톤PE",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604211037186920101286",
     "date": "2026.04.23"
   }
 ]
