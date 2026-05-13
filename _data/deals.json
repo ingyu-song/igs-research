@@ -1,5 +1,103 @@
 [
   {
+    "title": "[단독] 카카오모빌리티, 미국 증시 상장 추진",
+    "summary": "TPG가 카카오모빌리티 보유 지분을 다른 사모펀드에 매각하거나 카카오가 되사는 방식으로 엑싯을 추진하고 있다.",
+    "company": "카카오모빌리티",
+    "acquirer": "TPG",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10737074?ref=naver",
+    "date": "2026.05.13"
+  },
+  {
+    "title": "호반서서울, '日나리타 골프장' 베팅…미국에서 일본으로 해외사업 재편",
+    "summary": "호반건설그룹의 완전자회사 호반서서울이 2024년 미국 와이켈레CC를 싱가포르 사모펀드에 매각하며 기존 투자 건을 엑싯했다.",
+    "company": "와이켈레CC",
+    "acquirer": "호반건설그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.newsdream.kr/news/articleView.html?idxno=112046",
+    "date": "2026.05.13"
+  },
+  {
+    "title": "IMM PE, 50년 흑자 제조 강자 이화다이아몬드공업 인수",
+    "summary": "IMM프라이빗이쿼티(IMM PE)가 50년 업력의 다이아몬드 공구 전문기업 이화다이아몬드공업을 인수하는 거래이다.",
+    "company": "이화다이아몬드공업",
+    "acquirer": "IMM프라이빗이쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.etoday.co.kr/news/view/2583929",
+    "date": "2026.05.13"
+  },
+  {
+    "title": "[더벨][Board Change] SK TNS, 매각 직전 대표 교체...LP 입김 반영됐나",
+    "summary": "알케미스트캐피탈파트너스코리아가 보유한 SK TNS의 매각(Exit)이 추진되는 가운데, 매각 직전 대표가 교체되었다.",
+    "company": "SK TNS",
+    "acquirer": "알케미스트캐피탈파트너스코리아",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605071756410920109414",
+    "date": "2026.05.13"
+  },
+  {
+    "title": "IMM PE, 국내 1위·세계 3위 이화다이아몬드공업 품는다",
+    "summary": "IMM PE가 국내 최초 다이아몬드 공구사 이화다이아몬드공업을 인수하는 PE 바이아웃 거래이다.",
+    "company": "이화다이아몬드공업",
+    "acquirer": "IMM PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://view.asiae.co.kr/article/2026051309332989916",
+    "date": "2026.05.13"
+  },
+  {
+    "title": "IMM PE, 이화다이아몬드공업 인수 SPA 체결",
+    "summary": "IMM PE가 국내 1위 다이아몬드 공구 업체인 이화다이아몬드공업을 약 4000억원에 인수하기 위해 SPA를 체결했다.",
+    "company": "이화다이아몬드공업",
+    "acquirer": "IMM PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "4000억원",
+    "deal_stage": "계약",
+    "url": "https://dealsite.co.kr/articles/161728",
+    "date": "2026.05.12"
+  },
+  {
+    "title": "IMM PE, 국내 1위 공구社 이화다이아몬드공업 4000억에 인수 [시그널]",
+    "summary": "IMM PE가 국내 1위 공구 기업인 이화다이아몬드공업을 약 4000억 원에 인수하는 주식매매계약(SPA)을 체결했다.",
+    "company": "이화다이아몬드공업",
+    "acquirer": "IMM PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "4000억 원",
+    "deal_stage": "계약",
+    "url": "https://www.sedaily.com/article/20043225?ref=naver",
+    "date": "2026.05.12"
+  },
+  {
     "title": "예별손보 재매각 돌입…한투 이어 흥국화재도 참전하나",
     "summary": "예별손보의 재매각이 추진되고 있으며, 한국투자금융지주, 하나금융지주, JC플라워가 예비입찰에 참여했고, 본입찰에는 한국투자금융지주가 단독으로 최종인수제안서를 제출한 전략적 M&A 딜이다.",
     "company": "예별손보",
@@ -1302,103 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.bloter.net/news/articleView.html?idxno=660451",
     "date": "2026.04.24"
-  },
-  {
-    "title": "DKME 경영권, 에너진 아닌 덕양에너젠·울프로 넘긴다",
-    "summary": "코스피 상장사 DKME의 최대주주 지분을 덕양에너젠·울프 컨소시엄이 인수하여 경영권을 넘겨받는 전략적 M&A 거래",
-    "company": "DKME",
-    "acquirer": "덕양에너젠·울프",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.fieldnews.kr/news/articleView.html?idxno=28165",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "일본 정부에 가로막힌 MBK의 마키노 인수...이유는?",
-    "summary": "PE 운용사 MBK파트너스가 일본 공작기계 제조사 마키노후라이스제작소(마키노밀링머신)를 인수하려던 딜이 방위산업 연관성을 이유로 일본 정부의 규제에 직면했다.",
-    "company": "마키노후라이스제작소",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=5713",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "케이카캐피탈, 캑터스PE 빠지고 KG가 직접 인수... 이유는",
-    "summary": "KG스틸이 캑터스프라이빗에쿼티 대신 케이카캐피탈을 직접 인수하기로 방향을 전환했다. 당초 PE가 주도하던 거래에서 KG그룹 계열사의 직접 인수로 구조가 변경된 전략적 인수거래이다.",
-    "company": "케이카캐피탈",
-    "acquirer": "KG스틸",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/04/24/J7YLN6I7WVHL3PP5BSMZEZIJ6E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "[AI의 종목 이야기] 허니웰 \"중동 전쟁으로 매출·이익 전망 타격\"",
-    "summary": "허니웰(Honeywell)이 창고·물류 솔루션(Warehouse and Workflow Solutions) 사업부를 사모펀드 아메리칸 인더스트리얼 파트너스(American Industrial Partners LP)에 매각하기로 합의한 딜",
-    "company": "허니웰 창고·물류 솔루션 사업부",
-    "acquirer": "American Industrial Partners LP",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.newspim.com/news/view/20260424000019",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "[더벨]우리PE, 2500억 단독 블라인드펀드 조성 시동",
-    "summary": "우리PE가 3530억원 규모의 프로젝트펀드 '우리베일리국민성장PEF'를 통해 선박 엔진 핵심 소재 및 부품 업체인 현대IFC의 지분 100%를 인수했다.",
-    "company": "현대IFC",
-    "acquirer": "우리베일리국민성장PEF(우리PE)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3530억원",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604221341483200109542",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "[더벨][KG그룹 케이카 인수] 'KG 깐부' 캑터스PE, 케이카 지분 20% 품는 배...",
-    "summary": "KG스틸과 캑터스PE가 케이카의 최대주주 한앤컴퍼니로부터 보통주 3524만5670주(지분율 72.19%)를 인수하는 딜로, 캑터스PE는 약 20% 지분을 확보하게 됨",
-    "company": "케이카",
-    "acquirer": "캑터스프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604221520552400102953",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "KG스틸, 대한전선 CB '잭팟'으로 케이카 품는다",
-    "summary": "KG스틸이 한앤컴퍼니 운용사에 케이카 지분 52.5%를 4000억원 규모로 인수하기 위해 대한전선 전환사채(CB)를 자산 현금화하여 자금을 조달한다.",
-    "company": "케이카",
-    "acquirer": "KG스틸",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "4000억원",
-    "deal_stage": "협상",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=44587",
-    "date": "2026.04.23"
   }
 ]
