@@ -1,5 +1,47 @@
 [
   {
+    "title": "[특징주] 네이버, 우아한형제들 인수 기대감에 강세…4%대↑",
+    "summary": "DH가 2020년 인수한 배달앱 우아한형제들의 매각을 추진 중이며, 네이버가 유력 인수 후보군으로 거론되고 있다.",
+    "company": "우아한형제들",
+    "acquirer": "DH",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.ajunews.com/view/20260514134203541",
+    "date": "2026.05.14"
+  },
+  {
+    "title": "8조원 ‘배민’ 어디로?…군침 흘리는 알리바바·텐센트",
+    "summary": "DH(딜리버리히어로)가 자회사 우아한형제들(배달의민족 운영사)의 지분 매각을 추진하며, 약 8조원 규모의 엑싯 딜에 글로벌 사모펀드 및 알리바바, 텐센트 등이 관심을 보이고 있다.",
+    "company": "우아한형제들",
+    "acquirer": "딜리버리히어로",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "8조원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12047466",
+    "date": "2026.05.14"
+  },
+  {
+    "title": "DH, 배민 매각 추진...8조 빅딜에 플랫폼 시장 ‘술렁’",
+    "summary": "DH가 배달의민족 매각을 추진하며 국내외 대기업 및 글로벌 PEF 운용사에 투자 안내서를 발송하고 인수 의사를 타진하고 있다.",
+    "company": "우아한형제들",
+    "acquirer": "DH",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "8조원",
+    "deal_stage": "협상",
+    "url": "https://mdtoday.co.kr/news/view/1065578846533495",
+    "date": "2026.05.14"
+  },
+  {
     "title": "[단독] 카카오모빌리티, 미국 증시 상장 추진",
     "summary": "TPG가 카카오모빌리티 보유 지분을 다른 사모펀드에 매각하거나 카카오가 되사는 방식으로 엑싯을 추진하고 있다.",
     "company": "카카오모빌리티",
@@ -1357,48 +1399,6 @@
     "ev": null,
     "deal_stage": "완료",
     "url": "https://www.hankyung.com/article/202604245432r",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "6000억 카카오게임즈 M&A, 한투가 인수금융 단독 주선",
-    "summary": "카카오가 카카오게임즈 지분 24%(구주 약 2200만주)를 PE 운용사 페트리코파트너스에 매각하는 블록딜로, 한국투자증권이 인수금융을 6%대 초반 금리, 3년 만기로 단독 주선",
-    "company": "카카오게임즈",
-    "acquirer": "페트리코파트너스",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "6000억원",
-    "deal_stage": "계약",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/04/24/ZUHHYSCRMVB4JOO74SCNHE6HC4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "안보 우려에 기업 인수 제동 건 日정부…고려아연은?",
-    "summary": "MBK파트너스가 지난해 6월 일본 마키노에 대한 주식 공개매수를 계획했으며, 약 8조원 규모의 바이아웃 펀드를 통해 인수를 추진 중이나 일본 정부의 안보 우려로 인수에 제동이 걸린 상황",
-    "company": "마키노",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "8조원",
-    "deal_stage": "협상",
-    "url": "https://news.bizwatch.co.kr/article/industry/2026/04/24/0005",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "반도체 호황 등에 업은 '에어퍼스트', 몸값 4조 돌파 [넘버스]",
-    "summary": "IMM PE가 산업용 가스 제조사 에어퍼스트(전 린데코리아)에서 엑시트할 채비를 하고 있으며, 에어퍼스트의 현재 몸값은 4조원대로 평가받고 있음",
-    "company": "에어퍼스트",
-    "acquirer": "IMM PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "4조원대",
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=660451",
     "date": "2026.04.24"
   }
 ]
