@@ -1,5 +1,75 @@
 [
   {
+    "title": "[단독] TA어소시에이츠, 공차 매각 본격화... 주관사에 JP모간",
+    "summary": "TA어소시에이츠가 공차 매각을 본격화하며 주관사로 JP모간을 선정했습니다. 글로벌 사모펀드들이 인수전에 관심을 보일 것으로 예상됩니다.",
+    "company": "공차",
+    "acquirer": "TA어소시에이츠",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/05/15/4Y3AW5BHO5BODPFUJ6EVZ24OPM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.15"
+  },
+  {
+    "title": "[세포치료제 상업화 전쟁] ② K-세포치료제 CDMO, 허가·스케일·원스톱...",
+    "summary": "글로벌 사모펀드 GI 파트너스가 글로벌 임상시험수탁기관(CRO) 찰스리버의 CDMO 및 세포솔루션 사업부를 인수하여 세포유전자치료제(CGT) 제조 특화 기업 로즈 바이오솔루션을 출범했다.",
+    "company": "찰스리버의 CDMO 및 세포솔루션 사업부",
+    "acquirer": "GI 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.bizhankook.com/bk/article/32251",
+    "date": "2026.05.15"
+  },
+  {
+    "title": "한샘, 넥서스 흡수합병 추진…실적 부진 돌파 승부수",
+    "summary": "한샘이 100% 자회사인 한샘넥서스를 흡수합병하는 전략적 M&A를 추진한다.",
+    "company": "한샘넥서스",
+    "acquirer": "한샘",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://mdtoday.co.kr/news/view/1065578993502396",
+    "date": "2026.05.15"
+  },
+  {
+    "title": "유동성 넘치는 삼성SDS…의뭉스런 자금 조달",
+    "summary": "글로벌 사모펀드 KKR이 투자 목적으로 설립한 특수목적법인(SPC)을 통해 삼성SDS의 전환사채(CB)에 투자하며 삼성SDS의 의뭉스런 자금 조달 의혹이 제기된 딜.",
+    "company": "삼성SDS",
+    "acquirer": "콜버그크래비츠로버츠",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://news.dealsitetv.com/articles/168735",
+    "date": "2026.04.16"
+  },
+  {
+    "title": "[Invest]SKS PE, 지폐 계수기 업체 메카트로 인수 추진",
+    "summary": "SKS PE가 지폐 계수기 업체 메카트로 인수를 추진하는 PE의 기업 인수 거래.",
+    "company": "메카트로",
+    "acquirer": "SKS PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/05/15/2026051580045.html",
+    "date": "2026.05.15"
+  },
+  {
     "title": "[특징주] 네이버, 우아한형제들 인수 기대감에 강세…4%대↑",
     "summary": "DH가 2020년 인수한 배달앱 우아한형제들의 매각을 추진 중이며, 네이버가 유력 인수 후보군으로 거론되고 있다.",
     "company": "우아한형제들",
@@ -1330,75 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.newsis.com/view/NISX20260424_0003605835",
     "date": "2026.04.25"
-  },
-  {
-    "title": "[주간사모펀드] 안갯속 롯데렌탈 인수전…어피니티, SK렌터카 재매각 카...",
-    "summary": "PE 운용사 어피니티에쿼티파트너스가 렌터카 시장 1위 사업자 롯데렌탈 인수를 추진 중이며, 인수 가격 조정을 두고 롯데그룹과 협상 중인 상황",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.tf.co.kr/read/economy/2317064.htm",
-    "date": "2026.04.25"
-  },
-  {
-    "title": "EQT, 더존비즈온 지분 94% 확보...\"자진 상폐 수순\" [fn마켓워치]",
-    "summary": "글로벌 사모펀드 EQT가 공개매수를 통해 더존비즈온의 지분 94%를 확보했으며, 회사의 자진 상장폐지 수순으로 진행 중인 인수 거래",
-    "company": "더존비즈온",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.fnnews.com/news/202604242126428154",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "EQT, 더존비즈온 공개매수 2차 종료…인수 마무리",
-    "summary": "글로벌 사모펀드 EQT파트너스가 더존비즈온에 대한 2차 공개매수를 완료하여 상장폐지 목적의 인수를 마무리했다.",
-    "company": "더존비즈온",
-    "acquirer": "EQT파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026042419212387228",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "EQT, 더존비즈온 2차 공개매수 마무리… 지분 94% 확보 자진 상폐 수순 ...",
-    "summary": "글로벌 사모펀드 EQT파트너스가 두 차례의 공개매수를 통해 더존비즈온의 지분율을 94%로 확보하며 인수를 마무리하고 자진 상폐를 추진 중",
-    "company": "더존비즈온",
-    "acquirer": "EQT파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20036935?ref=naver",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "EQT, 더존비즈온 인수 마무리…2차 공개매수로 지분 94% 확보",
-    "summary": "글로벌 사모펀드 EQT가 더존비즈온에 대한 2차 공개매수를 완료하여 지분 94%를 확보함으로써 인수 절차를 마무리했다.",
-    "company": "더존비즈온",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/202604245432r",
-    "date": "2026.04.24"
   }
 ]
