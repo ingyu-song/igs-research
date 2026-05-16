@@ -1,5 +1,61 @@
 [
   {
+    "title": "홈플러스·딜라이브·네파 어려움에도…MBK, 對 고려아연 '로비 총력전'",
+    "summary": "MBK파트너스는 고려아연의 경영권 인수를 위해 특수목적법인을 설립하고 미국 정부 등을 상대로 로비 총력전을 펼치며 인수를 추진하고 있다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026051612385762820",
+    "date": "2026.05.16"
+  },
+  {
+    "title": "'홈플러스 진통' 속에서도…MBK, 고려아연 겨냥 美 로비력 강화",
+    "summary": "MBK파트너스가 고려아연 인수를 추진하며 미국 내 로비력을 강화하고 있다는 내용으로, 이는 PE의 기업 인수(Acquisition) 딜이다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sentv.co.kr/article/view/sentv202605160011",
+    "date": "2026.05.16"
+  },
+  {
+    "title": "MBK, 홈플러스 사태 외면하고 미국 로비 몰두",
+    "summary": "사모펀드 MBK파트너스가 고려아연 경영권 확보를 목적으로 특수목적법인을 세우고 미국 로비에 나서는 PE의 기업 인수 추진 딜.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://sports.donga.com/economy/article/all/20260516/133934422/1",
+    "date": "2026.05.16"
+  },
+  {
+    "title": "[더벨]'LP 오버부킹' 아이젠PE, 800억 동신 인수 완료",
+    "summary": "아이젠PE가 800억 원에 동신 인수를 완료하며 포트폴리오에 추가하여 미드캡 바이아웃 시장에서 입지를 강화했습니다.",
+    "company": "동신",
+    "acquirer": "아이젠PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "800억",
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605131335237160108084",
+    "date": "2026.05.15"
+  },
+  {
     "title": "[단독] TA어소시에이츠, 공차 매각 본격화... 주관사에 JP모간",
     "summary": "TA어소시에이츠가 공차 매각을 본격화하며 주관사로 JP모간을 선정했습니다. 글로벌 사모펀드들이 인수전에 관심을 보일 것으로 예상됩니다.",
     "company": "공차",
@@ -1344,61 +1400,5 @@
     "deal_stage": "협상",
     "url": "http://www.fntimes.com/html/view.php?ud=202604260001309262dd55077bc2_18",
     "date": "2026.04.27"
-  },
-  {
-    "title": "태광, 케이조선 인수 추진...완주 세가지 관건은?",
-    "summary": "태광그룹이 사모펀드 운용사 그린하버와 컨소시엄을 구성하여 케이조선 인수를 위한 최종 제안서를 제출하고 매도인과 협상을 진행 중인 PE/전략적 M&A 딜",
-    "company": "케이조선",
-    "acquirer": "태광그룹·그린하버",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=835227",
-    "date": "2026.04.26"
-  },
-  {
-    "title": "피부과 대기실에 먼저 도착한 글로벌 자본 [딜레터]",
-    "summary": "한앤컴퍼니가 루트로닉을 9645억원에 인수하고 글로벌 레이저 기업 사이노슈어를 3500억원에 추가 인수한 전략적 M&A 거래",
-    "company": "루트로닉",
-    "acquirer": "한앤컴퍼니",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "9645억원",
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10724859?ref=naver",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "예별손보 이어 KDB생명도 매각 공고…한투지주 선택에 '주목'",
-    "summary": "한투지주가 보유한 KDB생명을 매각하는 거래. 하나금융그룹, JC플라워 등이 입찰에 참여했으나 본입찰 진행 여부 불명확",
-    "company": "KDB생명보험",
-    "acquirer": "한투지주",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sidae.com/article/2026042413414020877",
-    "date": "2026.04.24"
-  },
-  {
-    "title": "KDB생명 이번엔 팔리나…공적자금 회수율·가격 적정성 관건",
-    "summary": "산업은행이 보유한 KDB생명을 한국투자금융지주에 매각하는 것을 추진 중이며, 연내 보험사 인수 완료를 목표로 진행 중인 전략적 M&A 딜",
-    "company": "KDB생명보험",
-    "acquirer": "한국투자금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsis.com/view/NISX20260424_0003605835",
-    "date": "2026.04.25"
   }
 ]
