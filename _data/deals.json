@@ -1,5 +1,19 @@
 [
   {
+    "title": "[손기호의 일본 탐방] 닛케이, MBK·삼성 노조에 주목…日 경제안보 초집...",
+    "summary": "MBK파트너스가 일본 알루미늄 캔 대기업 아르테미라 홀딩스를 약 1300억엔에 인수하는 거래가 일본 정부의 승인을 받았다.",
+    "company": "아르테미라 홀딩스",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1300억엔",
+    "deal_stage": "완료",
+    "url": "https://theviewers.co.kr/View.aspx?No=4078227",
+    "date": "2026.05.17"
+  },
+  {
     "title": "홈플러스·딜라이브·네파 어려움에도…MBK, 對 고려아연 '로비 총력전'",
     "summary": "MBK파트너스는 고려아연의 경영권 인수를 위해 특수목적법인을 설립하고 미국 정부 등을 상대로 로비 총력전을 펼치며 인수를 추진하고 있다.",
     "company": "고려아연",
@@ -1386,19 +1400,5 @@
     "deal_stage": "완료",
     "url": "https://www.smarttoday.co.kr/ko-kr/articles/106332",
     "date": "2026.04.09"
-  },
-  {
-    "title": "\"삼성이 하면 다르다\" 글로벌 공조 '톱 티어ʼ도전장 [D램 넘어 삼성...",
-    "summary": "삼성전자가 영국계 사모펀드 트라이튼으로부터 플랙스그룹 지분 100%를 약 2조 6,000억 원(15억 유로)에 인수하는 전략적 M&A를 추진 중",
-    "company": "Flex Limited",
-    "acquirer": "삼성전자",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2.6조원",
-    "deal_stage": "협상",
-    "url": "http://www.fntimes.com/html/view.php?ud=202604260001309262dd55077bc2_18",
-    "date": "2026.04.27"
   }
 ]
