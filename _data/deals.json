@@ -1,5 +1,62 @@
 [
   {
+    "title": "홈플러스·딜라이브·네파 어려운 상황속... MBK, 對 고려아연 '로비 총...",
+    "summary": "MBK파트너스가 고려아연 인수를 위해 특수목적법인(SPC)을 설립하고 인수를 추진하며 로비 활동을 벌이고 있다는 내용의 PE 기업 인수 딜 기사.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=5895",
+    "date": "2026.05.18"
+  },
+  {
+    "title": "국세청 'SK 딜 전문' 알케미스트 특별세무조사 … SK TNS 매각 영향 촉각",
+    "summary": "팬택씨앤아이가 SK TNS의 경영권 인수를 추진 중인 가운데, 국세청의 알케미스트 특별세무조사가 해당 딜에 미칠 영향이 주목된다.",
+    "company": "SK TNS",
+    "acquirer": "팬택씨앤아이",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=242817",
+    "date": "2026.05.18"
+  },
+  {
+    "title": "본촌치킨 우협 선정 미루는 VIG… 경쟁 붙여 몸값 키우나",
+    "summary": "VIG파트너스가 보유한 본촌치킨의 경영권 매각 딜이 본입찰 이후 우선협상대상자 선정 단계를 진행 중이며, 복수의 투자자들이 인수 제안서를 제출했다.",
+    "company": "본촌치킨",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/05/17/RJBTEBNFHRBDTALO3N2LJUHZO4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.17"
+  },
+  {
+    "title": "크레센도 이기두 대표, HPSP 사내이사로…대주주 직접 경영 체제 강화",
+    "summary": "PE 크레센도에쿼티파트너스가 지난해 매각을 시도했던 반도체 전공정 기업 HPSP의 지분을 올해 들어 블록딜 형태로 일부 매각했다.",
+    "company": "HPSP",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "block",
+    "tags": [
+      "block",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.etoday.co.kr/news/view/2584408",
+    "date": "2026.05.14"
+  },
+  {
     "title": "[손기호의 일본 탐방] 닛케이, MBK·삼성 노조에 주목…日 경제안보 초집...",
     "summary": "MBK파트너스가 일본 알루미늄 캔 대기업 아르테미라 홀딩스를 약 1300억엔에 인수하는 거래가 일본 정부의 승인을 받았다.",
     "company": "아르테미라 홀딩스",
@@ -1343,62 +1400,5 @@
     "deal_stage": "완료",
     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02145126645420384",
     "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 美사모펀드 칼라일 품으로…지배 구조 개편 마무리",
-    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 인수하는 거래로, 지난해 12월 SPA 체결 후 완료됨",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newsis.com/view/NISX20260427_0003607180",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC, 사모펀드 칼라일에 팔렸다",
-    "summary": "KFC 코리아가 글로벌 사모펀드 칼라일 산하의 오케스트라프라이빗에쿼티(오케스트라PE)에 매각되었다. 이는 PE펀드에 의한 기업 인수 거래이다.",
-    "company": "KFC 코리아",
-    "acquirer": "오케스트라프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.naeil.com/news/read/586873?ref=naver",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "두산, SK실트론 인수…FI 없이 홀로 나서나 [넘버스]",
-    "summary": "두산이 SK실트론을 인수하려는 거래로, 2025년에 사모펀드 등을 통한 자금조달을 추진 중인 전략적 M&A",
-    "company": "SK실트론",
-    "acquirer": "두산",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=660601",
-    "date": "2026.04.26"
-  },
-  {
-    "title": "[고려아연 경영권 분쟁] 급했던 최윤범 회장 도운 베인캐피탈, 얼마나 ...",
-    "summary": "베인캐피탈이 보유 중인 고려아연 지분 전량을 2026년 4월 8일 블록딜로 매각했으며, 이는 펀드 만기와 출자자 수익 배분 일정을 고려한 유동성 확보 결정이다.",
-    "company": "고려아연",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.smarttoday.co.kr/ko-kr/articles/106332",
-    "date": "2026.04.09"
   }
 ]
