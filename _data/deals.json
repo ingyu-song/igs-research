@@ -1,5 +1,89 @@
 [
   {
+    "title": "롯데렌탈 매각 무산… 공정위 문턱 못 넘었다",
+    "summary": "롯데그룹이 사모펀드 어피니티에쿼티파트너스에 롯데렌탈 지분 매각을 추진했으나, 공정위의 기업결합 불허로 거래가 무산된 PE의 기업 인수 시도.",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://m.skyedaily.com/news_view.html?ID=304326",
+    "date": "2026.05.19"
+  },
+  {
+    "title": "잇단 F&B 확장에도 적자·차입… 한화 김동선, 신설 지주 수익성 입증 과...",
+    "summary": "한화갤러리아가 2025년 말 사모펀드 H&Q에쿼티파트너스에 외식 자회사 에프지코리아 지분 100%를 매각하기 위한 업무협약(MOU)을 체결했다.",
+    "company": "에프지코리아",
+    "acquirer": "H&Q에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092162357",
+    "date": "2026.05.19"
+  },
+  {
+    "title": "[단독] 원익홀딩스, 자산운용업 진출...'오르카자산운용' 인수",
+    "summary": "원익홀딩스의 투자 자회사인 원익투자파트너스가 오르카자산운용의 경영권 인수를 추진하는 전략적 M&A 딜이다.",
+    "company": "오르카자산운용",
+    "acquirer": "원익투자파트너스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=5905",
+    "date": "2026.05.19"
+  },
+  {
+    "title": "“최창원의 리밸런싱 전략 통했다”...SK그룹, 체질개선·AI 성장동력 확...",
+    "summary": "SK그룹의 체질개선 전략의 일환으로 SK㈜가 SK스페셜티 지분 85%를 사모펀드 한앤컴퍼니에 2조 6308억원 규모로 매각한 PE 인수 거래이다.",
+    "company": "SK스페셜티",
+    "acquirer": "한앤컴퍼니",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2조 6308억원",
+    "deal_stage": "완료",
+    "url": "https://www.seoultimes.news/news/article.html?no=2000095763",
+    "date": "2026.05.18"
+  },
+  {
+    "title": "IMM PE의 '에어퍼스트' 컨티뉴에이션펀드, IRR 30% 전망 [넘버스]",
+    "summary": "IMM PE가 포트폴리오 기업 에어퍼스트 지분 65.9%를 대상으로 컨티뉴에이션 펀드를 통한 세컨더리 거래를 추진하며, 신규 투자자 유치를 통해 지분 인수 대금을 마련할 계획이다.",
+    "company": "에어퍼스트",
+    "acquirer": "IMM PE",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=662595",
+    "date": "2026.05.16"
+  },
+  {
+    "title": "그린에코솔루션 매각 다음주 본입찰…아주-노앤 2파전",
+    "summary": "PEF 운용사 한앤컴퍼니가 보유한 그린에코솔루션 매각을 위한 본입찰이 진행 중이며, 아주 및 노앤이 인수 후보로 경합 중이다.",
+    "company": "그린에코솔루션",
+    "acquirer": "아주, 노앤",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "협상",
+    "url": "https://dealsite.co.kr/articles/161872",
+    "date": "2026.05.15"
+  },
+  {
     "title": "홈플러스·딜라이브·네파 어려운 상황속... MBK, 對 고려아연 '로비 총...",
     "summary": "MBK파트너스가 고려아연 인수를 위해 특수목적법인(SPC)을 설립하고 인수를 추진하며 로비 활동을 벌이고 있다는 내용의 PE 기업 인수 딜 기사.",
     "company": "고려아연",
@@ -1315,90 +1399,6 @@
     "ev": null,
     "deal_stage": "완료",
     "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=311395",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 칼라일로 새 주인…\"매장 확대·디지털 강화\"",
-    "summary": "글로벌 사모펀드 칼라일이 기존 투자자 오케스트라 프라이빗에쿼티로부터 KFC코리아를 인수하는 거래. 오케스트라는 3년 만에 약 3배 규모의 투자 회수를 실현하며 엑시트에 성공.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.newsprime.co.kr/news/article.html?no=731590",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 美사모펀드 칼라일 품으로…\"국내 사업 확장 속도\"",
-    "summary": "칼라일 아시아 파트너스 계열사가 오케스트라프라이빗에쿼티로부터 KFC코리아 지분 100%를 인수하는 거래를 완료했다. 이는 PE의 기업 인수 및 기존 PE로부터의 세컨더리 매각 거래이다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/202604278544g",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC 코리아, 美사모펀드 칼라일 품에 안겨…중장기 성장 전략 띄운다",
-    "summary": "오케스트라PE가 보유한 KFC 코리아 지분 100%를 칼라일 아시아 파트너스 계열사가 인수하는 PE 엑싯 거래",
-    "company": "KFC 코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=1367903",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 칼라일 품으로…\"인수 마무리, 매장 확대·앱 개발 나서\"",
-    "summary": "글로벌 사모펀드 칼라일그룹이 오케스트라프라이빗에쿼티로부터 KFC코리아의 지분 100%를 인수하여 거래를 완료했다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.mydaily.co.kr/page/view/2026042709445366440",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 美사모펀드 칼라일 품으로…지배 구조 개편 마무리",
-    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 인수하는 거래. 지난해 12월 SPA 체결되었으며 지배 구조 개편이 마무리됨.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.widedaily.com/news/articleView.html?idxno=292968",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 칼라일에 매각 완료…매장 확대·디지털 강화 속도",
-    "summary": "칼라일 아시아 파트너스가 오케스트라프라이빗에쿼티로부터 KFC코리아의 지분 100%를 인수하는 거래를 완료했으며, 이는 PE의 기업 인수(buyout) 거래이자 기존 PE의 엑싯에 해당한다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02145126645420384",
     "date": "2026.04.27"
   }
 ]
