@@ -1,5 +1,61 @@
 [
   {
+    "title": "SKC EB 투자자 차익실현 러시…이달 교환권 행사 1900억[fn마켓워치]",
+    "summary": "한국투자프라이빗이쿼티(PE)를 포함한 SKC 교환사채(EB) 투자자들이 교환권을 행사하여 1900억원 규모의 SKC 주식을 매도하며 차익을 실현하는 엑싯 거래.",
+    "company": "SKC",
+    "acquirer": "한국투자프라이빗이쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1900억원",
+    "deal_stage": "완료",
+    "url": "http://www.fnnews.com/news/202605200927195664",
+    "date": "2026.05.20"
+  },
+  {
+    "title": "맘스터치 '1조 매각전' 막 올랐다…주관사에 씨티증권 선정",
+    "summary": "사모펀드 케이엘앤파트너스가 보유한 맘스터치앤컴퍼니의 매각이 재추진되며, 씨티증권이 매각 주관사로 선정되었다.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "케이엘앤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.thepublic.kr/news/articleView.html?idxno=305062",
+    "date": "2026.05.20"
+  },
+  {
+    "title": "‘1조 대어’ 맘스터치 매각 시동...주관에 씨티·화우·삼정 선정",
+    "summary": "사모펀드 케이엘앤파트너스(KL&파트너스)가 보유한 맘스터치앤컴퍼니의 매각을 위해 자문사를 선정하며 엑싯 절차를 공식적으로 시작했다.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "케이엘앤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10741745?ref=naver",
+    "date": "2026.05.20"
+  },
+  {
+    "title": "‘美 상장·매각’ 급해진 카카오모빌리티…올해 유독 ‘피지컬 AI’ 외...",
+    "summary": "글로벌 사모펀드(PEF)로 구성된 FI들이 약 40% 지분을 보유한 카카오모빌리티가 FI들의 엑싯 압박으로 인해 미국 상장 또는 매각을 추진하고 있다.",
+    "company": "카카오모빌리티",
+    "acquirer": "글로벌 PEF (FI)",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.fntimes.com/html/view.php?ud=2026051909473745567fd637f543_18",
+    "date": "2026.05.19"
+  },
+  {
     "title": "롯데렌탈 매각 무산… 공정위 문턱 못 넘었다",
     "summary": "롯데그룹이 사모펀드 어피니티에쿼티파트너스에 롯데렌탈 지분 매각을 추진했으나, 공정위의 기업결합 불허로 거래가 무산된 PE의 기업 인수 시도.",
     "company": "롯데렌탈",
@@ -1343,62 +1399,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.bloter.net/news/articleView.html?idxno=660633",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC 코리아 품은 칄라일…외식 시장 공략 속도 붙는다",
-    "summary": "글로벌 사모펀드 칼라일이 오케스트라프라이빗에쿼티로부터 KFC 코리아의 지분 100%를 인수하는 세컨더리 거래",
-    "company": "KFC 코리아",
-    "acquirer": "칼라일",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=514907",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아 새주인에 미국 사모펀드 '칼라일'",
-    "summary": "칼라일 아시아 파트너스 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 인수했으며, 지난해 12월 SPA 체결 이후 17일 최종 완료했다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.getnews.co.kr/news/articleView.html?idxno=868717",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 사모펀드 칼라일에 인수…\"매장 공격적 확대\"",
-    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라PE로부터 KFC코리아 지분 100%를 취득하는 인수 거래. 지난해 12월 SPA 체결을 통해 진행됨",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10726126?ref=naver",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC 코리아, 사모펀드 '칼라일'과 국내 성장 가속화",
-    "summary": "칼라일 아시아 파트너스의 계열사가 오케스트라프라이빗에쿼티로부터 KFC 코리아 지분 100%를 인수하는 PE 기업 인수 거래",
-    "company": "KFC 코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=311395",
     "date": "2026.04.27"
   }
 ]
