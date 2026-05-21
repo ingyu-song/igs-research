@@ -1,5 +1,173 @@
 [
   {
+    "title": "[Invest]MBK, 테일러메이드 인수 제안 받아...매각가 4조원대 언급",
+    "summary": "MBK파트너스가 글로벌 골프 브랜드 테일러메이드 인수를 제안받아 인수를 추진하고 있다.",
+    "company": "테일러메이드",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "4조원대",
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/05/21/2026052180080.html",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "몸값 1조 희망 '맘스터치'…글로벌 PEF 원매자 물색 본격화",
+    "summary": "PEF가 소유한 맘스터치앤컴퍼니가 해외 확장성을 부각하며 1조원 몸값을 목표로 글로벌 PEF들을 상대로 매각을 추진 중이다. 베인캐피탈, EQT 등이 잠재적 인수 후보로 거론되고 있다.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "글로벌 PEF (베인캐피탈, EQT 등)",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=99018",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "고려아연 노조, 울산시장 후보들에게 \"MBK 적대적 M&A 저지\" 요청",
+    "summary": "사모펀드 MBK파트너스가 고려아연에 대한 적대적 M&A를 시도하자 고려아연 노조가 이를 저지해 줄 것을 울산시장 후보들에게 촉구했다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.queen.co.kr/news/articleView.html?idxno=457314",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "[더벨]코리아와이드파트너스, ‘잘풀리는집’ 미래생활 매각 추진",
+    "summary": "PEF 운용사 코리아와이드파트너스가 포트폴리오 회사인 미래생활의 최대주주로서 지분 매각을 추진하며 엑시트에 나섰다.",
+    "company": "미래생활",
+    "acquirer": "코리아와이드파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605191340179920102378",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "[단독]금융위, 오늘 롯데손보 경영개선안 재심사…이번엔 문턱 넘나",
+    "summary": "사모펀드(PEF) 운용사 JKL파트너스가 보유 중인 롯데손해보험의 매각 주관사를 교체하고 희망 몸값을 조정하는 등 매각 작업에 속도를 내고 있다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.mtn.co.kr/news-detail/2026052111122586132",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "난항 겪는 홈플러스 회생...유동성 확보 시급한데 MBK 난색에 신규 자금...",
+    "summary": "사모펀드 MBK파트너스가 대주주인 홈플러스의 유동성 확보를 위해 홈플러스 익스프레스 매각 및 신규 자금 조달을 추진 중이다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=756162",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "급여 못 주는 홈플러스…MBK는 채권단과 줄다리기",
+    "summary": "MBK파트너스가 소유한 홈플러스가 재정난을 겪자, MBK는 채권단(메리츠)과 홈플러스 익스프레스 매각 대금 활용 및 긴급운영자금 조기 상환 등을 협상 중이다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.busan.com/view/busan/view.php?code=2026052110014733605",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "[단독]韓 투자 4500억이 허공으로?…캐나다 PE 美어센드 9920만불에 인수...",
+    "summary": "캐나다 사모펀드 킨테라캐피털이 파산보호 신청에 나선 미국 배터리 재활용 업체 어센드를 9920만 달러에 인수하는 거래를 추진한다.",
+    "company": "어센드",
+    "acquirer": "킨테라캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "9920만불",
+    "deal_stage": "계약",
+    "url": "https://view.asiae.co.kr/article/2026052015543671412",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "유암코, STX엔진 펀드 해산…7년만에 매각 나서나[시그널]",
+    "summary": "연합자산관리(유암코)가 STX엔진 인수에 활용했던 펀드를 해산하며 STX엔진 경영권 매각(엑시트) 절차에 착수할 예정이다.",
+    "company": "STX엔진",
+    "acquirer": "연합자산관리(유암코)",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20046415?ref=naver",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "배민·카모 노리는 공룡 우버… “한국 잔혹사 끊나”",
+    "summary": "우버(Uber)가 독일 고급차량 호출 기업 블랙레인(Blacklane) 인수에 합의하며 전략적 M&A를 추진 중이다.",
+    "company": "Blacklane",
+    "acquirer": "Uber",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.kmib.co.kr/article/view.asp?arcid=1779266038&code=11151400&cp=nv",
+    "date": "2026.05.21"
+  },
+  {
+    "title": "SKC EB 투자자 차익실현 러시... 이달 1900억 규모 교환권 행사",
+    "summary": "한국투자프라이빗에쿼티(PE) 등 기관 투자자들이 SKC의 교환사채(EB)를 주식으로 전환해 약 1,900억원 규모의 지분을 매각하며 차익 실현에 나섰다.",
+    "company": "SKC",
+    "acquirer": "한국투자프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1900억원",
+    "deal_stage": "완료",
+    "url": "http://www.fnnews.com/news/202605201810236822",
+    "date": "2026.05.20"
+  },
+  {
+    "title": "[마켓인]롯데손보 인수 ‘2파전’ 군불에도…금융지주는 ‘동상이몽’",
+    "summary": "롯데손보 대주주인 사모펀드(PEF) 운용사 JKL파트너스가 롯데손해보험 매각 작업을 추진하며, 여러 금융지주들이 잠재적 인수자로 거론되는 PE 엑싯 딜이다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=04526406645450888",
+    "date": "2026.05.20"
+  },
+  {
     "title": "SKC EB 투자자 차익실현 러시…이달 교환권 행사 1900억[fn마켓워치]",
     "summary": "한국투자프라이빗이쿼티(PE)를 포함한 SKC 교환사채(EB) 투자자들이 교환권을 행사하여 1900억원 규모의 SKC 주식을 매도하며 차익을 실현하는 엑싯 거래.",
     "company": "SKC",
@@ -1232,173 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604231404161400105966",
     "date": "2026.04.28"
-  },
-  {
-    "title": "더존비즈온 상장폐지 수순…EQT, 잔여 지분도 12만원에 산다",
-    "summary": "글로벌 사모펀드 EQT가 더존비즈온의 잔여 지분을 공개매수가와 동일한 가격(12만원)에 매입하여 100% 지분 확보 및 상장폐지를 추진하는 상장폐지 목적의 추가 매입",
-    "company": "더존비즈온",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "진행중",
-    "url": "https://www.ddaily.co.kr/page/view/2026042811332714842",
-    "date": "2026.04.28"
-  },
-  {
-    "title": "커피와 닭강정…사모펀드 밸류업 공식이 바꾼 메뉴판[마켓인]",
-    "summary": "사모펀드 오케스트라PE가 저가 커피 브랜드 매머드커피를 인수하는 딜을 조만간 클로징할 예정",
-    "company": "매머드커피",
-    "acquirer": "오케스트라프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=04572326645420384",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "K푸드 기획력·노하우로 몸값 껑충…해외 자본도 눈독",
-    "summary": "글로벌 PE펀드 칼라일 그룹이 KFC코리아의 경영권 인수를 완료했으며, 한국의 기획력과 노하우를 바탕으로 추가 성장 가능성을 판단한 것으로 전해졌다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20037679?ref=naver",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "[단독] '햄버거 빅3' 한국버거킹 매물로[시그널]",
-    "summary": "오케스트라PE가 보유한 한국버거킹(BKR)이 매각 대상이 되었으며, 해외 투자자들의 관심을 받고 있는 상황. 칼라일그룹은 동시에 오케스트라PE로부터 KFC코리아 지분 100%를 인수 완료했다.",
-    "company": "한국버거킹",
-    "acquirer": "오케스트라PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.sedaily.com/article/20037680?ref=naver",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "[더벨]영신정공, 코아비스 인수 하이라이트 '제품·고객 다변화'",
-    "summary": "영신정공이 키스톤프라이빗에쿼티와 컨소시엄을 구성하여 한앤컴퍼니가 보유한 코아비스를 인수하는 거래. SI 참여로 충분한 체력을 갖추고 있는 상황",
-    "company": "코아비스",
-    "acquirer": "영신정공, 키스톤프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604211527562480102486",
-    "date": "2026.04.28"
-  },
-  {
-    "title": "버거킹 운영사 BKR 매물로…몸값 최대 1조, 외식업 M&A '빅딜' 신조탄",
-    "summary": "PE 어피니티가 보유한 버거킹 국내 운영사 BKR의 지분 100%를 매각하는 거래로, 기업가치는 최대 1조 원 수준으로 평가되고 있음",
-    "company": "버거킹레스토랑",
-    "acquirer": "어피니티",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "소문",
-    "url": "https://wemakenews.co.kr/news/view.php?no=25154",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "이지스운용, 조갑주 대표 경영 복귀…'국민연금 갈등설' 잠재울까",
-    "summary": "이지스자산운용이 힐하우스인베스트먼트(Hillhouse Investment)에 경영권 매각을 추진 중인 PE 인수 딜",
-    "company": "이지스자산운용",
-    "acquirer": "힐하우스인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.bizwatch.co.kr/article/market/2026/04/27/0032",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "KFC코리아, 글로벌 투자사 '칼라일'에 인수… '지배구조 전환'",
-    "summary": "글로벌 사모펀드 칼라일(Carlyle)이 KFC코리아를 인수하며 지배구조를 전환한다. KFC코리아 대표는 칼라일과 함께 중장기 성장 전략을 추진할 계획이라고 밝혔다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일(Carlyle)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newscj.com/news/articleView.html?idxno=3396736",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "삼성SDS, AI에 10조원 '베팅'…IT서비스 기업서 AX 기업으로",
-    "summary": "KKR이 삼성SDS에 1조2000억원 규모의 전략적 투자를 진행하며, 삼성SDS는 6년간 M&A와 글로벌 거점 확대에 4조원을 추가 투입할 계획",
-    "company": "삼성SDS",
-    "acquirer": "KKR",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1361932",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "[딜 인사이드] 오르비텍·파인테크닉스 M&A…주성·성진홀딩스와 연결고...",
-    "summary": "오르비텍 경영권 매각으로 확보한 자금 중 200억원을 투입해 파인테크닉스의 최대주주로 올라서는 거래. 기존 경영진(주성·성진홀딩스)이 오르비텍 매각 차익을 활용한 세컨더리 매입.",
-    "company": "파인테크닉스",
-    "acquirer": "주성·성진홀딩스",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "200억원",
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=660716",
-    "date": "2026.04.28"
-  },
-  {
-    "title": "KFC코리아, 美 사모펀드 칼라일에 인수…\"공격적 매장 확대 나서\"",
-    "summary": "칼라일 산하 아시아 파트너스가 오케스트라PE로부터 KFC 코리아 지분 100%를 인수하는 거래. 지난해 12월 SPA 체결 이후 절차를 거쳐 완료됨.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일 아시아 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.mk.co.kr/article/12028073",
-    "date": "2026.04.27"
-  },
-  {
-    "title": "'뒷심 부족' 한화생명, 애큐온저축 인수전 완주할까 [넘버스]",
-    "summary": "한화생명이 EQT파트너스가 보유한 애큐온저축은행과 캐피탈 인수전에 참전하여 적격인수후보(숏리스트)에 올랐으며, 신규 인수를 추진 중인 거래",
-    "company": "애큐온저축은행",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=660633",
-    "date": "2026.04.27"
   }
 ]
