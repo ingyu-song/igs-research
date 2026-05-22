@@ -1,5 +1,33 @@
 [
   {
+    "title": "[단독] 헬리오스PE ‘서울전선’ 우협 선정…1년만에 몸값 2배로 뛰었다",
+    "summary": "유진프라이빗이쿼티·우리프라이빗이쿼티 컨소시엄이 보유한 서울전선 매각이 추진 중이며, 헬리오스PE가 우선협상대상자로 선정되었다.",
+    "company": "서울전선",
+    "acquirer": "유진프라이빗이쿼티·우리프라이빗이쿼티 컨소시엄",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12055459",
+    "date": "2026.05.22"
+  },
+  {
+    "title": "‘뉴 싸이월드’ 투자자 명단에 방시혁 등장한 이유는? [월간중앙]",
+    "summary": "방시혁 측근이 설립한 사모펀드 특수목적법인(SPC)이 하이브의 기존 투자자 지분을 인수하여 하이브 상장 후 약 1900억원 규모의 이익을 실현한 엑싯 사례이다.",
+    "company": "하이브",
+    "acquirer": "방시혁 측근 사모펀드 특수목적법인(SPC)",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.joongang.co.kr/article/25430522",
+    "date": "2026.05.22"
+  },
+  {
     "title": "[Invest]MBK, 테일러메이드 인수 제안 받아...매각가 4조원대 언급",
     "summary": "MBK파트너스가 글로벌 골프 브랜드 테일러메이드 인수를 제안받아 인수를 추진하고 있다.",
     "company": "테일러메이드",
@@ -1372,33 +1400,5 @@
     "deal_stage": "소문",
     "url": "https://wemakenews.co.kr/news/view.php?no=25154",
     "date": "2026.04.27"
-  },
-  {
-    "title": "써모피셔, 미생물 사업부 10억7500만 달러에 매각",
-    "summary": "써모피셔 사이언티픽이 보유한 미생물 사업부를 유럽계 사모펀드 운용사 아스토그에 10억7500만 달러에 매각하는 딜",
-    "company": "Thermo Fisher Scientific - Microbiology Business",
-    "acquirer": "아스토그",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "10억7500만 달러",
-    "deal_stage": "발표",
-    "url": "https://health.chosun.com/site/data/html_dir/2026/04/28/2026042801272.html",
-    "date": "2026.04.28"
-  },
-  {
-    "title": "[더벨][이슈 & 보드] NS홈쇼핑, 홈플익스프레스 인수 추진…오너2세 승계...",
-    "summary": "NS홈쇼핑이 홈플익스프레스를 인수 추진 중이며, JKL파트너스가 7,500억원 규모로 컨소시엄에 참여하는 PE/사모펀드 기업 인수 거래",
-    "company": "홈플익스프레스",
-    "acquirer": "NS홈쇼핑, JKL파트너스(컨소시엄)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "6조원 중반대",
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604231404161400105966",
-    "date": "2026.04.28"
   }
 ]
