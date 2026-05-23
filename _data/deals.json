@@ -1,5 +1,33 @@
 [
   {
+    "title": "아이맥스 매각설에 주가 올라… 넷플릭스·애플 등 인수 후보 거론",
+    "summary": "아이맥스 매각설이 제기되며 넷플릭스, 애플 등 전략적 인수자와 중동 국부펀드 및 사모펀드 등 PE가 인수 후보로 거론되는 신규 기업 인수 딜.",
+    "company": "아이맥스",
+    "acquirer": "넷플릭스, 애플, 중동 국부펀드, 사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092162693",
+    "date": "2026.05.23"
+  },
+  {
+    "title": "‘프리미엄 영화관’ 아이맥스, 매각 검토에 주가 급등… OTT·빅테크 인...",
+    "summary": "프리미엄 영화관 아이맥스가 매각을 검토 중이며, 넷플릭스, 애플, 소니, 아마존, 디즈니, 사모펀드, 중동 국부펀드 등이 유력한 인수 후보로 거론되는 전략적 M&A 딜이다.",
+    "company": "아이맥스",
+    "acquirer": "넷플릭스, 애플, 소니, 아마존, 디즈니, 사모펀드, 중동 국부펀드 등",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://biz.chosun.com/international/international_economy/2026/05/23/MW6YWBWI5RHRVGM6G2FCSVWFNE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.23"
+  },
+  {
     "title": "[단독] 헬리오스PE ‘서울전선’ 우협 선정…1년만에 몸값 2배로 뛰었다",
     "summary": "유진프라이빗이쿼티·우리프라이빗이쿼티 컨소시엄이 보유한 서울전선 매각이 추진 중이며, 헬리오스PE가 우선협상대상자로 선정되었다.",
     "company": "서울전선",
@@ -1372,33 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=436692",
     "date": "2026.04.29"
-  },
-  {
-    "title": "7000까지 5.8% 남았다…외국인 1조 순매수",
-    "summary": "어피니티에쿼티파트너스가 보유한 버거킹 국내 운영사 비케이알(BKR)의 매각을 추진 중이며, 해외 재무적·전략적 투자자를 인수 후보로 접촉하고 있음",
-    "company": "비케이알",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20037825?ref=naver",
-    "date": "2026.04.28"
-  },
-  {
-    "title": "버거킹 운영사 BKR 매물로…몸값 최대 1조, 외식업 M&A '빅딜' 신호탄",
-    "summary": "PE펀드 어피니티가 보유한 버거킹 운영사 BKR의 지분 100%를 매각하는 엑싯 거래. 딜 규모는 최대 1조 원 수준으로 평가되고 있으며, 후보 인수자 발굴 단계",
-    "company": "BKR",
-    "acquirer": "어피니티",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "소문",
-    "url": "https://wemakenews.co.kr/news/view.php?no=25154",
-    "date": "2026.04.27"
   }
 ]
