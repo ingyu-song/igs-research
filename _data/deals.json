@@ -1,5 +1,62 @@
 [
   {
+    "title": "우버, DH 최대주주 등극…배민 품고 한국 시장 재 입성하나",
+    "summary": "우버가 국내 택시 호출 1위 사업자인 카카오모빌리티의 경영권 인수를 추진하고 있으며, 사모펀드 등 주요 주주 지분을 매입하는 방식의 전략적 M&A 딜이다.",
+    "company": "카카오모빌리티",
+    "acquirer": "우버",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.ceoscoredaily.com/page/view/2026052209223947370",
+    "date": "2026.05.24"
+  },
+  {
+    "title": "중국 기업들, '서구 소비재 브랜드' 쇼핑 나섰다",
+    "summary": "초저가 패스트패션 업체 쉬인이 미국 의류 브랜드 에버레인을 1억달러에 인수하는 계약을 체결했으며, 이는 에버레인에 투자했던 PE인 L캐터턴의 엑싯 딜에 해당한다.",
+    "company": "에버레인",
+    "acquirer": "쉬인",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "1519억원",
+    "deal_stage": "계약",
+    "url": "https://www.g-enews.com/view.php?ud=2026052320273335759a1f309431_1",
+    "date": "2026.05.24"
+  },
+  {
+    "title": "‘배민 매각설’ 독일 DH “적절한 시점에 후속 정보 제공”",
+    "summary": "딜리버리히어로(DH)가 글로벌 사모펀드 운용사 등에게 투자 안내서를 발송하며 우아한형제들(배달의민족) 매각을 추진하는 엑시트 딜이다.",
+    "company": "우아한형제들",
+    "acquirer": "딜리버리히어로",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://economist.co.kr/article/view/ecn202605230010",
+    "date": "2026.05.23"
+  },
+  {
+    "title": "롯데렌탈, 2119억 유상증자 철회…주가 희석 우려 해소",
+    "summary": "사모펀드 어피니티에쿼티파트너스가 롯데그룹으로부터 롯데렌탈 지분 인수를 추진했으나 협상이 무산되면서, 롯데렌탈의 유상증자 계획이 철회되었다.",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023365",
+    "date": "2026.05.21"
+  },
+  {
     "title": "아이맥스 매각설에 주가 올라… 넷플릭스·애플 등 인수 후보 거론",
     "summary": "아이맥스 매각설이 제기되며 넷플릭스, 애플 등 전략적 인수자와 중동 국부펀드 및 사모펀드 등 PE가 인수 후보로 거론되는 신규 기업 인수 딜.",
     "company": "아이맥스",
@@ -1343,62 +1400,6 @@
     "ev": null,
     "deal_stage": "계약",
     "url": "https://biz.heraldcorp.com/article/10728206?ref=naver",
-    "date": "2026.04.29"
-  },
-  {
-    "title": "[더벨]대신PE, 반도체 부품사 '오엔'에 200억 투자",
-    "summary": "대신PE가 운용하는 대신그로쓰캡2024PEF를 통해 반도체 부품사 오엔에 200억원을 투자하며, RCPS 100억원과 CB 100억원을 인수하는 방식으로 진행됨",
-    "company": "오엔",
-    "acquirer": "대신PE(대신그로쓰캡2024PEF)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "200억원",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604270755551100102513",
-    "date": "2026.04.29"
-  },
-  {
-    "title": "[더벨][Company Watch] 유상감자 나선 플랜텍…미코그룹 지배력 커진다",
-    "summary": "미코와 페트라사모투자합자회사(페트라PEF)가 각각 50%씩 출자하여 유암코가 보유한 플랜텍의 경영권 지분 71.9%를 1542억원에 인수했다.",
-    "company": "플랜텍",
-    "acquirer": "미코, 페트라사모투자합자회사",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1542억원",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604271456475000103740",
-    "date": "2026.04.29"
-  },
-  {
-    "title": "솔루스첨단소재 동박 사업, 스카이레이크서 3014억에 인수 [시그널]",
-    "summary": "PE 운용사 스카이레이크인베스트먼트가 솔루스첨단소재의 동박 사업부(볼타에너지솔루션 보유 동박생산 법인)를 3014억원에 인수하는 거래",
-    "company": "볼타에너지솔루션",
-    "acquirer": "스카이레이크인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3014억원",
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20038200?ref=naver",
-    "date": "2026.04.28"
-  },
-  {
-    "title": "[Who Is ?] 최진환 롯데렌탈 대표이사 사장",
-    "summary": "롯데그룹이 2024년 12월 사모펀드 어피니티에쿼티파트너스에 롯데렌탈을 매각하기로 결정하고 양해각서(MOU)를 체결한 거래",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=436692",
     "date": "2026.04.29"
   }
 ]
