@@ -1,5 +1,61 @@
 [
   {
+    "title": "홈플러스, 온라인·대형마트도 매각 착수…인가 전 인수합병 돌입",
+    "summary": "MBK파트너스가 소유한 홈플러스가 실적 악화에 따라 온라인 및 대형마트 사업 매각에 착수하는 새로운 PE 엑싯(Exit) 시도 거래이다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.econovill.com/news/articleView.html?idxno=740774",
+    "date": "2026.05.25"
+  },
+  {
+    "title": "롯데렌탈 매각 무산…호텔롯데 신용부담 부각 [fn마켓워치]",
+    "summary": "사모펀드 어피니티에쿼티파트너스의 롯데렌탈 지분 인수 계약이 최종 해지되었으며, 매각자인 롯데그룹은 다양한 잠재 투자자와 롯데렌탈 지분 매각을 협의할 계획이다.",
+    "company": "롯데렌탈",
+    "acquirer": "롯데그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.fnnews.com/news/202605250911306482",
+    "date": "2026.05.25"
+  },
+  {
+    "title": "배민 몸값 8조 거론… 배달앱 시장 ‘슈퍼앱’ 경쟁으로 확전",
+    "summary": "배달의민족(배민)의 몸값이 8조원으로 거론되며, 우버, 도어대시, 알리바바, 네이버, 사모펀드 등 다양한 기업들이 인수 후보군으로 거론되는 전략적 M&A 딜이 추진 중.",
+    "company": "우아한형제들",
+    "acquirer": "우버, 도어대시, 알리바바, 네이버, 사모펀드 등",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "8조원",
+    "deal_stage": "소문",
+    "url": "https://m.skyedaily.com/news_view.html?ID=304645",
+    "date": "2026.05.25"
+  },
+  {
+    "title": "[HMM50년 돌아보기-41] LNG운송 및 벌크 전용선사업 매각",
+    "summary": "한진해운의 LNG운송 및 벌크 전용선사업이 사모펀드 한앤컴퍼니에 매각되어 설립된 에이치라인해운의 PE 기업 인수 거래.",
+    "company": "에이치라인해운",
+    "acquirer": "한앤컴퍼니",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.thebigdata.co.kr/view.php?ud=20260513083245730570d99e4c8_23",
+    "date": "2026.05.13"
+  },
+  {
     "title": "우버, DH 최대주주 등극…배민 품고 한국 시장 재 입성하나",
     "summary": "우버가 국내 택시 호출 1위 사업자인 카카오모빌리티의 경영권 인수를 추진하고 있으며, 사모펀드 등 주요 주주 지분을 매입하는 방식의 전략적 M&A 딜이다.",
     "company": "카카오모빌리티",
@@ -1345,61 +1401,5 @@
     "deal_stage": "완료",
     "url": "https://news.bizwatch.co.kr/article/market/2026/04/28/0002",
     "date": "2026.04.30"
-  },
-  {
-    "title": "코네, TK엘리베이터 240억달러에 인수... 승강기 '3강 체제' 재편",
-    "summary": "코네(Kone)가 PE 컨소시엄(어드벤트·신벤)으로부터 TK엘리베이터를 약 240억 달러에 인수하는 전략적 M&A 거래",
-    "company": "TK엘리베이터",
-    "acquirer": "코네",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "240억 달러",
-    "deal_stage": "계약",
-    "url": "https://www.g-enews.com/view.php?ud=2026043002001484689a1f309431_1",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "[단독] 사모펀드 품에 안긴 저가커피 브랜드, 배당·본사마진 지속 확대...",
-    "summary": "저가커피 브랜드 매머드커피가 사모펀드 오케스트라프라이빗에쿼티(오케스트라PE)에 인수되었으며, 졸리비푸드는 엘리베이션프라이빗에쿼티 컨소시엄에 약 4,700억원에 인수됨",
-    "company": "매머드커피",
-    "acquirer": "오케스트라프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2580041",
-    "date": "2026.04.29"
-  },
-  {
-    "title": "사모펀드로 넘어간 테라로사… 공차의 선례와 예민한 갈림길",
-    "summary": "UCK파트너스가 2021년 테라로사 지분 37.1%를 인수한 데 이어 2022년 7월 창업주 김 대표의 잔여 지분을 모두 인수하면서 테라로사의 경영권을 완전히 확보했다.",
-    "company": "테라로사",
-    "acquirer": "UCK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=309967",
-    "date": "2026.04.29"
-  },
-  {
-    "title": "더존비즈온 상폐 수순…포괄적 주식교환 앞둬",
-    "summary": "EQT는 더존비즈온의 잔여지분 전량 매입을 통해 상장폐지를 진행 중이며, 지난해 11월 김용우 회장 등으로부터 주식을 인수한 이후 공개매수를 마치고 포괄적 주식교환으로 완전자회사화를 추진하고 있다.",
-    "company": "더존비즈온",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10728206?ref=naver",
-    "date": "2026.04.29"
   }
 ]
