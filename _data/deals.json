@@ -1,5 +1,47 @@
 [
   {
+    "title": "'7500억 몸값' 엑소코바이오, IPO냐 M&A냐 '그것이 문제'",
+    "summary": "K2인베스트먼트가 최대주주인 엑소코바이오의 IPO 또는 사모펀드(PE) 매각 가능성이 논의되고 있다.",
+    "company": "엑소코바이오",
+    "acquirer": "K2인베스트먼트",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "소문",
+    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03378406645452856",
+    "date": "2026.05.26"
+  },
+  {
+    "title": "한국첨단소재, 투자처 없이 100억 CB…김병진 측 참여·주가 급등",
+    "summary": "한국첨단소재가 최대주주인 김병진 측을 대상으로 100억원 규모의 사모 전환사채(CB)를 발행하는 자금 조달 딜이다.",
+    "company": "한국첨단소재",
+    "acquirer": "김병진 측",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "100억원",
+    "deal_stage": "계약",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45141",
+    "date": "2026.05.26"
+  },
+  {
+    "title": "부광, 4년째 공장가동률 100%↑…시급한 유니온 인수 타이밍",
+    "summary": "유니온제약의 주요 주주 지분 22.61%를 사모펀드 NBH캐피탈이 인수하려는 세컨더리 거래가 추진 중이다.",
+    "company": "유니온제약",
+    "acquirer": "NBH캐피탈",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.dailypharm.com/user/news/338782?REFERER=NP",
+    "date": "2026.05.26"
+  },
+  {
     "title": "홈플러스, 온라인·대형마트도 매각 착수…인가 전 인수합병 돌입",
     "summary": "MBK파트너스가 소유한 홈플러스가 실적 악화에 따라 온라인 및 대형마트 사업 매각에 착수하는 새로운 PE 엑싯(Exit) 시도 거래이다.",
     "company": "홈플러스",
@@ -1358,48 +1400,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604281326557040102021",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "[Stock Tracking] 시지메드텍, 4월 외인 매도 행렬...8주만에 시총 44% 증...",
-    "summary": "IMM PE가 시지바이오의 시지메드텍 지분 40.41%를 인수하는 거래로, IMM PE는 우협 선정 이후 상세 실사를 진행 중이며 본계약 체결을 앞두고 있음",
-    "company": "시지메드텍",
-    "acquirer": "IMM PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.greened.kr/news/articleView.html?idxno=340010",
-    "date": "2026.04.29"
-  },
-  {
-    "title": "두올, 1118억에 최대주주 바뀐다…모트렉스에 매각 [공시pick]",
-    "summary": "모트렉스가 두올의 최대주주 IHC 및 특수관계자로부터 지분을 인수하여 경영권을 이전받는 전략적 M&A 거래",
-    "company": "두올",
-    "acquirer": "모트렉스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1118억원",
-    "deal_stage": "계약",
-    "url": "http://www.joseilbo.com/news/news_read.php?uid=567582&class=17&grp=",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "[딜 워치]'2% 지분 사수전'...시간 챙긴 최윤범, 실리 챙긴 메리츠",
-    "summary": "메리츠증권이 설립한 SPC 피23파트너스가 베인캐피탈이 보유하던 고려아연 지분 2.01%를 5141억원에 인수했으며, 이는 PE의 엑싯 거래로 분류되는 블록딜이다.",
-    "company": "고려아연",
-    "acquirer": "피23파트너스(메리츠증권)",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "5141억원",
-    "deal_stage": "완료",
-    "url": "https://news.bizwatch.co.kr/article/market/2026/04/28/0002",
     "date": "2026.04.30"
   }
 ]
