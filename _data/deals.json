@@ -1,5 +1,119 @@
 [
   {
+    "title": "[미국 특징주] 우주·방산 어플라이드 에어로스페이스 IPO 추진",
+    "summary": "사모펀드 그린브라이어 에쿼티 그룹이 포트폴리오 기업 어플라이드 에어로스페이스의 IPO를 추진하며 엑싯을 모색하고 있다.",
+    "company": "어플라이드 에어로스페이스",
+    "acquirer": "그린브라이어 에쿼티 그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newspim.com/news/view/20260527000749",
+    "date": "2026.05.27"
+  },
+  {
+    "title": "현대그룹, H&Q 보유 현대엘리 잔여 지분 매입…30개월 동행 마침표[시그...",
+    "summary": "현대그룹의 지주사 현대홀딩스컴퍼니가 PEF 운용사 H&Q코리아로부터 현대엘리베이터의 잔여 전환사채(CB)와 상환전환우선주(RCPS) 투자분 전량을 인수하며 H&Q코리아의 투자 엑싯이 완료되었다.",
+    "company": "현대엘리베이터",
+    "acquirer": "H&Q코리아",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20048591?ref=naver",
+    "date": "2026.05.27"
+  },
+  {
+    "title": "네이버 ‘슈퍼앱’ 전략에 가속도...생활 서비스 강화",
+    "summary": "네이버가 딜리버리히어로로부터 배달의민족(배민) 인수를 제안받고 인수 의향을 밝히는 전략적 M&A 거래이다.",
+    "company": "우아한형제들",
+    "acquirer": "네이버",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.chosun.com/economy/tech_it/2026/05/27/QLAKK6TRQFGU7OU4AXURKNU6SM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "date": "2026.05.27"
+  },
+  {
+    "title": "유에이치씨 그룹, 기업 가치 1200억원… 해외 사업 확대 추진",
+    "summary": "사모펀드(PE)가 유에이치씨 그룹에 투자하여 지분을 인수했으며, 이로 인해 유에이치씨 그룹의 기업 가치는 1200억원으로 평가받았다.",
+    "company": "유에이치씨 그룹",
+    "acquirer": null,
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1200억원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/industry/business_info/2026/05/26/VHR2WBK6CZAHXCSGLKLSI4DPNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.26"
+  },
+  {
+    "title": "유에이치씨 그룹, 1200억원 기업가치 인정…글로벌 확장 본격화",
+    "summary": "사모펀드(PE)가 유에이치씨 그룹에 투자하여 1200억원 기업가치를 인정했다.",
+    "company": "유에이치씨 그룹",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1200억원",
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202605269463O",
+    "date": "2026.05.26"
+  },
+  {
+    "title": "대주주 블록딜에 다시 퍼지는 '리노공업 M&A설'",
+    "summary": "리노공업 대주주가 블록딜을 통해 지분을 처분하고 경영권 매각 절차에 들어갈 것이라는 관측이 제기되며, 대형 사모펀드(PEF)와 해외 전략적 투자자들이 잠재적 인수자로 언급되고 있다.",
+    "company": "리노공업",
+    "acquirer": "대형 사모펀드(PEF) 및 해외 전략적 투자자",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.hankyung.com/article/2026052573651",
+    "date": "2026.05.25"
+  },
+  {
+    "title": "유암코, STX엔진 담은 구조조정 펀드 해산… 경영권 매각 가시화",
+    "summary": "유암코(연합자산관리)가 STX엔진 인수에 활용한 PEF를 해산하며, 보유하고 있던 STX엔진의 경영권 매각 및 지분 블록딜을 통한 엑싯이 가시화되고 있다.",
+    "company": "STX엔진",
+    "acquirer": "유암코",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/05/19/EKXFRHDHONCPPP6O5ZRZQBDOZI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.05.19"
+  },
+  {
+    "title": "서진시스템, 3000억 규모 영구채 발행 추진",
+    "summary": "서진시스템은 국내 사모펀드(PEF) 운용사를 대상으로 3000억 규모의 영구채 발행을 추진하며, 최대주주인 전동규 대표는 보유 주식 블록딜을 통해 약 1687억원을 확보해 회사에 대여한다.",
+    "company": "서진시스템",
+    "acquirer": "국내 사모펀드(PEF) 운용사들",
+    "type": "acq",
+    "tags": [
+      "acq",
+      "block"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45023",
+    "date": "2026.05.19"
+  },
+  {
     "title": "'7500억 몸값' 엑소코바이오, IPO냐 M&A냐 '그것이 문제'",
     "summary": "K2인베스트먼트가 최대주주인 엑소코바이오의 IPO 또는 사모펀드(PE) 매각 가능성이 논의되고 있다.",
     "company": "엑소코바이오",
@@ -1288,118 +1402,5 @@
     "deal_stage": "완료",
     "url": "https://www.mk.co.kr/article/12034124",
     "date": "2026.05.02"
-  },
-  {
-    "title": "[마켓인]‘反MBK’로 뭉친 고려아연·메리츠…‘1조 혈맹’ 구축하나",
-    "summary": "외국계 사모펀드(PEF) 베인캐피탈이 보유했던 고려아연 지분 약 2.01%를 메리츠증권이 설립한 주체와 최 회장 측이 블록딜 방식으로 인수하는 거래입니다.",
-    "company": "고려아연",
-    "acquirer": "메리츠증권, 최 회장 측",
-    "type": "block",
-    "tags": [
-      "block",
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=05011846645414480",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "'M&A 다크호스' 산일전기, 산일파트너스에 한상훈 대표 영입",
-    "summary": "산일전기 대주주인 강 씨가 보유 지분 9.91%를 블록딜(시간외 매매) 방식으로 매각을 완료했다.",
-    "company": "산일전기",
-    "acquirer": null,
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2574240",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "베인캐피탈, 고려아연 지분 메리츠에 매각…베인·고려 ‘윈윈’",
-    "summary": "PEF 운용사 베인캐피탈이 고려아연 보유 지분 전량을 메리츠금융그룹에 시간외 대량매매(블록딜)로 매각 완료.",
-    "company": "고려아연",
-    "acquirer": "메리츠금융그룹",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10713422?ref=naver",
-    "date": "2026.04.09"
-  },
-  {
-    "title": "EQT 더존비즈온 상장폐지 청신호…기준 지분 확보 완료",
-    "summary": "글로벌 사모펀드 EQT파트너스가 더존비즈온의 상장폐지에 필요한 기준 지분을 확보 완료했으며, 지난해 11월 김용우 회장 등으로부터 보유지분을 인수하는 주식매매계약(SPA)을 체결한 상황",
-    "company": "더존비즈온",
-    "acquirer": "EQT파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10729704?ref=naver",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "[마켓인]태광, 넥스플렉스 인수 검토…M&A 광폭 행보",
-    "summary": "태광그룹이 MBK파트너스가 보유한 넥스플렉스의 인수를 검토 중인 단계로 알려졌다. MBK파트너스는 넥스플렉스의 최대주주로서 매각을 추진 중이다.",
-    "company": "넥스플렉스",
-    "acquirer": "태광그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=06681366645421368",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "[단독] 태광그룹, MBK 보유 넥스플렉스 인수 검토",
-    "summary": "태광그룹이 PE 운용사 MBK파트너스가 보유한 스마트폰용 FCCL 전문기업 넥스플렉스의 인수를 검토 중인 것으로 알려졌으며, MBK파트너스는 넥스플렉스 매각을 위해 잠재 원매자들과 접촉을 이어가고 있음",
-    "company": "넥스플렉스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.mk.co.kr/article/12032417",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "KPMG \"글로벌 PE 거래건수 5년來 최저···투자 가뭄 속 '빅딜' 쏠림",
-    "summary": "한국투자파트너스가 방산·우주 부품 전문기업 엠앤씨솔루션을 약 9450억원에 인수하는 딜이 진행 중이며, 글로벌 PE 시장이 대형·고품질 딜 중심으로 재편되고 있다.",
-    "company": "엠앤씨솔루션",
-    "acquirer": "한국투자파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "9450억원",
-    "deal_stage": "계약",
-    "url": "https://www.hankyung.com/article/202604307490r",
-    "date": "2026.04.30"
-  },
-  {
-    "title": "[더벨]스틱, 의료기기 전문 '알에프메디컬' 매각 추진",
-    "summary": "PE사 스틱(그로쓰캐피탈 본부)이 주도 인수한 의료기기 전문 기업 알에프메디컬을 2023년부터 매각 준비에 들어갔으며, 지난해 부분 매각에 이어 올해 최종 엑시트를 추진 중",
-    "company": "알에프메디컬",
-    "acquirer": "스틱(그로쓰캐피탈)",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604281326557040102021",
-    "date": "2026.04.30"
   }
 ]
