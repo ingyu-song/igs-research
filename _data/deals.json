@@ -1,5 +1,47 @@
 [
   {
+    "title": "미니쉬테크놀로지, VIG파트너스 300억 투자 유치",
+    "summary": "VIG파트너스가 미니쉬테크놀로지에 300억원 규모의 성장 투자를 단행했다.",
+    "company": "미니쉬테크놀로지",
+    "acquirer": "VIG파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "300억원",
+    "deal_stage": "완료",
+    "url": "https://www.etnews.com/20260528000307",
+    "date": "2026.05.28"
+  },
+  {
+    "title": "[기업家] 네이버 ⑥ㅣ AI·콘텐츠·커머스 네이버의 미래 전략…'생활 플...",
+    "summary": "독일 딜리버리히어로가 JP모건을 주관사로 선정하여 국내외 기업 및 사모펀드에 배달의민족 운영사 우아한형제들 매각 의사를 타진 중이며, 네이버와 우버 컨소시엄이 인수 의사를 보이는 전략적 M&A 딜.",
+    "company": "우아한형제들",
+    "acquirer": "딜리버리히어로",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=577791",
+    "date": "2026.05.28"
+  },
+  {
+    "title": "보험업권 인수전…애큐온·롯데손보 매각대금 1조대?",
+    "summary": "사모펀드(PE)인 베어링PEA와 JKL파트너스가 보유한 애큐온캐피탈(애큐온저축은행 포함)과 롯데손해보험의 1조원대 엑시트를 목표로 매각을 추진하며 인수전이 시작되었다.",
+    "company": "애큐온캐피탈, 애큐온저축은행, 롯데손해보험",
+    "acquirer": "베어링PEA, JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원대",
+    "deal_stage": "협상",
+    "url": "http://www.newstomato.com/ReadNews.aspx?no=1302281&inflow=N",
+    "date": "2026.05.28"
+  },
+  {
     "title": "[미국 특징주] 우주·방산 어플라이드 에어로스페이스 IPO 추진",
     "summary": "사모펀드 그린브라이어 에쿼티 그룹이 포트폴리오 기업 어플라이드 에어로스페이스의 IPO를 추진하며 엑싯을 모색하고 있다.",
     "company": "어플라이드 에어로스페이스",
@@ -1360,47 +1402,5 @@
     "deal_stage": "계약",
     "url": "http://www.maniareport.com/view.php?ud=2026050306414899486cf2d78c68_19",
     "date": "2026.05.03"
-  },
-  {
-    "title": "MLB 샌디에이고, 펠리시아노·존스 부부 투자그룹에 팔린다",
-    "summary": "사모펀드 억만장자인 호세 E. 펠리시아노와 존스 부부 투자그룹이 미국프로야구 샌디에이고 파드리스를 인수하는 전략적 M&A 거래이다.",
-    "company": "샌디에이고 파드리스",
-    "acquirer": "호세 E. 펠리시아노·존스 부부 투자그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01390726645445312",
-    "date": "2026.05.03"
-  },
-  {
-    "title": "[MLB] 송성문의 샌디에이고, 구단 매각 발표...매각액 39억 달러 전망",
-    "summary": "세이들러 가문이 소유한 샌디에이고 파드리스 구단을 사모펀드 투자자 호세 E. 펠리시아노와 콴자에게 39억 달러에 매각 발표한 PE 인수 딜.",
-    "company": "샌디에이고 파드리스",
-    "acquirer": "호세 E. 펠리시아노, 콴자",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "39억 달러",
-    "deal_stage": "계약",
-    "url": "https://www.newspim.com/news/view/20260503000003",
-    "date": "2026.05.03"
-  },
-  {
-    "title": "“삼전닉스가 받쳐주는데 왜 나와?”…IMM, 에어퍼스트 3조 지분 안판다",
-    "summary": "IMM PE는 에어퍼스트 지분 3조원 규모의 매각 계획을 철회하고, 국내 최초로 에버그린 구조 펀드를 조성하여 장기 보유하기로 결정했다.",
-    "company": "에어퍼스트",
-    "acquirer": "IMM PE",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "3조원",
-    "deal_stage": "완료",
-    "url": "https://www.mk.co.kr/article/12034124",
-    "date": "2026.05.02"
   }
 ]
