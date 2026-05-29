@@ -1,5 +1,19 @@
 [
   {
+    "title": "네이버·우버, 배민 품나… 8조 빅딜에 K-배달 시장 '술렁'",
+    "summary": "우아한형제들 매각 작업이 시작되었으며, 네이버와 우버가 유력 인수 후보로 거론되는 전략적 M&A 딜이다.",
+    "company": "우아한형제들",
+    "acquirer": "네이버, 우버",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "8조원",
+    "deal_stage": "협상",
+    "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=721579",
+    "date": "2026.05.29"
+  },
+  {
     "title": "미니쉬테크놀로지, VIG파트너스 300억 투자 유치",
     "summary": "VIG파트너스가 미니쉬테크놀로지에 300억원 규모의 성장 투자를 단행했다.",
     "company": "미니쉬테크놀로지",
@@ -1387,20 +1401,6 @@
     "ev": "5조8000억원",
     "deal_stage": "완료",
     "url": "https://www.kado.net/news/articleView.html?idxno=2047995",
-    "date": "2026.05.03"
-  },
-  {
-    "title": "'13년 만에 5배 점프' 송성문 소속 샌디에이고, MLB 사상 최고가 39억 달...",
-    "summary": "세이들러 가문이 보유한 MLB 야구팀 샌디에이고 파드리스의 경영권이 사모펀드 투자자 호세 E. 펠리시아노에게 39억 달러에 매각되는 PE 바이아웃 거래가 진행 중이다.",
-    "company": "샌디에이고 파드리스",
-    "acquirer": "호세 E. 펠리시아노",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "39억 달러",
-    "deal_stage": "계약",
-    "url": "http://www.maniareport.com/view.php?ud=2026050306414899486cf2d78c68_19",
     "date": "2026.05.03"
   }
 ]
