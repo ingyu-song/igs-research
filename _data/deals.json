@@ -1,5 +1,90 @@
 [
   {
+    "title": "카카오게임즈, 라인게임즈 '구조선' 되나",
+    "summary": "라인야후가 카카오게임즈 인수를 검토하는 가운데, 카카오게임즈가 앵커PE의 자금 회수가 필요한 라인게임즈의 '구조선'이 될 가능성이 제기된다.",
+    "company": "라인게임즈",
+    "acquirer": "카카오게임즈",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841552",
+    "date": "2026.05.30"
+  },
+  {
+    "title": "컴투스홀딩스, 한투·OKX에 코인원 지분 일부 매각…전략적 파트너십 구...",
+    "summary": "컴투스홀딩스가 암호화폐 거래소 코인원의 지분 일부를 OKX벤처스 및 한국투자파트너스에 346억원에 매각하며 전략적 파트너십을 구축했다.",
+    "company": "코인원",
+    "acquirer": "한국투자파트너스, OKX벤처스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "346억원",
+    "deal_stage": "계약",
+    "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=360709",
+    "date": "2026.05.29"
+  },
+  {
+    "title": "[딜 인사이드] '불스아이' 품은 앱코…바이오센서로 본업 정체 뚫을까",
+    "summary": "앱코가 미국 불스아이의 지분 40%를 인수하며 바이오센서 사업 확장을 통해 본업 정체를 극복하려는 전략적 M&A 딜.",
+    "company": "불스아이",
+    "acquirer": "앱코",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=663939",
+    "date": "2026.05.29"
+  },
+  {
+    "title": "한투증권, 코인원 지분 20% 확보..디지털자산 사업 강화",
+    "summary": "한국투자증권이 코인원 지분 20%를 구주 매각 및 신주 발행을 통해 확보하여 디지털자산 사업을 강화하는 전략적 M&A 거래이다.",
+    "company": "코인원",
+    "acquirer": "한국투자증권",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.4th.kr/news/articleView.html?idxno=2112474",
+    "date": "2026.05.29"
+  },
+  {
+    "title": "코인원, 한투·OKX벤처스 새 주주로 맞이…차명훈 체제서 주주판 재편",
+    "summary": "한국투자증권과 OKX벤처스가 암호화폐 거래소 코인원의 신주 발행 및 기존 주주(차명훈 대표, 컴투스홀딩스) 구주 매각에 참여하여 새로운 주주가 되는 전략적 투자 거래이다.",
+    "company": "코인원",
+    "acquirer": "한국투자증권, OKX벤처스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=663962",
+    "date": "2026.05.29"
+  },
+  {
+    "title": "코인원, 한투증권·OKX 3대 주주로 맞았다…지분 20%씩 인수",
+    "summary": "한국투자증권과 OKX가 국내 가상자산 거래소 코인원의 구주 일부 매입 및 신규 발행 주식 인수를 통해 각각 지분 20%를 확보하며 3대 주주로 등극하는 전략적 지분 인수 딜.",
+    "company": "코인원",
+    "acquirer": "한국투자증권, OKX",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417510",
+    "date": "2026.05.29"
+  },
+  {
     "title": "네이버·우버, 배민 품나… 8조 빅딜에 K-배달 시장 '술렁'",
     "summary": "우아한형제들 매각 작업이 시작되었으며, 네이버와 우버가 유력 인수 후보로 거론되는 전략적 M&A 딜이다.",
     "company": "우아한형제들",
@@ -1318,89 +1403,5 @@
     "deal_stage": "완료",
     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=05477606645446624",
     "date": "2026.05.07"
-  },
-  {
-    "title": "신사업 진출 미끼로 주가조작 후 시세차익으로 호화생활",
-    "summary": "사모펀드 G가 사주 乙이 지배하는 부실업체 ㈜H의 전환사채 000억원을 인수하여 ㈜E의 법인자금을 부당유출한 딜.",
-    "company": "㈜H",
-    "acquirer": "사모펀드 G",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "000억원",
-    "deal_stage": "완료",
-    "url": "https://www.taxtimes.co.kr/news/article.html?no=275008",
-    "date": "2026.05.06"
-  },
-  {
-    "title": "한화, 6조 투입해도 ‘반쪽 경영’ 우려…KAI 인수의 ‘3대 뇌관’",
-    "summary": "한화가 한국항공우주산업(KAI) 인수를 6조원 규모로 추진하는 가운데, 잠재적 경쟁자인 LIG넥스원이나 현대로템이 사모펀드(PEF)와 연합하여 인수전에 참여할 가능성이 제기되는 전략적 M&A 딜 기사.",
-    "company": "한국항공우주산업",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "6조원",
-    "deal_stage": "소문",
-    "url": "https://magazine.hankyung.com/business/article/202605056295b",
-    "date": "2026.05.05"
-  },
-  {
-    "title": "아이티센글로벌 400억원 CB 해부…부채상환 320억·신사업 80억",
-    "summary": "KCGI가 운용하는 사모펀드의 자회사 아이티씨홀딩스 유한회사가 아이티센글로벌의 400억원 규모 전환사채를 인수하는 투자 거래이다.",
-    "company": "아이티센글로벌",
-    "acquirer": "KCGI",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "400억원",
-    "deal_stage": "계약",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=661314",
-    "date": "2026.05.05"
-  },
-  {
-    "title": "[#클라우드 월드] 아이티센글로벌 '전환사채 400억' 발행·김동환 포티투...",
-    "summary": "KCGI 혁신성장 ESG 사모투자합자펀드가 아이티센글로벌에 400억원 규모의 전환사채를 발행하여 투자하는 딜.",
-    "company": "아이티센글로벌",
-    "acquirer": "KCGI 혁신성장 ESG 사모투자합자펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "400억원",
-    "deal_stage": "계약",
-    "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=839749",
-    "date": "2026.05.04"
-  },
-  {
-    "title": "K-외식 브랜드 줄줄이 주인 바뀐다… 인수 릴레이 배경은",
-    "summary": "글로벌 사모펀드(PEF) 칼라일그룹이 외식 브랜드 KFC코리아의 인수를 마무리하며 PEF의 기업 인수(Buyout) 거래를 완료했다.",
-    "company": "KFC코리아",
-    "acquirer": "칼라일그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.seoulwire.com/news/articleView.html?idxno=719856",
-    "date": "2026.05.04"
-  },
-  {
-    "title": "미국 프로야구 샌디에이고 파드리스, 5조8000억원 '역대 최고가' 매각",
-    "summary": "미국 프로야구 샌디에이고 파드리스 구단이 현 소유주인 세이들러 가문으로부터 사모펀드 투자자에게 약 5조8000억원에 매각되는 PE의 기업 인수(Buyout) 거래이다.",
-    "company": "샌디에이고 파드리스",
-    "acquirer": "사모펀드 투자자 (호세 E...)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5조8000억원",
-    "deal_stage": "완료",
-    "url": "https://www.kado.net/news/articleView.html?idxno=2047995",
-    "date": "2026.05.03"
   }
 ]
