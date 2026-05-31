@@ -1,5 +1,48 @@
 [
   {
+    "title": "[Why&Next]'1.6兆' 롯데렌탈 빅딜 무산…유동성 확보 시나리오 '흔들'",
+    "summary": "롯데그룹이 사모펀드 어피니티에쿼티파트너스에 롯데렌탈 지분을 약 1.6조원에 매각하려던 딜이 무산되었다.",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조5729억원",
+    "deal_stage": null,
+    "url": "https://view.asiae.co.kr/article/2026052016033041634",
+    "date": "2026.05.31"
+  },
+  {
+    "title": "H&Q, 현대엘리베이터 투자금 전액 회수",
+    "summary": "PEF 운용사 H&Q가 현대엘리베이터의 지분 4.9%를 블록딜로 매각하며 투자금 전액 회수를 통한 엑시트를 완료했습니다.",
+    "company": "현대엘리베이터",
+    "acquirer": "H&Q",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10758714?ref=naver",
+    "date": "2026.05.29"
+  },
+  {
+    "title": "[그린생명과학 줌업] 4010원에 처분 예고한 자사주…소각 대신 3234원에 ...",
+    "summary": "그린생명과학이 자기주식 75만주를 총 24억2565만원에 사모펀드 7곳에 블록딜 형태로 매각했으며, 이는 사모펀드의 그린생명과학 지분 인수 거래이다.",
+    "company": "그린생명과학",
+    "acquirer": "사모펀드 7곳",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "24억2565만원",
+    "deal_stage": "완료",
+    "url": "https://www.greened.kr/news/articleView.html?idxno=341450",
+    "date": "2026.05.29"
+  },
+  {
     "title": "카카오게임즈, 라인게임즈 '구조선' 되나",
     "summary": "라인야후가 카카오게임즈 인수를 검토하는 가운데, 카카오게임즈가 앵커PE의 자금 회수가 필요한 라인게임즈의 '구조선'이 될 가능성이 제기된다.",
     "company": "라인게임즈",
@@ -1361,47 +1404,5 @@
     "deal_stage": "완료",
     "url": "https://biz.chosun.com/stock/market_trend/2026/05/10/EFI5455L75ALDGLVBT4PV5WUFU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
     "date": "2026.05.09"
-  },
-  {
-    "title": "[주간사모펀드] 센트로이드PE, 더피플라이프 품고 시니어 산업 본격 진...",
-    "summary": "센트로이드PE가 상조회사 더피플라이프의 경영권 지분 약 80% 인수를 추진하고 있으며, 현재 실사가 진행 중이다.",
-    "company": "더피플라이프",
-    "acquirer": "센트로이드PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.tf.co.kr/read/economy/2320823.htm",
-    "date": "2026.05.09"
-  },
-  {
-    "title": "[저축은행 인사이드] [페퍼저축은행] 장수 CEO 교체 강수…사모펀드 베...",
-    "summary": "사모펀드가 보유한 페퍼저축은행의 턴어라운드 이후 사모펀드의 매각(엑싯)이 재개될 가능성이 논의되는 기사입니다.",
-    "company": "페퍼저축은행",
-    "acquirer": "사모펀드",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://news.dealsitetv.com/articles/169704",
-    "date": "2026.05.07"
-  },
-  {
-    "title": "해외 자본 몰린 `저가커피`…고배당 잔치에 점주는 불안하다",
-    "summary": "2024년 컴포즈커피의 경영권이 필리핀 외식기업 졸리비푸즈와 사모펀드 엘리베이션프라이빗에쿼티 컨소시엄에 인수되었다.",
-    "company": "컴포즈커피",
-    "acquirer": "졸리비푸즈와 엘리베이션프라이빗에쿼티 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=05477606645446624",
-    "date": "2026.05.07"
   }
 ]
