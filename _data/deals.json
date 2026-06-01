@@ -1,5 +1,19 @@
 [
   {
+    "title": "[매물 나온 맘스터치] 케이엘앤, 매각 전 잇단 원금 회수…1년새 부채비...",
+    "summary": "케이엘앤파트너스가 보유 중인 맘스터치(해마로푸드서비스)가 매물로 나오면서, 케이엘앤파트너스가 매각 전 유상감자 및 배당 등으로 투자 원금을 회수한 동향을 다루는 PE 엑싯 딜 기사.",
+    "company": "해마로푸드서비스",
+    "acquirer": "케이엘앤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.topdaily.kr/articles/110335",
+    "date": "2026.06.01"
+  },
+  {
     "title": "[Why&Next]'1.6兆' 롯데렌탈 빅딜 무산…유동성 확보 시나리오 '흔들'",
     "summary": "롯데그룹이 사모펀드 어피니티에쿼티파트너스에 롯데렌탈 지분을 약 1.6조원에 매각하려던 딜이 무산되었다.",
     "company": "롯데렌탈",
@@ -1390,19 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.newsway.co.kr/news/view?ud=2026051010400541817",
     "date": "2026.05.10"
-  },
-  {
-    "title": "바이아웃 전문 캑터스PE도 AI에 꽂혔다… 피아스페이스에 35억 베팅",
-    "summary": "사모펀드 캑터스프라이빗에쿼티가 AI 영상분석 스타트업 피아스페이스에 35억 규모의 소수지분 성장 금융 투자를 단행했다.",
-    "company": "피아스페이스",
-    "acquirer": "캑터스프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "35억원",
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/05/10/EFI5455L75ALDGLVBT4PV5WUFU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.05.09"
   }
 ]
