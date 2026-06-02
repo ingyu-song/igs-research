@@ -1,5 +1,47 @@
 [
   {
+    "title": "KDB생명 인수전 본격화…한투·흥국 이어 '생보 빅3' 참여",
+    "summary": "KDB생명 매각을 위한 인수전이 본격화되고 있으며, 한국투자금융지주, 태광그룹 계열사, 주요 생명보험사들이 잠재적 인수자로 거론되며 경영권 인수를 추진 중임.",
+    "company": "KDB생명보험",
+    "acquirer": "한국투자금융지주, 태광그룹 계열, 주요 생명보험사",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.popcornnews.net/news/articleView.html?idxno=122932",
+    "date": "2026.06.02"
+  },
+  {
+    "title": "[단독] 베인캐피탈, 스마트폰기판 소재기업 넥스플렉스 인수전 참전",
+    "summary": "글로벌 사모펀드(PEF) 베인캐피탈이 국내 1위 연성동박적층필름(FCCL) 제조기업 넥스플렉스 인수전에 참전하여 경쟁이 치열해지고 있다.",
+    "company": "넥스플렉스",
+    "acquirer": "베인캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "9000억원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12063978",
+    "date": "2026.06.02"
+  },
+  {
+    "title": "[더벨]영케미칼, 마스크팩 시트 1위 '피앤씨랩스' 품는다",
+    "summary": "영케미칼이 사모펀드 운용사 VIG파트너스로부터 마스크팩 시트 1위 기업인 피앤씨랩스 경영권을 포함한 지분 100%를 인수하는 주식매매계약(SPA)을 체결했다.",
+    "company": "피앤씨랩스",
+    "acquirer": "영케미칼",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606021202522120105250",
+    "date": "2026.06.02"
+  },
+  {
     "title": "[매물 나온 맘스터치] 케이엘앤, 매각 전 잇단 원금 회수…1년새 부채비...",
     "summary": "케이엘앤파트너스가 보유 중인 맘스터치(해마로푸드서비스)가 매물로 나오면서, 케이엘앤파트너스가 매각 전 유상감자 및 배당 등으로 투자 원금을 회수한 동향을 다루는 PE 엑싯 딜 기사.",
     "company": "해마로푸드서비스",
@@ -1361,48 +1403,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.sidae.com/article/2026051010531770985",
-    "date": "2026.05.10"
-  },
-  {
-    "title": "MBK 6호 펀드에 제동 건 日정부…’중국자본 출자’ 다시 회자",
-    "summary": "MBK 6호 펀드가 일본 기업 마키노에 대한 공개매수를 추진하던 중, 일본 정부가 중국 자본 출자 문제를 들어 인수를 중단 권고하며 제동을 건 PE의 기업 인수 딜이다.",
-    "company": "마키노",
-    "acquirer": "MBK 6호 펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2583020",
-    "date": "2026.05.10"
-  },
-  {
-    "title": "日 정부 '안보 우려'에 MBK 6호 펀드 마키노 인수 제동… 고려아연 논란...",
-    "summary": "사모펀드 MBK파트너스가 마키노후라이스제작소의 경영권을 인수하려는 바이아웃 딜에 일본 정부가 안보 우려로 제동을 걸어 추진이 난항을 겪고 있다.",
-    "company": "마키노후라이스제작소",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etnews.com/20260510000038",
-    "date": "2026.05.10"
-  },
-  {
-    "title": "MBK 6호 펀드, '경제안보' 도마…中 CIC 출자 논란 재점화",
-    "summary": "MBK파트너스가 일본 공작기계 기업 마키노후라이스제작소의 경영권 인수를 추진 중이며, 일본 정부의 제동으로 인해 딜 추진에 대한 경제안보 논란이 재점화되고 있다.",
-    "company": "마키노후라이스제작소",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026051010400541817",
     "date": "2026.05.10"
   }
 ]
