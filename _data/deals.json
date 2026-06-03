@@ -1,5 +1,48 @@
 [
   {
+    "title": "“일단 숨통 트였지만”…롯데손해보험에 주어진 유예기간 [머니+]",
+    "summary": "기사는 롯데손해보험이 자본 확충과 신용도 개선을 위해 사모펀드 체제에서 벗어나 새로운 투자자나 금융지주에 매각될 가능성을 논의하고 있다.",
+    "company": "롯데손해보험",
+    "acquirer": "새 투자자 또는 금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.ekn.kr/web/view.php?key=20260603029470232",
+    "date": "2026.06.03"
+  },
+  {
+    "title": "공차 나가고, 차지·차백도 들어오고…韓 밀크티 시장 판도 '격변'",
+    "summary": "미국계 사모펀드 TA어소시에이츠가 공차코리아 매각을 추진 중인 PE 엑시트 딜.",
+    "company": "공차코리아",
+    "acquirer": "TA어소시에이츠",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=842636",
+    "date": "2026.06.03"
+  },
+  {
+    "title": "[더벨][Red & Blue] 주인 바뀐 케이카, 주가 회복 기대감",
+    "summary": "KG그룹이 기존 최대주주인 한앤컴퍼니로부터 케이카의 지분 약 72%를 인수한 거래가 완료된 후의 시장 동향을 다루는 PE 엑시트 및 전략적 M&A 딜이다.",
+    "company": "케이카",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605201611589840104378",
+    "date": "2026.05.21"
+  },
+  {
     "title": "KDB생명 인수전 본격화…한투·흥국 이어 '생보 빅3' 참여",
     "summary": "KDB생명 매각을 위한 인수전이 본격화되고 있으며, 한국투자금융지주, 태광그룹 계열사, 주요 생명보험사들이 잠재적 인수자로 거론되며 경영권 인수를 추진 중임.",
     "company": "KDB생명보험",
@@ -1362,47 +1405,5 @@
     "deal_stage": "계약",
     "url": "https://www.mk.co.kr/article/12043127",
     "date": "2026.05.11"
-  },
-  {
-    "title": "'마키노 인수' 제동 걸린 MBK 6호 펀드…'中 CIC 출자' 논란 재점화",
-    "summary": "MBK파트너스가 마키노후라이스제작소 인수를 추진 중이며, 일본 정부의 제동으로 경제안보 논란이 재점화되고 있는 PE 바이아웃 딜이다.",
-    "company": "마키노후라이스제작소",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=518119",
-    "date": "2026.05.10"
-  },
-  {
-    "title": "“中자본 논란 재점화”…MBK, 고려아연 이어 日 마키노 인수도 ‘제동...",
-    "summary": "사모펀드 MBK파트너스가 일본 공작기계 업체 마키노후라이스제작소 인수를 추진하고 있으며, 일본 정부의 제동으로 관련 논란이 재점화되고 있다.",
-    "company": "마키노후라이스제작소",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.kyeonggi.com/article/20260510580110",
-    "date": "2026.05.10"
-  },
-  {
-    "title": "일본 정부, MBK 6호 펀드에 제동…고려아연 공개매수에도 동원됐나",
-    "summary": "MBK파트너스가 일본 마키노후라이스제작소 인수를 추진하는 과정에서 일본 정부의 제동이 걸리며 경제안보 논란이 불거진 PE 바이아웃(경영권 인수) 딜.",
-    "company": "마키노후라이스제작소",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sidae.com/article/2026051010531770985",
-    "date": "2026.05.10"
   }
 ]
