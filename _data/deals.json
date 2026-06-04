@@ -1,5 +1,33 @@
 [
   {
+    "title": "클로봇, 두산로지스틱스솔루션 단독 인수? PE 철수설에 \"내부 확인 중\"",
+    "summary": "클로봇이 두산로지스틱스솔루션(DLS) 인수를 기존 펙투스PE와의 합작 방식에서 단독으로 전환하는 방안을 검토 중이다.",
+    "company": "두산로지스틱스솔루션",
+    "acquirer": "클로봇",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.greened.kr/news/articleView.html?idxno=341861",
+    "date": "2026.06.04"
+  },
+  {
+    "title": "아부다비 국부펀드, 반도체·IPO 지분 매각 러시",
+    "summary": "아부다비 국부펀드 무바달라가 미국 반도체 위탁생산 기업 글로벌파운드리 지분 약 19억달러(약 2조7400억원)어치를 블록딜로 매각했다.",
+    "company": "글로벌파운드리",
+    "acquirer": "무바달라",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "2조7400억원",
+    "deal_stage": "완료",
+    "url": "https://www.g-enews.com/view.php?ud=2026052807292781769a1f309431_1",
+    "date": "2026.05.28"
+  },
+  {
     "title": "“일단 숨통 트였지만”…롯데손해보험에 주어진 유예기간 [머니+]",
     "summary": "기사는 롯데손해보험이 자본 확충과 신용도 개선을 위해 사모펀드 체제에서 벗어나 새로운 투자자나 금융지주에 매각될 가능성을 논의하고 있다.",
     "company": "롯데손해보험",
@@ -1377,33 +1405,5 @@
     "deal_stage": "협상",
     "url": "https://www.ppss.kr/news/articleView.html?idxno=295713",
     "date": "2026.05.12"
-  },
-  {
-    "title": "예별손보 매각 재시동…이번엔 팔릴까",
-    "summary": "예별손보의 매각 절차가 재시동되었으며, 하나금융지주, 한국투자금융지주 등 금융지주와 JC플라워 등 사모펀드가 잠재 인수 후보로 거론되는 전략적 M&A 딜이다.",
-    "company": "예별손보",
-    "acquirer": "하나금융지주, 한국투자금융지주, JC플라워",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://m.skyedaily.com/news_view.html?ID=303805",
-    "date": "2026.05.11"
-  },
-  {
-    "title": "UCK, 2100억원에 만전식품 품는다",
-    "summary": "국내 사모펀드 운용사 UCK파트너스가 ‘만전김’을 판매하는 만전식품의 경영권을 인수하는 PE buyout 딜이다.",
-    "company": "만전식품",
-    "acquirer": "UCK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "2100억원",
-    "deal_stage": "계약",
-    "url": "https://www.mk.co.kr/article/12043127",
-    "date": "2026.05.11"
   }
 ]
