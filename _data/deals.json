@@ -1,5 +1,33 @@
 [
   {
+    "title": "선거 끝나자마자… SK오션플랜트 '6월 말 매각' 재점화",
+    "summary": "SK오션플랜트의 6월 말 매각이 재추진되며 사모펀드가 유력 인수 후보로 거론되고 있다.",
+    "company": "SK오션플랜트",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.greened.kr/news/articleView.html?idxno=341948",
+    "date": "2026.06.05"
+  },
+  {
+    "title": "'7수' KDB생명, 유찰 트라우마와 매각 의지 사이에서",
+    "summary": "KDB산업은행이 KDB생명 매각에 대한 의지를 재차 드러내면서 금융권과 M&A 시장의 기대감이 고조되고 있다. 과거 JC파트너스 등 사모펀드가 인수자로 거론된 바 있으며, 이는 KDB산업은행의 KDB생명 엑싯 시도에 해당한다.",
+    "company": "KDB생명",
+    "acquirer": "KDB산업은행",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.updownnews.co.kr/news/articleView.html?idxno=317452",
+    "date": "2026.06.05"
+  },
+  {
     "title": "클로봇, 두산로지스틱스솔루션 단독 인수? PE 철수설에 \"내부 확인 중\"",
     "summary": "클로봇이 두산로지스틱스솔루션(DLS) 인수를 기존 펙투스PE와의 합작 방식에서 단독으로 전환하는 방안을 검토 중이다.",
     "company": "두산로지스틱스솔루션",
@@ -1376,34 +1404,6 @@
     "ev": "null",
     "deal_stage": "완료",
     "url": "https://biz.heraldcorp.com/article/10735633?ref=naver",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "[더벨]'밸류업 집중' UCK, 만전식품 오너 2세 정동훈 대표와 동행",
-    "summary": "UCK파트너스가 프리미엄 조미김 회사 만전식품을 인수하는 신규 바이아웃 딜을 추진하며, 기존 주주인 정동훈 대표이사는 지분 일부를 유지하고 경영에 참여한다.",
-    "company": "만전식품",
-    "acquirer": "UCK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "null",
-    "deal_stage": "계약",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605111430303280104244",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "SK브로드밴드, SK그룹 AI사업 중심으로...데이터센터 구축 확대",
-    "summary": "글로벌 사모펀드 KKR과 IMM인베스트먼트·스톤브릿지캐피탈 컨소시엄이 SK브로드밴드 지분 매각 및 신규 투자 유치 딜의 우선협상대상자로 선정되었다.",
-    "company": "SK브로드밴드",
-    "acquirer": "KKR, IMM인베스트먼트, 스톤브릿지캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ppss.kr/news/articleView.html?idxno=295713",
     "date": "2026.05.12"
   }
 ]
