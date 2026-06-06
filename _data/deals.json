@@ -1,5 +1,75 @@
 [
   {
+    "title": "대형마트 족쇄 풀리면…홈플러스 M&A 판 바뀐다 [해묵은 규제 풀어야]②",
+    "summary": "사모펀드 MBK파트너스가 홈플러스의 부문 M&A를 추진하며 잠재적 매수자들에게 티저를 보냈습니다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://economist.co.kr/article/view/ecn202606040021",
+    "date": "2026.06.06"
+  },
+  {
+    "title": "AI 에이전트 시대 선언…원화 스테이블코인 띄웠다",
+    "summary": "국내 사모펀드(PEF) 하베스트EP가 K뷰티 유통사 에이원에 CB 인수 등을 통해 경영권 지분 확보 투자를 추진한다.",
+    "company": "에이원",
+    "acquirer": "하베스트EP",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20052462?ref=naver",
+    "date": "2026.06.06"
+  },
+  {
+    "title": "글로벌세아 제지사업 인수전에 복수 FI 인수의향[시그널]",
+    "summary": "글로벌세아그룹이 제지사업부문 매각을 추진 중이며, 예비입찰에 대형 사모펀드(PEF) 운용사를 비롯한 복수의 투자자들이 인수의향서(LOI)를 제출했다.",
+    "company": "글로벌세아그룹 제지사업부문",
+    "acquirer": "복수의 사모펀드 운용사 등",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20052365?ref=naver",
+    "date": "2026.06.06"
+  },
+  {
+    "title": "영풍·MBK “고려아연 감사위, 원아시아 투자 의혹 전면 조사해야”",
+    "summary": "영풍과 MBK파트너스가 고려아연에 대한 적대적 M&A를 시도하는 과정에서, 고려아연 감사위원회에 원아시아파트너스 투자 의혹에 대한 전면 조사를 요구하는 기사입니다.",
+    "company": "고려아연",
+    "acquirer": "영풍, MBK파트너스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/stock_general/2026/06/05/M3TV3PZ7EFA4ZN35LQ4XXZPVCU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.06.05"
+  },
+  {
+    "title": "[Invest]애큐온캐피탈 매각 본입찰에 메리츠·한화생명 참여",
+    "summary": "메리츠와 한화생명이 애큐온캐피탈 매각 본입찰에 참여했으며, 매도자 측은 조만간 우선협상대상자를 선정할 예정이다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "메리츠, 한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/06/05/2026060580151.html",
+    "date": "2026.06.05"
+  },
+  {
     "title": "선거 끝나자마자… SK오션플랜트 '6월 말 매각' 재점화",
     "summary": "SK오션플랜트의 6월 말 매각이 재추진되며 사모펀드가 유력 인수 후보로 거론되고 있다.",
     "company": "SK오션플랜트",
@@ -1334,76 +1404,6 @@
     "ev": "300억원",
     "deal_stage": "완료",
     "url": "https://www.junggi.co.kr/news/articleView.html?idxno=36397",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "오픈AI, 6조원 규모 기업용 ‘AI 합작법인’ 설립",
-    "summary": "오픈AI가 6조원 규모 기업용 AI 합작법인 설립을 위해 컨설팅 회사 토모로를 인수했다.",
-    "company": "토모로",
-    "acquirer": "오픈AI",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "6조원",
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/it-science/ict/2026/05/12/TD44FM6DTJFKFMPEOT2QGOPJWI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "오픈AI, 5.9조원 투입 '기업 AI 배포' 합작법인 설립",
-    "summary": "오픈AI는 AI 컨설팅 기업 토모로를 인수하며 기업 AI 배포를 위한 합작법인 설립을 추진했다.",
-    "company": "토모로",
-    "acquirer": "오픈AI",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=242694",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "[뉴욕 브리핑] 중동 리스크 지운 AI 열풍…S&P500 7400 돌파",
-    "summary": "오픈AI가 AI 배포 사업 강화를 위해 컨설팅 회사 '토모로'를 인수했다.",
-    "company": "토모로",
-    "acquirer": "오픈AI",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.dealsitetv.com/articles/170121",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "MBK, 1.2조원에 日알루미늄 3위 업체 '아르테미라' 인수",
-    "summary": "MBK파트너스가 미국계 사모펀드 아폴로 글로벌 매니지먼트로부터 일본 알루미늄 업체 '아르테미라'를 약 1조2000억 원에 인수하기로 결정한 PE-to-PE 거래이다.",
-    "company": "아르테미라",
-    "acquirer": "MBK파트너스",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "계약",
-    "url": "https://www.newspim.com/news/view/20260512000095",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "오픈AI, 5.9조원 들여 기업 AI배포 합작법인 설립…기업시장 공략 가속",
-    "summary": "오픈AI가 기업 맞춤형 AI 모델 판매 촉진을 위해 컨설팅 회사 ‘토모로’를 인수했다.",
-    "company": "토모로",
-    "acquirer": "오픈AI",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "null",
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10735633?ref=naver",
     "date": "2026.05.12"
   }
 ]
