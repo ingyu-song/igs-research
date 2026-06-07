@@ -1,5 +1,34 @@
 [
   {
+    "title": "OK금융, 예별손보 인수 검토…종합금융그룹 전환 속도내나",
+    "summary": "OK금융이 예별손보 인수를 검토하며 종합금융그룹 전환을 추진하는 전략적 M&A 딜이다.",
+    "company": "예별손보",
+    "acquirer": "OK금융",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.mediapen.com/news/view/1103052",
+    "date": "2026.06.07"
+  },
+  {
+    "title": "카카오모빌리티 2대주주 TPG 엑시트 본격화, 류긍선 '피지컬 AI' 앞세워...",
+    "summary": "PEF TPG가 2대주주로 있는 카카오모빌리티의 엑시트를 본격화하고 있으며, 글로벌 모빌리티 기업 우버가 인수확약서를 제출하며 경영권 인수를 추진 중이다.",
+    "company": "카카오모빌리티",
+    "acquirer": "TPG",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=439394",
+    "date": "2026.06.07"
+  },
+  {
     "title": "대형마트 족쇄 풀리면…홈플러스 M&A 판 바뀐다 [해묵은 규제 풀어야]②",
     "summary": "사모펀드 MBK파트너스가 홈플러스의 부문 M&A를 추진하며 잠재적 매수자들에게 티저를 보냈습니다.",
     "company": "홈플러스",
@@ -1376,34 +1405,6 @@
     "ev": "4000억 원",
     "deal_stage": "계약",
     "url": "https://www.sedaily.com/article/20043225?ref=naver",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "예별손보 재매각 돌입…한투 이어 흥국화재도 참전하나",
-    "summary": "예별손보의 재매각이 추진되고 있으며, 한국투자금융지주, 하나금융지주, JC플라워가 예비입찰에 참여했고, 본입찰에는 한국투자금융지주가 단독으로 최종인수제안서를 제출한 전략적 M&A 딜이다.",
-    "company": "예별손보",
-    "acquirer": "한국투자금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.econovill.com/news/articleView.html?idxno=739862",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "프랙시스캐피탈, 반려동물 장례플랫폼 21그램에 300억 추가 투자",
-    "summary": "사모펀드 운용사 프랙시스캐피탈파트너스가 기존에 경영권을 인수한 반려동물 장례 플랫폼 21그램에 300억원의 추가 투자를 단행했다.",
-    "company": "21그램",
-    "acquirer": "프랙시스캐피탈파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "300억원",
-    "deal_stage": "완료",
-    "url": "https://www.junggi.co.kr/news/articleView.html?idxno=36397",
     "date": "2026.05.12"
   }
 ]
