@@ -1,5 +1,77 @@
 [
   {
+    "title": "청호나이스, 칼라일에 지분 전량 매각…1조원대 본계약 체결",
+    "summary": "글로벌 사모펀드 칼라일이 청호나이스 창업주 유족으로부터 지분 전량을 1조원대에 인수하는 본계약을 체결했다.",
+    "company": "청호나이스",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "계약",
+    "url": "https://www.asiatime.co.kr/article/20260608500314",
+    "date": "2026.06.08"
+  },
+  {
+    "title": "청호나이스, 칼라일에 지분 100% 매각",
+    "summary": "청호나이스가 미국 사모펀드 칼라일그룹에 지분 100%를 매각하는 최종 계약을 체결했다.",
+    "company": "청호나이스",
+    "acquirer": "칼라일그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.etnews.com/20260608000330",
+    "date": "2026.06.08"
+  },
+  {
+    "title": "애큐온 흥행 속 OSB 매각 착수…저축은행 M&A '재점화'",
+    "summary": "애큐온저축은행 매각이 진행 중인 가운데, OSB저축은행의 매각이 새롭게 착수되어 금융회사와 사모펀드들이 인수에 관심을 보이는 전략적 M&A 딜이다.",
+    "company": "OSB저축은행",
+    "acquirer": null,
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026060813382713603",
+    "date": "2026.06.08"
+  },
+  {
+    "title": "'1조' 애큐온 매각 본입찰 개시…메리츠금융·한화생명 참전",
+    "summary": "약 1조원 규모로 예상되는 애큐온 매각 본입찰이 개시되었으며, 메리츠금융, 한화생명 등 전략적 투자자와 신생 사모펀드 운용사 컨소시엄 등이 인수전에 참여했다.",
+    "company": "애큐온",
+    "acquirer": "메리츠금융, 한화생명, E&F PE 출신 신생 사모펀드 운용사 컨소시엄 (세우글로벌 포함)",
+    "type": "acq",
+    "tags": [
+      "acq",
+      "strategic"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026060517595321505",
+    "date": "2026.06.05"
+  },
+  {
+    "title": "[EU있는경제] 칼라일, 獨 플렌더 매각…얼어붙은 유럽 PE 회수시장에 '온...",
+    "summary": "칼라일이 독일 산업용 기어 및 커플링 제조사인 플렌더를 매각하며 유럽 PE 회수 시장에 긍정적인 신호탄을 쏘아 올렸다.",
+    "company": "플렌더",
+    "acquirer": "칼라일",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06435366645478768",
+    "date": "2026.06.05"
+  },
+  {
     "title": "OK금융, 예별손보 인수 검토…종합금융그룹 전환 속도내나",
     "summary": "OK금융이 예별손보 인수를 검토하며 종합금융그룹 전환을 추진하는 전략적 M&A 딜이다.",
     "company": "예별손보",
@@ -1336,75 +1408,5 @@
     "deal_stage": "완료",
     "url": "http://www.newsdream.kr/news/articleView.html?idxno=112046",
     "date": "2026.05.13"
-  },
-  {
-    "title": "IMM PE, 50년 흑자 제조 강자 이화다이아몬드공업 인수",
-    "summary": "IMM프라이빗이쿼티(IMM PE)가 50년 업력의 다이아몬드 공구 전문기업 이화다이아몬드공업을 인수하는 거래이다.",
-    "company": "이화다이아몬드공업",
-    "acquirer": "IMM프라이빗이쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.etoday.co.kr/news/view/2583929",
-    "date": "2026.05.13"
-  },
-  {
-    "title": "[더벨][Board Change] SK TNS, 매각 직전 대표 교체...LP 입김 반영됐나",
-    "summary": "알케미스트캐피탈파트너스코리아가 보유한 SK TNS의 매각(Exit)이 추진되는 가운데, 매각 직전 대표가 교체되었다.",
-    "company": "SK TNS",
-    "acquirer": "알케미스트캐피탈파트너스코리아",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605071756410920109414",
-    "date": "2026.05.13"
-  },
-  {
-    "title": "IMM PE, 국내 1위·세계 3위 이화다이아몬드공업 품는다",
-    "summary": "IMM PE가 국내 최초 다이아몬드 공구사 이화다이아몬드공업을 인수하는 PE 바이아웃 거래이다.",
-    "company": "이화다이아몬드공업",
-    "acquirer": "IMM PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://view.asiae.co.kr/article/2026051309332989916",
-    "date": "2026.05.13"
-  },
-  {
-    "title": "IMM PE, 이화다이아몬드공업 인수 SPA 체결",
-    "summary": "IMM PE가 국내 1위 다이아몬드 공구 업체인 이화다이아몬드공업을 약 4000억원에 인수하기 위해 SPA를 체결했다.",
-    "company": "이화다이아몬드공업",
-    "acquirer": "IMM PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "4000억원",
-    "deal_stage": "계약",
-    "url": "https://dealsite.co.kr/articles/161728",
-    "date": "2026.05.12"
-  },
-  {
-    "title": "IMM PE, 국내 1위 공구社 이화다이아몬드공업 4000억에 인수 [시그널]",
-    "summary": "IMM PE가 국내 1위 공구 기업인 이화다이아몬드공업을 약 4000억 원에 인수하는 주식매매계약(SPA)을 체결했다.",
-    "company": "이화다이아몬드공업",
-    "acquirer": "IMM PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "4000억 원",
-    "deal_stage": "계약",
-    "url": "https://www.sedaily.com/article/20043225?ref=naver",
-    "date": "2026.05.12"
   }
 ]
