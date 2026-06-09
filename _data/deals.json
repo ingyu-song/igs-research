@@ -1,5 +1,19 @@
 [
   {
+    "title": "홈플러스, 5년 누적 적자 3조원 육박…기업회생 '적신호'",
+    "summary": "하림그룹이 기업형 슈퍼마켓인 홈플러스 익스프레스의 인수를 추진하며 현재 실사를 진행 중이다.",
+    "company": "홈플러스 익스프레스",
+    "acquirer": "하림그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.mtn.co.kr/news-detail/2026060913095974952",
+    "date": "2026.06.09"
+  },
+  {
     "title": "청호나이스, 칼라일에 지분 전량 매각…1조원대 본계약 체결",
     "summary": "글로벌 사모펀드 칼라일이 청호나이스 창업주 유족으로부터 지분 전량을 1조원대에 인수하는 본계약을 체결했다.",
     "company": "청호나이스",
@@ -1393,20 +1407,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://biz.heraldcorp.com/article/10737074?ref=naver",
-    "date": "2026.05.13"
-  },
-  {
-    "title": "호반서서울, '日나리타 골프장' 베팅…미국에서 일본으로 해외사업 재편",
-    "summary": "호반건설그룹의 완전자회사 호반서서울이 2024년 미국 와이켈레CC를 싱가포르 사모펀드에 매각하며 기존 투자 건을 엑싯했다.",
-    "company": "와이켈레CC",
-    "acquirer": "호반건설그룹",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.newsdream.kr/news/articleView.html?idxno=112046",
     "date": "2026.05.13"
   }
 ]
