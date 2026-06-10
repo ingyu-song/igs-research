@@ -1,5 +1,19 @@
 [
   {
+    "title": "[더벨]비에이PE-TKG벤처스, 윌비에스엔티 새 주인으로 등극",
+    "summary": "신생 사모펀드 운용사 비에이PE가 TKG벤처스와 함께 윌비에스엔티를 인수하며 새로운 주인이 된다.",
+    "company": "윌비에스엔티",
+    "acquirer": "비에이PE, TKG벤처스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606041638149800105089",
+    "date": "2026.06.10"
+  },
+  {
     "title": "홈플러스, 5년 누적 적자 3조원 육박…기업회생 '적신호'",
     "summary": "하림그룹이 기업형 슈퍼마켓인 홈플러스 익스프레스의 인수를 추진하며 현재 실사를 진행 중이다.",
     "company": "홈플러스 익스프레스",
@@ -1394,19 +1408,5 @@
     "deal_stage": "협상",
     "url": "https://mdtoday.co.kr/news/view/1065578846533495",
     "date": "2026.05.14"
-  },
-  {
-    "title": "[단독] 카카오모빌리티, 미국 증시 상장 추진",
-    "summary": "TPG가 카카오모빌리티 보유 지분을 다른 사모펀드에 매각하거나 카카오가 되사는 방식으로 엑싯을 추진하고 있다.",
-    "company": "카카오모빌리티",
-    "acquirer": "TPG",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10737074?ref=naver",
-    "date": "2026.05.13"
   }
 ]
