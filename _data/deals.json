@@ -1,5 +1,19 @@
 [
   {
+    "title": "[단독] 롯데렌탈 재매각 착수...“PEF·대기업 인수 의향\"",
+    "summary": "롯데렌탈의 재매각이 추진 중이며, 여러 사모펀드와 대기업이 인수 의향을 밝히고 실사를 진행하고 있다.",
+    "company": "롯데렌탈",
+    "acquirer": null,
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606110387&t=NNv",
+    "date": "2026.06.11"
+  },
+  {
     "title": "[더벨]비에이PE-TKG벤처스, 윌비에스엔티 새 주인으로 등극",
     "summary": "신생 사모펀드 운용사 비에이PE가 TKG벤처스와 함께 윌비에스엔티를 인수하며 새로운 주인이 된다.",
     "company": "윌비에스엔티",
@@ -1393,20 +1407,6 @@
     "ev": "8조원",
     "deal_stage": "협상",
     "url": "https://www.mk.co.kr/article/12047466",
-    "date": "2026.05.14"
-  },
-  {
-    "title": "DH, 배민 매각 추진...8조 빅딜에 플랫폼 시장 ‘술렁’",
-    "summary": "DH가 배달의민족 매각을 추진하며 국내외 대기업 및 글로벌 PEF 운용사에 투자 안내서를 발송하고 인수 의사를 타진하고 있다.",
-    "company": "우아한형제들",
-    "acquirer": "DH",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "8조원",
-    "deal_stage": "협상",
-    "url": "https://mdtoday.co.kr/news/view/1065578846533495",
     "date": "2026.05.14"
   }
 ]
