@@ -1,5 +1,61 @@
 [
   {
+    "title": "SK '실트론 뒤집기'에 두산 '부글부글' [이슈체크]",
+    "summary": "SK가 실트론 인수를 추진하는 과정에서 한앤컴퍼니, 스틱인베스트먼트 등 PEF들이 관심을 보였다가 포기했으며, 이후 두산그룹도 관심을 나타낸 전략적 M&A 딜이다.",
+    "company": "실트론",
+    "acquirer": "SK",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.mtn.co.kr/news-detail/2026061213524060802",
+    "date": "2026.06.12"
+  },
+  {
+    "title": "성호전자, 반도체 장비업체 인티맥스 인수…PEF 크레센도와 동맹",
+    "summary": "성호전자가 PEF 크레센도와 동맹하여 반도체 장비업체 인티맥스 지분 90%를 인수하는 전략적 M&A 거래이다.",
+    "company": "인티맥스",
+    "acquirer": "성호전자, 크레센도",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.hankyung.com/article/202606122357r",
+    "date": "2026.06.12"
+  },
+  {
+    "title": "금감원 \"사회적 역할 할 때\" 나오자…메리츠금융, 홈플러스 긴급 수혈 ...",
+    "summary": "메리츠금융이 재무적 어려움을 겪는 PEF 운용사 MBK파트너스의 포트폴리오 회사인 홈플러스에 긴급 자금을 수혈하는 거래가 추진된다.",
+    "company": "홈플러스",
+    "acquirer": "메리츠금융",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712300",
+    "date": "2026.06.12"
+  },
+  {
+    "title": "KKR 한·일 탱크터미널 매각…토종 VS 글로벌 PE 대전 성사되나",
+    "summary": "KKR이 노무라금융투자를 매각 주관사로 선정하여 한·일 탱크터미널 매각을 추진 중이며, IMM인베스트먼트가 인수를 검토하고 있다.",
+    "company": "한·일 탱크터미널",
+    "acquirer": "KKR",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12069483",
+    "date": "2026.06.09"
+  },
+  {
     "title": "[단독] 롯데렌탈 재매각 착수...“PEF·대기업 인수 의향\"",
     "summary": "롯데렌탈의 재매각이 추진 중이며, 여러 사모펀드와 대기업이 인수 의향을 밝히고 실사를 진행하고 있다.",
     "company": "롯데렌탈",
@@ -1352,61 +1408,5 @@
     "deal_stage": "계약",
     "url": "https://mdtoday.co.kr/news/view/1065578993502396",
     "date": "2026.05.15"
-  },
-  {
-    "title": "유동성 넘치는 삼성SDS…의뭉스런 자금 조달",
-    "summary": "글로벌 사모펀드 KKR이 투자 목적으로 설립한 특수목적법인(SPC)을 통해 삼성SDS의 전환사채(CB)에 투자하며 삼성SDS의 의뭉스런 자금 조달 의혹이 제기된 딜.",
-    "company": "삼성SDS",
-    "acquirer": "콜버그크래비츠로버츠",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://news.dealsitetv.com/articles/168735",
-    "date": "2026.04.16"
-  },
-  {
-    "title": "[Invest]SKS PE, 지폐 계수기 업체 메카트로 인수 추진",
-    "summary": "SKS PE가 지폐 계수기 업체 메카트로 인수를 추진하는 PE의 기업 인수 거래.",
-    "company": "메카트로",
-    "acquirer": "SKS PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/05/15/2026051580045.html",
-    "date": "2026.05.15"
-  },
-  {
-    "title": "[특징주] 네이버, 우아한형제들 인수 기대감에 강세…4%대↑",
-    "summary": "DH가 2020년 인수한 배달앱 우아한형제들의 매각을 추진 중이며, 네이버가 유력 인수 후보군으로 거론되고 있다.",
-    "company": "우아한형제들",
-    "acquirer": "DH",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.ajunews.com/view/20260514134203541",
-    "date": "2026.05.14"
-  },
-  {
-    "title": "8조원 ‘배민’ 어디로?…군침 흘리는 알리바바·텐센트",
-    "summary": "DH(딜리버리히어로)가 자회사 우아한형제들(배달의민족 운영사)의 지분 매각을 추진하며, 약 8조원 규모의 엑싯 딜에 글로벌 사모펀드 및 알리바바, 텐센트 등이 관심을 보이고 있다.",
-    "company": "우아한형제들",
-    "acquirer": "딜리버리히어로",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "8조원",
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12047466",
-    "date": "2026.05.14"
   }
 ]
