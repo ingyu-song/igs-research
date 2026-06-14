@@ -1,5 +1,47 @@
 [
   {
+    "title": "홈플러스, 익스프레스 매각에도 안갯속...회생시계 3주도 안 남았다",
+    "summary": "MBK파트너스가 대주주인 홈플러스가 홈플러스 익스프레스 매각을 완료하고, 홈플러스 잔존 사업부 매각을 추진 중인 PE 엑싯(Exit) 딜이다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ajunews.com/view/20260614123246143",
+    "date": "2026.06.14"
+  },
+  {
+    "title": "애큐온 흥행에 OSB·대원까지…다시 불붙은 저축은행 인수전",
+    "summary": "EQT파트너스가 보유한 애큐온캐피탈 지분 96.06% 매각이 추진 중이며, 사모펀드 운용사 바이칼인베스트먼트 등이 인수에 참여하고 있다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "EQT파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.dailian.co.kr/news/view/1655400/?sc=Naver",
+    "date": "2026.06.14"
+  },
+  {
+    "title": "율곡 인수전, 스틱·앵커·KCGI·VIG 등 4파전 압축",
+    "summary": "스틱인베스트먼트, 앵커에쿼티파트너스, KCGI, VIG파트너스 등 4곳의 사모펀드가 율곡 인수를 위한 본입찰에 참여해 경쟁 중인 PE 바이아웃 딜.",
+    "company": "율곡",
+    "acquirer": "스틱인베스트먼트, 앵커에쿼티파트너스, KCGI, VIG파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=665302",
+    "date": "2026.06.14"
+  },
+  {
     "title": "SK '실트론 뒤집기'에 두산 '부글부글' [이슈체크]",
     "summary": "SK가 실트론 인수를 추진하는 과정에서 한앤컴퍼니, 스틱인베스트먼트 등 PEF들이 관심을 보였다가 포기했으며, 이후 두산그룹도 관심을 나타낸 전략적 M&A 딜이다.",
     "company": "실트론",
@@ -1365,48 +1407,6 @@
     "ev": "800억",
     "deal_stage": "완료",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605131335237160108084",
-    "date": "2026.05.15"
-  },
-  {
-    "title": "[단독] TA어소시에이츠, 공차 매각 본격화... 주관사에 JP모간",
-    "summary": "TA어소시에이츠가 공차 매각을 본격화하며 주관사로 JP모간을 선정했습니다. 글로벌 사모펀드들이 인수전에 관심을 보일 것으로 예상됩니다.",
-    "company": "공차",
-    "acquirer": "TA어소시에이츠",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/05/15/4Y3AW5BHO5BODPFUJ6EVZ24OPM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.05.15"
-  },
-  {
-    "title": "[세포치료제 상업화 전쟁] ② K-세포치료제 CDMO, 허가·스케일·원스톱...",
-    "summary": "글로벌 사모펀드 GI 파트너스가 글로벌 임상시험수탁기관(CRO) 찰스리버의 CDMO 및 세포솔루션 사업부를 인수하여 세포유전자치료제(CGT) 제조 특화 기업 로즈 바이오솔루션을 출범했다.",
-    "company": "찰스리버의 CDMO 및 세포솔루션 사업부",
-    "acquirer": "GI 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.bizhankook.com/bk/article/32251",
-    "date": "2026.05.15"
-  },
-  {
-    "title": "한샘, 넥서스 흡수합병 추진…실적 부진 돌파 승부수",
-    "summary": "한샘이 100% 자회사인 한샘넥서스를 흡수합병하는 전략적 M&A를 추진한다.",
-    "company": "한샘넥서스",
-    "acquirer": "한샘",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://mdtoday.co.kr/news/view/1065578993502396",
     "date": "2026.05.15"
   }
 ]
