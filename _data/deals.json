@@ -1,5 +1,33 @@
 [
   {
+    "title": "미래에셋운용·국민연금·KIC, 스페이스X 공모주 美 현지 배정",
+    "summary": "미래에셋운용, 국민연금, KIC가 사모펀드를 통해 스페이스X의 공모주 물량을 배정받으며 수천억 원 규모의 지분 투자를 단행했다.",
+    "company": "스페이스X",
+    "acquirer": "미래에셋운용, 국민연금, KIC",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "수천억 원",
+    "deal_stage": "완료",
+    "url": "https://www.cstimes.com/news/articleView.html?idxno=709772",
+    "date": "2026.06.15"
+  },
+  {
+    "title": "랩지노믹스, 최대주주 20억 장내 매수…지분율 19%로 확대",
+    "summary": "PEF 운용사 루하PE가 설립한 SPC 루하갈락티코스가 랩지노믹스 최대주주로서 20억 원 규모의 주식을 장내 매수하여 지분율을 19%로 확대하는 거래이다.",
+    "company": "랩지노믹스",
+    "acquirer": "루하PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "20억원",
+    "deal_stage": "완료",
+    "url": "https://www.the-stock.kr/news/articleView.html?idxno=32724",
+    "date": "2026.06.15"
+  },
+  {
     "title": "홈플러스, 익스프레스 매각에도 안갯속...회생시계 3주도 안 남았다",
     "summary": "MBK파트너스가 대주주인 홈플러스가 홈플러스 익스프레스 매각을 완료하고, 홈플러스 잔존 사업부 매각을 추진 중인 PE 엑싯(Exit) 딜이다.",
     "company": "홈플러스",
@@ -1380,33 +1408,5 @@
     "deal_stage": "협상",
     "url": "https://www.sentv.co.kr/article/view/sentv202605160011",
     "date": "2026.05.16"
-  },
-  {
-    "title": "MBK, 홈플러스 사태 외면하고 미국 로비 몰두",
-    "summary": "사모펀드 MBK파트너스가 고려아연 경영권 확보를 목적으로 특수목적법인을 세우고 미국 로비에 나서는 PE의 기업 인수 추진 딜.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://sports.donga.com/economy/article/all/20260516/133934422/1",
-    "date": "2026.05.16"
-  },
-  {
-    "title": "[더벨]'LP 오버부킹' 아이젠PE, 800억 동신 인수 완료",
-    "summary": "아이젠PE가 800억 원에 동신 인수를 완료하며 포트폴리오에 추가하여 미드캡 바이아웃 시장에서 입지를 강화했습니다.",
-    "company": "동신",
-    "acquirer": "아이젠PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "800억",
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605131335237160108084",
-    "date": "2026.05.15"
   }
 ]
