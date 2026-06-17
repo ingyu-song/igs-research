@@ -1,5 +1,19 @@
 [
   {
+    "title": "제이앤PE, 솔브레인그룹과 '재회'…2호 펀드 소진 속도",
+    "summary": "제이앤프라이빗에쿼티(제이앤PE)가 솔브레인홀딩스가 발행하는 전환사채(CB)를 인수하며 투자했다.",
+    "company": "솔브레인홀딩스",
+    "acquirer": "제이앤프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.etoday.co.kr/news/view/2594389",
+    "date": "2026.06.17"
+  },
+  {
     "title": "메가존클라우드 IPO 시계 빨라지나…메가존, 기존 투자자 지분 재매입 ...",
     "summary": "메가존이 글랜우드크레딧과의 투자 계약을 통해 MBK파트너스와 IMM프라이빗이쿼티가 보유한 메가존클라우드 지분을 인수하는 세컨더리 거래이다.",
     "company": "메가존클라우드",
@@ -1394,19 +1408,5 @@
     "deal_stage": "완료",
     "url": "https://theviewers.co.kr/View.aspx?No=4078227",
     "date": "2026.05.17"
-  },
-  {
-    "title": "홈플러스·딜라이브·네파 어려움에도…MBK, 對 고려아연 '로비 총력전'",
-    "summary": "MBK파트너스는 고려아연의 경영권 인수를 위해 특수목적법인을 설립하고 미국 정부 등을 상대로 로비 총력전을 펼치며 인수를 추진하고 있다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026051612385762820",
-    "date": "2026.05.16"
   }
 ]
