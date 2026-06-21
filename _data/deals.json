@@ -1,5 +1,19 @@
 [
   {
+    "title": "그린에코솔루션 매각 난항…5000억 몸값 '시각차'",
+    "summary": "PE 한앤컴퍼니가 보유한 그린에코솔루션의 매각 작업이 난항을 겪고 있으며, 아주산업과 노앤파트너스가 인수 후보로 참여한 PE 엑싯 딜이다.",
+    "company": "그린에코솔루션",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "협상",
+    "url": "https://www.etoday.co.kr/news/view/2595342",
+    "date": "2026.06.21"
+  },
+  {
     "title": "사모펀드 인수전의 새 계산법…율곡 매각 변수 된 고용안정[위클리IB]",
     "summary": "사모펀드들이 율곡 인수전에 참여하고 있으며, 고용 안정이 주요 변수로 떠오르고 있는 율곡 매각 딜이 추진되고 있다.",
     "company": "율곡",
@@ -1393,19 +1407,5 @@
     "deal_stage": "계약",
     "url": "https://www.bloter.net/news/articleView.html?idxno=662595",
     "date": "2026.05.16"
-  },
-  {
-    "title": "그린에코솔루션 매각 다음주 본입찰…아주-노앤 2파전",
-    "summary": "PEF 운용사 한앤컴퍼니가 보유한 그린에코솔루션 매각을 위한 본입찰이 진행 중이며, 아주 및 노앤이 인수 후보로 경합 중이다.",
-    "company": "그린에코솔루션",
-    "acquirer": "아주, 노앤",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "협상",
-    "url": "https://dealsite.co.kr/articles/161872",
-    "date": "2026.05.15"
   }
 ]
