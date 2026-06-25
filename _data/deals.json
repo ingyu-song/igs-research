@@ -1,5 +1,61 @@
 [
   {
+    "title": "[캐나다 특징주] 비타민 업체 제이미슨 웰니스, 매각 가능성 검토",
+    "summary": "제이미슨 웰니스(Jamieson Wellness)가 매각 가능성을 검토하며 사모펀드 및 전략적 인수 후보들과 접촉 중이다.",
+    "company": "제이미슨 웰니스",
+    "acquirer": null,
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.newspim.com/news/view/20260625000772",
+    "date": "2026.06.25"
+  },
+  {
+    "title": "'기술수출 5건' 에이프릴, 주인 바뀐다…TKG, 3468억 빅딜",
+    "summary": "TKG그룹 계열사와 IMM 계열 PEF 운용사 투자자들이 총 3468억원 규모로 에이프릴의 보통주를 인수하여 주인이 바뀌는 M&A 딜입니다.",
+    "company": "에이프릴",
+    "acquirer": "TKG그룹, IMM자산운용, IMM스케일업바이오 제1호 유한회사",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3468억원",
+    "deal_stage": "계약",
+    "url": "https://www.dailypharm.com/user/news/339782?REFERER=NP",
+    "date": "2026.06.25"
+  },
+  {
+    "title": "크레센도PE, 동아지질 매각 티저레터 배포… 실적 반등에 엑시트 재도전",
+    "summary": "크레센도PE가 보유 중인 동아지질의 매각을 위해 투자안내서(티저 레터)를 배포하며 엑시트를 재추진하고 있다.",
+    "company": "동아지질",
+    "acquirer": "크레센도PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/06/25/NVIKW63GPRGZXHLV3OBDDLEYHI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.06.25"
+  },
+  {
+    "title": "MBK, 美 CFIUS 대응 로비 강화…고려아연 ‘中자본 논란’ 의식했나",
+    "summary": "MBK파트너스가 고려아연에 대한 적대적 인수합병을 추진하며 미국 CFIUS 심사 통과를 위해 로비 활동을 강화하고 있다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.kyeonggi.com/article/20260507580029",
+    "date": "2026.05.07"
+  },
+  {
     "title": "SK TNS 확실히 팔고 싶은 알케미스트... 두 우협에 “보증금 50억 내라”",
     "summary": "알케미스트로 추정되는 SK TNS 대주주 사모펀드(PEF)가 정보통신 인프라 시공업체 SK TNS의 매각 작업을 추진하고 있다.",
     "company": "SK TNS",
@@ -1351,61 +1407,5 @@
     "deal_stage": "협상",
     "url": "https://www.thepublic.kr/news/articleView.html?idxno=305062",
     "date": "2026.05.20"
-  },
-  {
-    "title": "‘1조 대어’ 맘스터치 매각 시동...주관에 씨티·화우·삼정 선정",
-    "summary": "사모펀드 케이엘앤파트너스(KL&파트너스)가 보유한 맘스터치앤컴퍼니의 매각을 위해 자문사를 선정하며 엑싯 절차를 공식적으로 시작했다.",
-    "company": "맘스터치앤컴퍼니",
-    "acquirer": "케이엘앤파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10741745?ref=naver",
-    "date": "2026.05.20"
-  },
-  {
-    "title": "‘美 상장·매각’ 급해진 카카오모빌리티…올해 유독 ‘피지컬 AI’ 외...",
-    "summary": "글로벌 사모펀드(PEF)로 구성된 FI들이 약 40% 지분을 보유한 카카오모빌리티가 FI들의 엑싯 압박으로 인해 미국 상장 또는 매각을 추진하고 있다.",
-    "company": "카카오모빌리티",
-    "acquirer": "글로벌 PEF (FI)",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.fntimes.com/html/view.php?ud=2026051909473745567fd637f543_18",
-    "date": "2026.05.19"
-  },
-  {
-    "title": "롯데렌탈 매각 무산… 공정위 문턱 못 넘었다",
-    "summary": "롯데그룹이 사모펀드 어피니티에쿼티파트너스에 롯데렌탈 지분 매각을 추진했으나, 공정위의 기업결합 불허로 거래가 무산된 PE의 기업 인수 시도.",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://m.skyedaily.com/news_view.html?ID=304326",
-    "date": "2026.05.19"
-  },
-  {
-    "title": "잇단 F&B 확장에도 적자·차입… 한화 김동선, 신설 지주 수익성 입증 과...",
-    "summary": "한화갤러리아가 2025년 말 사모펀드 H&Q에쿼티파트너스에 외식 자회사 에프지코리아 지분 100%를 매각하기 위한 업무협약(MOU)을 체결했다.",
-    "company": "에프지코리아",
-    "acquirer": "H&Q에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092162357",
-    "date": "2026.05.19"
   }
 ]
