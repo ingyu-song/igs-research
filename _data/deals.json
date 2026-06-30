@@ -1,5 +1,94 @@
 [
   {
+    "title": "한화생명, 애큐온캐피탈·저축은행 인수 우선협상자 선정",
+    "summary": "한화생명이 사모펀드 EQT파트너스로부터 애큐온캐피탈 및 저축은행을 인수하는 우선협상대상자로 선정된 전략적 M&A 딜",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.etnews.com/20260630000271",
+    "date": "2026.06.30"
+  },
+  {
+    "title": "한화생명, 애큐온캐피탈·저축은행 품는다…인수가 1조 예상",
+    "summary": "한화생명이 사모펀드가 최대주주로 있는 애큐온캐피탈과 애큐온저축은행을 약 1조원에 인수하는 전략적 M&A를 추진 중이다.",
+    "company": "애큐온캐피탈, 애큐온저축은행",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264058",
+    "date": "2026.06.30"
+  },
+  {
+    "title": "제이오션중공업, 11만4000t급 4척 LOI 체결…군산조선소 9년만에 완성선...",
+    "summary": "PEF 운용사 에코프라임마린퍼시픽이 신설 법인 제이오션중공업을 통해 군산조선소 자산을 인수하는 PE의 기업 인수 거래가 추진 중이다.",
+    "company": "군산조선소",
+    "acquirer": "에코프라임마린퍼시픽",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.newsinside.kr/news/articleView.html?idxno=4802853",
+    "date": "2026.06.30"
+  },
+  {
+    "title": "M&A 준비 끝낸 케이카, 남은 문턱은",
+    "summary": "매도자 한앤컴퍼니가 보유한 케이카 지분 72.19%를 KG스틸과 캑터스프라이빗에쿼티에 약 5500억원에 매각하는 PE 엑싯 및 전략적 M&A 딜이다.",
+    "company": "케이카",
+    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "계약",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45853",
+    "date": "2026.06.29"
+  },
+  {
+    "title": "[더벨][Board Change] 케이카, KG 체제로 이사회 전면 개편 추진",
+    "summary": "KG그룹과 PEF 운용사 캑터스PE가 PEF 운용사 한앤컴퍼니로부터 케이카 지분 72.19%를 약 5500억원에 인수하는 PE 바이아웃 및 전략적 M&A 딜이다.",
+    "company": "케이카",
+    "acquirer": "KG그룹, 캑터스프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq",
+      "exit",
+      "strategic"
+    ],
+    "ev": "5500억원",
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606231433419160103843",
+    "date": "2026.06.26"
+  },
+  {
+    "title": "[더벨][TKG태광, 에이프릴바이오 인수] 에이프릴 품는 TKG, 반도체 쏠림...",
+    "summary": "TKG태광이 에이프릴바이오를 인수하는 전략적 M&A 딜이다. TKG그룹의 기존 포트폴리오를 반도체 소재·부품 분야로 확장하는 움직임으로 분석된다.",
+    "company": "에이프릴바이오",
+    "acquirer": "TKG태광",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606250643170060103931",
+    "date": "2026.06.26"
+  },
+  {
     "title": "신한금융 회장 진옥동이 롯데손해보험 두고 고민하는 이유 : 리딩금융 ...",
     "summary": "신한금융그룹이 롯데손해보험의 최대주주인 사모펀드 JKL파트너스와 롯데손해보험 인수를 위한 비공개 협상을 진행하며 적극적으로 검토하고 있다.",
     "company": "롯데손해보험",
@@ -1322,90 +1411,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605191340179920102378",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "[단독]금융위, 오늘 롯데손보 경영개선안 재심사…이번엔 문턱 넘나",
-    "summary": "사모펀드(PEF) 운용사 JKL파트너스가 보유 중인 롯데손해보험의 매각 주관사를 교체하고 희망 몸값을 조정하는 등 매각 작업에 속도를 내고 있다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.mtn.co.kr/news-detail/2026052111122586132",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "난항 겪는 홈플러스 회생...유동성 확보 시급한데 MBK 난색에 신규 자금...",
-    "summary": "사모펀드 MBK파트너스가 대주주인 홈플러스의 유동성 확보를 위해 홈플러스 익스프레스 매각 및 신규 자금 조달을 추진 중이다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=756162",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "급여 못 주는 홈플러스…MBK는 채권단과 줄다리기",
-    "summary": "MBK파트너스가 소유한 홈플러스가 재정난을 겪자, MBK는 채권단(메리츠)과 홈플러스 익스프레스 매각 대금 활용 및 긴급운영자금 조기 상환 등을 협상 중이다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.busan.com/view/busan/view.php?code=2026052110014733605",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "[단독]韓 투자 4500억이 허공으로?…캐나다 PE 美어센드 9920만불에 인수...",
-    "summary": "캐나다 사모펀드 킨테라캐피털이 파산보호 신청에 나선 미국 배터리 재활용 업체 어센드를 9920만 달러에 인수하는 거래를 추진한다.",
-    "company": "어센드",
-    "acquirer": "킨테라캐피털",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "9920만불",
-    "deal_stage": "계약",
-    "url": "https://view.asiae.co.kr/article/2026052015543671412",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "유암코, STX엔진 펀드 해산…7년만에 매각 나서나[시그널]",
-    "summary": "연합자산관리(유암코)가 STX엔진 인수에 활용했던 펀드를 해산하며 STX엔진 경영권 매각(엑시트) 절차에 착수할 예정이다.",
-    "company": "STX엔진",
-    "acquirer": "연합자산관리(유암코)",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20046415?ref=naver",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "배민·카모 노리는 공룡 우버… “한국 잔혹사 끊나”",
-    "summary": "우버(Uber)가 독일 고급차량 호출 기업 블랙레인(Blacklane) 인수에 합의하며 전략적 M&A를 추진 중이다.",
-    "company": "Blacklane",
-    "acquirer": "Uber",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.kmib.co.kr/article/view.asp?arcid=1779266038&code=11151400&cp=nv",
     "date": "2026.05.21"
   }
 ]
