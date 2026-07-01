@@ -1,5 +1,47 @@
 [
   {
+    "title": "한화생명, 애큐온 캐피탈 우협…금융영토 확장",
+    "summary": "한화생명이 사모펀드(PEF)가 보유한 애큐온캐피탈과 애큐온저축은행 인수전의 우선협상대상자로 선정된 전략적 M&A 딜이다.",
+    "company": "애큐온캐피탈, 애큐온저축은행",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011430472090538",
+    "date": "2026.07.01"
+  },
+  {
+    "title": "롯데렌탈 품는 TPG…롯데, 11년 만에 렌터카 사업 매각 '초읽기'",
+    "summary": "글로벌 사모펀드(PEF) 운용사 TPG가 롯데의 렌터카 사업 부문인 롯데렌탈 인수를 추진하며, 현재 단독 실사 및 가격 협상을 진행 중인 PEF의 기업 인수 거래입니다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=82758",
+    "date": "2026.07.01"
+  },
+  {
+    "title": "롯데렌탈 매각·'원롯데' 합작법인 출범…롯데그룹 부활 '신호탄'",
+    "summary": "글로벌 사모펀드(PEF) TPG가 호텔롯데와 부산롯데호텔로부터 국내 렌터카 1위 롯데렌탈의 지분 61.18%를 인수하는 딜을 진행 중이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원대 중반",
+    "deal_stage": "협상",
+    "url": "https://www.asiatime.co.kr/article/20260701500278",
+    "date": "2026.07.01"
+  },
+  {
     "title": "한화생명, 애큐온캐피탈·저축은행 인수 우선협상자 선정",
     "summary": "한화생명이 사모펀드 EQT파트너스로부터 애큐온캐피탈 및 저축은행을 인수하는 우선협상대상자로 선정된 전략적 M&A 딜",
     "company": "애큐온캐피탈",
@@ -1369,48 +1411,6 @@
     "ev": "4조원대",
     "deal_stage": "협상",
     "url": "https://www.investchosun.com/site/data/html_dir/2026/05/21/2026052180080.html",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "몸값 1조 희망 '맘스터치'…글로벌 PEF 원매자 물색 본격화",
-    "summary": "PEF가 소유한 맘스터치앤컴퍼니가 해외 확장성을 부각하며 1조원 몸값을 목표로 글로벌 PEF들을 상대로 매각을 추진 중이다. 베인캐피탈, EQT 등이 잠재적 인수 후보로 거론되고 있다.",
-    "company": "맘스터치앤컴퍼니",
-    "acquirer": "글로벌 PEF (베인캐피탈, EQT 등)",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "http://www.dailypop.kr/news/articleView.html?idxno=99018",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "고려아연 노조, 울산시장 후보들에게 \"MBK 적대적 M&A 저지\" 요청",
-    "summary": "사모펀드 MBK파트너스가 고려아연에 대한 적대적 M&A를 시도하자 고려아연 노조가 이를 저지해 줄 것을 울산시장 후보들에게 촉구했다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.queen.co.kr/news/articleView.html?idxno=457314",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "[더벨]코리아와이드파트너스, ‘잘풀리는집’ 미래생활 매각 추진",
-    "summary": "PEF 운용사 코리아와이드파트너스가 포트폴리오 회사인 미래생활의 최대주주로서 지분 매각을 추진하며 엑시트에 나섰다.",
-    "company": "미래생활",
-    "acquirer": "코리아와이드파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605191340179920102378",
     "date": "2026.05.21"
   }
 ]
