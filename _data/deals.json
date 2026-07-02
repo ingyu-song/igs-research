@@ -1,5 +1,20 @@
 [
   {
+    "title": "롯데손보 매각 급물살…신한 '비은행 강화', 한투 '운용자산' 노린다",
+    "summary": "롯데손보 최대주주인 사모펀드가 롯데손해보험 매각을 추진 중이며, 신한금융그룹과 한국투자금융그룹이 주요 인수 후보로 거론되고 있다.",
+    "company": "롯데손해보험",
+    "acquirer": "사모펀드",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": "1조원 안팎",
+    "deal_stage": "협상",
+    "url": "https://www.etnews.com/20260702000257",
+    "date": "2026.07.02"
+  },
+  {
     "title": "한화생명, 애큐온 캐피탈 우협…금융영토 확장",
     "summary": "한화생명이 사모펀드(PEF)가 보유한 애큐온캐피탈과 애큐온저축은행 인수전의 우선협상대상자로 선정된 전략적 M&A 딜이다.",
     "company": "애큐온캐피탈, 애큐온저축은행",
@@ -1398,19 +1413,5 @@
     "deal_stage": "완료",
     "url": "https://www.joongang.co.kr/article/25430522",
     "date": "2026.05.22"
-  },
-  {
-    "title": "[Invest]MBK, 테일러메이드 인수 제안 받아...매각가 4조원대 언급",
-    "summary": "MBK파트너스가 글로벌 골프 브랜드 테일러메이드 인수를 제안받아 인수를 추진하고 있다.",
-    "company": "테일러메이드",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "4조원대",
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/05/21/2026052180080.html",
-    "date": "2026.05.21"
   }
 ]
