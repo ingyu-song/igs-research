@@ -1,5 +1,34 @@
 [
   {
+    "title": "한화생명, 애큐온 인수자금 1조원 조달 방안은?",
+    "summary": "한화생명이 애큐온캐피탈 인수를 위해 1조원 규모의 인수자금 조달 방안을 검토 중인 전략적 M&A 딜이며, 이는 애큐온캐피탈 최대주주인 사모펀드의 엑싯 거래이다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46078",
+    "date": "2026.07.07"
+  },
+  {
+    "title": "보험은 저축은행으로, 저축은행은 보험으로",
+    "summary": "한화생명이 사모펀드 EQT파트너스가 보유한 애큐온캐피탈 지분 96.06%를 인수하여 애큐온저축은행까지 품은 전략적 M&A 거래이다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.naeil.com/news/read/594480?ref=naver",
+    "date": "2026.07.07"
+  },
+  {
     "title": "한양증권 500억 유증 법정行…KCGI '책임경영'이냐, 지배력 확대냐",
     "summary": "사모펀드 KCGI가 한양증권의 500억원 규모 유상증자에 참여해 지배력을 확대하려는 움직임이 법적 쟁점으로 부각되고 있다.",
     "company": "한양증권",
@@ -1386,33 +1415,5 @@
     "deal_stage": "계약",
     "url": "https://www.g-enews.com/view.php?ud=2026052320273335759a1f309431_1",
     "date": "2026.05.24"
-  },
-  {
-    "title": "‘배민 매각설’ 독일 DH “적절한 시점에 후속 정보 제공”",
-    "summary": "딜리버리히어로(DH)가 글로벌 사모펀드 운용사 등에게 투자 안내서를 발송하며 우아한형제들(배달의민족) 매각을 추진하는 엑시트 딜이다.",
-    "company": "우아한형제들",
-    "acquirer": "딜리버리히어로",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://economist.co.kr/article/view/ecn202605230010",
-    "date": "2026.05.23"
-  },
-  {
-    "title": "롯데렌탈, 2119억 유상증자 철회…주가 희석 우려 해소",
-    "summary": "사모펀드 어피니티에쿼티파트너스가 롯데그룹으로부터 롯데렌탈 지분 인수를 추진했으나 협상이 무산되면서, 롯데렌탈의 유상증자 계획이 철회되었다.",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023365",
-    "date": "2026.05.21"
   }
 ]
