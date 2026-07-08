@@ -1,5 +1,19 @@
 [
   {
+    "title": "[롯데렌탈 M&A] 1조냐 2조냐…TPG 앞에 놓인 '공개매수 셈법'",
+    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수의 유력 후보로 떠오르며, 공개매수 여부 및 딜 규모에 관심이 쏠리고 있는 PE 인수 딜이다.",
+    "company": "롯데렌탈",
+    "acquirer": "텍사스퍼시픽그룹 (TPG)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원대 초·중반",
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=667557",
+    "date": "2026.07.08"
+  },
+  {
     "title": "한화생명, 애큐온 인수자금 1조원 조달 방안은?",
     "summary": "한화생명이 애큐온캐피탈 인수를 위해 1조원 규모의 인수자금 조달 방안을 검토 중인 전략적 M&A 딜이며, 이는 애큐온캐피탈 최대주주인 사모펀드의 엑싯 거래이다.",
     "company": "애큐온캐피탈",
@@ -1399,21 +1413,6 @@
     "ev": null,
     "deal_stage": "소문",
     "url": "https://www.ceoscoredaily.com/page/view/2026052209223947370",
-    "date": "2026.05.24"
-  },
-  {
-    "title": "중국 기업들, '서구 소비재 브랜드' 쇼핑 나섰다",
-    "summary": "초저가 패스트패션 업체 쉬인이 미국 의류 브랜드 에버레인을 1억달러에 인수하는 계약을 체결했으며, 이는 에버레인에 투자했던 PE인 L캐터턴의 엑싯 딜에 해당한다.",
-    "company": "에버레인",
-    "acquirer": "쉬인",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": "1519억원",
-    "deal_stage": "계약",
-    "url": "https://www.g-enews.com/view.php?ud=2026052320273335759a1f309431_1",
     "date": "2026.05.24"
   }
 ]
