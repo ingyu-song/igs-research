@@ -1,5 +1,33 @@
 [
   {
+    "title": "美베인, 키옥시아 지분 전량 매각…오버행 해소에 주가 11% 급등",
+    "summary": "미국 사모펀드 베인캐피털이 일본 낸드플래시 메모리 업체 키옥시아의 보유 지분 전량을 매각하며 엑싯을 완료했다.",
+    "company": "키옥시아",
+    "acquirer": "베인캐피털",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hankyung.com/article/202607095398i",
+    "date": "2026.07.09"
+  },
+  {
+    "title": "넥스트증권, 타임폴리오 등에서 150억원 투자 유치…플랫폼 출시 속도",
+    "summary": "타임폴리오 등 복수의 재무적 투자자가 넥스트증권에 150억원 규모의 성장 투자(Growth Equity)를 단행했다.",
+    "company": "넥스트증권",
+    "acquirer": "타임폴리오",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "150억원",
+    "deal_stage": "완료",
+    "url": "https://www.newsis.com/view/NISX20260709_0003702605",
+    "date": "2026.07.09"
+  },
+  {
     "title": "[롯데렌탈 M&A] 1조냐 2조냐…TPG 앞에 놓인 '공개매수 셈법'",
     "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수의 유력 후보로 떠오르며, 공개매수 여부 및 딜 규모에 관심이 쏠리고 있는 PE 인수 딜이다.",
     "company": "롯데렌탈",
@@ -1386,33 +1414,5 @@
     "deal_stage": "소문",
     "url": "https://m.skyedaily.com/news_view.html?ID=304645",
     "date": "2026.05.25"
-  },
-  {
-    "title": "[HMM50년 돌아보기-41] LNG운송 및 벌크 전용선사업 매각",
-    "summary": "한진해운의 LNG운송 및 벌크 전용선사업이 사모펀드 한앤컴퍼니에 매각되어 설립된 에이치라인해운의 PE 기업 인수 거래.",
-    "company": "에이치라인해운",
-    "acquirer": "한앤컴퍼니",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.thebigdata.co.kr/view.php?ud=20260513083245730570d99e4c8_23",
-    "date": "2026.05.13"
-  },
-  {
-    "title": "우버, DH 최대주주 등극…배민 품고 한국 시장 재 입성하나",
-    "summary": "우버가 국내 택시 호출 1위 사업자인 카카오모빌리티의 경영권 인수를 추진하고 있으며, 사모펀드 등 주요 주주 지분을 매입하는 방식의 전략적 M&A 딜이다.",
-    "company": "카카오모빌리티",
-    "acquirer": "우버",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.ceoscoredaily.com/page/view/2026052209223947370",
-    "date": "2026.05.24"
   }
 ]
