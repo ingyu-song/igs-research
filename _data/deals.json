@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Invest]日 키옥시아 대박 낸 베인캐피탈…'20조 차익+α'까지 남긴 SK하...",
+    "summary": "베인캐피탈이 과거 일본 키옥시아(구 도시바메모리)에 투자했던 자금을 모두 회수하며 성공적인 엑싯을 완료했다.",
+    "company": "키옥시아",
+    "acquirer": "베인캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/07/10/2026071080088.html",
+    "date": "2026.07.10"
+  },
+  {
     "title": "美베인, 키옥시아 지분 전량 매각…오버행 해소에 주가 11% 급등",
     "summary": "미국 사모펀드 베인캐피털이 일본 낸드플래시 메모리 업체 키옥시아의 보유 지분 전량을 매각하며 엑싯을 완료했다.",
     "company": "키옥시아",
@@ -1399,20 +1413,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "http://www.fnnews.com/news/202605250911306482",
-    "date": "2026.05.25"
-  },
-  {
-    "title": "배민 몸값 8조 거론… 배달앱 시장 ‘슈퍼앱’ 경쟁으로 확전",
-    "summary": "배달의민족(배민)의 몸값이 8조원으로 거론되며, 우버, 도어대시, 알리바바, 네이버, 사모펀드 등 다양한 기업들이 인수 후보군으로 거론되는 전략적 M&A 딜이 추진 중.",
-    "company": "우아한형제들",
-    "acquirer": "우버, 도어대시, 알리바바, 네이버, 사모펀드 등",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "8조원",
-    "deal_stage": "소문",
-    "url": "https://m.skyedaily.com/news_view.html?ID=304645",
     "date": "2026.05.25"
   }
 ]
