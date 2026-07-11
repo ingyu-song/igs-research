@@ -1,5 +1,47 @@
 [
   {
+    "title": "[CEO&뉴스] '권혁웅·이경근 체제' 한화생명, 종합금융 구축 '성큼'",
+    "summary": "한화생명이 사모펀드 EQT파트너스로부터 애큐온캐피탈 인수를 추진하며 종합금융그룹 구축에 나서는 딜.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.seoulfn.com/news/articleView.html?idxno=633121",
+    "date": "2026.07.11"
+  },
+  {
+    "title": "예별손보, 새 주인으로 OK금융그룹 낙점…연내 매각 마무리 전망",
+    "summary": "OK금융그룹이 한국투자금융지주, 흥국화재, 사모펀드 JC플라워 등과 경쟁 끝에 예별손보의 새 주인으로 낙점되어 연내 매각이 마무리될 예정이다. 이는 전략적 M&A 거래이다.",
+    "company": "예별손보",
+    "acquirer": "OK금융그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61462",
+    "date": "2026.07.11"
+  },
+  {
+    "title": "호반건설, 한진칼 지분 20% 돌파…조원태와 격차 0.42%p로 '초접전'",
+    "summary": "호반건설이 한진칼의 지분을 20% 이상으로 늘리며 조원태 회장과의 경영권 격차를 좁혀, 잠재적인 M&A 시나리오가 부상하고 있다.",
+    "company": "한진칼",
+    "acquirer": "호반건설",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61454",
+    "date": "2026.07.11"
+  },
+  {
     "title": "[Invest]日 키옥시아 대박 낸 베인캐피탈…'20조 차익+α'까지 남긴 SK하...",
     "summary": "베인캐피탈이 과거 일본 키옥시아(구 도시바메모리)에 투자했던 자금을 모두 회수하며 성공적인 엑싯을 완료했다.",
     "company": "키옥시아",
@@ -1372,47 +1414,5 @@
     "deal_stage": "계약",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45141",
     "date": "2026.05.26"
-  },
-  {
-    "title": "부광, 4년째 공장가동률 100%↑…시급한 유니온 인수 타이밍",
-    "summary": "유니온제약의 주요 주주 지분 22.61%를 사모펀드 NBH캐피탈이 인수하려는 세컨더리 거래가 추진 중이다.",
-    "company": "유니온제약",
-    "acquirer": "NBH캐피탈",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.dailypharm.com/user/news/338782?REFERER=NP",
-    "date": "2026.05.26"
-  },
-  {
-    "title": "홈플러스, 온라인·대형마트도 매각 착수…인가 전 인수합병 돌입",
-    "summary": "MBK파트너스가 소유한 홈플러스가 실적 악화에 따라 온라인 및 대형마트 사업 매각에 착수하는 새로운 PE 엑싯(Exit) 시도 거래이다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.econovill.com/news/articleView.html?idxno=740774",
-    "date": "2026.05.25"
-  },
-  {
-    "title": "롯데렌탈 매각 무산…호텔롯데 신용부담 부각 [fn마켓워치]",
-    "summary": "사모펀드 어피니티에쿼티파트너스의 롯데렌탈 지분 인수 계약이 최종 해지되었으며, 매각자인 롯데그룹은 다양한 잠재 투자자와 롯데렌탈 지분 매각을 협의할 계획이다.",
-    "company": "롯데렌탈",
-    "acquirer": "롯데그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.fnnews.com/news/202605250911306482",
-    "date": "2026.05.25"
   }
 ]
