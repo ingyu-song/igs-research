@@ -1,5 +1,90 @@
 [
   {
+    "title": "[Who Is ?] 김상준 다우데이타 대표이사",
+    "summary": "김 전 회장이 다우데이타 주식 3.65%를 약 605.4억원에 블록딜 방식으로 매각 완료했다.",
+    "company": "다우데이타",
+    "acquirer": "김 전 회장",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "약 605.4억원",
+    "deal_stage": "완료",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441107",
+    "date": "2026.06.30"
+  },
+  {
+    "title": "블록딜·배당·리캡까지…베인캐피탈, 클래시스 투자금 대부분 회수",
+    "summary": "글로벌 사모펀드 베인캐피탈이 클래시스에 대한 투자금 회수를 위해 블록딜, 배당, 리파이낸싱 등 다양한 방법을 활용했다.",
+    "company": "클래시스",
+    "acquirer": "베인캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.topdaily.kr/articles/110738",
+    "date": "2026.06.29"
+  },
+  {
+    "title": "이기두 크레센도 대표, HPSP 대표이사 선임…“책임 경영”",
+    "summary": "사모펀드 크레센도에쿼티파트너스가 포트폴리오 기업 HPSP의 지분 9% 매각을 위해 두 차례 블록딜을 추진했으나 난항을 겪고 있다.",
+    "company": "HPSP",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202606260441r",
+    "date": "2026.06.29"
+  },
+  {
+    "title": "매각 접고 밸류업 선언…크레센도, HPSP 직접 경영 나선다[시그널]",
+    "summary": "사모펀드 크레센도에쿼티파트너스가 핵심 포트폴리오사인 HPSP의 지분 약 19%를 6132억원 규모의 블록딜로 처분하며 부분 엑싯을 완료했다.",
+    "company": "HPSP",
+    "acquirer": "크레센도에쿼티파트너스",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": "6132억원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20060609?ref=naver",
+    "date": "2026.06.26"
+  },
+  {
+    "title": "크레센도PE, HPSP '직접 경영' 굳히기…이기두 대표가 키 잡았다",
+    "summary": "크레센도PE가 반도체 장비업체 HPSP의 지분 19% 이상을 두 차례 블록딜을 통해 총 6132억원에 매각하며 엑싯했다.",
+    "company": "HPSP",
+    "acquirer": "크레센도PE",
+    "type": "block",
+    "tags": [
+      "block",
+      "exit"
+    ],
+    "ev": "6132억원",
+    "deal_stage": "완료",
+    "url": "https://view.asiae.co.kr/article/2026062613375609545",
+    "date": "2026.06.26"
+  },
+  {
+    "title": "‘파산 기로’ 왓챠, 새 주인 찾을까…홈플러스도 운명의 일주일 [M&A복...",
+    "summary": "홍콩계 PE 앵커에쿼티파트너스가 스마트팜 기반 버섯재배 기업 닥터애그의 매각을 진행 중이며, 15일까지 예비입찰을 받는다.",
+    "company": "닥터애그",
+    "acquirer": "앵커에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12096219",
+    "date": "2026.07.11"
+  },
+  {
     "title": "[CEO&뉴스] '권혁웅·이경근 체제' 한화생명, 종합금융 구축 '성큼'",
     "summary": "한화생명이 사모펀드 EQT파트너스로부터 애큐온캐피탈 인수를 추진하며 종합금융그룹 구축에 나서는 딜.",
     "company": "애큐온캐피탈",
@@ -1328,91 +1413,6 @@
     "ev": "1200억원",
     "deal_stage": "완료",
     "url": "https://biz.chosun.com/industry/business_info/2026/05/26/VHR2WBK6CZAHXCSGLKLSI4DPNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.05.26"
-  },
-  {
-    "title": "유에이치씨 그룹, 1200억원 기업가치 인정…글로벌 확장 본격화",
-    "summary": "사모펀드(PE)가 유에이치씨 그룹에 투자하여 1200억원 기업가치를 인정했다.",
-    "company": "유에이치씨 그룹",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1200억원",
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/202605269463O",
-    "date": "2026.05.26"
-  },
-  {
-    "title": "대주주 블록딜에 다시 퍼지는 '리노공업 M&A설'",
-    "summary": "리노공업 대주주가 블록딜을 통해 지분을 처분하고 경영권 매각 절차에 들어갈 것이라는 관측이 제기되며, 대형 사모펀드(PEF)와 해외 전략적 투자자들이 잠재적 인수자로 언급되고 있다.",
-    "company": "리노공업",
-    "acquirer": "대형 사모펀드(PEF) 및 해외 전략적 투자자",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.hankyung.com/article/2026052573651",
-    "date": "2026.05.25"
-  },
-  {
-    "title": "유암코, STX엔진 담은 구조조정 펀드 해산… 경영권 매각 가시화",
-    "summary": "유암코(연합자산관리)가 STX엔진 인수에 활용한 PEF를 해산하며, 보유하고 있던 STX엔진의 경영권 매각 및 지분 블록딜을 통한 엑싯이 가시화되고 있다.",
-    "company": "STX엔진",
-    "acquirer": "유암코",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/05/19/EKXFRHDHONCPPP6O5ZRZQBDOZI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.05.19"
-  },
-  {
-    "title": "서진시스템, 3000억 규모 영구채 발행 추진",
-    "summary": "서진시스템은 국내 사모펀드(PEF) 운용사를 대상으로 3000억 규모의 영구채 발행을 추진하며, 최대주주인 전동규 대표는 보유 주식 블록딜을 통해 약 1687억원을 확보해 회사에 대여한다.",
-    "company": "서진시스템",
-    "acquirer": "국내 사모펀드(PEF) 운용사들",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "block"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "협상",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45023",
-    "date": "2026.05.19"
-  },
-  {
-    "title": "'7500억 몸값' 엑소코바이오, IPO냐 M&A냐 '그것이 문제'",
-    "summary": "K2인베스트먼트가 최대주주인 엑소코바이오의 IPO 또는 사모펀드(PE) 매각 가능성이 논의되고 있다.",
-    "company": "엑소코바이오",
-    "acquirer": "K2인베스트먼트",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "7500억원",
-    "deal_stage": "소문",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03378406645452856",
-    "date": "2026.05.26"
-  },
-  {
-    "title": "한국첨단소재, 투자처 없이 100억 CB…김병진 측 참여·주가 급등",
-    "summary": "한국첨단소재가 최대주주인 김병진 측을 대상으로 100억원 규모의 사모 전환사채(CB)를 발행하는 자금 조달 딜이다.",
-    "company": "한국첨단소재",
-    "acquirer": "김병진 측",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "100억원",
-    "deal_stage": "계약",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45141",
     "date": "2026.05.26"
   }
 ]
