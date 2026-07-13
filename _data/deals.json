@@ -1,5 +1,47 @@
 [
   {
+    "title": "EQT, 코피아파워 인수…AI 데이터센터 전력난에 '발전·송전·부하 통합...",
+    "summary": "글로벌 사모펀드 EQT가 칼라일로부터 미국 에너지 인프라 기업 코피아 파워를 인수했다. 이번 인수는 EQT의 AI 데이터센터 전력 시장 공략의 일환이다.",
+    "company": "Copia Power",
+    "acquirer": "EQT",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.impacton.net/news/articleView.html?idxno=19578",
+    "date": "2026.07.13"
+  },
+  {
+    "title": "홈플러스 사태 수습 급한 MBK…넥스플렉스 '엑시트' 스케줄 꼬였다",
+    "summary": "MBK파트너스가 보유한 스마트폰용 연성동박적층판(FCCL) 제조업체 넥스플렉스의 매각(엑시트) 딜이 진행 중이며, 예비입찰을 거쳐 숏리스트가 선정되었다.",
+    "company": "넥스플렉스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=269629",
+    "date": "2026.07.13"
+  },
+  {
+    "title": "록히드마틴의 울트라 인수, 한화오션에 '글로벌 우군'될까",
+    "summary": "록히드마틴이 사모펀드 어드벤트 인터내셔널로부터 영국 울트라 마리타임을 34억5000만달러에 인수하는 최종 계약을 체결했다.",
+    "company": "울트라 마리타임",
+    "acquirer": "록히드마틴",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "4조7000억원",
+    "deal_stage": "계약",
+    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699173",
+    "date": "2026.07.13"
+  },
+  {
     "title": "[Who Is ?] 김상준 다우데이타 대표이사",
     "summary": "김 전 회장이 다우데이타 주식 3.65%를 약 605.4억원에 블록딜 방식으로 매각 완료했다.",
     "company": "다우데이타",
@@ -1371,48 +1413,5 @@
     "deal_stage": "협상",
     "url": "https://www.newspim.com/news/view/20260527000749",
     "date": "2026.05.27"
-  },
-  {
-    "title": "현대그룹, H&Q 보유 현대엘리 잔여 지분 매입…30개월 동행 마침표[시그...",
-    "summary": "현대그룹의 지주사 현대홀딩스컴퍼니가 PEF 운용사 H&Q코리아로부터 현대엘리베이터의 잔여 전환사채(CB)와 상환전환우선주(RCPS) 투자분 전량을 인수하며 H&Q코리아의 투자 엑싯이 완료되었다.",
-    "company": "현대엘리베이터",
-    "acquirer": "H&Q코리아",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20048591?ref=naver",
-    "date": "2026.05.27"
-  },
-  {
-    "title": "네이버 ‘슈퍼앱’ 전략에 가속도...생활 서비스 강화",
-    "summary": "네이버가 딜리버리히어로로부터 배달의민족(배민) 인수를 제안받고 인수 의향을 밝히는 전략적 M&A 거래이다.",
-    "company": "우아한형제들",
-    "acquirer": "네이버",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.chosun.com/economy/tech_it/2026/05/27/QLAKK6TRQFGU7OU4AXURKNU6SM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "date": "2026.05.27"
-  },
-  {
-    "title": "유에이치씨 그룹, 기업 가치 1200억원… 해외 사업 확대 추진",
-    "summary": "사모펀드(PE)가 유에이치씨 그룹에 투자하여 지분을 인수했으며, 이로 인해 유에이치씨 그룹의 기업 가치는 1200억원으로 평가받았다.",
-    "company": "유에이치씨 그룹",
-    "acquirer": null,
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1200억원",
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/industry/business_info/2026/05/26/VHR2WBK6CZAHXCSGLKLSI4DPNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.05.26"
   }
 ]
