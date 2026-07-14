@@ -1,5 +1,33 @@
 [
   {
+    "title": "위기의 LCC, 에어프레미아 M&A설 재점화 … 시장 재편 본격화되나",
+    "summary": "사모펀드 운용사 VIG파트너스가 포트폴리오 기업인 이스타항공에 대한 엑시트 전략을 모색하며 매각 가능성이 재점화되고 있다.",
+    "company": "이스타항공",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400130.html",
+    "date": "2026.07.14"
+  },
+  {
+    "title": "스텔라PE, 미래아이앤지 2차 중도금 납입 완료…휴마시스 밸류업 투자 ...",
+    "summary": "사모펀드 운용사 스텔라PE가 미래아이앤지 경영권 인수를 위한 2차 중도금 납입을 완료했다.",
+    "company": "미래아이앤지",
+    "acquirer": "스텔라PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206885",
+    "date": "2026.07.14"
+  },
+  {
     "title": "EQT, 코피아파워 인수…AI 데이터센터 전력난에 '발전·송전·부하 통합...",
     "summary": "글로벌 사모펀드 EQT가 칼라일로부터 미국 에너지 인프라 기업 코피아 파워를 인수했다. 이번 인수는 EQT의 AI 데이터센터 전력 시장 공략의 일환이다.",
     "company": "Copia Power",
@@ -1385,33 +1413,5 @@
     "deal_stage": "협상",
     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=577791",
     "date": "2026.05.28"
-  },
-  {
-    "title": "보험업권 인수전…애큐온·롯데손보 매각대금 1조대?",
-    "summary": "사모펀드(PE)인 베어링PEA와 JKL파트너스가 보유한 애큐온캐피탈(애큐온저축은행 포함)과 롯데손해보험의 1조원대 엑시트를 목표로 매각을 추진하며 인수전이 시작되었다.",
-    "company": "애큐온캐피탈, 애큐온저축은행, 롯데손해보험",
-    "acquirer": "베어링PEA, JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원대",
-    "deal_stage": "협상",
-    "url": "http://www.newstomato.com/ReadNews.aspx?no=1302281&inflow=N",
-    "date": "2026.05.28"
-  },
-  {
-    "title": "[미국 특징주] 우주·방산 어플라이드 에어로스페이스 IPO 추진",
-    "summary": "사모펀드 그린브라이어 에쿼티 그룹이 포트폴리오 기업 어플라이드 에어로스페이스의 IPO를 추진하며 엑싯을 모색하고 있다.",
-    "company": "어플라이드 에어로스페이스",
-    "acquirer": "그린브라이어 에쿼티 그룹",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newspim.com/news/view/20260527000749",
-    "date": "2026.05.27"
   }
 ]
