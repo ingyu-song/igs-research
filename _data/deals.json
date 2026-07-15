@@ -1,5 +1,47 @@
 [
   {
+    "title": "스트라이프·어드벤트, 페이팔 530억달러 인수 제안",
+    "summary": "스트라이프와 사모펀드 어드벤트가 글로벌 온라인 결제 업체 페이팔을 530억달러에 인수하겠다는 제안을 했다.",
+    "company": "페이팔",
+    "acquirer": "스트라이프, 어드벤트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "530억달러",
+    "deal_stage": "협상",
+    "url": "https://www.tokenpost.kr/news/breaking/377999",
+    "date": "2026.07.15"
+  },
+  {
+    "title": "현대LNG해운 매각 마지막 관문…'외투위 안보심사' 의미는?",
+    "summary": "IMM프라이빗에쿼티와 IMM인베스트먼트가 약 1조원 규모의 현대LNG해운 매각을 추진 중이며, 이번 거래는 PE의 성공적인 투자 회수 사례로 평가된다.",
+    "company": "현대LNG해운",
+    "acquirer": "IMM프라이빗에쿼티, IMM인베스트먼트",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "계약",
+    "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226821",
+    "date": "2026.07.15"
+  },
+  {
+    "title": "파산이냐, 극적 회생이냐…홈플러스 ‘운명의 이틀’ [비즈360]",
+    "summary": "홈플러스의 파산을 막고 극적 회생을 위한 인수 주체를 찾는 노력이 진행 중인 가운데, 사모펀드 제도 손질 및 국민연금 대체투자 관련 논의가 함께 언급되었다.",
+    "company": "홈플러스",
+    "acquirer": null,
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10809337?ref=naver",
+    "date": "2026.07.15"
+  },
+  {
     "title": "위기의 LCC, 에어프레미아 M&A설 재점화 … 시장 재편 본격화되나",
     "summary": "사모펀드 운용사 VIG파트너스가 포트폴리오 기업인 이스타항공에 대한 엑시트 전략을 모색하며 매각 가능성이 재점화되고 있다.",
     "company": "이스타항공",
@@ -1371,47 +1413,5 @@
     "deal_stage": "완료",
     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417510",
     "date": "2026.05.29"
-  },
-  {
-    "title": "네이버·우버, 배민 품나… 8조 빅딜에 K-배달 시장 '술렁'",
-    "summary": "우아한형제들 매각 작업이 시작되었으며, 네이버와 우버가 유력 인수 후보로 거론되는 전략적 M&A 딜이다.",
-    "company": "우아한형제들",
-    "acquirer": "네이버, 우버",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "8조원",
-    "deal_stage": "협상",
-    "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=721579",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "미니쉬테크놀로지, VIG파트너스 300억 투자 유치",
-    "summary": "VIG파트너스가 미니쉬테크놀로지에 300억원 규모의 성장 투자를 단행했다.",
-    "company": "미니쉬테크놀로지",
-    "acquirer": "VIG파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "300억원",
-    "deal_stage": "완료",
-    "url": "https://www.etnews.com/20260528000307",
-    "date": "2026.05.28"
-  },
-  {
-    "title": "[기업家] 네이버 ⑥ㅣ AI·콘텐츠·커머스 네이버의 미래 전략…'생활 플...",
-    "summary": "독일 딜리버리히어로가 JP모건을 주관사로 선정하여 국내외 기업 및 사모펀드에 배달의민족 운영사 우아한형제들 매각 의사를 타진 중이며, 네이버와 우버 컨소시엄이 인수 의사를 보이는 전략적 M&A 딜.",
-    "company": "우아한형제들",
-    "acquirer": "딜리버리히어로",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=577791",
-    "date": "2026.05.28"
   }
 ]
