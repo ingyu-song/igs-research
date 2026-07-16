@@ -1,5 +1,47 @@
 [
   {
+    "title": "韓은 '매각' 中선 '베이징 진출'…한·중서 엇갈린 파이브가이즈 운명",
+    "summary": "한화갤러리아는 파이브가이즈 운영사인 에프지코리아의 지분 매각을 사모펀드 운용사 H&Q에쿼티파트너스와 추진 중이다.",
+    "company": "에프지코리아",
+    "acquirer": "H&Q에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "700억원",
+    "deal_stage": "협상",
+    "url": "https://www.theguru.co.kr/news/article.html?no=104541",
+    "date": "2026.07.16"
+  },
+  {
+    "title": "美 물가 둔화에 빅테크 강세까지...뉴욕증시, 3대 지수 동반 상승 마감",
+    "summary": "핀테크 기업 페이팔이 스트라이프와 사모펀드 어드벤트인터내셔널로부터 주당 60.50달러, 총 530억달러 규모의 공동 인수 제안을 받았다.",
+    "company": "페이팔",
+    "acquirer": "스트라이프, 어드벤트인터내셔널",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "530억달러",
+    "deal_stage": "협상",
+    "url": "https://www.betanews.net/article/view/beta202607160008",
+    "date": "2026.07.16"
+  },
+  {
+    "title": "'6000억 책임' 떠안은 MBK 김병주…홈플러스 회생 분수령 [fn마켓워치]",
+    "summary": "MBK파트너스가 홈플러스의 DIP 대출에 최대주주로서 6000억원 규모의 연대보증을 제공하며 홈플러스의 회생을 위한 새로운 금융 거래를 추진하고 있다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "6000억원",
+    "deal_stage": "계약",
+    "url": "http://www.fnnews.com/news/202607161019232059",
+    "date": "2026.07.16"
+  },
+  {
     "title": "스트라이프·어드벤트, 페이팔 530억달러 인수 제안",
     "summary": "스트라이프와 사모펀드 어드벤트가 글로벌 온라인 결제 업체 페이팔을 530억달러에 인수하겠다는 제안을 했다.",
     "company": "페이팔",
@@ -1370,48 +1412,6 @@
     "ev": null,
     "deal_stage": "완료",
     "url": "https://www.bloter.net/news/articleView.html?idxno=663939",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "한투증권, 코인원 지분 20% 확보..디지털자산 사업 강화",
-    "summary": "한국투자증권이 코인원 지분 20%를 구주 매각 및 신주 발행을 통해 확보하여 디지털자산 사업을 강화하는 전략적 M&A 거래이다.",
-    "company": "코인원",
-    "acquirer": "한국투자증권",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.4th.kr/news/articleView.html?idxno=2112474",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "코인원, 한투·OKX벤처스 새 주주로 맞이…차명훈 체제서 주주판 재편",
-    "summary": "한국투자증권과 OKX벤처스가 암호화폐 거래소 코인원의 신주 발행 및 기존 주주(차명훈 대표, 컴투스홀딩스) 구주 매각에 참여하여 새로운 주주가 되는 전략적 투자 거래이다.",
-    "company": "코인원",
-    "acquirer": "한국투자증권, OKX벤처스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=663962",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "코인원, 한투증권·OKX 3대 주주로 맞았다…지분 20%씩 인수",
-    "summary": "한국투자증권과 OKX가 국내 가상자산 거래소 코인원의 구주 일부 매입 및 신규 발행 주식 인수를 통해 각각 지분 20%를 확보하며 3대 주주로 등극하는 전략적 지분 인수 딜.",
-    "company": "코인원",
-    "acquirer": "한국투자증권, OKX",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417510",
     "date": "2026.05.29"
   }
 ]
