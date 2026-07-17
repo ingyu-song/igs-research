@@ -1,5 +1,33 @@
 [
   {
+    "title": "한컴위드, 日 AI 스타트업 공략…보안 기술력 알렸다",
+    "summary": "결제 서비스 업체 스트라이프와 사모펀드(PEF) 어드벤트인터내셔널이 약 79조 원 규모로 페이팔 인수를 추진한다.",
+    "company": "페이팔",
+    "acquirer": "스트라이프, 어드벤트인터내셔널",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "79조원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20068834?ref=naver",
+    "date": "2026.07.17"
+  },
+  {
+    "title": "반도체 장비값 또 뛴다…ASML 가격 인상에 TSMC 반발",
+    "summary": "결제 서비스 업체 스트라이프와 사모펀드 어드벤트인터내셔널이 약 79조 원의 기업가치로 페이팔(PYPL) 인수를 추진 중이다.",
+    "company": "페이팔",
+    "acquirer": "스트라이프, 어드벤트인터내셔널",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "79조원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20068826?ref=naver",
+    "date": "2026.07.17"
+  },
+  {
     "title": "韓은 '매각' 中선 '베이징 진출'…한·중서 엇갈린 파이브가이즈 운명",
     "summary": "한화갤러리아는 파이브가이즈 운영사인 에프지코리아의 지분 매각을 사모펀드 운용사 H&Q에쿼티파트너스와 추진 중이다.",
     "company": "에프지코리아",
@@ -1385,33 +1413,5 @@
     "deal_stage": "소문",
     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841552",
     "date": "2026.05.30"
-  },
-  {
-    "title": "컴투스홀딩스, 한투·OKX에 코인원 지분 일부 매각…전략적 파트너십 구...",
-    "summary": "컴투스홀딩스가 암호화폐 거래소 코인원의 지분 일부를 OKX벤처스 및 한국투자파트너스에 346억원에 매각하며 전략적 파트너십을 구축했다.",
-    "company": "코인원",
-    "acquirer": "한국투자파트너스, OKX벤처스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "346억원",
-    "deal_stage": "계약",
-    "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=360709",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "[딜 인사이드] '불스아이' 품은 앱코…바이오센서로 본업 정체 뚫을까",
-    "summary": "앱코가 미국 불스아이의 지분 40%를 인수하며 바이오센서 사업 확장을 통해 본업 정체를 극복하려는 전략적 M&A 딜.",
-    "company": "불스아이",
-    "acquirer": "앱코",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=663939",
-    "date": "2026.05.29"
   }
 ]
