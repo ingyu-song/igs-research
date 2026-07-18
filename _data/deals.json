@@ -1,5 +1,47 @@
 [
   {
+    "title": "인공뼈 최고 기술력 회사의 경영권 매각…시지바이오에 관심 쏠리는 이...",
+    "summary": "IMM프라이빗에쿼티(PE)가 인공뼈 기술 기업 시지바이오의 지분 51%를 5610억 원에 인수하는 경영권 매각 딜이 추진 중이다.",
+    "company": "시지바이오",
+    "acquirer": "IMM프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5610억 원",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20068899?ref=naver",
+    "date": "2026.07.18"
+  },
+  {
+    "title": "유럽증시, 반도체 '피크아웃'·유가 상승 우려에 대부분 하락",
+    "summary": "스웨덴 사모펀드 EQT가 호주 자산운용사 퍼페추얼에 25억 호주달러 규모의 인수 제안 상향안을 제시했으나, 퍼페추얼이 이를 거부했다.",
+    "company": "퍼페추얼",
+    "acquirer": "EQT",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "25억 호주달러",
+    "deal_stage": "협상",
+    "url": "https://www.newspim.com/news/view/20260718000007",
+    "date": "2026.07.18"
+  },
+  {
+    "title": "[주간사모펀드] MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회...",
+    "summary": "글로벌 사모펀드(PEF) 운용사 TPG가 국내 렌터카 업계 1위 롯데렌탈의 지분 인수를 추진 중이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.tf.co.kr/read/economy/2344300.htm",
+    "date": "2026.07.18"
+  },
+  {
     "title": "한컴위드, 日 AI 스타트업 공략…보안 기술력 알렸다",
     "summary": "결제 서비스 업체 스트라이프와 사모펀드(PEF) 어드벤트인터내셔널이 약 79조 원 규모로 페이팔 인수를 추진한다.",
     "company": "페이팔",
@@ -1369,49 +1411,5 @@
     "deal_stage": null,
     "url": "https://view.asiae.co.kr/article/2026052016033041634",
     "date": "2026.05.31"
-  },
-  {
-    "title": "H&Q, 현대엘리베이터 투자금 전액 회수",
-    "summary": "PEF 운용사 H&Q가 현대엘리베이터의 지분 4.9%를 블록딜로 매각하며 투자금 전액 회수를 통한 엑시트를 완료했습니다.",
-    "company": "현대엘리베이터",
-    "acquirer": "H&Q",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10758714?ref=naver",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "[그린생명과학 줌업] 4010원에 처분 예고한 자사주…소각 대신 3234원에 ...",
-    "summary": "그린생명과학이 자기주식 75만주를 총 24억2565만원에 사모펀드 7곳에 블록딜 형태로 매각했으며, 이는 사모펀드의 그린생명과학 지분 인수 거래이다.",
-    "company": "그린생명과학",
-    "acquirer": "사모펀드 7곳",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "24억2565만원",
-    "deal_stage": "완료",
-    "url": "https://www.greened.kr/news/articleView.html?idxno=341450",
-    "date": "2026.05.29"
-  },
-  {
-    "title": "카카오게임즈, 라인게임즈 '구조선' 되나",
-    "summary": "라인야후가 카카오게임즈 인수를 검토하는 가운데, 카카오게임즈가 앵커PE의 자금 회수가 필요한 라인게임즈의 '구조선'이 될 가능성이 제기된다.",
-    "company": "라인게임즈",
-    "acquirer": "카카오게임즈",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841552",
-    "date": "2026.05.30"
   }
 ]
