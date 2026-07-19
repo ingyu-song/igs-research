@@ -1,5 +1,19 @@
 [
   {
+    "title": "카카오모빌리티와 시너지 기대…롯데렌탈 성장 스토리 커진다",
+    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수를 추진하고 있으며, 이에 따라 롯데렌탈의 기업가치 재평가 기대감이 커지고 있다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469409",
+    "date": "2026.07.19"
+  },
+  {
     "title": "인공뼈 최고 기술력 회사의 경영권 매각…시지바이오에 관심 쏠리는 이...",
     "summary": "IMM프라이빗에쿼티(PE)가 인공뼈 기술 기업 시지바이오의 지분 51%를 5610억 원에 인수하는 경영권 매각 딜이 추진 중이다.",
     "company": "시지바이오",
@@ -1397,19 +1411,5 @@
     "deal_stage": "협상",
     "url": "https://www.topdaily.kr/articles/110335",
     "date": "2026.06.01"
-  },
-  {
-    "title": "[Why&Next]'1.6兆' 롯데렌탈 빅딜 무산…유동성 확보 시나리오 '흔들'",
-    "summary": "롯데그룹이 사모펀드 어피니티에쿼티파트너스에 롯데렌탈 지분을 약 1.6조원에 매각하려던 딜이 무산되었다.",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조5729억원",
-    "deal_stage": null,
-    "url": "https://view.asiae.co.kr/article/2026052016033041634",
-    "date": "2026.05.31"
   }
 ]
