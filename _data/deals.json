@@ -1,5 +1,76 @@
 [
   {
+    "title": "블랙스톤, 액추에이터 기업 퓨트로닉에 투자…휴머노이드·로보틱스 공...",
+    "summary": "블랙스톤이 자사 PEF를 통해 액추에이터 기업 퓨트로닉의 지분을 인수하는 계약을 체결했다.",
+    "company": "퓨트로닉",
+    "acquirer": "블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://biz.chosun.com/stock/stock_general/2026/07/20/EQJCWTSZN5B4TBT57P2VMAK6GA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.07.20"
+  },
+  {
+    "title": "블랙스톤, 1조 가치 액추에이터 기업 퓨트로닉 인수",
+    "summary": "글로벌 사모펀드 블랙스톤이 국내 액추에이터 기업 퓨트로닉의 지분 과반을 확보하며 인수한다.",
+    "company": "퓨트로닉",
+    "acquirer": "블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "계약",
+    "url": "https://www.yna.co.kr/view/AKR20260720089000008?input=1195m",
+    "date": "2026.07.20"
+  },
+  {
+    "title": "서진시스템 전동규 대표 구원투수…대신증권 손잡은 스틱크레딧",
+    "summary": "사모펀드 스틱크레딧이 대신증권 인수금융을 활용하여 서진시스템의 신규 투자자로 나서며 전동규 대표의 잔여 지분까지 함께 인수하는 거래를 완료했다.",
+    "company": "서진시스템",
+    "acquirer": "스틱크레딧",
+    "type": "lbo",
+    "tags": [
+      "lbo",
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.etoday.co.kr/news/view/2605117",
+    "date": "2026.07.20"
+  },
+  {
+    "title": "[단독] 블랙스톤, 액츄에이터社 퓨트로닉 품는다…휴머노이드 로봇 시장...",
+    "summary": "글로벌 PEF 블랙스톤이 국내 차량용 액츄에이터 기업 퓨트로닉을 인수하는 거래를 추진 중이다.",
+    "company": "퓨트로닉",
+    "acquirer": "블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202607203118r",
+    "date": "2026.07.20"
+  },
+  {
+    "title": "블랙스톤, 중견 차부품사 퓨트로닉 인수… 몸값만 1조원",
+    "summary": "블랙스톤이 운용하는 사모펀드가 중견 차부품사 퓨트로닉을 1조원 규모로 인수하는 계약을 체결했다.",
+    "company": "퓨트로닉",
+    "acquirer": "블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/12102297",
+    "date": "2026.07.20"
+  },
+  {
     "title": "카카오모빌리티와 시너지 기대…롯데렌탈 성장 스토리 커진다",
     "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수를 추진하고 있으며, 이에 따라 롯데렌탈의 기업가치 재평가 기대감이 커지고 있다.",
     "company": "롯데렌탈",
@@ -1340,76 +1411,5 @@
     "deal_stage": "협상",
     "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=842636",
     "date": "2026.06.03"
-  },
-  {
-    "title": "[더벨][Red & Blue] 주인 바뀐 케이카, 주가 회복 기대감",
-    "summary": "KG그룹이 기존 최대주주인 한앤컴퍼니로부터 케이카의 지분 약 72%를 인수한 거래가 완료된 후의 시장 동향을 다루는 PE 엑시트 및 전략적 M&A 딜이다.",
-    "company": "케이카",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605201611589840104378",
-    "date": "2026.05.21"
-  },
-  {
-    "title": "KDB생명 인수전 본격화…한투·흥국 이어 '생보 빅3' 참여",
-    "summary": "KDB생명 매각을 위한 인수전이 본격화되고 있으며, 한국투자금융지주, 태광그룹 계열사, 주요 생명보험사들이 잠재적 인수자로 거론되며 경영권 인수를 추진 중임.",
-    "company": "KDB생명보험",
-    "acquirer": "한국투자금융지주, 태광그룹 계열, 주요 생명보험사",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.popcornnews.net/news/articleView.html?idxno=122932",
-    "date": "2026.06.02"
-  },
-  {
-    "title": "[단독] 베인캐피탈, 스마트폰기판 소재기업 넥스플렉스 인수전 참전",
-    "summary": "글로벌 사모펀드(PEF) 베인캐피탈이 국내 1위 연성동박적층필름(FCCL) 제조기업 넥스플렉스 인수전에 참전하여 경쟁이 치열해지고 있다.",
-    "company": "넥스플렉스",
-    "acquirer": "베인캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "9000억원",
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12063978",
-    "date": "2026.06.02"
-  },
-  {
-    "title": "[더벨]영케미칼, 마스크팩 시트 1위 '피앤씨랩스' 품는다",
-    "summary": "영케미칼이 사모펀드 운용사 VIG파트너스로부터 마스크팩 시트 1위 기업인 피앤씨랩스 경영권을 포함한 지분 100%를 인수하는 주식매매계약(SPA)을 체결했다.",
-    "company": "피앤씨랩스",
-    "acquirer": "영케미칼",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606021202522120105250",
-    "date": "2026.06.02"
-  },
-  {
-    "title": "[매물 나온 맘스터치] 케이엘앤, 매각 전 잇단 원금 회수…1년새 부채비...",
-    "summary": "케이엘앤파트너스가 보유 중인 맘스터치(해마로푸드서비스)가 매물로 나오면서, 케이엘앤파트너스가 매각 전 유상감자 및 배당 등으로 투자 원금을 회수한 동향을 다루는 PE 엑싯 딜 기사.",
-    "company": "해마로푸드서비스",
-    "acquirer": "케이엘앤파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.topdaily.kr/articles/110335",
-    "date": "2026.06.01"
   }
 ]
