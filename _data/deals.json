@@ -1,5 +1,19 @@
 [
   {
+    "title": "['핀테크 대장' 페이팔의 추락… 어쩌다 '인수 표적' 됐나",
+    "summary": "경쟁사 스트라이프와 사모펀드 애드벤트인터내셔널이 '페이팔'을 530억달러 규모로 공동 인수하여 비상장회사로 전환하는 제안을 했다.",
+    "company": "페이팔",
+    "acquirer": "스트라이프, 애드벤트인터내셔널",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "530억달러",
+    "deal_stage": "소문",
+    "url": "https://magazine.hankyung.com/business/article/202607216015b",
+    "date": "2026.07.21"
+  },
+  {
     "title": "블랙스톤, 액추에이터 기업 퓨트로닉에 투자…휴머노이드·로보틱스 공...",
     "summary": "블랙스톤이 자사 PEF를 통해 액추에이터 기업 퓨트로닉의 지분을 인수하는 계약을 체결했다.",
     "company": "퓨트로닉",
@@ -1396,20 +1410,6 @@
     "ev": null,
     "deal_stage": "소문",
     "url": "https://www.ekn.kr/web/view.php?key=20260603029470232",
-    "date": "2026.06.03"
-  },
-  {
-    "title": "공차 나가고, 차지·차백도 들어오고…韓 밀크티 시장 판도 '격변'",
-    "summary": "미국계 사모펀드 TA어소시에이츠가 공차코리아 매각을 추진 중인 PE 엑시트 딜.",
-    "company": "공차코리아",
-    "acquirer": "TA어소시에이츠",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=842636",
     "date": "2026.06.03"
   }
 ]
