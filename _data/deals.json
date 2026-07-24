@@ -1,5 +1,61 @@
 [
   {
+    "title": "[단독] SK쉴더스 자회사 ‘캡스텍’ 판다…제네시스PE 우협 선정",
+    "summary": "SK쉴더스가 자회사 캡스텍을 제네시스PE에 매각하며, 제네시스PE가 캡스텍 인수의 우선협상대상자로 선정된 PE의 기업 인수 거래이다.",
+    "company": "캡스텍",
+    "acquirer": "제네시스PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10819191?ref=naver",
+    "date": "2026.07.24"
+  },
+  {
+    "title": "[재계줌인] 길어지는 불황에 몸집 줄이는 DL그룹…알짜 화학사 이어 자...",
+    "summary": "DL그룹이 화학 계열사 카리플렉스 매각을 추진하며, KKR, 블랙스톤 등 글로벌 사모펀드가 인수 후보로 거론되고 있다.",
+    "company": "카리플렉스",
+    "acquirer": "KKR, 블랙스톤",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조5000억원~2조원",
+    "deal_stage": "협상",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=100844",
+    "date": "2026.07.24"
+  },
+  {
+    "title": "앵커PE, 카카오엔터 인수금융 리파이낸싱 추진…3000억대 리캡 '부메랑'",
+    "summary": "앵커에쿼티파트너스가 기존에 인수한 카카오엔터테인먼트의 인수금융 약 3000억원 규모 리파이낸싱(리캡)을 추진하는 딜이다.",
+    "company": "카카오엔터테인먼트",
+    "acquirer": "앵커에쿼티파트너스",
+    "type": "lbo",
+    "tags": [
+      "lbo"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202607228383r",
+    "date": "2026.07.24"
+  },
+  {
+    "title": "SK쉴더스 자회사 ‘캡스텍’ 매각 [H-EXCLUSIVE]",
+    "summary": "SK쉴더스가 비핵심 사업 정리를 위해 자회사 캡스텍 매각을 추진 중이며, 다수 중견기업과 PEF 운용사가 인수 참여를 검토하고 있다.",
+    "company": "캡스텍",
+    "acquirer": "SK쉴더스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10819058?ref=naver",
+    "date": "2026.07.24"
+  },
+  {
     "title": "[Invest]e스포츠 LoL 구단 'DRX', 싱가포르 증시 입성 추진",
     "summary": "DRX의 최대주주인 사모펀드 운용사 ATU파트너스가 포트폴리오 회사 DRX의 싱가포르 증시 입성을 추진하며 엑싯을 모색하고 있다.",
     "company": "DRX",
@@ -1353,63 +1409,5 @@
     "deal_stage": "협상",
     "url": "https://www.newsway.co.kr/news/view?ud=2026060813382713603",
     "date": "2026.06.08"
-  },
-  {
-    "title": "'1조' 애큐온 매각 본입찰 개시…메리츠금융·한화생명 참전",
-    "summary": "약 1조원 규모로 예상되는 애큐온 매각 본입찰이 개시되었으며, 메리츠금융, 한화생명 등 전략적 투자자와 신생 사모펀드 운용사 컨소시엄 등이 인수전에 참여했다.",
-    "company": "애큐온",
-    "acquirer": "메리츠금융, 한화생명, E&F PE 출신 신생 사모펀드 운용사 컨소시엄 (세우글로벌 포함)",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "strategic"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026060517595321505",
-    "date": "2026.06.05"
-  },
-  {
-    "title": "[EU있는경제] 칼라일, 獨 플렌더 매각…얼어붙은 유럽 PE 회수시장에 '온...",
-    "summary": "칼라일이 독일 산업용 기어 및 커플링 제조사인 플렌더를 매각하며 유럽 PE 회수 시장에 긍정적인 신호탄을 쏘아 올렸다.",
-    "company": "플렌더",
-    "acquirer": "칼라일",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06435366645478768",
-    "date": "2026.06.05"
-  },
-  {
-    "title": "OK금융, 예별손보 인수 검토…종합금융그룹 전환 속도내나",
-    "summary": "OK금융이 예별손보 인수를 검토하며 종합금융그룹 전환을 추진하는 전략적 M&A 딜이다.",
-    "company": "예별손보",
-    "acquirer": "OK금융",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.mediapen.com/news/view/1103052",
-    "date": "2026.06.07"
-  },
-  {
-    "title": "카카오모빌리티 2대주주 TPG 엑시트 본격화, 류긍선 '피지컬 AI' 앞세워...",
-    "summary": "PEF TPG가 2대주주로 있는 카카오모빌리티의 엑시트를 본격화하고 있으며, 글로벌 모빌리티 기업 우버가 인수확약서를 제출하며 경영권 인수를 추진 중이다.",
-    "company": "카카오모빌리티",
-    "acquirer": "TPG",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=439394",
-    "date": "2026.06.07"
   }
 ]
