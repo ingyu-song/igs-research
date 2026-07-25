@@ -1,5 +1,33 @@
 [
   {
+    "title": "제네시스PE, 8000억 모은다…블라인드펀드 클로징 눈앞",
+    "summary": "제네시스PE는 2024년 보유 중이던 폐기물 업체 KJ환경을 글로벌 사모펀드 EQT파트너스에 1조2000억원 규모로 매각 완료했다.",
+    "company": "KJ환경",
+    "acquirer": "EQT파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10819520?ref=naver",
+    "date": "2026.07.25"
+  },
+  {
+    "title": "페이팔(PYPL), 530억 달러 인수전 격돌...\"2분기 실적이 운명 결정\"",
+    "summary": "스트라이프(Stripe)와 사모펀드 어드벤트 인터내셔널(Advent International)이 페이팔 홀딩스(PayPal Holdings)에 530억 달러가 넘는 공동 인수안을 제시하며 인수를 추진 중이다.",
+    "company": "PayPal Holdings",
+    "acquirer": "Stripe, Advent International",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "530억 달러",
+    "deal_stage": "협상",
+    "url": "http://coinreaders.com/249436",
+    "date": "2026.07.25"
+  },
+  {
     "title": "[단독] SK쉴더스 자회사 ‘캡스텍’ 판다…제네시스PE 우협 선정",
     "summary": "SK쉴더스가 자회사 캡스텍을 제네시스PE에 매각하며, 제네시스PE가 캡스텍 인수의 우선협상대상자로 선정된 PE의 기업 인수 거래이다.",
     "company": "캡스텍",
@@ -1379,35 +1407,6 @@
     "ev": "1조원",
     "deal_stage": "계약",
     "url": "https://www.asiatime.co.kr/article/20260608500314",
-    "date": "2026.06.08"
-  },
-  {
-    "title": "청호나이스, 칼라일에 지분 100% 매각",
-    "summary": "청호나이스가 미국 사모펀드 칼라일그룹에 지분 100%를 매각하는 최종 계약을 체결했다.",
-    "company": "청호나이스",
-    "acquirer": "칼라일그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.etnews.com/20260608000330",
-    "date": "2026.06.08"
-  },
-  {
-    "title": "애큐온 흥행 속 OSB 매각 착수…저축은행 M&A '재점화'",
-    "summary": "애큐온저축은행 매각이 진행 중인 가운데, OSB저축은행의 매각이 새롭게 착수되어 금융회사와 사모펀드들이 인수에 관심을 보이는 전략적 M&A 딜이다.",
-    "company": "OSB저축은행",
-    "acquirer": null,
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026060813382713603",
     "date": "2026.06.08"
   }
 ]
