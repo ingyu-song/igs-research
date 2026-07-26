@@ -1,5 +1,49 @@
 [
   {
+    "title": "SK하이닉스, 키옥시아 최대주주 되나…베인 엑시트·도시바 지분 축소",
+    "summary": "SK하이닉스가 미국 사모펀드 베인캐피털과 도시바가 키옥시아 지분을 처분하며 엑시트하는 상황에서 키옥시아의 최대주주가 될 가능성을 논의하는 딜.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01521926645518456",
+    "date": "2026.07.26"
+  },
+  {
+    "title": "폭스바겐 순이익 33% 급감...구조조정 가속",
+    "summary": "폭스바겐그룹이 엔진 계열사 에버렌스 지분 51%를 미국 사모펀드 베인캐피털에 매각 추진 중인 PE 인수 딜.",
+    "company": "에버렌스",
+    "acquirer": "베인캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.g-enews.com/view.php?ud=2026072607133638332bd56fbc3c_1",
+    "date": "2026.07.26"
+  },
+  {
+    "title": "롯데손보 인수 나선 신한 \"타협점 찾기 어렵네\"",
+    "summary": "토종 사모펀드 JKL파트너스가 보유한 롯데손해보험을 신한금융그룹에 공개 매각하기 위해 협상 중인 딜.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융그룹",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.dealsitetv.com/articles/173707",
+    "date": "2026.07.26"
+  },
+  {
     "title": "제네시스PE, 8000억 모은다…블라인드펀드 클로징 눈앞",
     "summary": "제네시스PE는 2024년 보유 중이던 폐기물 업체 KJ환경을 글로벌 사모펀드 EQT파트너스에 1조2000억원 규모로 매각 완료했다.",
     "company": "KJ환경",
@@ -1366,47 +1410,5 @@
     "deal_stage": "협상",
     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606110387&t=NNv",
     "date": "2026.06.11"
-  },
-  {
-    "title": "[더벨]비에이PE-TKG벤처스, 윌비에스엔티 새 주인으로 등극",
-    "summary": "신생 사모펀드 운용사 비에이PE가 TKG벤처스와 함께 윌비에스엔티를 인수하며 새로운 주인이 된다.",
-    "company": "윌비에스엔티",
-    "acquirer": "비에이PE, TKG벤처스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606041638149800105089",
-    "date": "2026.06.10"
-  },
-  {
-    "title": "홈플러스, 5년 누적 적자 3조원 육박…기업회생 '적신호'",
-    "summary": "하림그룹이 기업형 슈퍼마켓인 홈플러스 익스프레스의 인수를 추진하며 현재 실사를 진행 중이다.",
-    "company": "홈플러스 익스프레스",
-    "acquirer": "하림그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.mtn.co.kr/news-detail/2026060913095974952",
-    "date": "2026.06.09"
-  },
-  {
-    "title": "청호나이스, 칼라일에 지분 전량 매각…1조원대 본계약 체결",
-    "summary": "글로벌 사모펀드 칼라일이 청호나이스 창업주 유족으로부터 지분 전량을 1조원대에 인수하는 본계약을 체결했다.",
-    "company": "청호나이스",
-    "acquirer": "칼라일",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "계약",
-    "url": "https://www.asiatime.co.kr/article/20260608500314",
-    "date": "2026.06.08"
   }
 ]
