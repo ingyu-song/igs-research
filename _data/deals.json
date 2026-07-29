@@ -1,5 +1,34 @@
 [
   {
+    "title": "KT·아모레, AI 연구비서 도입…12일 걸리던 업무 5분으로",
+    "summary": "신세계인터내셔날이 APLB 브랜드를 보유한 유엘코퍼레이션에 150억 원 규모의 출자를 검토 중이다.",
+    "company": "유엘코퍼레이션",
+    "acquirer": "신세계인터내셔날",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "150억원",
+    "deal_stage": "검토",
+    "url": "https://www.sedaily.com/article/20073182?ref=naver",
+    "date": "2026.07.29"
+  },
+  {
+    "title": "[단독] 정의선·정경선 '현대家' 수소로 뭉쳤다…록펠러·인니 재벌도 가...",
+    "summary": "전문 사모펀드 운용사와 현대가가 하이버스 지분 49%를 인수하여 수소 충전 사업에 본격적으로 진출하는 PE 투자 딜이다.",
+    "company": "하이버스",
+    "acquirer": "전문 사모펀드 운용사",
+    "type": "acq",
+    "tags": [
+      "acq",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.theguru.co.kr/news/article.html?no=105050",
+    "date": "2026.07.29"
+  },
+  {
     "title": "하학열 고성군수 “SK오션플랜트 매각 즉각 철회하라”",
     "summary": "고성군수가 SK오션플랜트의 사모펀드 매각 추진에 대해 철회를 요구하며, 인수 주체로 SK에 준하는 대기업을 제안했다.",
     "company": "SK오션플랜트",
@@ -1383,33 +1412,5 @@
     "deal_stage": "완료",
     "url": "https://www.the-stock.kr/news/articleView.html?idxno=32724",
     "date": "2026.06.15"
-  },
-  {
-    "title": "홈플러스, 익스프레스 매각에도 안갯속...회생시계 3주도 안 남았다",
-    "summary": "MBK파트너스가 대주주인 홈플러스가 홈플러스 익스프레스 매각을 완료하고, 홈플러스 잔존 사업부 매각을 추진 중인 PE 엑싯(Exit) 딜이다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ajunews.com/view/20260614123246143",
-    "date": "2026.06.14"
-  },
-  {
-    "title": "애큐온 흥행에 OSB·대원까지…다시 불붙은 저축은행 인수전",
-    "summary": "EQT파트너스가 보유한 애큐온캐피탈 지분 96.06% 매각이 추진 중이며, 사모펀드 운용사 바이칼인베스트먼트 등이 인수에 참여하고 있다.",
-    "company": "애큐온캐피탈",
-    "acquirer": "EQT파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.dailian.co.kr/news/view/1655400/?sc=Naver",
-    "date": "2026.06.14"
   }
 ]
