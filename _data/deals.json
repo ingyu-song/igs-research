@@ -1,5 +1,47 @@
 [
   {
+    "title": "모트렉스이에프엠, 두올 인수에 모회사 활용…1452억 유증",
+    "summary": "모트렉스이에프엠이 모회사를 활용하여 두올을 인수하며, 이를 위해 1452억원 규모의 유상증자를 진행하는 전략적 M&A 딜.",
+    "company": "두올",
+    "acquirer": "모트렉스이에프엠",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1452억원",
+    "deal_stage": "계약",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=669621",
+    "date": "2026.07.31"
+  },
+  {
+    "title": "[뉴스줌인] 전쟁이 바꾼 드론 전장…글로벌 방산 자금, 스타트업과 K방...",
+    "summary": "프랑스 탈레스가 해양 로보틱스·항법 기업 엑세일테크놀로지스를 39억유로에 인수하기로 한 전략적 M&A 거래이다.",
+    "company": "엑세일테크놀로지스",
+    "acquirer": "탈레스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "39억유로",
+    "deal_stage": "계약",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=101108",
+    "date": "2026.07.31"
+  },
+  {
+    "title": "제네시스PE, 8000억 확보...블라인드펀드 클로징 눈앞",
+    "summary": "제네시스PE가 2020년 인수한 KJ환경을 2024년 글로벌 사모펀드 EQT파트너스에 1조2000억원에 매각하며 엑싯했다.",
+    "company": "KJ환경",
+    "acquirer": "제네시스PE",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10826931?ref=naver",
+    "date": "2026.07.31"
+  },
+  {
     "title": "그린리소스 종속기업 씨이케이, 큐이디서 105억원 투자 유치",
     "summary": "전문 사모펀드(PEF) 운용사 큐이디가 그린리소스의 종속기업인 씨이케이의 상환전환우선주(RCPS)를 인수하며 105억원 규모의 투자를 단행했다.",
     "company": "씨이케이",
@@ -1370,47 +1412,5 @@
     "deal_stage": "소문",
     "url": "https://www.seoulfn.com/news/articleView.html?idxno=631549",
     "date": "2026.06.20"
-  },
-  {
-    "title": "현대차그룹, 보스턴다이내믹스 100% 자회사화…소프트뱅크 잔여 지분 인...",
-    "summary": "현대차그룹이 소프트뱅크로부터 보스턴다이내믹스의 잔여 지분을 인수하여 100% 자회사로 편입하는 전략적 M&A 거래이다.",
-    "company": "Boston Dynamics",
-    "acquirer": "현대차그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545043",
-    "date": "2026.06.20"
-  },
-  {
-    "title": "태광산업 컨소시엄, 케이조선 인수 최종 결렬",
-    "summary": "태광산업 컨소시엄이 케이조선 경영권 인수를 추진했으나 최종 결렬된 M&A 딜이다.",
-    "company": "케이조선",
-    "acquirer": "태광산업 컨소시엄",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://view.asiae.co.kr/article/2026061920551415602",
-    "date": "2026.06.19"
-  },
-  {
-    "title": "제이앤PE, 솔브레인그룹과 '재회'…2호 펀드 소진 속도",
-    "summary": "제이앤프라이빗에쿼티(제이앤PE)가 솔브레인홀딩스가 발행하는 전환사채(CB)를 인수하며 투자했다.",
-    "company": "솔브레인홀딩스",
-    "acquirer": "제이앤프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2594389",
-    "date": "2026.06.17"
   }
 ]
