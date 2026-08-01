@@ -1,5 +1,47 @@
 [
   {
+    "title": "한진 공익법인 3곳, 연내 한진칼 지분 1.19% 매입…호반 공세 차단",
+    "summary": "한진 공익법인 3곳이 경영권 방어를 목적으로 연내 한진칼 지분 1.19%를 매입할 예정이다.",
+    "company": "한진칼",
+    "acquirer": "한진 공익법인 3곳",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.news1.kr/industry/general-industry/6245653",
+    "date": "2026.08.01"
+  },
+  {
+    "title": "군산조선소 매각, 7800억원의 셈법 뒤에 숨은 '지속성', '먹튀' 우려",
+    "summary": "사모펀드(PEF)가 군산조선소를 7800억원 규모로 인수한 거래에서, 인수 대금 조달 리스크와 향후 독자 생존 가능성에 대한 우려가 제기되었다.",
+    "company": "군산조선소",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "7800억원",
+    "deal_stage": "완료",
+    "url": "http://www.jbsori.com/news/articleView.html?idxno=17673",
+    "date": "2026.08.01"
+  },
+  {
+    "title": "[단독] 유동성 벼랑끝 성이바이오제약, 보령바이오 수혈로 기사회생",
+    "summary": "보령바이오가 유동성 위기에 처한 성이바이오제약을 인수하여 회생시키는 전략적 M&A 딜이다.",
+    "company": "성이바이오제약",
+    "acquirer": "보령바이오",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78099",
+    "date": "2026.08.01"
+  },
+  {
     "title": "모트렉스이에프엠, 두올 인수에 모회사 활용…1452억 유증",
     "summary": "모트렉스이에프엠이 모회사를 활용하여 두올을 인수하며, 이를 위해 1452억원 규모의 유상증자를 진행하는 전략적 M&A 딜.",
     "company": "두올",
@@ -1370,47 +1412,5 @@
     "deal_stage": "협상",
     "url": "https://www.etoday.co.kr/news/view/2595342",
     "date": "2026.06.21"
-  },
-  {
-    "title": "사모펀드 인수전의 새 계산법…율곡 매각 변수 된 고용안정[위클리IB]",
-    "summary": "사모펀드들이 율곡 인수전에 참여하고 있으며, 고용 안정이 주요 변수로 떠오르고 있는 율곡 매각 딜이 추진되고 있다.",
-    "company": "율곡",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01387446645483688",
-    "date": "2026.06.20"
-  },
-  {
-    "title": "‘1조 몸값’ 꿈꿨던 토종 앱마켓…원스토어의 10년 잔혹사",
-    "summary": "블록체인 게임업체 넥써쓰가 원스토어를 인수하는 전략적 M&A 딜이 금융감독원 전자공시시스템을 통해 발표되었다.",
-    "company": "원스토어",
-    "acquirer": "넥써쓰",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01259526645483688",
-    "date": "2026.06.20"
-  },
-  {
-    "title": "[OTT가이드] 중앙그룹 채무불이행, 콘텐츠 시장에는 어떤 영향이?",
-    "summary": "중앙그룹이 현금 확보를 위해 SSLL중앙 매각을 추진할 가능성이 제기되었으며, 사모펀드인 프랙시스캐피탈이 유력한 인수 후보군으로 거론되고 있다.",
-    "company": "SLL중앙",
-    "acquirer": "프랙시스캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.seoulfn.com/news/articleView.html?idxno=631549",
-    "date": "2026.06.20"
   }
 ]
