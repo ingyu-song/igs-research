@@ -1,5 +1,89 @@
 [
   {
+    "title": "전환가 밑돈 롯데관광개발…도미누스, CB 350억 회수 나선다 [fn마켓워치...",
+    "summary": "PEF 운용사 도미누스인베스트먼트가 롯데관광개발의 전환사채(CB) 투자금 350억원을 회수할 계획이다.",
+    "company": "롯데관광개발",
+    "acquirer": "도미누스인베스트먼트",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "350억원",
+    "deal_stage": "협상",
+    "url": "http://www.fnnews.com/news/202608020908448472",
+    "date": "2026.08.02"
+  },
+  {
+    "title": "[한화그룹 3세 승진-김동선] 아워홈 인수·HBM 장비 진입…독자 지주 띄...",
+    "summary": "사모펀드가 아워홈 인수를 추진하며 양해각서(MOU) 협상 기한을 연장했다.",
+    "company": "아워홈",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ekn.kr/web/view.php?key=20260802022248377",
+    "date": "2026.08.02"
+  },
+  {
+    "title": "[커버스토리] '30만주 차' 호반그룹, 대한항공 경영권 노린다… 한진칼...",
+    "summary": "호반그룹이 2022년 사모펀드 KCGI로부터 인수한 한진칼 지분을 꾸준히 늘려 현재 대한항공의 경영권 확보를 추진하고 있다.",
+    "company": "한진칼",
+    "acquirer": "호반그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=42775",
+    "date": "2026.08.02"
+  },
+  {
+    "title": "롯데손보 인수 불투명…신한금융 비은행 퍼즐 다시 짜나",
+    "summary": "사모펀드 JKL파트너스가 보유한 롯데손해보험의 공개매각이 추진되고 있으며, 잠재적 인수자인 신한금융의 인수 불투명으로 딜 향방에 관심이 쏠린다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.asiatime.co.kr/article/20260731500115",
+    "date": "2026.08.02"
+  },
+  {
+    "title": "한화家 3세 체제 본격화…삼남 김동선, 첫 성적표 받는다",
+    "summary": "사모펀드(PEF) 운용사 H&Q에쿼티파트너스가 파이브가이즈 운영사 에프지코리아 인수를 위한 SPA 체결을 앞두고 본실사를 마무리할 예정이다.",
+    "company": "에프지코리아",
+    "acquirer": "H&Q에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://weekly.chosun.com/news/articleView.html?idxno=53920",
+    "date": "2026.08.02"
+  },
+  {
+    "title": "MBK 지분 쥔 블루아울, ‘검증된 파트너’ 신뢰 흔들리나",
+    "summary": "블루아울(다이얼캐피탈)이 MBK파트너스의 GP 지분을 인수하여 주요 주주가 된 딜.",
+    "company": "MBK파트너스",
+    "acquirer": "블루아울",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02279606645353800",
+    "date": "2026.02.24"
+  },
+  {
     "title": "한진 공익법인 3곳, 연내 한진칼 지분 1.19% 매입…호반 공세 차단",
     "summary": "한진 공익법인 3곳이 경영권 방어를 목적으로 연내 한진칼 지분 1.19%를 매입할 예정이다.",
     "company": "한진칼",
@@ -1328,89 +1412,5 @@
     "deal_stage": "계약",
     "url": "https://www.dailypharm.com/user/news/339782?REFERER=NP",
     "date": "2026.06.25"
-  },
-  {
-    "title": "크레센도PE, 동아지질 매각 티저레터 배포… 실적 반등에 엑시트 재도전",
-    "summary": "크레센도PE가 보유 중인 동아지질의 매각을 위해 투자안내서(티저 레터)를 배포하며 엑시트를 재추진하고 있다.",
-    "company": "동아지질",
-    "acquirer": "크레센도PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/06/25/NVIKW63GPRGZXHLV3OBDDLEYHI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.06.25"
-  },
-  {
-    "title": "MBK, 美 CFIUS 대응 로비 강화…고려아연 ‘中자본 논란’ 의식했나",
-    "summary": "MBK파트너스가 고려아연에 대한 적대적 인수합병을 추진하며 미국 CFIUS 심사 통과를 위해 로비 활동을 강화하고 있다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.kyeonggi.com/article/20260507580029",
-    "date": "2026.05.07"
-  },
-  {
-    "title": "SK TNS 확실히 팔고 싶은 알케미스트... 두 우협에 “보증금 50억 내라”",
-    "summary": "알케미스트로 추정되는 SK TNS 대주주 사모펀드(PEF)가 정보통신 인프라 시공업체 SK TNS의 매각 작업을 추진하고 있다.",
-    "company": "SK TNS",
-    "acquirer": "알케미스트",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/06/24/HH34PMUSOBHD3CBULNBXIPLVYQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.06.24"
-  },
-  {
-    "title": "메인스트리트인베, 방산 소부장 이너트론에 180억",
-    "summary": "PEF 운용사 메인스트리트인베스트먼트가 방산 소부장 기업 이너트론에 180억원을 투자하여 CB 및 구주를 인수하고 2대 주주에 오르는 PE 투자 딜.",
-    "company": "이너트론",
-    "acquirer": "메인스트리트인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "180억원",
-    "deal_stage": "완료",
-    "url": "https://dealsite.co.kr/articles/164117",
-    "date": "2026.06.24"
-  },
-  {
-    "title": "S&P500 재편…허니웰 에어로스페이스(HONA) 편입, 자누스헨더슨(JHG) 52달...",
-    "summary": "자누스헨더슨(JHG)이 독일 프랑크푸르트 기반 란툼 캐피털을 인수하여 유럽 사모신용 및 사모펀드 시장 공략을 강화하는 전략적 M&A 딜이다. 해당 거래는 2026년 3분기 완료가 예상된다.",
-    "company": "란툼 캐피털",
-    "acquirer": "자누스헨더슨",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.tokenpost.kr/news/market/372349",
-    "date": "2026.06.24"
-  },
-  {
-    "title": "그린에코솔루션 매각 난항…5000억 몸값 '시각차'",
-    "summary": "PE 한앤컴퍼니가 보유한 그린에코솔루션의 매각 작업이 난항을 겪고 있으며, 아주산업과 노앤파트너스가 인수 후보로 참여한 PE 엑싯 딜이다.",
-    "company": "그린에코솔루션",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2595342",
-    "date": "2026.06.21"
   }
 ]
