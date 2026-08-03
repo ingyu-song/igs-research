@@ -1,5 +1,47 @@
 [
   {
+    "title": "LX인베, 반도체 SSP 딜 클로징…3년 만에 두배 회수[마켓인]",
+    "summary": "LX인베스트먼트가 보유하던 반도체 장비회사 에스에스피(SSP) 지분 매각 거래가 마무리되었으며, 케이스톤파트너스가 이를 인수했다.",
+    "company": "에스에스피",
+    "acquirer": "케이스톤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "4000억원",
+    "deal_stage": "완료",
+    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03263606645543712",
+    "date": "2026.08.03"
+  },
+  {
+    "title": "유럽축구연맹, FIFA 상대 법적 조치 돌입···\"월드컵 지분 매각 관련 ...",
+    "summary": "조슈아 쿠슈너가 이끄는 사모펀드가 FIFA가 신설하려던 영리법인의 지분 20%를 42억 달러에 인수하려던 PE의 기업 인수 추진 딜.",
+    "company": "FIFA가 신설하려던 영리법인",
+    "acquirer": "조슈아 쿠슈너가 이끄는 PE펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "42억 달러",
+    "deal_stage": "협상",
+    "url": "https://www.smartbizn.com/news/articleView.html?idxno=150167",
+    "date": "2026.08.03"
+  },
+  {
+    "title": "[롯데렌탈 M&A] TPG 독주 흔든 한국앤컴퍼니…인수전 '새 국면'",
+    "summary": "글로벌 사모펀드 TPG가 독주하던 롯데렌탈 경영권 인수전에 한국앤컴퍼니그룹이 참여를 검토하며 인수전이 새 국면을 맞이하고 있음.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG, 한국앤컴퍼니그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=669842",
+    "date": "2026.08.03"
+  },
+  {
     "title": "전환가 밑돈 롯데관광개발…도미누스, CB 350억 회수 나선다 [fn마켓워치...",
     "summary": "PEF 운용사 도미누스인베스트먼트가 롯데관광개발의 전환사채(CB) 투자금 350억원을 회수할 계획이다.",
     "company": "롯데관광개발",
@@ -1370,47 +1412,5 @@
     "deal_stage": "협상",
     "url": "http://www.fntimes.com/html/view.php?ud=202606291211223870a837df6494_18",
     "date": "2026.06.29"
-  },
-  {
-    "title": "롯데손해보험, 신한·한투 인수 검토 소식에 '상한가'[특징주]",
-    "summary": "신한금융은 롯데손해보험 최대주주인 사모펀드 운용사 JKL파트너스와 롯데손해보험 경영권 인수를 위한 비공개 협상에 착수했다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026062914240103867",
-    "date": "2026.06.29"
-  },
-  {
-    "title": "[캐나다 특징주] 비타민 업체 제이미슨 웰니스, 매각 가능성 검토",
-    "summary": "제이미슨 웰니스(Jamieson Wellness)가 매각 가능성을 검토하며 사모펀드 및 전략적 인수 후보들과 접촉 중이다.",
-    "company": "제이미슨 웰니스",
-    "acquirer": null,
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.newspim.com/news/view/20260625000772",
-    "date": "2026.06.25"
-  },
-  {
-    "title": "'기술수출 5건' 에이프릴, 주인 바뀐다…TKG, 3468억 빅딜",
-    "summary": "TKG그룹 계열사와 IMM 계열 PEF 운용사 투자자들이 총 3468억원 규모로 에이프릴의 보통주를 인수하여 주인이 바뀌는 M&A 딜입니다.",
-    "company": "에이프릴",
-    "acquirer": "TKG그룹, IMM자산운용, IMM스케일업바이오 제1호 유한회사",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3468억원",
-    "deal_stage": "계약",
-    "url": "https://www.dailypharm.com/user/news/339782?REFERER=NP",
-    "date": "2026.06.25"
   }
 ]
