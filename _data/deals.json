@@ -1,5 +1,19 @@
 [
   {
+    "title": "맥쿼리, 얼라인에 재반박…“가비아 공개매수 중요정보 모두 공시”[시...",
+    "summary": "맥쿼리(사모펀드 운용사)는 가비아 최대주주 지분 인수와 함께 주당 4만 8000원에 잔여 지분 공개매수를 진행하여 가비아를 완전 자회사로 편입, 상장폐지하는 PE 바이아웃 딜을 추진 중이다.",
+    "company": "가비아",
+    "acquirer": "맥쿼리",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.sedaily.com/article/20075498?ref=naver",
+    "date": "2026.08.04"
+  },
+  {
     "title": "LX인베, 반도체 SSP 딜 클로징…3년 만에 두배 회수[마켓인]",
     "summary": "LX인베스트먼트가 보유하던 반도체 장비회사 에스에스피(SSP) 지분 매각 거래가 마무리되었으며, 케이스톤파트너스가 이를 인수했다.",
     "company": "에스에스피",
@@ -1397,20 +1411,6 @@
     "ev": null,
     "deal_stage": "완료",
     "url": "https://biz.chosun.com/stock/stock_general/2026/06/29/TH6KG5IFRND3RKSBSZSXA4E3JI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.06.29"
-  },
-  {
-    "title": "[THE COMPASS] 코스피 8000시대, 여전히 발목 잡는 기업 지배구조",
-    "summary": "사모펀드 어피니티가 호텔롯데와 부산롯데호텔로부터 롯데렌탈 지분을 인수하려 했으나, 공정거래위원회가 독과점 문제로 제동을 건 PE 인수 딜.",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.fntimes.com/html/view.php?ud=202606291211223870a837df6494_18",
     "date": "2026.06.29"
   }
 ]
