@@ -1,5 +1,19 @@
 [
   {
+    "title": "사우디 PIF, 79조원에 EA 인수… 29조원 부채 부담",
+    "summary": "사우디 국부펀드 PIF와 미국 사모펀드 실버레이크, 투자회사 어피니티파트너스 컨소시엄이 EA를 79조원에 인수 완료했으며, EA는 나스닥에서 상장 폐지된다.",
+    "company": "EA",
+    "acquirer": "사우디 PIF, 실버레이크, 어피니티파트너스 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "79조원",
+    "deal_stage": "완료",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167353",
+    "date": "2026.08.05"
+  },
+  {
     "title": "맥쿼리, 얼라인에 재반박…“가비아 공개매수 중요정보 모두 공시”[시...",
     "summary": "맥쿼리(사모펀드 운용사)는 가비아 최대주주 지분 인수와 함께 주당 4만 8000원에 잔여 지분 공개매수를 진행하여 가비아를 완전 자회사로 편입, 상장폐지하는 PE 바이아웃 딜을 추진 중이다.",
     "company": "가비아",
@@ -1397,20 +1411,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.huffingtonpost.kr/article/258310",
-    "date": "2026.06.29"
-  },
-  {
-    "title": "부동산 디벨로퍼 마인42, 강남 빌딩 팔아 ‘씨엘자산운용’ 인수",
-    "summary": "부동산 디벨로퍼 마인42가 강남 빌딩 매각 대금으로 사모펀드(PEF) 운용사 씨엘자산운용의 박진석 대표 지분 등 총 90%를 인수하며 경영권을 확보했다.",
-    "company": "씨엘자산운용",
-    "acquirer": "마인42",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/06/29/TH6KG5IFRND3RKSBSZSXA4E3JI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
     "date": "2026.06.29"
   }
 ]
