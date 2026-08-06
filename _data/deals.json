@@ -1,5 +1,61 @@
 [
   {
+    "title": "Sh수협은행, 상상인증권 인수 추진…비은행 사업 확대 나서",
+    "summary": "Sh수협은행이 비은행 사업 확대를 위해 상상인증권 인수를 추진하고 있다.",
+    "company": "상상인증권",
+    "acquirer": "Sh수협은행",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://sateconomy.co.kr/news/view/1065580534409848",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "[Invest]Sh수협은행, 상상인증권 인수 추진…비은행 확대 속도",
+    "summary": "Sh수협은행이 상상인증권 인수를 추진하며 비은행 사업 확대를 모색하는 전략적 M&A 딜이다.",
+    "company": "상상인증권",
+    "acquirer": "Sh수협은행",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/08/06/2026080680078.html",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "Sh수협은행,상상인증권 인수한다…연내 거래완료 추진",
+    "summary": "Sh수협은행이 비은행 사업확대 및 금융지주체제 구축을 위해 상상인증권을 인수하는 전략적 M&A 딜을 추진 중이다.",
+    "company": "상상인증권",
+    "acquirer": "Sh수협은행",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.seouleconews.com/news/articleView.html?idxno=92891",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "수협은행, 상상인증권 품는다…비은행 포트폴리오 ‘퍼즐’ 맞추기 속도",
+    "summary": "수협은행이 상상인증권을 직접 인수하여 계열사로 편입하며 비은행 포트폴리오를 강화하는 전략적 M&A 딜이다.",
+    "company": "상상인증권",
+    "acquirer": "수협은행",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.dt.co.kr/article/12076887?ref=naver",
+    "date": "2026.08.06"
+  },
+  {
     "title": "사우디 PIF, 79조원에 EA 인수… 29조원 부채 부담",
     "summary": "사우디 국부펀드 PIF와 미국 사모펀드 실버레이크, 투자회사 어피니티파트너스 컨소시엄이 EA를 79조원에 인수 완료했으며, EA는 나스닥에서 상장 폐지된다.",
     "company": "EA",
@@ -1353,64 +1409,5 @@
     "deal_stage": "계약",
     "url": "https://www.newsinside.kr/news/articleView.html?idxno=4802853",
     "date": "2026.06.30"
-  },
-  {
-    "title": "M&A 준비 끝낸 케이카, 남은 문턱은",
-    "summary": "매도자 한앤컴퍼니가 보유한 케이카 지분 72.19%를 KG스틸과 캑터스프라이빗에쿼티에 약 5500억원에 매각하는 PE 엑싯 및 전략적 M&A 딜이다.",
-    "company": "케이카",
-    "acquirer": "KG스틸, 캑터스프라이빗에쿼티",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": "5500억원",
-    "deal_stage": "계약",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45853",
-    "date": "2026.06.29"
-  },
-  {
-    "title": "[더벨][Board Change] 케이카, KG 체제로 이사회 전면 개편 추진",
-    "summary": "KG그룹과 PEF 운용사 캑터스PE가 PEF 운용사 한앤컴퍼니로부터 케이카 지분 72.19%를 약 5500억원에 인수하는 PE 바이아웃 및 전략적 M&A 딜이다.",
-    "company": "케이카",
-    "acquirer": "KG그룹, 캑터스프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "exit",
-      "strategic"
-    ],
-    "ev": "5500억원",
-    "deal_stage": "계약",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606231433419160103843",
-    "date": "2026.06.26"
-  },
-  {
-    "title": "[더벨][TKG태광, 에이프릴바이오 인수] 에이프릴 품는 TKG, 반도체 쏠림...",
-    "summary": "TKG태광이 에이프릴바이오를 인수하는 전략적 M&A 딜이다. TKG그룹의 기존 포트폴리오를 반도체 소재·부품 분야로 확장하는 움직임으로 분석된다.",
-    "company": "에이프릴바이오",
-    "acquirer": "TKG태광",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606250643170060103931",
-    "date": "2026.06.26"
-  },
-  {
-    "title": "신한금융 회장 진옥동이 롯데손해보험 두고 고민하는 이유 : 리딩금융 ...",
-    "summary": "신한금융그룹이 롯데손해보험의 최대주주인 사모펀드 JKL파트너스와 롯데손해보험 인수를 위한 비공개 협상을 진행하며 적극적으로 검토하고 있다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.huffingtonpost.kr/article/258310",
-    "date": "2026.06.29"
   }
 ]
