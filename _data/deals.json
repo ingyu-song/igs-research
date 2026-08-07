@@ -1,5 +1,173 @@
 [
   {
+    "title": "[PEF 머니맵] VIG의 오토플러스, 실적 정점서 '새 주인 찾기'",
+    "summary": "사모펀드 운용사 VIG파트너스가 포트폴리오 기업 오토플러스 매각을 추진 중이며, 현대글로비스가 인수를 논의하고 있다.",
+    "company": "오토플러스",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=670347",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "상상인증권, 'Sh수협은행 인수' 기대감에 29%대 강세",
+    "summary": "상상인증권이 비은행 사업 확대를 위해 Sh수협은행 인수를 추진하고 있다는 소식으로 인한 전략적 M&A 딜이다.",
+    "company": "수협은행",
+    "acquirer": "상상인증권",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=80378",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "상상인증권 지분 65% 통매각 실사…Sh수협은행, 2000억 딜 품나",
+    "summary": "Sh수협은행이 상상인증권 지분 65% 인수를 위한 실사를 진행하며, 비은행 사업 확대 및 금융지주 체제 구축을 목표로 하는 전략적 M&A 딜이다.",
+    "company": "상상인증권",
+    "acquirer": "Sh수협은행",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2000억원",
+    "deal_stage": "협상",
+    "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363211",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "코웨이 비렉스, 3654억 매출로 침대시장 재편…‘1위’ 기준 논쟁은 변...",
+    "summary": "글로벌 사모펀드 칼라일은 청호나이스로부터 마이크로필터, 엠씨엠, 나이스엔지니어링 등 4개 법인 지분 전량을 인수하는 주식매매계약을 체결했다.",
+    "company": "마이크로필터, 엠씨엠, 나이스엔지니어링",
+    "acquirer": "칼라일",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "계약",
+    "url": "https://thetracker.co.kr/View.aspx?No=4177298",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "원금 대비 2배 수익…3호펀드 성공적 회수 앞둔 사모펀드 VIG",
+    "summary": "포컴파트너스는 유영산업 인수를 위한 펀딩을 진행하고 있으며, 이는 PEF의 기업 인수(Acquisition) 거래에 해당한다.",
+    "company": "유영산업",
+    "acquirer": "포컴파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1500억원",
+    "deal_stage": "협상",
+    "url": "https://view.asiae.co.kr/article/2026080616011456372",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "공차, 9000억원에 베인캐피탈에 매각…미주·유럽 진출 속도",
+    "summary": "밀크티 프랜차이즈 공차가 글로벌 사모펀드 베인캐피탈에 9000억원 규모로 인수되는 PE 바이아웃 거래이다.",
+    "company": "공차",
+    "acquirer": "베인캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "9000억원",
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10833588?ref=naver",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "사우디 오일머니, '심즈' EA 78조원에 삼켰다",
+    "summary": "PLE, 실버레이크, 어피니티파트너스로 구성된 컨소시엄이 EA를 78조원에 인수하며 EA는 상장 폐지되었다.",
+    "company": "EA",
+    "acquirer": "PLE, 실버레이크, 어피니티파트너스 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "78조원",
+    "deal_stage": "완료",
+    "url": "https://www.insight.co.kr/news/566945",
+    "date": "2026.08.07"
+  },
+  {
+    "title": "버거·커피·치킨까지 줄줄이 매물…외식 프랜차이즈 M&A '활기'",
+    "summary": "홍콩계 사모펀드 어피니티에쿼티파트너스가 버거킹과 팀홀튼을 운영하는 BKR 매각에 다시 나섰다.",
+    "company": "BKR",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원 안팎",
+    "deal_stage": "협상",
+    "url": "https://www.ajunews.com/view/20260804235805437",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "롯데렌탈 인수 복잡해진 셈법…'기업결합' 여전한 숙제[마켓인]",
+    "summary": "호텔롯데와 부산롯데호텔이 보유한 롯데렌탈 지분 61.18%에 대한 매각이 협상 중이며, 매각가는 1조원대 초중반이 거론된다.",
+    "company": "롯데렌탈",
+    "acquirer": "호텔롯데, 부산롯데호텔",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1조원대 초중반",
+    "deal_stage": "협상",
+    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06655126645544696",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "밀크티 브랜드 ‘공차’…글로벌 사모펀드 베인캐피털이 품는다 [시그널...",
+    "summary": "글로벌 사모펀드 베인캐피털이 밀크티 브랜드 공차의 지분 100%를 기존 대주주였던 어피니티에쿼티파트너스로부터 7500억 원에 인수하며 PE 바이아웃 딜을 완료했다.",
+    "company": "공차",
+    "acquirer": "베인캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "7500억원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20076414?ref=naver",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "롯데렌탈, 장기렌트가 견인한 호실적…“경영권 매각이 주가 분수령”",
+    "summary": "롯데렌탈의 최대주주인 호텔롯데가 미국계 사모펀드 TPG에 롯데렌탈 지분 61.18% 매각을 위한 실사를 진행 중인 PE 인수 거래.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12118895",
+    "date": "2026.08.06"
+  },
+  {
+    "title": "공차, 2조 매물로 다시 나왔지만···해외 성장성에도 국내 리스크 '발...",
+    "summary": "공차의 기존 대주주인 어피니티에쿼티파트너스가 회사를 2조원 매물로 다시 내놓았으며, MBK파트너스가 유력한 인수 후보로 거론되고 있다.",
+    "company": "공차",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2조원",
+    "deal_stage": "협상",
+    "url": "https://www.smartbizn.com/news/articleView.html?idxno=150234",
+    "date": "2026.08.04"
+  },
+  {
     "title": "Sh수협은행, 상상인증권 인수 추진…비은행 사업 확대 나서",
     "summary": "Sh수협은행이 비은행 사업 확대를 위해 상상인증권 인수를 추진하고 있다.",
     "company": "상상인증권",
@@ -1237,177 +1405,5 @@
     "deal_stage": "협상",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46078",
     "date": "2026.07.07"
-  },
-  {
-    "title": "보험은 저축은행으로, 저축은행은 보험으로",
-    "summary": "한화생명이 사모펀드 EQT파트너스가 보유한 애큐온캐피탈 지분 96.06%를 인수하여 애큐온저축은행까지 품은 전략적 M&A 거래이다.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.naeil.com/news/read/594480?ref=naver",
-    "date": "2026.07.07"
-  },
-  {
-    "title": "한양증권 500억 유증 법정行…KCGI '책임경영'이냐, 지배력 확대냐",
-    "summary": "사모펀드 KCGI가 한양증권의 500억원 규모 유상증자에 참여해 지배력을 확대하려는 움직임이 법적 쟁점으로 부각되고 있다.",
-    "company": "한양증권",
-    "acquirer": "KCGI",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "500억원",
-    "deal_stage": "협상",
-    "url": "http://www.newslock.co.kr/news/articleView.html?idxno=132682",
-    "date": "2026.07.06"
-  },
-  {
-    "title": "롯데렌탈 매각 저울질…흥행 관건은 '미래 모빌리티' 가치 평가",
-    "summary": "글로벌 사모펀드 운용사 TPG가 국내 1위 렌터카 사업자 롯데렌탈 인수전에 유력 후보로 급부상하며 롯데렌탈 매각이 추진 중이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "exit"
-    ],
-    "ev": "1조원 이상",
-    "deal_stage": "소문",
-    "url": "https://www.thepublic.kr/news/articleView.html?idxno=310181",
-    "date": "2026.07.06"
-  },
-  {
-    "title": "홈플러스 회생자금 2000억원 확보, MBK-메리츠 ‘여전히 평행선’",
-    "summary": "MBK파트너스가 보유한 홈플러스의 회생자금 2000억원 조달을 놓고 MBK와 메리츠 간 협상이 진행 중이며, 사모펀드의 차입인수와 유사한 형태의 자금 조달 가능성이 언급됩니다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "lbo",
-    "tags": [
-      "lbo"
-    ],
-    "ev": "2000억원",
-    "deal_stage": "협상",
-    "url": "https://www.munhwa.com/article/11600589?ref=naver",
-    "date": "2026.07.06"
-  },
-  {
-    "title": "[단독] 홈플러스 파산 ‘운명의 2주’…민주당 을지로위, 국민연금에 ‘...",
-    "summary": "MBK파트너스가 보유한 홈플러스가 파산을 피하기 위해 새로운 인수자를 찾거나 최소 2000억원 규모의 신규 운영자금을 확보해야 하는 상황에 직면했다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.segye.com/newsView/20260706507354?OutUrl=naver",
-    "date": "2026.07.06"
-  },
-  {
-    "title": "롯데손보 매각 급물살…신한 '비은행 강화', 한투 '운용자산' 노린다",
-    "summary": "롯데손보 최대주주인 사모펀드가 롯데손해보험 매각을 추진 중이며, 신한금융그룹과 한국투자금융그룹이 주요 인수 후보로 거론되고 있다.",
-    "company": "롯데손해보험",
-    "acquirer": "사모펀드",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": "1조원 안팎",
-    "deal_stage": "협상",
-    "url": "https://www.etnews.com/20260702000257",
-    "date": "2026.07.02"
-  },
-  {
-    "title": "한화생명, 애큐온 캐피탈 우협…금융영토 확장",
-    "summary": "한화생명이 사모펀드(PEF)가 보유한 애큐온캐피탈과 애큐온저축은행 인수전의 우선협상대상자로 선정된 전략적 M&A 딜이다.",
-    "company": "애큐온캐피탈, 애큐온저축은행",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011430472090538",
-    "date": "2026.07.01"
-  },
-  {
-    "title": "롯데렌탈 품는 TPG…롯데, 11년 만에 렌터카 사업 매각 '초읽기'",
-    "summary": "글로벌 사모펀드(PEF) 운용사 TPG가 롯데의 렌터카 사업 부문인 롯데렌탈 인수를 추진하며, 현재 단독 실사 및 가격 협상을 진행 중인 PEF의 기업 인수 거래입니다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=82758",
-    "date": "2026.07.01"
-  },
-  {
-    "title": "롯데렌탈 매각·'원롯데' 합작법인 출범…롯데그룹 부활 '신호탄'",
-    "summary": "글로벌 사모펀드(PEF) TPG가 호텔롯데와 부산롯데호텔로부터 국내 렌터카 1위 롯데렌탈의 지분 61.18%를 인수하는 딜을 진행 중이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원대 중반",
-    "deal_stage": "협상",
-    "url": "https://www.asiatime.co.kr/article/20260701500278",
-    "date": "2026.07.01"
-  },
-  {
-    "title": "한화생명, 애큐온캐피탈·저축은행 인수 우선협상자 선정",
-    "summary": "한화생명이 사모펀드 EQT파트너스로부터 애큐온캐피탈 및 저축은행을 인수하는 우선협상대상자로 선정된 전략적 M&A 딜",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etnews.com/20260630000271",
-    "date": "2026.06.30"
-  },
-  {
-    "title": "한화생명, 애큐온캐피탈·저축은행 품는다…인수가 1조 예상",
-    "summary": "한화생명이 사모펀드가 최대주주로 있는 애큐온캐피탈과 애큐온저축은행을 약 1조원에 인수하는 전략적 M&A를 추진 중이다.",
-    "company": "애큐온캐피탈, 애큐온저축은행",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264058",
-    "date": "2026.06.30"
-  },
-  {
-    "title": "제이오션중공업, 11만4000t급 4척 LOI 체결…군산조선소 9년만에 완성선...",
-    "summary": "PEF 운용사 에코프라임마린퍼시픽이 신설 법인 제이오션중공업을 통해 군산조선소 자산을 인수하는 PE의 기업 인수 거래가 추진 중이다.",
-    "company": "군산조선소",
-    "acquirer": "에코프라임마린퍼시픽",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.newsinside.kr/news/articleView.html?idxno=4802853",
-    "date": "2026.06.30"
   }
 ]
