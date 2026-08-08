@@ -1,5 +1,61 @@
 [
   {
+    "title": "블루엘리펀트, 어펄마캐피탈서 1000억원 투자 유치…글로벌 공략 가속",
+    "summary": "아이웨어 브랜드 블루엘리펀트가 글로벌 사모펀드(PEF) 어펄마캐피탈로부터 구주와 신주 인수를 통해 총 1000억원 규모의 투자를 유치하는 딜.",
+    "company": "블루엘리펀트",
+    "acquirer": "어펄마캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1000억원",
+    "deal_stage": "계약",
+    "url": "https://wemakenews.co.kr/news/view.php?no=26002",
+    "date": "2026.08.08"
+  },
+  {
+    "title": "SK하이닉스 이어 도시바도 '잭팟'…키옥시아 덕에 순익 30배↑",
+    "summary": "베인캐피털이 2018년 도시바메모리(현 키옥시아) 인수 후 보유 지분을 순차적으로 매각하며 대규모 차익을 실현한 PE 엑싯 딜.",
+    "company": "키옥시아",
+    "acquirer": "베인캐피털",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93471",
+    "date": "2026.08.08"
+  },
+  {
+    "title": "블루엘리펀트, 1000억 투자 유치.. '성장' 아닌 '시스템'에 베팅",
+    "summary": "글로벌 사모펀드 어펄마캐피탈이 아이웨어 브랜드 블루엘리펀트에 1000억원 규모의 투자(구주 및 신주 인수)를 진행하는 PE의 기업 인수 딜.",
+    "company": "블루엘리펀트",
+    "acquirer": "어펄마캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1000억원",
+    "deal_stage": "계약",
+    "url": "https://economist.co.kr/article/view/ecn202608070035",
+    "date": "2026.08.08"
+  },
+  {
+    "title": "블루엘리펀트, 최대 1천억원 투자 유치로 글로벌 사업 확장 박차",
+    "summary": "블루엘리펀트가 글로벌 사모펀드 어펄마캐피탈매니져스코리아로부터 최대 1천억원 규모의 투자를 유치하여 글로벌 사업 확장에 나선다.",
+    "company": "블루엘리펀트",
+    "acquirer": "어펄마캐피탈매니져스코리아",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1천억원",
+    "deal_stage": "계약",
+    "url": "https://www.tokenpost.kr/news/economy/386838",
+    "date": "2026.08.08"
+  },
+  {
     "title": "[PEF 머니맵] VIG의 오토플러스, 실적 정점서 '새 주인 찾기'",
     "summary": "사모펀드 운용사 VIG파트너스가 포트폴리오 기업 오토플러스 매각을 추진 중이며, 현대글로비스가 인수를 논의하고 있다.",
     "company": "오토플러스",
@@ -1348,62 +1404,5 @@
     "deal_stage": "완료",
     "url": "https://www.investchosun.com/site/data/html_dir/2026/07/10/2026071080088.html",
     "date": "2026.07.10"
-  },
-  {
-    "title": "美베인, 키옥시아 지분 전량 매각…오버행 해소에 주가 11% 급등",
-    "summary": "미국 사모펀드 베인캐피털이 일본 낸드플래시 메모리 업체 키옥시아의 보유 지분 전량을 매각하며 엑싯을 완료했다.",
-    "company": "키옥시아",
-    "acquirer": "베인캐피털",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hankyung.com/article/202607095398i",
-    "date": "2026.07.09"
-  },
-  {
-    "title": "넥스트증권, 타임폴리오 등에서 150억원 투자 유치…플랫폼 출시 속도",
-    "summary": "타임폴리오 등 복수의 재무적 투자자가 넥스트증권에 150억원 규모의 성장 투자(Growth Equity)를 단행했다.",
-    "company": "넥스트증권",
-    "acquirer": "타임폴리오",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "150억원",
-    "deal_stage": "완료",
-    "url": "https://www.newsis.com/view/NISX20260709_0003702605",
-    "date": "2026.07.09"
-  },
-  {
-    "title": "[롯데렌탈 M&A] 1조냐 2조냐…TPG 앞에 놓인 '공개매수 셈법'",
-    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수의 유력 후보로 떠오르며, 공개매수 여부 및 딜 규모에 관심이 쏠리고 있는 PE 인수 딜이다.",
-    "company": "롯데렌탈",
-    "acquirer": "텍사스퍼시픽그룹 (TPG)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원대 초·중반",
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=667557",
-    "date": "2026.07.08"
-  },
-  {
-    "title": "한화생명, 애큐온 인수자금 1조원 조달 방안은?",
-    "summary": "한화생명이 애큐온캐피탈 인수를 위해 1조원 규모의 인수자금 조달 방안을 검토 중인 전략적 M&A 딜이며, 이는 애큐온캐피탈 최대주주인 사모펀드의 엑싯 거래이다.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46078",
-    "date": "2026.07.07"
   }
 ]
