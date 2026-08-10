@@ -1,5 +1,61 @@
 [
   {
+    "title": "플랫폼은 누구를 위해 존재하는가?",
+    "summary": "우버가 공개매수 방식으로 DH를 인수할 계획임을 밝힌 전략적 M&A 딜.",
+    "company": "DH",
+    "acquirer": "우버",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257483&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+    "date": "2026.08.10"
+  },
+  {
+    "title": "코스톤아시아, 전력기자재 우진기전 품는다… 3000억 초반 SPA 체결",
+    "summary": "사모펀드(PEF) 운용사 코스톤아시아가 전력기기 설루션 기업 우진기전의 인수 주식매매계약(SPA)을 체결했다.",
+    "company": "우진기전",
+    "acquirer": "코스톤아시아",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억 초반",
+    "deal_stage": "계약",
+    "url": "https://biz.chosun.com/stock/stock_general/2026/08/10/VY6F3YVZXVE5TPWAVBOFYJBRFI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.08.10"
+  },
+  {
+    "title": "코스톤아시아, 우진기전 품는다...SPA 체결",
+    "summary": "국내 사모펀드(PEF) 운용사 코스톤아시아가 전력기자재 기업 우진기전을 3000억원대 초반에 인수하는 PE buyout 거래이다.",
+    "company": "우진기전",
+    "acquirer": "코스톤아시아",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "계약",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46899",
+    "date": "2026.08.10"
+  },
+  {
+    "title": "코스톤아시아, 우진기전 품는다…오늘 SPA 체결",
+    "summary": "사모펀드 코스톤아시아가 전력기자재 전문기업 우진기전의 경영권 인수를 위한 주식매매계약(SPA)을 체결한다.",
+    "company": "우진기전",
+    "acquirer": "코스톤아시아",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10835707?ref=naver",
+    "date": "2026.08.10"
+  },
+  {
     "title": "블루엘리펀트, 어펄마캐피탈서 1000억원 투자 유치…글로벌 공략 가속",
     "summary": "아이웨어 브랜드 블루엘리펀트가 글로벌 사모펀드(PEF) 어펄마캐피탈로부터 구주와 신주 인수를 통해 총 1000억원 규모의 투자를 유치하는 딜.",
     "company": "블루엘리펀트",
@@ -1348,61 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.mk.co.kr/article/12096219",
     "date": "2026.07.11"
-  },
-  {
-    "title": "[CEO&뉴스] '권혁웅·이경근 체제' 한화생명, 종합금융 구축 '성큼'",
-    "summary": "한화생명이 사모펀드 EQT파트너스로부터 애큐온캐피탈 인수를 추진하며 종합금융그룹 구축에 나서는 딜.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.seoulfn.com/news/articleView.html?idxno=633121",
-    "date": "2026.07.11"
-  },
-  {
-    "title": "예별손보, 새 주인으로 OK금융그룹 낙점…연내 매각 마무리 전망",
-    "summary": "OK금융그룹이 한국투자금융지주, 흥국화재, 사모펀드 JC플라워 등과 경쟁 끝에 예별손보의 새 주인으로 낙점되어 연내 매각이 마무리될 예정이다. 이는 전략적 M&A 거래이다.",
-    "company": "예별손보",
-    "acquirer": "OK금융그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61462",
-    "date": "2026.07.11"
-  },
-  {
-    "title": "호반건설, 한진칼 지분 20% 돌파…조원태와 격차 0.42%p로 '초접전'",
-    "summary": "호반건설이 한진칼의 지분을 20% 이상으로 늘리며 조원태 회장과의 경영권 격차를 좁혀, 잠재적인 M&A 시나리오가 부상하고 있다.",
-    "company": "한진칼",
-    "acquirer": "호반건설",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61454",
-    "date": "2026.07.11"
-  },
-  {
-    "title": "[Invest]日 키옥시아 대박 낸 베인캐피탈…'20조 차익+α'까지 남긴 SK하...",
-    "summary": "베인캐피탈이 과거 일본 키옥시아(구 도시바메모리)에 투자했던 자금을 모두 회수하며 성공적인 엑싯을 완료했다.",
-    "company": "키옥시아",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/07/10/2026071080088.html",
-    "date": "2026.07.10"
   }
 ]
