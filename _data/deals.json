@@ -1,5 +1,103 @@
 [
   {
+    "title": "대신證 “롯데렌탈, 중고차가 수익성 끌어올린다…목표가 5만3000원”",
+    "summary": "글로벌 사모펀드 운용사 텍사스퍼시픽그룹(TPG)이 호텔롯데와 부산롯데호텔 등으로부터 롯데렌탈 지분 61.18% 인수를 추진하는 거래이다.",
+    "company": "롯데렌탈",
+    "acquirer": "텍사스퍼시픽그룹(TPG)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thepowernews.co.kr/view.php?ud=202608111159302408de3f0aa1be_7",
+    "date": "2026.08.11"
+  },
+  {
+    "title": "1.3조원 롯데렌탈 인수안, TPG 전액 자기자본 조달",
+    "summary": "미국 사모펀드 운용사 TPG가 롯데렌탈 지분 61.18%를 약 1.3조원에 인수하는 PE의 기업 인수 딜.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.3조원",
+    "deal_stage": "협상",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388163",
+    "date": "2026.08.11"
+  },
+  {
+    "title": "TPG, 롯데렌탈 품는다…잔여지분 공개매수도 착수",
+    "summary": "글로벌 사모펀드 운용사 TPG가 롯데그룹 계열사로부터 롯데렌탈 지분 61%를 인수하고, 잔여 유통주식 공개매수에 착수하는 PE 바이아웃(Buyout) 딜.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/12123925",
+    "date": "2026.08.11"
+  },
+  {
+    "title": "[종목 분석리포트] 롯데렌탈, 2분기 수익성 확대… \"렌탈 경쟁력·지분 ...",
+    "summary": "글로벌 사모펀드(PEF) 운용사 텍사스퍼시픽그룹(TPG)이 롯데렌탈의 지분 61.18% 인수를 추진하는 PE 바이아웃(Buyout) 딜이다.",
+    "company": "롯데렌탈",
+    "acquirer": "텍사스퍼시픽그룹(TPG)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.namdonews.com/news/articleView.html?idxno=919670",
+    "date": "2026.08.11"
+  },
+  {
+    "title": "코스톤아시아, 3000억에 우진기전 경영권 인수",
+    "summary": "사모펀드(PEF) 운용사 코스톤아시아가 전력기자재 전문기업 우진기전의 경영권을 3000억원에 인수하는 주식매매계약(SPA)을 체결했다.",
+    "company": "우진기전",
+    "acquirer": "코스톤아시아",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10837212?ref=naver",
+    "date": "2026.08.11"
+  },
+  {
+    "title": "한화, 호주 오스탈 USA 인수 추진…최대 1억7천만 달러",
+    "summary": "한화가 호주 방산업체 오스탈의 미국 사업부인 오스탈 USA 인수를 추진하며, 최대 1억7천만 달러 규모의 전략적 M&A 딜이다.",
+    "company": "오스탈 USA",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1억7천만 달러",
+    "deal_stage": "협상",
+    "url": "http://www.thebigdata.co.kr/view.php?ud=20260811110645829570d99e4c8_23",
+    "date": "2026.08.11"
+  },
+  {
+    "title": "VIG파트너스, 본촌치킨 매각 막바지…태국 마이너그룹과 SPA 체결",
+    "summary": "PEF 운용사 VIG파트너스가 보유 중이던 글로벌 치킨 프랜차이즈 본촌을 태국 마이너그룹에 매각하기 위한 SPA를 체결하며 엑싯을 추진 중이다.",
+    "company": "본촌",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.hankyung.com/article/202608104446r",
+    "date": "2026.08.11"
+  },
+  {
     "title": "플랫폼은 누구를 위해 존재하는가?",
     "summary": "우버가 공개매수 방식으로 DH를 인수할 계획임을 밝힌 전략적 M&A 딜.",
     "company": "DH",
@@ -1305,104 +1403,5 @@
     "deal_stage": "협상",
     "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=269629",
     "date": "2026.07.13"
-  },
-  {
-    "title": "록히드마틴의 울트라 인수, 한화오션에 '글로벌 우군'될까",
-    "summary": "록히드마틴이 사모펀드 어드벤트 인터내셔널로부터 영국 울트라 마리타임을 34억5000만달러에 인수하는 최종 계약을 체결했다.",
-    "company": "울트라 마리타임",
-    "acquirer": "록히드마틴",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "4조7000억원",
-    "deal_stage": "계약",
-    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699173",
-    "date": "2026.07.13"
-  },
-  {
-    "title": "[Who Is ?] 김상준 다우데이타 대표이사",
-    "summary": "김 전 회장이 다우데이타 주식 3.65%를 약 605.4억원에 블록딜 방식으로 매각 완료했다.",
-    "company": "다우데이타",
-    "acquirer": "김 전 회장",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "약 605.4억원",
-    "deal_stage": "완료",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=441107",
-    "date": "2026.06.30"
-  },
-  {
-    "title": "블록딜·배당·리캡까지…베인캐피탈, 클래시스 투자금 대부분 회수",
-    "summary": "글로벌 사모펀드 베인캐피탈이 클래시스에 대한 투자금 회수를 위해 블록딜, 배당, 리파이낸싱 등 다양한 방법을 활용했다.",
-    "company": "클래시스",
-    "acquirer": "베인캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.topdaily.kr/articles/110738",
-    "date": "2026.06.29"
-  },
-  {
-    "title": "이기두 크레센도 대표, HPSP 대표이사 선임…“책임 경영”",
-    "summary": "사모펀드 크레센도에쿼티파트너스가 포트폴리오 기업 HPSP의 지분 9% 매각을 위해 두 차례 블록딜을 추진했으나 난항을 겪고 있다.",
-    "company": "HPSP",
-    "acquirer": "크레센도에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202606260441r",
-    "date": "2026.06.29"
-  },
-  {
-    "title": "매각 접고 밸류업 선언…크레센도, HPSP 직접 경영 나선다[시그널]",
-    "summary": "사모펀드 크레센도에쿼티파트너스가 핵심 포트폴리오사인 HPSP의 지분 약 19%를 6132억원 규모의 블록딜로 처분하며 부분 엑싯을 완료했다.",
-    "company": "HPSP",
-    "acquirer": "크레센도에쿼티파트너스",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": "6132억원",
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20060609?ref=naver",
-    "date": "2026.06.26"
-  },
-  {
-    "title": "크레센도PE, HPSP '직접 경영' 굳히기…이기두 대표가 키 잡았다",
-    "summary": "크레센도PE가 반도체 장비업체 HPSP의 지분 19% 이상을 두 차례 블록딜을 통해 총 6132억원에 매각하며 엑싯했다.",
-    "company": "HPSP",
-    "acquirer": "크레센도PE",
-    "type": "block",
-    "tags": [
-      "block",
-      "exit"
-    ],
-    "ev": "6132억원",
-    "deal_stage": "완료",
-    "url": "https://view.asiae.co.kr/article/2026062613375609545",
-    "date": "2026.06.26"
-  },
-  {
-    "title": "‘파산 기로’ 왓챠, 새 주인 찾을까…홈플러스도 운명의 일주일 [M&A복...",
-    "summary": "홍콩계 PE 앵커에쿼티파트너스가 스마트팜 기반 버섯재배 기업 닥터애그의 매각을 진행 중이며, 15일까지 예비입찰을 받는다.",
-    "company": "닥터애그",
-    "acquirer": "앵커에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12096219",
-    "date": "2026.07.11"
   }
 ]
