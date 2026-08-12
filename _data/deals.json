@@ -1,5 +1,48 @@
 [
   {
+    "title": "케이카, ‘한앤코 흔적’ 지우고 ‘KG 체제’ 이식 속도",
+    "summary": "KG그룹이 케이카를 인수하며 기존 사모펀드 한앤컴퍼니의 엑싯이 추진 중이며, 현재 거래 종결일을 앞두고 경영 체제 개편이 진행되고 있다.",
+    "company": "케이카",
+    "acquirer": "KG그룹",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://dealsite.co.kr/articles/166794",
+    "date": "2026.08.12"
+  },
+  {
+    "title": "롯데그룹,롯데렌탈 경영권 美TPG에 매각…1조3105억원",
+    "summary": "롯데그룹이 국내 렌터카 1위 사업자인 롯데렌탈의 경영권을 미국계 사모펀드(PEF)인 TPG에 1조 3105억원에 매각하는 딜이 완료되었다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조3105억원",
+    "deal_stage": "완료",
+    "url": "http://www.seouleconews.com/news/articleView.html?idxno=93030",
+    "date": "2026.08.12"
+  },
+  {
+    "title": "제네시스PE, 캡스텍 인수 본계약…볼트온 M&A 차원 [시그널]",
+    "summary": "제네시스프라이빗에쿼티(PE)가 물리보안·시설관리 전문업체 캡스텍을 인수하는 본계약을 체결했다.",
+    "company": "캡스텍",
+    "acquirer": "제네시스프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.sedaily.com/article/20078475?ref=naver",
+    "date": "2026.08.12"
+  },
+  {
     "title": "대신證 “롯데렌탈, 중고차가 수익성 끌어올린다…목표가 5만3000원”",
     "summary": "글로벌 사모펀드 운용사 텍사스퍼시픽그룹(TPG)이 호텔롯데와 부산롯데호텔 등으로부터 롯데렌탈 지분 61.18% 인수를 추진하는 거래이다.",
     "company": "롯데렌탈",
@@ -1361,47 +1404,5 @@
     "deal_stage": "소문",
     "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400130.html",
     "date": "2026.07.14"
-  },
-  {
-    "title": "스텔라PE, 미래아이앤지 2차 중도금 납입 완료…휴마시스 밸류업 투자 ...",
-    "summary": "사모펀드 운용사 스텔라PE가 미래아이앤지 경영권 인수를 위한 2차 중도금 납입을 완료했다.",
-    "company": "미래아이앤지",
-    "acquirer": "스텔라PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=206885",
-    "date": "2026.07.14"
-  },
-  {
-    "title": "EQT, 코피아파워 인수…AI 데이터센터 전력난에 '발전·송전·부하 통합...",
-    "summary": "글로벌 사모펀드 EQT가 칼라일로부터 미국 에너지 인프라 기업 코피아 파워를 인수했다. 이번 인수는 EQT의 AI 데이터센터 전력 시장 공략의 일환이다.",
-    "company": "Copia Power",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.impacton.net/news/articleView.html?idxno=19578",
-    "date": "2026.07.13"
-  },
-  {
-    "title": "홈플러스 사태 수습 급한 MBK…넥스플렉스 '엑시트' 스케줄 꼬였다",
-    "summary": "MBK파트너스가 보유한 스마트폰용 연성동박적층판(FCCL) 제조업체 넥스플렉스의 매각(엑시트) 딜이 진행 중이며, 예비입찰을 거쳐 숏리스트가 선정되었다.",
-    "company": "넥스플렉스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=269629",
-    "date": "2026.07.13"
   }
 ]
