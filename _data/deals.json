@@ -1,5 +1,103 @@
 [
   {
+    "title": "한화의 오스탈USA 인수 성공 가능성에 로이터 낙관전 전망, \"미국 해군 ...",
+    "summary": "한화그룹이 호주 조선업체 오스탈의 미국 사업부인 오스탈USA 인수를 추진 중이며, 오스탈의 최대 주주인 사모펀드 타타랑벤처스가 매각에 영향을 미칠 수 있다는 외신 보도이다.",
+    "company": "오스탈USA",
+    "acquirer": "한화그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444656",
+    "date": "2026.08.13"
+  },
+  {
+    "title": "코로나 버틴 어펄마, 화성코스메틱 3000억 엑시트 '눈앞'",
+    "summary": "사모펀드 운용사 어펄마캐피탈이 화성코스메틱에 대한 투자 7년 만에 3000억원 규모의 엑시트(매각)를 추진 중이다.",
+    "company": "화성코스메틱",
+    "acquirer": "어펄마캐피탈",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47001",
+    "date": "2026.08.13"
+  },
+  {
+    "title": "한앤컴퍼니, SK해운·에이치라인해운 '조 단위' 선대 리밸런싱",
+    "summary": "한앤컴퍼니가 포트폴리오 회사인 SK해운과 에이치라인해운 간 조 단위 규모의 선박 자산 리밸런싱을 추진 중이다.",
+    "company": "SK해운, 에이치라인해운",
+    "acquirer": "한앤컴퍼니",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "조 단위",
+    "deal_stage": "협상",
+    "url": "https://www.topdaily.kr/articles/111448",
+    "date": "2026.08.13"
+  },
+  {
+    "title": "조슈아 쿠슈너, LA 레이커스 125억 달러 인수 합의…美 권력지도에 떠오...",
+    "summary": "미국 벤처투자업계의 거물 조슈아 쿠슈너가 프로 스포츠 구단 LA 레이커스를 125억 달러에 인수하기로 합의했다. 이는 신규로 발표된 전략적 인수 거래이다.",
+    "company": "LA 레이커스",
+    "acquirer": "조슈아 쿠슈너",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "125억 달러",
+    "deal_stage": "계약",
+    "url": "https://www.ilemonde.com/news/articleView.html?idxno=30481",
+    "date": "2026.08.13"
+  },
+  {
+    "title": "행동주의 투자자 펠츠, 웬디스 비상장 인수 본격 추진",
+    "summary": "행동주의 투자자 펠츠가 블루파이브캐피털, 플린그룹과 함께 웬디스 비상장 인수를 본격적으로 추진하는 딜이다.",
+    "company": "웬디스",
+    "acquirer": "펠츠 (블루파이브캐피털, 플린그룹)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.g-enews.com/view.php?ud=2026081310175123469a1f309431_1",
+    "date": "2026.08.13"
+  },
+  {
+    "title": "한앤코, 해운 포트폴리오 리밸런싱…'K-LNG' 탄생",
+    "summary": "PEF 운용사 한앤컴퍼니가 SK해운과 에이치라인해운의 선대를 조 단위 규모로 재편하며 경영권을 인수한 PE buyout 딜이다.",
+    "company": "SK해운, 에이치라인해운",
+    "acquirer": "한앤컴퍼니",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "조 단위 규모",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46990",
+    "date": "2026.08.13"
+  },
+  {
+    "title": "한앤코, SK해운·에이치라인 조 단위 선대 스왑…해운 포트폴리오 전문...",
+    "summary": "한앤코가 자사의 해운 포트폴리오 강화를 위해 SK해운과 에이치라인해운 간 조 단위 규모의 선대 스왑 거래를 추진하는 전략적 자산 재편 딜이다.",
+    "company": "SK해운, 에이치라인해운",
+    "acquirer": "한앤코",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "조 단위",
+    "deal_stage": "발표",
+    "url": "https://www.sedaily.com/article/20078871?ref=naver",
+    "date": "2026.08.13"
+  },
+  {
     "title": "케이카, ‘한앤코 흔적’ 지우고 ‘KG 체제’ 이식 속도",
     "summary": "KG그룹이 케이카를 인수하며 기존 사모펀드 한앤컴퍼니의 엑싯이 추진 중이며, 현재 거래 종결일을 앞두고 경영 체제 개편이 진행되고 있다.",
     "company": "케이카",
@@ -1306,103 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.sedaily.com/article/20068826?ref=naver",
     "date": "2026.07.17"
-  },
-  {
-    "title": "韓은 '매각' 中선 '베이징 진출'…한·중서 엇갈린 파이브가이즈 운명",
-    "summary": "한화갤러리아는 파이브가이즈 운영사인 에프지코리아의 지분 매각을 사모펀드 운용사 H&Q에쿼티파트너스와 추진 중이다.",
-    "company": "에프지코리아",
-    "acquirer": "H&Q에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "700억원",
-    "deal_stage": "협상",
-    "url": "https://www.theguru.co.kr/news/article.html?no=104541",
-    "date": "2026.07.16"
-  },
-  {
-    "title": "美 물가 둔화에 빅테크 강세까지...뉴욕증시, 3대 지수 동반 상승 마감",
-    "summary": "핀테크 기업 페이팔이 스트라이프와 사모펀드 어드벤트인터내셔널로부터 주당 60.50달러, 총 530억달러 규모의 공동 인수 제안을 받았다.",
-    "company": "페이팔",
-    "acquirer": "스트라이프, 어드벤트인터내셔널",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "530억달러",
-    "deal_stage": "협상",
-    "url": "https://www.betanews.net/article/view/beta202607160008",
-    "date": "2026.07.16"
-  },
-  {
-    "title": "'6000억 책임' 떠안은 MBK 김병주…홈플러스 회생 분수령 [fn마켓워치]",
-    "summary": "MBK파트너스가 홈플러스의 DIP 대출에 최대주주로서 6000억원 규모의 연대보증을 제공하며 홈플러스의 회생을 위한 새로운 금융 거래를 추진하고 있다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "6000억원",
-    "deal_stage": "계약",
-    "url": "http://www.fnnews.com/news/202607161019232059",
-    "date": "2026.07.16"
-  },
-  {
-    "title": "스트라이프·어드벤트, 페이팔 530억달러 인수 제안",
-    "summary": "스트라이프와 사모펀드 어드벤트가 글로벌 온라인 결제 업체 페이팔을 530억달러에 인수하겠다는 제안을 했다.",
-    "company": "페이팔",
-    "acquirer": "스트라이프, 어드벤트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "530억달러",
-    "deal_stage": "협상",
-    "url": "https://www.tokenpost.kr/news/breaking/377999",
-    "date": "2026.07.15"
-  },
-  {
-    "title": "현대LNG해운 매각 마지막 관문…'외투위 안보심사' 의미는?",
-    "summary": "IMM프라이빗에쿼티와 IMM인베스트먼트가 약 1조원 규모의 현대LNG해운 매각을 추진 중이며, 이번 거래는 PE의 성공적인 투자 회수 사례로 평가된다.",
-    "company": "현대LNG해운",
-    "acquirer": "IMM프라이빗에쿼티, IMM인베스트먼트",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "계약",
-    "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=226821",
-    "date": "2026.07.15"
-  },
-  {
-    "title": "파산이냐, 극적 회생이냐…홈플러스 ‘운명의 이틀’ [비즈360]",
-    "summary": "홈플러스의 파산을 막고 극적 회생을 위한 인수 주체를 찾는 노력이 진행 중인 가운데, 사모펀드 제도 손질 및 국민연금 대체투자 관련 논의가 함께 언급되었다.",
-    "company": "홈플러스",
-    "acquirer": null,
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10809337?ref=naver",
-    "date": "2026.07.15"
-  },
-  {
-    "title": "위기의 LCC, 에어프레미아 M&A설 재점화 … 시장 재편 본격화되나",
-    "summary": "사모펀드 운용사 VIG파트너스가 포트폴리오 기업인 이스타항공에 대한 엑시트 전략을 모색하며 매각 가능성이 재점화되고 있다.",
-    "company": "이스타항공",
-    "acquirer": "VIG파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400130.html",
-    "date": "2026.07.14"
   }
 ]
