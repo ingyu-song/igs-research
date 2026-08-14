@@ -1,5 +1,47 @@
 [
   {
+    "title": "‘보험 퍼즐’ 맞추는 한투…KDB생명 정상화에 1조원 더 들까",
+    "summary": "한국금융지주가 KDB생명 인수를 통해 보험 부문을 강화하려는 전략적 M&A 딜",
+    "company": "KDB생명",
+    "acquirer": "한국금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.kukinews.com/article/view/kuk202608140060",
+    "date": "2026.08.14"
+  },
+  {
+    "title": "한국금융지주, KDB생명 인수 우협 선정…보험업 진출 '성큼'",
+    "summary": "한국금융지주가 산업은행이 매각을 추진 중이던 KDB생명 인수 우선협상대상자로 선정되어, 한국금융지주의 KDB생명 전략적 인수 딜이 새롭게 추진되고 있다.",
+    "company": "KDB생명",
+    "acquirer": "한국금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sisajournal.com/news/articleView.html?idxno=383613",
+    "date": "2026.08.14"
+  },
+  {
+    "title": "KDB생명 품는 한투…보험사 M&A 판도 바뀐다",
+    "summary": "한국투자금융지주가 KDB생명보험 인수 우선협상대상자로 선정되어 인수가 추진 중이다.",
+    "company": "KDB생명보험",
+    "acquirer": "한국투자금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10841482?ref=naver",
+    "date": "2026.08.14"
+  },
+  {
     "title": "한화의 오스탈USA 인수 성공 가능성에 로이터 낙관전 전망, \"미국 해군 ...",
     "summary": "한화그룹이 호주 조선업체 오스탈의 미국 사업부인 오스탈USA 인수를 추진 중이며, 오스탈의 최대 주주인 사모펀드 타타랑벤처스가 매각에 영향을 미칠 수 있다는 외신 보도이다.",
     "company": "오스탈USA",
@@ -1362,47 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.newspim.com/news/view/20260718000007",
     "date": "2026.07.18"
-  },
-  {
-    "title": "[주간사모펀드] MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회...",
-    "summary": "글로벌 사모펀드(PEF) 운용사 TPG가 국내 렌터카 업계 1위 롯데렌탈의 지분 인수를 추진 중이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.tf.co.kr/read/economy/2344300.htm",
-    "date": "2026.07.18"
-  },
-  {
-    "title": "한컴위드, 日 AI 스타트업 공략…보안 기술력 알렸다",
-    "summary": "결제 서비스 업체 스트라이프와 사모펀드(PEF) 어드벤트인터내셔널이 약 79조 원 규모로 페이팔 인수를 추진한다.",
-    "company": "페이팔",
-    "acquirer": "스트라이프, 어드벤트인터내셔널",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "79조원",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20068834?ref=naver",
-    "date": "2026.07.17"
-  },
-  {
-    "title": "반도체 장비값 또 뛴다…ASML 가격 인상에 TSMC 반발",
-    "summary": "결제 서비스 업체 스트라이프와 사모펀드 어드벤트인터내셔널이 약 79조 원의 기업가치로 페이팔(PYPL) 인수를 추진 중이다.",
-    "company": "페이팔",
-    "acquirer": "스트라이프, 어드벤트인터내셔널",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "79조원",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20068826?ref=naver",
-    "date": "2026.07.17"
   }
 ]
