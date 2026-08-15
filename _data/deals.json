@@ -1,5 +1,19 @@
 [
   {
+    "title": "다급해진 롯데손보… 매각 측, KB·신한 ‘체급 싸움’ 파고들까[이충희...",
+    "summary": "한국투자금융지주가 보험 계열사 인수를 통해 종합금융그룹으로 도약하려는 구상에 따라 롯데손해보험 매각이 추진되고 있으며, KB금융그룹과 신한금융그룹 등 잠재 인수 후보들 간의 경쟁 구도 속에서 딜이 진행될 것으로 보인다.",
+    "company": "롯데손해보험",
+    "acquirer": "한국투자금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20079792?ref=naver",
+    "date": "2026.08.15"
+  },
+  {
     "title": "‘보험 퍼즐’ 맞추는 한투…KDB생명 정상화에 1조원 더 들까",
     "summary": "한국금융지주가 KDB생명 인수를 통해 보험 부문을 강화하려는 전략적 M&A 딜",
     "company": "KDB생명",
@@ -1389,20 +1403,6 @@
     "ev": "5610억 원",
     "deal_stage": "협상",
     "url": "https://www.sedaily.com/article/20068899?ref=naver",
-    "date": "2026.07.18"
-  },
-  {
-    "title": "유럽증시, 반도체 '피크아웃'·유가 상승 우려에 대부분 하락",
-    "summary": "스웨덴 사모펀드 EQT가 호주 자산운용사 퍼페추얼에 25억 호주달러 규모의 인수 제안 상향안을 제시했으나, 퍼페추얼이 이를 거부했다.",
-    "company": "퍼페추얼",
-    "acquirer": "EQT",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "25억 호주달러",
-    "deal_stage": "협상",
-    "url": "https://www.newspim.com/news/view/20260718000007",
     "date": "2026.07.18"
   }
 ]
