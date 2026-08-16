@@ -1,5 +1,19 @@
 [
   {
+    "title": "4조 몸값에 무신사 구주 사들인 TS인베스트먼트... 상장 순항할까",
+    "summary": "TS인베스트먼트가 기업가치 4조원 이상에 무신사의 구주 일부를 인수하는 세컨더리 거래를 진행했습니다.",
+    "company": "무신사",
+    "acquirer": "TS인베스트먼트",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/stock/market_trend/2026/08/16/L22LYJALUFCOLK6RTN5IYVWZHE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.08.16"
+  },
+  {
     "title": "다급해진 롯데손보… 매각 측, KB·신한 ‘체급 싸움’ 파고들까[이충희...",
     "summary": "한국투자금융지주가 보험 계열사 인수를 통해 종합금융그룹으로 도약하려는 구상에 따라 롯데손해보험 매각이 추진되고 있으며, KB금융그룹과 신한금융그룹 등 잠재 인수 후보들 간의 경쟁 구도 속에서 딜이 진행될 것으로 보인다.",
     "company": "롯데손해보험",
@@ -1390,19 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469409",
     "date": "2026.07.19"
-  },
-  {
-    "title": "인공뼈 최고 기술력 회사의 경영권 매각…시지바이오에 관심 쏠리는 이...",
-    "summary": "IMM프라이빗에쿼티(PE)가 인공뼈 기술 기업 시지바이오의 지분 51%를 5610억 원에 인수하는 경영권 매각 딜이 추진 중이다.",
-    "company": "시지바이오",
-    "acquirer": "IMM프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5610억 원",
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20068899?ref=naver",
-    "date": "2026.07.18"
   }
 ]
