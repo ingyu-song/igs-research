@@ -1,5 +1,34 @@
 [
   {
+    "title": "“이제 중국보다 미국에서 더 인기있어요”…K푸드 뜨자 해외 ‘큰손’...",
+    "summary": "태국 외식기업 마이너그룹이 국내 사모펀드 VIG파트너스와 창업자 서진덕 회장이 보유한 본촌인터내셔날 지분 100%를 인수하는 본계약을 체결하며 VIG파트너스가 엑시트한다.",
+    "company": "본촌인터내셔날",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/12129254",
+    "date": "2026.08.17"
+  },
+  {
+    "title": "“한투가 KDB생명 찜, 우리는 어쩌나”…카디프생명·롯데손보 매각 빨...",
+    "summary": "한국투자금융지주(한투지주)가 KDB생명 인수를 타진하며 실사를 진행 중이다.",
+    "company": "KDB생명",
+    "acquirer": "한국투자금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12129222",
+    "date": "2026.08.17"
+  },
+  {
     "title": "4조 몸값에 무신사 구주 사들인 TS인베스트먼트... 상장 순항할까",
     "summary": "TS인베스트먼트가 기업가치 4조원 이상에 무신사의 구주 일부를 인수하는 세컨더리 거래를 진행했습니다.",
     "company": "무신사",
@@ -1376,33 +1405,5 @@
     "deal_stage": "협상",
     "url": "https://www.hankyung.com/article/202607203118r",
     "date": "2026.07.20"
-  },
-  {
-    "title": "블랙스톤, 중견 차부품사 퓨트로닉 인수… 몸값만 1조원",
-    "summary": "블랙스톤이 운용하는 사모펀드가 중견 차부품사 퓨트로닉을 1조원 규모로 인수하는 계약을 체결했다.",
-    "company": "퓨트로닉",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "계약",
-    "url": "https://www.mk.co.kr/article/12102297",
-    "date": "2026.07.20"
-  },
-  {
-    "title": "카카오모빌리티와 시너지 기대…롯데렌탈 성장 스토리 커진다",
-    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수를 추진하고 있으며, 이에 따라 롯데렌탈의 기업가치 재평가 기대감이 커지고 있다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469409",
-    "date": "2026.07.19"
   }
 ]
