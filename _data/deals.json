@@ -1,5 +1,47 @@
 [
   {
+    "title": "송성문에겐 호재일까? 악재일까?…소속팀 샌디에이고, 5조5천억에 팔렸...",
+    "summary": "사모펀드 억만장자 호세 E. 펠리시아노와 그의 아내 콴자 존스가 이끄는 투자 그룹이 샌디에이고 파드리스의 구단 경영권을 최종 인수하는 거래가 완료되었다.",
+    "company": "샌디에이고 파드리스",
+    "acquirer": "호세 E. 펠리시아노 투자 그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5.5조원",
+    "deal_stage": "완료",
+    "url": "https://www.sportschosun.com/baseball/2026-08-18/202608180100101280006408",
+    "date": "2026.08.18"
+  },
+  {
+    "title": "송성문 소속팀 MLB 샌디에이고 매각...구단 가치 5조원대",
+    "summary": "사모펀드를 운영하는 호세 엔리케 펠리시아노 부부가 MLB 샌디에이고 파드리스 구단을 39억 달러(약 5조원)에 인수하는 PE 바이아웃 딜이 완료되었다.",
+    "company": "샌디에이고 파드리스",
+    "acquirer": "호세 엔리케 펠리시아노 부부",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5조원",
+    "deal_stage": "완료",
+    "url": "https://www.ytn.co.kr/_ln/0107_202608181038392098",
+    "date": "2026.08.18"
+  },
+  {
+    "title": "'롯데렌탈 인수 무산' 어피니티, SK렌터카 단독 엑시트 전략 가동",
+    "summary": "홍콩계 사모펀드 어피니티에쿼티파트너스가 롯데렌탈 인수 무산 이후, 보유 중인 SK렌터카 주식회사에 대한 단독 매각을 통한 엑시트 전략을 추진 중이다.",
+    "company": "SK렌터카 주식회사",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.etoday.co.kr/news/view/2615358",
+    "date": "2026.08.18"
+  },
+  {
     "title": "“이제 중국보다 미국에서 더 인기있어요”…K푸드 뜨자 해외 ‘큰손’...",
     "summary": "태국 외식기업 마이너그룹이 국내 사모펀드 VIG파트너스와 창업자 서진덕 회장이 보유한 본촌인터내셔날 지분 100%를 인수하는 본계약을 체결하며 VIG파트너스가 엑시트한다.",
     "company": "본촌인터내셔날",
@@ -1361,49 +1403,6 @@
     "ev": null,
     "deal_stage": "계약",
     "url": "https://biz.chosun.com/stock/stock_general/2026/07/20/EQJCWTSZN5B4TBT57P2VMAK6GA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.07.20"
-  },
-  {
-    "title": "블랙스톤, 1조 가치 액추에이터 기업 퓨트로닉 인수",
-    "summary": "글로벌 사모펀드 블랙스톤이 국내 액추에이터 기업 퓨트로닉의 지분 과반을 확보하며 인수한다.",
-    "company": "퓨트로닉",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조원",
-    "deal_stage": "계약",
-    "url": "https://www.yna.co.kr/view/AKR20260720089000008?input=1195m",
-    "date": "2026.07.20"
-  },
-  {
-    "title": "서진시스템 전동규 대표 구원투수…대신증권 손잡은 스틱크레딧",
-    "summary": "사모펀드 스틱크레딧이 대신증권 인수금융을 활용하여 서진시스템의 신규 투자자로 나서며 전동규 대표의 잔여 지분까지 함께 인수하는 거래를 완료했다.",
-    "company": "서진시스템",
-    "acquirer": "스틱크레딧",
-    "type": "lbo",
-    "tags": [
-      "lbo",
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.etoday.co.kr/news/view/2605117",
-    "date": "2026.07.20"
-  },
-  {
-    "title": "[단독] 블랙스톤, 액츄에이터社 퓨트로닉 품는다…휴머노이드 로봇 시장...",
-    "summary": "글로벌 PEF 블랙스톤이 국내 차량용 액츄에이터 기업 퓨트로닉을 인수하는 거래를 추진 중이다.",
-    "company": "퓨트로닉",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202607203118r",
     "date": "2026.07.20"
   }
 ]
