@@ -1,5 +1,47 @@
 [
   {
+    "title": "실리콘투, 3000억 투자 유치…K뷰티 해외 확장 '속도'",
+    "summary": "글로벌 K뷰티 유통 플랫폼 실리콘투가 사모펀드 CVC로부터 3,000억원의 투자를 유치했다.",
+    "company": "실리콘투",
+    "acquirer": "CVC",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "완료",
+    "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227015",
+    "date": "2026.08.19"
+  },
+  {
+    "title": "스톤브릿지·LS증권, 리파인 지분 추가 공개매수…주당 1만7600원",
+    "summary": "사모펀드 스톤브릿지캐피탈과 LS증권이 기존에 경영권 지분을 인수한 부동산 권리조사 전문기업 리파인의 지분을 추가 공개매수하고 있다.",
+    "company": "리파인",
+    "acquirer": "스톤브릿지캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://www.hankyung.com/article/202608186240r",
+    "date": "2026.08.19"
+  },
+  {
+    "title": "실리콘투, 3000억 투자 유치…K뷰티 '글로벌 유통 플랫폼' 키운다",
+    "summary": "글로벌 K뷰티 유통기업 실리콘투가 글로벌 사모펀드 운용사 CVC로부터 3000억원 규모의 투자를 유치했다.",
+    "company": "실리콘투",
+    "acquirer": "CVC",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "계약",
+    "url": "https://www.mt.co.kr/living/2026/08/19/2026081816313858072",
+    "date": "2026.08.19"
+  },
+  {
     "title": "송성문에겐 호재일까? 악재일까?…소속팀 샌디에이고, 5조5천억에 팔렸...",
     "summary": "사모펀드 억만장자 호세 E. 펠리시아노와 그의 아내 콴자 존스가 이끄는 투자 그룹이 샌디에이고 파드리스의 구단 경영권을 최종 인수하는 거래가 완료되었다.",
     "company": "샌디에이고 파드리스",
@@ -1362,47 +1404,5 @@
     "deal_stage": "완료",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46393",
     "date": "2026.07.21"
-  },
-  {
-    "title": "[마켓인]EQT, 상반기 투자액 190억유로…AI 인프라 투자성과",
-    "summary": "글로벌 사모펀드(PEF) 운용사 EQT파트너스가 헬스케어 기업 갈더마의 최종 지분을 매각한 역대 최대 규모의 블록딜 거래이다.",
-    "company": "갈더마",
-    "acquirer": "EQT파트너스",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04316486645516816",
-    "date": "2026.07.21"
-  },
-  {
-    "title": "['핀테크 대장' 페이팔의 추락… 어쩌다 '인수 표적' 됐나",
-    "summary": "경쟁사 스트라이프와 사모펀드 애드벤트인터내셔널이 '페이팔'을 530억달러 규모로 공동 인수하여 비상장회사로 전환하는 제안을 했다.",
-    "company": "페이팔",
-    "acquirer": "스트라이프, 애드벤트인터내셔널",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "530억달러",
-    "deal_stage": "소문",
-    "url": "https://magazine.hankyung.com/business/article/202607216015b",
-    "date": "2026.07.21"
-  },
-  {
-    "title": "블랙스톤, 액추에이터 기업 퓨트로닉에 투자…휴머노이드·로보틱스 공...",
-    "summary": "블랙스톤이 자사 PEF를 통해 액추에이터 기업 퓨트로닉의 지분을 인수하는 계약을 체결했다.",
-    "company": "퓨트로닉",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/07/20/EQJCWTSZN5B4TBT57P2VMAK6GA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.07.20"
   }
 ]
