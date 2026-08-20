@@ -1,5 +1,75 @@
 [
   {
+    "title": "롯데케미칼타이탄 \"매각, 아직 확정 아냐\"..주가는 폭등",
+    "summary": "롯데케미칼이 자회사 롯데케미칼타이탄의 매각을 글로벌 사모펀드(PEF)와 논의했으나 중단된 것으로 전해지며, 매각 여부가 아직 확정되지 않은 PE 엑싯 딜.",
+    "company": "롯데케미칼타이탄",
+    "acquirer": "글로벌 사모펀드",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.theguru.co.kr/news/article.html?no=106041",
+    "date": "2026.08.20"
+  },
+  {
+    "title": "롯데렌탈, TPG 인수로 기업가치 확대 기대…목표주가 6만원 상향-대신증...",
+    "summary": "사모펀드 TPG(텍사스퍼시픽그룹)가 롯데렌탈을 인수했으며, 이에 따라 롯데렌탈의 기업가치 확대가 기대된다는 전망이 나왔다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.press9.kr/news/articleView.html?idxno=81385",
+    "date": "2026.08.20"
+  },
+  {
+    "title": "[미국 특징주] 결제사 스트라이프, 오픈라우터 인수…AI 사업 확장",
+    "summary": "결제사 스트라이프가 인공지능(AI) 사업 확장을 위해 오픈라우터를 인수하는 전략적 M&A 거래이다.",
+    "company": "Openrouter",
+    "acquirer": "Stripe",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newspim.com/news/view/20260820000206",
+    "date": "2026.08.20"
+  },
+  {
+    "title": "포스트 서린컴퍼니 찾은 메리츠, 화장품 용기사 '채운패키지' 인수",
+    "summary": "메리츠증권이 사모펀드 운용사 호산인베스트먼트와 펀드를 결성해 화장품 용기 솔루션 기업 채운패키지를 440억원 규모로 바이아웃 인수했다.",
+    "company": "채운패키지",
+    "acquirer": "메리츠증권, 호산인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "440억원",
+    "deal_stage": "완료",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430908",
+    "date": "2026.08.20"
+  },
+  {
+    "title": "8170억 들어오는 호텔롯데...순차입금의존도 31.8→28.9%",
+    "summary": "호텔롯데와 부산롯데호텔이 글로벌 사모펀드 운용사 TPG가 설립한 렉시콘코리아홀드코에 롯데렌탈 지분 61.17%를 1조3105억원에 매각하는 주식매매계약을 체결했다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조3105억원",
+    "deal_stage": "계약",
+    "url": "https://www.insight.co.kr/news/569112",
+    "date": "2026.08.20"
+  },
+  {
     "title": "실리콘투, 3000억 투자 유치…K뷰티 해외 확장 '속도'",
     "summary": "글로벌 K뷰티 유통 플랫폼 실리콘투가 사모펀드 CVC로부터 3,000억원의 투자를 유치했다.",
     "company": "실리콘투",
@@ -1334,75 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.investchosun.com/site/data/html_dir/2026/07/22/2026072280090.html",
     "date": "2026.07.22"
-  },
-  {
-    "title": "[2026 상반기 리그테이블] [M&A회계자문] 각성한 김이동의 삼정…랜드마...",
-    "summary": "거캐피탈이 코엔텍을 7350억원에 인수한 거래. 이는 PE/사모펀드의 기업 인수 딜이다.",
-    "company": "코엔텍",
-    "acquirer": "거캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "7350억원",
-    "deal_stage": "완료",
-    "url": "https://dealsite.co.kr/articles/165469",
-    "date": "2026.07.22"
-  },
-  {
-    "title": "카카오모빌리티 우군 TPG, 롯데렌탈까지 품나",
-    "summary": "사모펀드 TPG가 롯데렌탈 지분 18% 인수를 위해 단독 실사를 진행하며 협상 중인 PE의 기업 인수 딜.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ziksir.com/news/articleView.html?idxno=140184",
-    "date": "2026.07.15"
-  },
-  {
-    "title": "렌터카 1위 롯데렌탈, TPG 새 주인 되나",
-    "summary": "롯데렌탈이 사모펀드 TPG와 지분 매각 관련 실사와 협의를 진행 중인 PE 인수 거래입니다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sentv.co.kr/article/view/sentv202607150008",
-    "date": "2026.07.15"
-  },
-  {
-    "title": "[단독] VIG파트너스, 항공기 부품사 율곡 인수 우협 선정 [시그널]",
-    "summary": "VIG파트너스가 항공기 부품 기업 율곡 인수를 위한 우선협상대상자로 선정되어 경영권 확보를 추진 중이다.",
-    "company": "율곡",
-    "acquirer": "VIG파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20070186?ref=naver",
-    "date": "2026.07.21"
-  },
-  {
-    "title": "하일랜드EP, 태경코엠 엑시트 마무리",
-    "summary": "국내 사모펀드 하일랜드에쿼티파트너스가 화장품 소재업체 태경코엠에 대한 투자를 마무리하고 엑시트를 완료한 거래.",
-    "company": "태경코엠",
-    "acquirer": "하일랜드에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46393",
-    "date": "2026.07.21"
   }
 ]
