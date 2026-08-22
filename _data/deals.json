@@ -1,5 +1,19 @@
 [
   {
+    "title": "[주간사모펀드] MBK·고려아연 '고발전' 격화…롯데렌탈 놓친 어피니티...",
+    "summary": "어피니티의 롯데렌탈 인수가 최종 무산되었습니다.",
+    "company": "롯데렌탈",
+    "acquirer": "어피니티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.tf.co.kr/read/economy/2356567.htm",
+    "date": "2026.08.22"
+  },
+  {
     "title": "롯데케미칼타이탄 \"매각, 아직 확정 아냐\"..주가는 폭등",
     "summary": "롯데케미칼이 자회사 롯데케미칼타이탄의 매각을 글로벌 사모펀드(PEF)와 논의했으나 중단된 것으로 전해지며, 매각 여부가 아직 확정되지 않은 PE 엑싯 딜.",
     "company": "롯데케미칼타이탄",
@@ -1389,20 +1403,6 @@
     "ev": "1억 달러",
     "deal_stage": "협상",
     "url": "https://www.newspim.com/news/view/20260722000806",
-    "date": "2026.07.22"
-  },
-  {
-    "title": "[Invest]KKR, SK AI DC 지분 인수에 5000억 규모 인수금융 활용 추진",
-    "summary": "PEF 운용사 KKR이 SK그룹의 울산 AI 데이터센터 소수지분 인수를 추진하며 5000억원 규모의 인수금융 활용을 계획하고 있다.",
-    "company": "SK 울산 AI 데이터센터",
-    "acquirer": "KKR",
-    "type": "lbo",
-    "tags": [
-      "lbo"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/07/22/2026072280090.html",
     "date": "2026.07.22"
   }
 ]
