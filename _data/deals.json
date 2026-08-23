@@ -1,5 +1,33 @@
 [
   {
+    "title": "맘스터치 1조·노랑통닭 2천억 그리고 버거킹까지…M&A 맛집 총출동 [M&...",
+    "summary": "국내 사모펀드(PE) 운영사 VIG파트너스가 치킨 프랜차이즈 본촌의 매각을 추진 중이다.",
+    "company": "본촌",
+    "acquirer": "VIG파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://www.mk.co.kr/article/12133926",
+    "date": "2026.08.23"
+  },
+  {
+    "title": "[이번주 관심주] 한국금융지주, KDB생명 인수 본궤도...'한투증권과 시...",
+    "summary": "한국금융지주가 KDB생명 인수를 추진하며 보험사 사업 확대를 통해 종합금융그룹으로 도약하는 전략적 M&A 거래가 진행 중.",
+    "company": "KDB생명",
+    "acquirer": "한국금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143381",
+    "date": "2026.08.23"
+  },
+  {
     "title": "[주간사모펀드] MBK·고려아연 '고발전' 격화…롯데렌탈 놓친 어피니티...",
     "summary": "어피니티의 롯데렌탈 인수가 최종 무산되었습니다.",
     "company": "롯데렌탈",
@@ -1376,33 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.investchosun.com/site/data/html_dir/2026/07/23/2026072380076.html",
     "date": "2026.07.23"
-  },
-  {
-    "title": "롯데손보 노리는 신한, KB 추격 발판 마련하나",
-    "summary": "신한금융지주가 사모펀드 JKL파트너스가 보유한 롯데손해보험의 경영권 지분 인수를 검토 중인 전략적 M&A 딜.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.kukinews.com/article/view/kuk202607220141",
-    "date": "2026.07.23"
-  },
-  {
-    "title": "[아시아 특징주] 인니 TBS에너지, 사모 대출 1억 달러 조달 추진",
-    "summary": "인도네시아 TBS에너지가 여러 사모신용펀드로부터 1억 달러 규모의 사모 대출 조달을 추진한다.",
-    "company": "TBS에너지",
-    "acquirer": "여러 사모신용펀드",
-    "type": "lbo",
-    "tags": [
-      "lbo"
-    ],
-    "ev": "1억 달러",
-    "deal_stage": "협상",
-    "url": "https://www.newspim.com/news/view/20260722000806",
-    "date": "2026.07.22"
   }
 ]
