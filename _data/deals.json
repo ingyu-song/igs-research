@@ -1,5 +1,33 @@
 [
   {
+    "title": "한화 보험형제 다른 성장법… 손보는 '특화'·생명은 '확장'",
+    "summary": "한화생명이 사모펀드 EQT파트너스가 보유한 애큐온캐피탈 지분 96.06%를 인수하는 전략적 M&A 딜의 우선협상대상자로 선정되었다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.etoday.co.kr/news/view/2613282",
+    "date": "2026.08.24"
+  },
+  {
+    "title": "솔리다임 투자유치 본격화···노종원 前 대표, 투자자로 참여한다",
+    "summary": "노종원 전 SK아메리카스 대표가 해외 사모펀드(PEF) 운용사를 통해 솔리다임 투자 유치에 투자자로 참여한다.",
+    "company": "솔리다임",
+    "acquirer": "노종원 전 대표의 해외 사모펀드(PEF) 운용사",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202608214381r",
+    "date": "2026.08.24"
+  },
+  {
     "title": "맘스터치 1조·노랑통닭 2천억 그리고 버거킹까지…M&A 맛집 총출동 [M&...",
     "summary": "국내 사모펀드(PE) 운영사 VIG파트너스가 치킨 프랜차이즈 본촌의 매각을 추진 중이다.",
     "company": "본촌",
@@ -1376,33 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.hankyung.com/article/202607228383r",
     "date": "2026.07.24"
-  },
-  {
-    "title": "SK쉴더스 자회사 ‘캡스텍’ 매각 [H-EXCLUSIVE]",
-    "summary": "SK쉴더스가 비핵심 사업 정리를 위해 자회사 캡스텍 매각을 추진 중이며, 다수 중견기업과 PEF 운용사가 인수 참여를 검토하고 있다.",
-    "company": "캡스텍",
-    "acquirer": "SK쉴더스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10819058?ref=naver",
-    "date": "2026.07.24"
-  },
-  {
-    "title": "[Invest]e스포츠 LoL 구단 'DRX', 싱가포르 증시 입성 추진",
-    "summary": "DRX의 최대주주인 사모펀드 운용사 ATU파트너스가 포트폴리오 회사 DRX의 싱가포르 증시 입성을 추진하며 엑싯을 모색하고 있다.",
-    "company": "DRX",
-    "acquirer": "ATU파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/07/23/2026072380076.html",
-    "date": "2026.07.23"
   }
 ]
