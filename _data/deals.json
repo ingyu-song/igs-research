@@ -1,5 +1,61 @@
 [
   {
+    "title": "'SK호라이즌' KKR·IMM 3조 투자 뜯어보니…SKT가 '51%' 남긴 셈법 [fn마켓...",
+    "summary": "글로벌 사모펀드 KKR과 IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄이 SK텔레콤의 AI 인프라 자회사 'SK호라이즌'에 약 1조 8811억원을 투자하여 SKT 보유 지분을 인수하는 PEF 투자 거래입니다.",
+    "company": "SK호라이즌",
+    "acquirer": "KKR, IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.8811조원",
+    "deal_stage": "계약",
+    "url": "https://www.fnnews.com/news/202608271948123309",
+    "date": "2026.08.27"
+  },
+  {
+    "title": "[이슈 분석] \"비핵심 자산 정리하라\"... FCP, 삼성에 에스원 지분 9천억...",
+    "summary": "행동주의 사모펀드 플래시라이트캐피털파트너스(FCP)가 삼성그룹에 에스원 지분 6%를 9,066억 원에 인수하겠다는 뜻을 전달한 딜이다.",
+    "company": "에스원",
+    "acquirer": "플래시라이트캐피털파트너스(FCP)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "9,066억원",
+    "deal_stage": "협상",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275672",
+    "date": "2026.08.27"
+  },
+  {
+    "title": "한미동맹 훈풍에 투자매력까지…원전주 ‘불기둥’",
+    "summary": "미국 정부가 한국 정부에 캐나다 사모펀드 소유의 원전 기업 웨스팅하우스(WEC) 지분 공동 인수를 제안한 전략적 M&A 딜.",
+    "company": "웨스팅하우스",
+    "acquirer": "미국 정부, 한국 정부",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260828.22012008209",
+    "date": "2026.08.27"
+  },
+  {
+    "title": "맘스터치 다음달 본입찰…소비재로 쏠린 M&A[마켓인]",
+    "summary": "국내 사모펀드가 보유한 맘스터치앤컴퍼니 매각이 다음달 본입찰을 앞두고 있으며, 글로벌 자본이 인수할 예정이다.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "국내 사모펀드",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=05011846645551584&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "date": "2026.08.27"
+  },
+  {
     "title": "[특징주] 한국전력, 웨스팅하우스 지분확보설 +8%대 상승",
     "summary": "미국 정부가 한국전력에 캐나다 사모펀드 소유의 원전 기업 웨스팅하우스(WEC) 지분 공동 인수를 제안하여 한국전력의 전략적 M&A 추진 가능성이 제기됨.",
     "company": "웨스팅하우스",
@@ -1346,63 +1402,5 @@
     "deal_stage": "협상",
     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607231004355640106274",
     "date": "2026.07.27"
-  },
-  {
-    "title": "SK하이닉스, 키옥시아 최대주주 되나…베인 엑시트·도시바 지분 축소",
-    "summary": "SK하이닉스가 미국 사모펀드 베인캐피털과 도시바가 키옥시아 지분을 처분하며 엑시트하는 상황에서 키옥시아의 최대주주가 될 가능성을 논의하는 딜.",
-    "company": "키옥시아",
-    "acquirer": "SK하이닉스",
-    "type": "strategic",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01521926645518456",
-    "date": "2026.07.26"
-  },
-  {
-    "title": "폭스바겐 순이익 33% 급감...구조조정 가속",
-    "summary": "폭스바겐그룹이 엔진 계열사 에버렌스 지분 51%를 미국 사모펀드 베인캐피털에 매각 추진 중인 PE 인수 딜.",
-    "company": "에버렌스",
-    "acquirer": "베인캐피털",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.g-enews.com/view.php?ud=2026072607133638332bd56fbc3c_1",
-    "date": "2026.07.26"
-  },
-  {
-    "title": "롯데손보 인수 나선 신한 \"타협점 찾기 어렵네\"",
-    "summary": "토종 사모펀드 JKL파트너스가 보유한 롯데손해보험을 신한금융그룹에 공개 매각하기 위해 협상 중인 딜.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융그룹",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.dealsitetv.com/articles/173707",
-    "date": "2026.07.26"
-  },
-  {
-    "title": "제네시스PE, 8000억 모은다…블라인드펀드 클로징 눈앞",
-    "summary": "제네시스PE는 2024년 보유 중이던 폐기물 업체 KJ환경을 글로벌 사모펀드 EQT파트너스에 1조2000억원 규모로 매각 완료했다.",
-    "company": "KJ환경",
-    "acquirer": "EQT파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10819520?ref=naver",
-    "date": "2026.07.25"
   }
 ]
