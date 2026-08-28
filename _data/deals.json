@@ -1,5 +1,48 @@
 [
   {
+    "title": "뉴욕증시 프리뷰, 워시 잭슨홀 연설 대기…AI 랠리 숨 고르기",
+    "summary": "사모펀드 어드벤트와 결제업체 스트라이프로 구성된 컨소시엄이 페이팔 인수 추진을 철회했다.",
+    "company": "PayPal",
+    "acquirer": "어드벤트, 스트라이프",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newspim.com/news/view/20260828001032",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "아이맥스 매각 문 열렸지만 인수 후보 좁다",
+    "summary": "아이맥스(IMAX)가 매각 가능성을 열어두었으며, 넷플릭스, 애플, 아마존, 소니, 사모펀드 등이 인수 후보로 거론되는 전략적 M&A 또는 바이아웃 딜 추진 동향.",
+    "company": "IMAX",
+    "acquirer": null,
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.tokenpost.kr/news/market/399819",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "美 외교 전문지 \"미국 공급망 안보 위해 MBK의 고려아연 경영권 확보 막...",
+    "summary": "사모펀드 MBK파트너스가 고려아연의 경영권 확보를 추진하는 딜에 대해 미국 외교 전문지가 미국 공급망 안보를 이유로 이를 저지해야 한다고 주장하는 기사.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.queen.co.kr/news/articleView.html?idxno=462473",
+    "date": "2026.08.28"
+  },
+  {
     "title": "'SK호라이즌' KKR·IMM 3조 투자 뜯어보니…SKT가 '51%' 남긴 셈법 [fn마켓...",
     "summary": "글로벌 사모펀드 KKR과 IMM인베스트먼트-스톤브릿지캐피탈 컨소시엄이 SK텔레콤의 AI 인프라 자회사 'SK호라이즌'에 약 1조 8811억원을 투자하여 SKT 보유 지분을 인수하는 PEF 투자 거래입니다.",
     "company": "SK호라이즌",
@@ -1358,49 +1401,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.news1.kr/local/busan-gyeongnam/6240002",
-    "date": "2026.07.27"
-  },
-  {
-    "title": "푸드나무, 보유 현금 20억 원에 단기차입금 210억 원 폭증…3년 연속 적...",
-    "summary": "뉴케이드림1호투자조합이라는 사모펀드가 재정난을 겪는 푸드나무의 200억 원 규모 신주를 인수하는 딜.",
-    "company": "푸드나무",
-    "acquirer": "뉴케이드림1호투자조합",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "200억원",
-    "deal_stage": "계약",
-    "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=99483",
-    "date": "2026.07.27"
-  },
-  {
-    "title": "스틱크레딧, 서진시스템에 1300억 베팅…전동규 대표 지분 블록딜 거래",
-    "summary": "사모펀드 운용사 스틱크레딧이 코스닥 상장사 서진시스템의 최대주주인 전동규 대표로부터 주식 약 1300억원어치를 블록딜로 인수하는 거래이다.",
-    "company": "서진시스템",
-    "acquirer": "스틱크레딧",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "block"
-    ],
-    "ev": "1300억원",
-    "deal_stage": "계약",
-    "url": "https://www.hankyung.com/article/202607108297r",
-    "date": "2026.07.10"
-  },
-  {
-    "title": "[더벨]엇갈린 가비아 밸류에이션…맥쿼리·미리·얼라인 셈법은",
-    "summary": "맥쿼리PE, 미리캐피탈, 얼라인 등 재무적투자자들이 가비아 인수를 두고 각기 다른 밸류에이션을 제시하며 협상 중인 상황을 다룬 기사.",
-    "company": "가비아",
-    "acquirer": "맥쿼리PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607231004355640106274",
     "date": "2026.07.27"
   }
 ]
