@@ -1,5 +1,159 @@
 [
   {
+    "title": "DB손보, 2030년 주주환원율 50%로 확대",
+    "summary": "DB손보가 미국 팁트리 및 글로벌 사모펀드 워버그 핀커스로부터 미국 보험사 포테그라 지분 100%를 약 2조3000억원에 인수 완료한 전략적 M&A 거래이다.",
+    "company": "포테그라",
+    "acquirer": "DB손보",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2.3조원",
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10856046?ref=naver",
+    "date": "2026.08.29"
+  },
+  {
+    "title": "스트라이프·어드벤트, 530억달러 규모 페이팔 인수 '없던 일로'",
+    "summary": "결제 업체 스트라이프와 사모펀드 어드벤트 인터내셔널이 페이팔 인수를 추진했으나, 이를 중단한 딜이다.",
+    "company": "페이팔",
+    "acquirer": "스트라이프, 어드벤트 인터내셔널",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "530억달러",
+    "deal_stage": "협상",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696637",
+    "date": "2026.08.29"
+  },
+  {
+    "title": "美 외교전문지 “MBK, 中 네트워크 깊이 편입…소유·지배구조 면밀히 ...",
+    "summary": "MBK파트너스(MBK)와 영풍이 고려아연 경영권 확보를 추진하는 딜에 대해 美 외교전문지가 MBK의 중국 네트워크 연관성을 문제 삼으며 면밀한 조사를 촉구함.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.kyeonggi.com/article/20260828580244",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "외신 \"MBK·영풍의 고려아연 경영권 확보에 우려\"",
+    "summary": "MBK파트너스와 영풍이 고려아연의 경영권 확보를 추진하고 있으며, 이에 대한 외부의 우려가 제기되는 상황이다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스, 영풍",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.bizwatch.co.kr/article/industry/2026/08/28/0040",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "美 외교전문지, \"MBK·영풍이 고려아연 경영권 확보 못하도록 막아야\"",
+    "summary": "미국 외교전문지가 사모펀드 MBK파트너스와 영풍이 고려아연의 경영권을 인수하려는 시도를 막아야 한다고 주장하는, 잠재적 경영권 인수 관련 딜 기사.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스, 영풍",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762692",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "美 외교 전문지 “MBK, 中 자본 지배구조 면밀히 검토해야”",
+    "summary": "MBK파트너스와 영풍이 고려아연의 경영권 확보를 추진하려는 시도에 대해, 외부에서 이를 저지해야 한다는 주장이 제기되었다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.fntimes.com/html/view.php?ud=202608281816574677492587736_18",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "\"MBK, 中 네트워크 깊이 편입\"… 美 외교매체, 고려아연 경영권 이전 우...",
+    "summary": "사모펀드 MBK파트너스와 영풍이 고려아연의 경영권 확보를 시도하는 딜에 대해 미국 외교 전문매체가 우려를 표명했다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스, 영풍",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43344",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "美 언론, MBK 中 네트워크 거론…“고려아연 경영권 확보 차단 필요”",
+    "summary": "MBK파트너스와 영풍이 고려아연의 경영권 확보를 시도하는 딜에 대한 기사입니다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://sports.donga.com/economy/article/all/20260828/134565127/1",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "산은 한진칼 지분 10.58% 어디로…조원태-호반,'캐스팅보트' 지분을 잡아...",
+    "summary": "산업은행이 보유한 한진칼 지분 10.58%를 블록딜 방식으로 매각할 가능성이 제기되고 있으며, 조원태 측, 호반그룹 또는 행동주의 사모펀드 등이 잠재적 인수자로 거론되고 있다.",
+    "company": "한진칼",
+    "acquirer": "산업은행",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "http://www.nongaek.com/news/articleView.html?idxno=96577",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "삼성전기에 꽂힌 상위 1%, 하나마이크론·심텍은 팔았다 [주식 초고수는...",
+    "summary": "글랜우드크레딧이 실리콘투 지분 전량을 블록딜로 처분하며 엑싯을 완료했다.",
+    "company": "실리콘투",
+    "acquirer": "글랜우드크레딧",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20084410?ref=naver",
+    "date": "2026.08.28"
+  },
+  {
+    "title": "매수 리포트 속 날아든 6.72% 블록딜…실리콘투에 무슨 일이",
+    "summary": "사모펀드 운용사 글랜우드크레딧이 실리콘투 보통주 지분 6.72%를 블록딜 방식으로 매각하며 엑싯을 완료했다.",
+    "company": "실리콘투",
+    "acquirer": "글랜우드크레딧",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2,105억원",
+    "deal_stage": "완료",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432373",
+    "date": "2026.08.28"
+  },
+  {
     "title": "뉴욕증시 프리뷰, 워시 잭슨홀 연설 대기…AI 랠리 숨 고르기",
     "summary": "사모펀드 어드벤트와 결제업체 스트라이프로 구성된 컨소시엄이 페이팔 인수 추진을 철회했다.",
     "company": "PayPal",
@@ -1247,160 +1401,5 @@
     "deal_stage": "완료",
     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78099",
     "date": "2026.08.01"
-  },
-  {
-    "title": "모트렉스이에프엠, 두올 인수에 모회사 활용…1452억 유증",
-    "summary": "모트렉스이에프엠이 모회사를 활용하여 두올을 인수하며, 이를 위해 1452억원 규모의 유상증자를 진행하는 전략적 M&A 딜.",
-    "company": "두올",
-    "acquirer": "모트렉스이에프엠",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1452억원",
-    "deal_stage": "계약",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=669621",
-    "date": "2026.07.31"
-  },
-  {
-    "title": "[뉴스줌인] 전쟁이 바꾼 드론 전장…글로벌 방산 자금, 스타트업과 K방...",
-    "summary": "프랑스 탈레스가 해양 로보틱스·항법 기업 엑세일테크놀로지스를 39억유로에 인수하기로 한 전략적 M&A 거래이다.",
-    "company": "엑세일테크놀로지스",
-    "acquirer": "탈레스",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "39억유로",
-    "deal_stage": "계약",
-    "url": "http://www.dailypop.kr/news/articleView.html?idxno=101108",
-    "date": "2026.07.31"
-  },
-  {
-    "title": "제네시스PE, 8000억 확보...블라인드펀드 클로징 눈앞",
-    "summary": "제네시스PE가 2020년 인수한 KJ환경을 2024년 글로벌 사모펀드 EQT파트너스에 1조2000억원에 매각하며 엑싯했다.",
-    "company": "KJ환경",
-    "acquirer": "제네시스PE",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1.2조원",
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10826931?ref=naver",
-    "date": "2026.07.31"
-  },
-  {
-    "title": "그린리소스 종속기업 씨이케이, 큐이디서 105억원 투자 유치",
-    "summary": "전문 사모펀드(PEF) 운용사 큐이디가 그린리소스의 종속기업인 씨이케이의 상환전환우선주(RCPS)를 인수하며 105억원 규모의 투자를 단행했다.",
-    "company": "씨이케이",
-    "acquirer": "큐이디",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "105억원",
-    "deal_stage": "완료",
-    "url": "https://www.newspim.com/news/view/20260730000935",
-    "date": "2026.07.30"
-  },
-  {
-    "title": "표류하던 MG손보 매각 시동…보험시장 개편 주목",
-    "summary": "MG손해보험의 매각이 다시 추진되기 시작했으며, 금융지주 및 사모펀드들이 비은행 포트폴리오 강화를 위한 인수 후보군으로 거론되고 있다.",
-    "company": "MG손해보험",
-    "acquirer": "금융지주, 사모펀드",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1718410",
-    "date": "2026.07.30"
-  },
-  {
-    "title": "골드만삭스 주입 의료기 기업에 투자",
-    "summary": "골드만삭스 사모펀드 사업부가 누만텍의 지배지분을 화이트 브릿지 인베스트먼츠 및 기존 주주로부터 인수하는 바이아웃 딜을 발표했다.",
-    "company": "누만텍",
-    "acquirer": "골드만삭스 사모펀드 사업부",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3009157",
-    "date": "2026.07.30"
-  },
-  {
-    "title": "KT·아모레, AI 연구비서 도입…12일 걸리던 업무 5분으로",
-    "summary": "신세계인터내셔날이 APLB 브랜드를 보유한 유엘코퍼레이션에 150억 원 규모의 출자를 검토 중이다.",
-    "company": "유엘코퍼레이션",
-    "acquirer": "신세계인터내셔날",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "150억원",
-    "deal_stage": "검토",
-    "url": "https://www.sedaily.com/article/20073182?ref=naver",
-    "date": "2026.07.29"
-  },
-  {
-    "title": "[단독] 정의선·정경선 '현대家' 수소로 뭉쳤다…록펠러·인니 재벌도 가...",
-    "summary": "전문 사모펀드 운용사와 현대가가 하이버스 지분 49%를 인수하여 수소 충전 사업에 본격적으로 진출하는 PE 투자 딜이다.",
-    "company": "하이버스",
-    "acquirer": "전문 사모펀드 운용사",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.theguru.co.kr/news/article.html?no=105050",
-    "date": "2026.07.29"
-  },
-  {
-    "title": "하학열 고성군수 “SK오션플랜트 매각 즉각 철회하라”",
-    "summary": "고성군수가 SK오션플랜트의 사모펀드 매각 추진에 대해 철회를 요구하며, 인수 주체로 SK에 준하는 대기업을 제안했다.",
-    "company": "SK오션플랜트",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsis.com/view/NISX20260727_0003724630",
-    "date": "2026.07.27"
-  },
-  {
-    "title": "고성군 \"SK오션플랜트 매각 즉각 철회하라\"",
-    "summary": "고성군은 SK오션플랜트의 매각이 추진되는 상황에서 사모펀드로의 인수를 반대하고 SK에 준하는 대기업의 인수를 요구하며 매각 철회를 주장하고 있다.",
-    "company": "SK오션플랜트",
-    "acquirer": "SK",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsgn.com/news/articleView.html?idxno=564477",
-    "date": "2026.07.27"
-  },
-  {
-    "title": "하학열 고성군수 \"SK오션플랜트 매각 전면 재검토해야…지역 전체 영향...",
-    "summary": "SK오션플랜트의 매각이 추진 중인 가운데, 고성군수는 사모펀드 매각에 반대하며 SK에 준하는 대기업 인수를 요구하고 있다.",
-    "company": "SK오션플랜트",
-    "acquirer": "SK",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.news1.kr/local/busan-gyeongnam/6240002",
-    "date": "2026.07.27"
   }
 ]
