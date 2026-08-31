@@ -1,5 +1,19 @@
 [
   {
+    "title": "롯데손보 공개매각 임박… '1조원 몸값' 변수",
+    "summary": "JKL파트너스가 보유한 롯데손해보험의 지분 공개 매각 절차를 시작할 예정이다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=1408040",
+    "date": "2026.08.31"
+  },
+  {
     "title": "DB손보, 2030년 주주환원율 50%로 확대",
     "summary": "DB손보가 미국 팁트리 및 글로벌 사모펀드 워버그 핀커스로부터 미국 보험사 포테그라 지분 100%를 약 2조3000억원에 인수 완료한 전략적 M&A 거래이다.",
     "company": "포테그라",
@@ -1386,20 +1400,6 @@
     "ev": "7800억원",
     "deal_stage": "완료",
     "url": "http://www.jbsori.com/news/articleView.html?idxno=17673",
-    "date": "2026.08.01"
-  },
-  {
-    "title": "[단독] 유동성 벼랑끝 성이바이오제약, 보령바이오 수혈로 기사회생",
-    "summary": "보령바이오가 유동성 위기에 처한 성이바이오제약을 인수하여 회생시키는 전략적 M&A 딜이다.",
-    "company": "성이바이오제약",
-    "acquirer": "보령바이오",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78099",
     "date": "2026.08.01"
   }
 ]
