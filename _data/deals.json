@@ -1,5 +1,33 @@
 [
   {
+    "title": "TPG, 롯데렌탈 품는다…공정위 “경쟁제한 우려 없어”",
+    "summary": "글로벌 사모펀드 TPG의 국내 렌터카 1위 업체 롯데렌탈 인수가 공정거래위원회의 승인을 받았다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://biz.heraldcorp.com/article/10858939?ref=naver",
+    "date": "2026.09.01"
+  },
+  {
+    "title": "공정위, 글로벌 사모펀드 TPG의 롯데렌탈 인수 승인",
+    "summary": "글로벌 사모펀드 TPG가 롯데렌탈의 주식 취득에 대해 공정거래위원회로부터 승인을 받으며, TPG의 롯데렌탈 인수 절차가 사실상 완료 단계에 접어들었다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sentv.co.kr/article/view/sentv202609010158",
+    "date": "2026.09.01"
+  },
+  {
     "title": "롯데손보 공개매각 임박… '1조원 몸값' 변수",
     "summary": "JKL파트너스가 보유한 롯데손해보험의 지분 공개 매각 절차를 시작할 예정이다.",
     "company": "롯데손해보험",
@@ -1373,33 +1401,5 @@
     "deal_stage": "완료",
     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02279606645353800",
     "date": "2026.02.24"
-  },
-  {
-    "title": "한진 공익법인 3곳, 연내 한진칼 지분 1.19% 매입…호반 공세 차단",
-    "summary": "한진 공익법인 3곳이 경영권 방어를 목적으로 연내 한진칼 지분 1.19%를 매입할 예정이다.",
-    "company": "한진칼",
-    "acquirer": "한진 공익법인 3곳",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.news1.kr/industry/general-industry/6245653",
-    "date": "2026.08.01"
-  },
-  {
-    "title": "군산조선소 매각, 7800억원의 셈법 뒤에 숨은 '지속성', '먹튀' 우려",
-    "summary": "사모펀드(PEF)가 군산조선소를 7800억원 규모로 인수한 거래에서, 인수 대금 조달 리스크와 향후 독자 생존 가능성에 대한 우려가 제기되었다.",
-    "company": "군산조선소",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "7800억원",
-    "deal_stage": "완료",
-    "url": "http://www.jbsori.com/news/articleView.html?idxno=17673",
-    "date": "2026.08.01"
   }
 ]
