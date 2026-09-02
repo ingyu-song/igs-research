@@ -1,5 +1,89 @@
 [
   {
+    "title": "롯데렌탈 매각 공정위 승인…롯데, 1.3조원 확보로 사업재편 속도",
+    "summary": "롯데그룹이 글로벌 사모펀드 TPG에 롯데렌탈을 매각하는 딜이 공정거래위원회 승인을 받으며 성사 단계에 접어들었다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.3조원",
+    "deal_stage": "계약",
+    "url": "http://www.press9.kr/news/articleView.html?idxno=82040",
+    "date": "2026.09.02"
+  },
+  {
+    "title": "어펄마캐피탈, 1000억 블루엘리펀트 투자 클로징 눈앞",
+    "summary": "사모펀드 운용사 어펄마캐피탈이 아이웨어 브랜드 블루엘리펀트에 최대 1000억원을 투자하여 2대주주로 참여하는 거래의 클로징을 앞두고 있다.",
+    "company": "블루엘리펀트",
+    "acquirer": "어펄마캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1000억원",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47425",
+    "date": "2026.09.02"
+  },
+  {
+    "title": "﻿TPG, 롯데렌탈 지분 61.2% 인수 완료… 공정위 기업결합 승인",
+    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 지분 61.2% 인수를 완료하며 경영권을 확보한 PE의 기업 인수 거래이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=610593",
+    "date": "2026.09.02"
+  },
+  {
+    "title": "코오롱, 투자계열사 재편…이웅열 지분 정리·경영진 교체",
+    "summary": "코오롱이 이웅열 회장 및 벤처캐피탈, 사모펀드 등으로부터 리베토코리아 지분 전량을 인수해 자회사로 편입하며 투자계열사 재편에 나섰다.",
+    "company": "리베토코리아",
+    "acquirer": "코오롱",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.topdaily.kr/articles/111757",
+    "date": "2026.09.02"
+  },
+  {
+    "title": "리밸런싱 신동빈 또 팔았다… 롯데렌탈 매각",
+    "summary": "롯데그룹이 자회사 롯데렌탈을 글로벌 사모펀드에 매각하는 전략적 딜이 10월 내 완료될 예정이다.",
+    "company": "롯데렌탈",
+    "acquirer": "글로벌 사모펀드",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.globalepic.co.kr/view.php?ud=202609021050405448439a4874_29",
+    "date": "2026.09.02"
+  },
+  {
+    "title": "[데스크시각] SK디스커버리 이사회에 멈춰 선 '3월의 가격'",
+    "summary": "SK디스커버리의 2대 주주인 PEF 한앤컴퍼니가 SK디스커버리 지분 422만5455주를 1001억원에 매각하기로 결정한 PE 엑시트 딜이다.",
+    "company": "SK디스커버리",
+    "acquirer": "한앤컴퍼니",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1001억원",
+    "deal_stage": "계약",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=672188",
+    "date": "2026.08.31"
+  },
+  {
     "title": "TPG, 롯데렌탈 품는다…공정위 “경쟁제한 우려 없어”",
     "summary": "글로벌 사모펀드 TPG의 국내 렌터카 1위 업체 롯데렌탈 인수가 공정거래위원회의 승인을 받았다.",
     "company": "롯데렌탈",
@@ -1317,89 +1401,5 @@
     "deal_stage": "협상",
     "url": "https://www.bloter.net/news/articleView.html?idxno=669842",
     "date": "2026.08.03"
-  },
-  {
-    "title": "전환가 밑돈 롯데관광개발…도미누스, CB 350억 회수 나선다 [fn마켓워치...",
-    "summary": "PEF 운용사 도미누스인베스트먼트가 롯데관광개발의 전환사채(CB) 투자금 350억원을 회수할 계획이다.",
-    "company": "롯데관광개발",
-    "acquirer": "도미누스인베스트먼트",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "350억원",
-    "deal_stage": "협상",
-    "url": "http://www.fnnews.com/news/202608020908448472",
-    "date": "2026.08.02"
-  },
-  {
-    "title": "[한화그룹 3세 승진-김동선] 아워홈 인수·HBM 장비 진입…독자 지주 띄...",
-    "summary": "사모펀드가 아워홈 인수를 추진하며 양해각서(MOU) 협상 기한을 연장했다.",
-    "company": "아워홈",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ekn.kr/web/view.php?key=20260802022248377",
-    "date": "2026.08.02"
-  },
-  {
-    "title": "[커버스토리] '30만주 차' 호반그룹, 대한항공 경영권 노린다… 한진칼...",
-    "summary": "호반그룹이 2022년 사모펀드 KCGI로부터 인수한 한진칼 지분을 꾸준히 늘려 현재 대한항공의 경영권 확보를 추진하고 있다.",
-    "company": "한진칼",
-    "acquirer": "호반그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=42775",
-    "date": "2026.08.02"
-  },
-  {
-    "title": "롯데손보 인수 불투명…신한금융 비은행 퍼즐 다시 짜나",
-    "summary": "사모펀드 JKL파트너스가 보유한 롯데손해보험의 공개매각이 추진되고 있으며, 잠재적 인수자인 신한금융의 인수 불투명으로 딜 향방에 관심이 쏠린다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.asiatime.co.kr/article/20260731500115",
-    "date": "2026.08.02"
-  },
-  {
-    "title": "한화家 3세 체제 본격화…삼남 김동선, 첫 성적표 받는다",
-    "summary": "사모펀드(PEF) 운용사 H&Q에쿼티파트너스가 파이브가이즈 운영사 에프지코리아 인수를 위한 SPA 체결을 앞두고 본실사를 마무리할 예정이다.",
-    "company": "에프지코리아",
-    "acquirer": "H&Q에쿼티파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://weekly.chosun.com/news/articleView.html?idxno=53920",
-    "date": "2026.08.02"
-  },
-  {
-    "title": "MBK 지분 쥔 블루아울, ‘검증된 파트너’ 신뢰 흔들리나",
-    "summary": "블루아울(다이얼캐피탈)이 MBK파트너스의 GP 지분을 인수하여 주요 주주가 된 딜.",
-    "company": "MBK파트너스",
-    "acquirer": "블루아울",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02279606645353800",
-    "date": "2026.02.24"
   }
 ]
