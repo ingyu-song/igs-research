@@ -1,5 +1,33 @@
 [
   {
+    "title": "[주간사모펀드] 영풍·MBK vs 고려아연…'엔터투자' 진실공방",
+    "summary": "글로벌 사모펀드 EQT가 세컨더리 전문 운용사 콜러캐피털 인수를 완료했다.",
+    "company": "콜러캐피털",
+    "acquirer": "EQT",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://news.tf.co.kr/read/economy/2362115.htm",
+    "date": "2026.09.05"
+  },
+  {
+    "title": "고성군, SK오션플랜트 인수기업에 상생협력 마련 촉구",
+    "summary": "사모펀드 디오션자산운용이 SK오션플랜트를 인수한 딜에 대해 고성군이 지역 상생협력을 촉구하는 기사이다.",
+    "company": "SK오션플랜트",
+    "acquirer": "디오션자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.idomin.com/news/articleView.html?idxno=2014061",
+    "date": "2026.09.04"
+  },
+  {
     "title": "롯데렌탈 매각 공정위 승인…롯데, 1.3조원 확보로 사업재편 속도",
     "summary": "롯데그룹이 글로벌 사모펀드 TPG에 롯데렌탈을 매각하는 딜이 공정거래위원회 승인을 받으며 성사 단계에 접어들었다.",
     "company": "롯데렌탈",
@@ -1372,34 +1400,6 @@
     "ev": "4000억원",
     "deal_stage": "완료",
     "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03263606645543712",
-    "date": "2026.08.03"
-  },
-  {
-    "title": "유럽축구연맹, FIFA 상대 법적 조치 돌입···\"월드컵 지분 매각 관련 ...",
-    "summary": "조슈아 쿠슈너가 이끄는 사모펀드가 FIFA가 신설하려던 영리법인의 지분 20%를 42억 달러에 인수하려던 PE의 기업 인수 추진 딜.",
-    "company": "FIFA가 신설하려던 영리법인",
-    "acquirer": "조슈아 쿠슈너가 이끄는 PE펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "42억 달러",
-    "deal_stage": "협상",
-    "url": "https://www.smartbizn.com/news/articleView.html?idxno=150167",
-    "date": "2026.08.03"
-  },
-  {
-    "title": "[롯데렌탈 M&A] TPG 독주 흔든 한국앤컴퍼니…인수전 '새 국면'",
-    "summary": "글로벌 사모펀드 TPG가 독주하던 롯데렌탈 경영권 인수전에 한국앤컴퍼니그룹이 참여를 검토하며 인수전이 새 국면을 맞이하고 있음.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG, 한국앤컴퍼니그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=669842",
     "date": "2026.08.03"
   }
 ]
