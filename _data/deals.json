@@ -1,5 +1,19 @@
 [
   {
+    "title": "LG전자, 베어로보틱스 프리IPO 추진…'2조 밸류' 가능할까",
+    "summary": "LG전자가 투자한 베어로보틱스가 국내외 사모펀드를 대상으로 프리IPO를 추진하며 사업 확장을 위한 자금을 확보할 예정이다.",
+    "company": "베어로보틱스",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309746",
+    "date": "2026.09.07"
+  },
+  {
     "title": "[주간사모펀드] 영풍·MBK vs 고려아연…'엔터투자' 진실공방",
     "summary": "글로벌 사모펀드 EQT가 세컨더리 전문 운용사 콜러캐피털 인수를 완료했다.",
     "company": "콜러캐피털",
@@ -1387,19 +1401,5 @@
     "deal_stage": "계약",
     "url": "https://www.sedaily.com/article/20075498?ref=naver",
     "date": "2026.08.04"
-  },
-  {
-    "title": "LX인베, 반도체 SSP 딜 클로징…3년 만에 두배 회수[마켓인]",
-    "summary": "LX인베스트먼트가 보유하던 반도체 장비회사 에스에스피(SSP) 지분 매각 거래가 마무리되었으며, 케이스톤파트너스가 이를 인수했다.",
-    "company": "에스에스피",
-    "acquirer": "케이스톤파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "4000억원",
-    "deal_stage": "완료",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03263606645543712",
-    "date": "2026.08.03"
   }
 ]
