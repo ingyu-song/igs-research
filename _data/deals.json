@@ -1,5 +1,19 @@
 [
   {
+    "title": "삼성SDS, 'RX'에 승부수…이준희 대표 \"KKR과 투자 검토 중\"",
+    "summary": "글로벌 사모펀드 콜버그크래비스로버츠(KKR)가 삼성SDS의 'RX' 전략 관련 신규 투자를 검토 중이다.",
+    "company": "삼성SDS",
+    "acquirer": "콜버그크래비스로버츠",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026090814344711438",
+    "date": "2026.09.08"
+  },
+  {
     "title": "LG전자, 베어로보틱스 프리IPO 추진…'2조 밸류' 가능할까",
     "summary": "LG전자가 투자한 베어로보틱스가 국내외 사모펀드를 대상으로 프리IPO를 추진하며 사업 확장을 위한 자금을 확보할 예정이다.",
     "company": "베어로보틱스",
@@ -1387,19 +1401,5 @@
     "deal_stage": "완료",
     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167353",
     "date": "2026.08.05"
-  },
-  {
-    "title": "맥쿼리, 얼라인에 재반박…“가비아 공개매수 중요정보 모두 공시”[시...",
-    "summary": "맥쿼리(사모펀드 운용사)는 가비아 최대주주 지분 인수와 함께 주당 4만 8000원에 잔여 지분 공개매수를 진행하여 가비아를 완전 자회사로 편입, 상장폐지하는 PE 바이아웃 딜을 추진 중이다.",
-    "company": "가비아",
-    "acquirer": "맥쿼리",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.sedaily.com/article/20075498?ref=naver",
-    "date": "2026.08.04"
   }
 ]
