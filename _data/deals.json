@@ -1,5 +1,19 @@
 [
   {
+    "title": "최윤범 고려아연 회장, 영풍·MBK 연합에 판정승…불씨는 남았다",
+    "summary": "영풍과 MBK파트너스 연합이 고려아연에 대한 적대적 인수합병을 추진하는 가운데, 최윤범 회장 측이 주주총회에서 경영권 방어에 성공했다는 기사.",
+    "company": "고려아연",
+    "acquirer": "영풍, MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254212",
+    "date": "2026.09.09"
+  },
+  {
     "title": "삼성SDS, 'RX'에 승부수…이준희 대표 \"KKR과 투자 검토 중\"",
     "summary": "글로벌 사모펀드 콜버그크래비스로버츠(KKR)가 삼성SDS의 'RX' 전략 관련 신규 투자를 검토 중이다.",
     "company": "삼성SDS",
@@ -1387,19 +1401,5 @@
     "deal_stage": "계약",
     "url": "https://www.dt.co.kr/article/12076887?ref=naver",
     "date": "2026.08.06"
-  },
-  {
-    "title": "사우디 PIF, 79조원에 EA 인수… 29조원 부채 부담",
-    "summary": "사우디 국부펀드 PIF와 미국 사모펀드 실버레이크, 투자회사 어피니티파트너스 컨소시엄이 EA를 79조원에 인수 완료했으며, EA는 나스닥에서 상장 폐지된다.",
-    "company": "EA",
-    "acquirer": "사우디 PIF, 실버레이크, 어피니티파트너스 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "79조원",
-    "deal_stage": "완료",
-    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167353",
-    "date": "2026.08.05"
   }
 ]
