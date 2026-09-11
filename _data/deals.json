@@ -1,5 +1,33 @@
 [
   {
+    "title": "인텔이 품었던 알테라, 11년 만에 美 증시 재상장 추진",
+    "summary": "사모펀드 실버레이크가 보유한 알테라를 미국 증시에 재상장(IPO)하여 엑싯을 추진하고 있다.",
+    "company": "Altera",
+    "acquirer": "Silver Lake",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "2조6000억원",
+    "deal_stage": "협상",
+    "url": "http://www.inews24.com/view/2004671",
+    "date": "2026.09.11"
+  },
+  {
+    "title": "버거킹, 맘스터치 희망 매각가 1조? 사모펀드와 버거 '불편한 함수'",
+    "summary": "사모펀드가 보유한 맘스터치앤컴퍼니의 잠재적 매각가가 1조원으로 언급되며, 사모펀드의 엑싯 추진 가능성이 논의되는 딜.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "사모펀드",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "소문",
+    "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=311559",
+    "date": "2026.09.11"
+  },
+  {
     "title": "[직설] 트럼프, 한국 전방위 압박…이란 파병·대미투자 ‘고차방정식’...",
     "summary": "정부가 대표 원전 기업인 미국 웨스팅하우스 지분 인수를 검토하고 있으며, 현재 최대주주인 캐나다 사모펀드로부터의 전략적 인수 딜이 추진될 수 있다.",
     "company": "웨스팅하우스",
@@ -1373,33 +1401,5 @@
     "deal_stage": "협상",
     "url": "https://www.smartbizn.com/news/articleView.html?idxno=150234",
     "date": "2026.08.04"
-  },
-  {
-    "title": "Sh수협은행, 상상인증권 인수 추진…비은행 사업 확대 나서",
-    "summary": "Sh수협은행이 비은행 사업 확대를 위해 상상인증권 인수를 추진하고 있다.",
-    "company": "상상인증권",
-    "acquirer": "Sh수협은행",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://sateconomy.co.kr/news/view/1065580534409848",
-    "date": "2026.08.06"
-  },
-  {
-    "title": "[Invest]Sh수협은행, 상상인증권 인수 추진…비은행 확대 속도",
-    "summary": "Sh수협은행이 상상인증권 인수를 추진하며 비은행 사업 확대를 모색하는 전략적 M&A 딜이다.",
-    "company": "상상인증권",
-    "acquirer": "Sh수협은행",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/08/06/2026080680078.html",
-    "date": "2026.08.06"
   }
 ]
