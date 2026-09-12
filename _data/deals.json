@@ -1,5 +1,19 @@
 [
   {
+    "title": "몸집보다 성장…J&J, 200억달러 드퓨 신테스 매각 카드 '만지작'",
+    "summary": "J&J가 자회사 드퓨 신테스(DePuy Synthes)를 200억달러에 매각하는 방안을 검토 중이며, 사모펀드 등을 잠재적 인수자로 보고 있는 전략적 M&A 딜이다.",
+    "company": "드퓨 신테스",
+    "acquirer": "J&J",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "200억달러",
+    "deal_stage": "소문",
+    "url": "https://www.medipana.com/news/articleView.html?idxno=417512",
+    "date": "2026.09.12"
+  },
+  {
     "title": "인텔이 품었던 알테라, 11년 만에 美 증시 재상장 추진",
     "summary": "사모펀드 실버레이크가 보유한 알테라를 미국 증시에 재상장(IPO)하여 엑싯을 추진하고 있다.",
     "company": "Altera",
@@ -1387,19 +1401,5 @@
     "deal_stage": "협상",
     "url": "https://www.mk.co.kr/article/12118895",
     "date": "2026.08.06"
-  },
-  {
-    "title": "공차, 2조 매물로 다시 나왔지만···해외 성장성에도 국내 리스크 '발...",
-    "summary": "공차의 기존 대주주인 어피니티에쿼티파트너스가 회사를 2조원 매물로 다시 내놓았으며, MBK파트너스가 유력한 인수 후보로 거론되고 있다.",
-    "company": "공차",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "2조원",
-    "deal_stage": "협상",
-    "url": "https://www.smartbizn.com/news/articleView.html?idxno=150234",
-    "date": "2026.08.04"
   }
 ]
