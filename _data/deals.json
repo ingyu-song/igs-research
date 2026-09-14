@@ -1,5 +1,19 @@
 [
   {
+    "title": "판 커지는 렌터카…완성차 가세·플랫폼 연계 주목",
+    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수를 추진 중이며, 이는 앞서 어피니티에쿼티파트너스의 롯데렌탈 인수가 경쟁 제한 우려로 무산된 이후의 상황이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=1413569",
+    "date": "2026.09.14"
+  },
+  {
     "title": "한승표 굿리치 대표, 4000억원 규모 인수자금 마련…인수 가시권",
     "summary": "한승표 굿리치 대표가 사모펀드 JC파트너스로부터 굿리치의 경영권을 4000억원 규모로 되사오기 위한 자금 조달을 마무리하고 인수를 추진 중이다.",
     "company": "굿리치",
@@ -1386,20 +1400,6 @@
     "ev": "1조원 안팎",
     "deal_stage": "협상",
     "url": "https://www.ajunews.com/view/20260804235805437",
-    "date": "2026.08.06"
-  },
-  {
-    "title": "롯데렌탈 인수 복잡해진 셈법…'기업결합' 여전한 숙제[마켓인]",
-    "summary": "호텔롯데와 부산롯데호텔이 보유한 롯데렌탈 지분 61.18%에 대한 매각이 협상 중이며, 매각가는 1조원대 초중반이 거론된다.",
-    "company": "롯데렌탈",
-    "acquirer": "호텔롯데, 부산롯데호텔",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1조원대 초중반",
-    "deal_stage": "협상",
-    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06655126645544696",
     "date": "2026.08.06"
   }
 ]
