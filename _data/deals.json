@@ -1,5 +1,61 @@
 [
   {
+    "title": "원전 투자 앞둔 정부, 미국과 웨스팅하우스 지분율 줄다리기",
+    "summary": "정부와 한국전력이 미국 측으로부터 웨스팅하우스 지분 인수를 제안받아 투자 구조 및 재원 조달 방식을 검토 중인 전략적 M&A 딜",
+    "company": "웨스팅하우스",
+    "acquirer": "정부, 한국전력",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756177&plink=ORI&cooper=NAVER",
+    "date": "2026.09.16"
+  },
+  {
+    "title": "웨스팅하우스 지분 인수 韓 “15%” vs 美 “5~10%” 줄다리기",
+    "summary": "대한민국 정부 및 관련 기관이 웨스팅하우스 지분 15% 인수를 추진하는 가운데, 미국 측과 지분 비율을 두고 협상이 진행 중인 전략적 M&A 딜이다.",
+    "company": "웨스팅하우스",
+    "acquirer": "대한민국 정부 및 관련 기관",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/policy/policy_sub/2026/09/16/VCJRWABCMNC5DNETCV32NQGNTQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.09.16"
+  },
+  {
+    "title": "[머니웨이브] 호르무즈 파병 압박…미국이 한국에 원하는 건 따로 있다...",
+    "summary": "한화와 미국 사모펀드가 미국 해군 함정 건조·정비 인프라를 보유한 오스탈 USA를 인수하기 위한 경쟁에 참여하고 있다.",
+    "company": "Austal USA",
+    "acquirer": "한화",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.theguru.co.kr/news/article.html?no=107108",
+    "date": "2026.09.16"
+  },
+  {
+    "title": "웨스팅하우스 15%냐 5~10%냐…한미, 지분 투자 막판 협상",
+    "summary": "한국 정부가 미국 원전기업 웨스팅하우스의 지분 인수를 위해 미국 측 및 캐나다 PE 운용사 브룩필드와 막판 협상을 진행 중이다.",
+    "company": "웨스팅하우스",
+    "acquirer": "한국 정부 (컨소시엄 포함)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://magazine.hankyung.com/business/article/202609168324b",
+    "date": "2026.09.16"
+  },
+  {
     "title": "판 커지는 렌터카…완성차 가세·플랫폼 연계 주목",
     "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수를 추진 중이며, 이는 앞서 어피니티에쿼티파트너스의 롯데렌탈 인수가 경쟁 제한 우려로 무산된 이후의 상황이다.",
     "company": "롯데렌탈",
@@ -1345,61 +1401,5 @@
     "deal_stage": "계약",
     "url": "https://thetracker.co.kr/View.aspx?No=4177298",
     "date": "2026.08.07"
-  },
-  {
-    "title": "원금 대비 2배 수익…3호펀드 성공적 회수 앞둔 사모펀드 VIG",
-    "summary": "포컴파트너스는 유영산업 인수를 위한 펀딩을 진행하고 있으며, 이는 PEF의 기업 인수(Acquisition) 거래에 해당한다.",
-    "company": "유영산업",
-    "acquirer": "포컴파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1500억원",
-    "deal_stage": "협상",
-    "url": "https://view.asiae.co.kr/article/2026080616011456372",
-    "date": "2026.08.07"
-  },
-  {
-    "title": "공차, 9000억원에 베인캐피탈에 매각…미주·유럽 진출 속도",
-    "summary": "밀크티 프랜차이즈 공차가 글로벌 사모펀드 베인캐피탈에 9000억원 규모로 인수되는 PE 바이아웃 거래이다.",
-    "company": "공차",
-    "acquirer": "베인캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "9000억원",
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10833588?ref=naver",
-    "date": "2026.08.07"
-  },
-  {
-    "title": "사우디 오일머니, '심즈' EA 78조원에 삼켰다",
-    "summary": "PLE, 실버레이크, 어피니티파트너스로 구성된 컨소시엄이 EA를 78조원에 인수하며 EA는 상장 폐지되었다.",
-    "company": "EA",
-    "acquirer": "PLE, 실버레이크, 어피니티파트너스 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "78조원",
-    "deal_stage": "완료",
-    "url": "https://www.insight.co.kr/news/566945",
-    "date": "2026.08.07"
-  },
-  {
-    "title": "버거·커피·치킨까지 줄줄이 매물…외식 프랜차이즈 M&A '활기'",
-    "summary": "홍콩계 사모펀드 어피니티에쿼티파트너스가 버거킹과 팀홀튼을 운영하는 BKR 매각에 다시 나섰다.",
-    "company": "BKR",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원 안팎",
-    "deal_stage": "협상",
-    "url": "https://www.ajunews.com/view/20260804235805437",
-    "date": "2026.08.06"
   }
 ]
