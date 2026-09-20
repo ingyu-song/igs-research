@@ -1,5 +1,47 @@
 [
   {
+    "title": "롯데손해보험은 왜 안 팔리나…금융지주가 계산기 두드리는 이유 [머니...",
+    "summary": "사모펀드 JKL파트너스가 2019년 롯데그룹으로부터 인수한 롯데손해보험의 매각(exit) 추진이 시장의 어려움으로 난항을 겪고 있다는 내용의 기사이다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.ifm.kr/news/articleView.html?idxno=479851",
+    "date": "2026.09.20"
+  },
+  {
+    "title": "네이버, 배민 인수 검토 중단…5월 인수설 4개월 만에 일단락",
+    "summary": "네이버가 배달의민족(우아한형제들) 인수를 검토하다 중단한 전략적 M&A 딜의 동향 기사이며, 이 과정에서 우버가 우아한형제들의 모회사인 딜리버리히어로 인수를 추진하는 방향으로 선회했다는 내용이 담겨있다.",
+    "company": "우아한형제들",
+    "acquirer": "네이버",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thepublic.kr/news/articleView.html?idxno=319338",
+    "date": "2026.09.20"
+  },
+  {
+    "title": "'메가LCC' 대신 두 집 살림?…VIG, 이스타·에어프레미아 '투트랙' 무게",
+    "summary": "PEF 운용사 VIG파트너스가 에어프레미아의 주요 주주 지분 인수를 통해 경영권을 확보하는 PE 바이아웃 딜을 추진 중이다.",
+    "company": "에어프레미아",
+    "acquirer": "VIG파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.asiatime.co.kr/article/20260918500259",
+    "date": "2026.09.20"
+  },
+  {
     "title": "[단독] 로레알 만드는 화성코스메틱, 맥쿼리 품에 안긴다…본계약 체결",
     "summary": "맥쿼리가 화장품 제조업체 화성코스메틱 인수를 위한 본계약을 체결했다.",
     "company": "화성코스메틱",
@@ -1358,48 +1400,6 @@
     "ev": "1000억원",
     "deal_stage": "계약",
     "url": "https://wemakenews.co.kr/news/view.php?no=26002",
-    "date": "2026.08.08"
-  },
-  {
-    "title": "SK하이닉스 이어 도시바도 '잭팟'…키옥시아 덕에 순익 30배↑",
-    "summary": "베인캐피털이 2018년 도시바메모리(현 키옥시아) 인수 후 보유 지분을 순차적으로 매각하며 대규모 차익을 실현한 PE 엑싯 딜.",
-    "company": "키옥시아",
-    "acquirer": "베인캐피털",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93471",
-    "date": "2026.08.08"
-  },
-  {
-    "title": "블루엘리펀트, 1000억 투자 유치.. '성장' 아닌 '시스템'에 베팅",
-    "summary": "글로벌 사모펀드 어펄마캐피탈이 아이웨어 브랜드 블루엘리펀트에 1000억원 규모의 투자(구주 및 신주 인수)를 진행하는 PE의 기업 인수 딜.",
-    "company": "블루엘리펀트",
-    "acquirer": "어펄마캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1000억원",
-    "deal_stage": "계약",
-    "url": "https://economist.co.kr/article/view/ecn202608070035",
-    "date": "2026.08.08"
-  },
-  {
-    "title": "블루엘리펀트, 최대 1천억원 투자 유치로 글로벌 사업 확장 박차",
-    "summary": "블루엘리펀트가 글로벌 사모펀드 어펄마캐피탈매니져스코리아로부터 최대 1천억원 규모의 투자를 유치하여 글로벌 사업 확장에 나선다.",
-    "company": "블루엘리펀트",
-    "acquirer": "어펄마캐피탈매니져스코리아",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1천억원",
-    "deal_stage": "계약",
-    "url": "https://www.tokenpost.kr/news/economy/386838",
     "date": "2026.08.08"
   }
 ]
