@@ -1,5 +1,47 @@
 [
   {
+    "title": "'통합 대한항공'에 LCC는 정체성 싸움…연말 대격변 예고",
+    "summary": "PEF 운용사 VIG파트너스가 중장거리 특화 항공사 에어프레미아의 경영권 인수를 타진하며 주요 주주들과 협상 및 실사를 진행 중이다.",
+    "company": "에어프레미아",
+    "acquirer": "VIG파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=1417424",
+    "date": "2026.09.22"
+  },
+  {
+    "title": "전 세계 2,000만 개 팔린 '이 세럼', 브랜드 몸값 4,300 억원... 다음은 헤...",
+    "summary": "글로벌 사모펀드(PEF) 운용사 MBK 파트너스가 아시아마스터트레이드 지분 40%를 1,720억 원에 인수하는 계약을 체결하며 새로운 PE의 기업 인수가 진행되었다.",
+    "company": "아시아마스터트레이드",
+    "acquirer": "MBK 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "4,300억원",
+    "deal_stage": "계약",
+    "url": "https://www.insight.co.kr/news/574736",
+    "date": "2026.09.22"
+  },
+  {
+    "title": "[더벨][thebell note] 롯데렌탈의 '넥스트 스텝'",
+    "summary": "글로벌 사모펀드 TPG가 롯데렌탈을 인수할 예정이며, 공정거래위원회 기업결합 승인을 받고 10월 안에 거래가 마무리될 계획이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609170759562160105423",
+    "date": "2026.09.22"
+  },
+  {
     "title": "맥쿼리, ‘K뷰티 ODM’ 화성코스메틱·나우코스 3000억에 인수",
     "summary": "글로벌 자산운용사 맥쿼리자산운용이 화장품 ODM 전문기업 화성코스메틱과 나우코스를 사모펀드 어펄마캐피탈로부터 3000억원에 인수하는 거래.",
     "company": "화성코스메틱, 나우코스",
@@ -1358,48 +1400,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257483&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "date": "2026.08.10"
-  },
-  {
-    "title": "코스톤아시아, 전력기자재 우진기전 품는다… 3000억 초반 SPA 체결",
-    "summary": "사모펀드(PEF) 운용사 코스톤아시아가 전력기기 설루션 기업 우진기전의 인수 주식매매계약(SPA)을 체결했다.",
-    "company": "우진기전",
-    "acquirer": "코스톤아시아",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억 초반",
-    "deal_stage": "계약",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/08/10/VY6F3YVZXVE5TPWAVBOFYJBRFI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.08.10"
-  },
-  {
-    "title": "코스톤아시아, 우진기전 품는다...SPA 체결",
-    "summary": "국내 사모펀드(PEF) 운용사 코스톤아시아가 전력기자재 기업 우진기전을 3000억원대 초반에 인수하는 PE buyout 거래이다.",
-    "company": "우진기전",
-    "acquirer": "코스톤아시아",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "계약",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46899",
-    "date": "2026.08.10"
-  },
-  {
-    "title": "코스톤아시아, 우진기전 품는다…오늘 SPA 체결",
-    "summary": "사모펀드 코스톤아시아가 전력기자재 전문기업 우진기전의 경영권 인수를 위한 주식매매계약(SPA)을 체결한다.",
-    "company": "우진기전",
-    "acquirer": "코스톤아시아",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10835707?ref=naver",
     "date": "2026.08.10"
   }
 ]
