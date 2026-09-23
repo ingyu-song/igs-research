@@ -1,5 +1,75 @@
 [
   {
+    "title": "[단독]포스코그룹 ‘잭니클라우스GC’ 매각 착수…골프장 최고가 깰까",
+    "summary": "포스코그룹이 보유 중인 골프장 잭니클라우스GC의 매각에 착수하는 전략적 M&A 딜이다.",
+    "company": "잭니클라우스GC",
+    "acquirer": "포스코그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.donga.com/news/Economy/article/all/20260923/134726481/1",
+    "date": "2026.09.23"
+  },
+  {
+    "title": "[단독] JTBC 매각 주관사에 한영…인가전 M&A 본격화 [시그널]",
+    "summary": "JTBC가 EY한영을 매각 주관사로 선정하며 경영권 매각을 본격화하는 딜이며, 사모펀드 운용사들이 잠재적 인수 후보로 거론된다.",
+    "company": "제이티비씨 주식회사",
+    "acquirer": "사모펀드 운용사",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20094488?ref=naver",
+    "date": "2026.09.23"
+  },
+  {
+    "title": "아웃도어 기업 K2코리아그룹 '네파' 최대주주 된다, 유상증자로 차입금...",
+    "summary": "아웃도어 기업 K2코리아그룹이 유상증자 참여를 통해 네파의 신규 최대주주가 되는 전략적 M&A 거래이며, 기존 최대주주인 사모펀드 MBK파트너스는 지분 희석으로 최대주주 지위에서 엑싯한다.",
+    "company": "네파",
+    "acquirer": "K2코리아그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447948",
+    "date": "2026.09.23"
+  },
+  {
+    "title": "미래에셋, '印 케이핀테크놀로지' 지분 5%선 넘었다…6.11%로 확대 [fn마...",
+    "summary": "미래에셋이 글로벌 사모펀드 제너럴애틀랜틱(GA)으로부터 인도 케이핀테크놀로지 지분을 블록딜로 인수하여 보유 지분율이 6.11%로 확대되었다.",
+    "company": "케이핀테크놀로지",
+    "acquirer": "미래에셋",
+    "type": "block",
+    "tags": [
+      "block"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.fnnews.com/news/202609031127107512",
+    "date": "2026.09.03"
+  },
+  {
+    "title": "[산업리뷰] 라이선스 넘어 '브랜드 오너'로…F&F의 새 성장축 찾기",
+    "summary": "F&F가 쑥쑥컴퍼니의 지분 70%를 약 1540억원에 인수하여 브랜드 오너십을 확보하는 전략적 M&A 딜을 완료했다.",
+    "company": "쑥쑥컴퍼니",
+    "acquirer": "F&F",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2200억원",
+    "deal_stage": "완료",
+    "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45076",
+    "date": "2026.09.23"
+  },
+  {
     "title": "'통합 대한항공'에 LCC는 정체성 싸움…연말 대격변 예고",
     "summary": "PEF 운용사 VIG파트너스가 중장거리 특화 항공사 에어프레미아의 경영권 인수를 타진하며 주요 주주들과 협상 및 실사를 진행 중이다.",
     "company": "에어프레미아",
@@ -1331,75 +1401,5 @@
     "deal_stage": "계약",
     "url": "https://www.mk.co.kr/article/12123925",
     "date": "2026.08.11"
-  },
-  {
-    "title": "[종목 분석리포트] 롯데렌탈, 2분기 수익성 확대… \"렌탈 경쟁력·지분 ...",
-    "summary": "글로벌 사모펀드(PEF) 운용사 텍사스퍼시픽그룹(TPG)이 롯데렌탈의 지분 61.18% 인수를 추진하는 PE 바이아웃(Buyout) 딜이다.",
-    "company": "롯데렌탈",
-    "acquirer": "텍사스퍼시픽그룹(TPG)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.namdonews.com/news/articleView.html?idxno=919670",
-    "date": "2026.08.11"
-  },
-  {
-    "title": "코스톤아시아, 3000억에 우진기전 경영권 인수",
-    "summary": "사모펀드(PEF) 운용사 코스톤아시아가 전력기자재 전문기업 우진기전의 경영권을 3000억원에 인수하는 주식매매계약(SPA)을 체결했다.",
-    "company": "우진기전",
-    "acquirer": "코스톤아시아",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10837212?ref=naver",
-    "date": "2026.08.11"
-  },
-  {
-    "title": "한화, 호주 오스탈 USA 인수 추진…최대 1억7천만 달러",
-    "summary": "한화가 호주 방산업체 오스탈의 미국 사업부인 오스탈 USA 인수를 추진하며, 최대 1억7천만 달러 규모의 전략적 M&A 딜이다.",
-    "company": "오스탈 USA",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "1억7천만 달러",
-    "deal_stage": "협상",
-    "url": "http://www.thebigdata.co.kr/view.php?ud=20260811110645829570d99e4c8_23",
-    "date": "2026.08.11"
-  },
-  {
-    "title": "VIG파트너스, 본촌치킨 매각 막바지…태국 마이너그룹과 SPA 체결",
-    "summary": "PEF 운용사 VIG파트너스가 보유 중이던 글로벌 치킨 프랜차이즈 본촌을 태국 마이너그룹에 매각하기 위한 SPA를 체결하며 엑싯을 추진 중이다.",
-    "company": "본촌",
-    "acquirer": "VIG파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.hankyung.com/article/202608104446r",
-    "date": "2026.08.11"
-  },
-  {
-    "title": "플랫폼은 누구를 위해 존재하는가?",
-    "summary": "우버가 공개매수 방식으로 DH를 인수할 계획임을 밝힌 전략적 M&A 딜.",
-    "company": "DH",
-    "acquirer": "우버",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257483&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "date": "2026.08.10"
   }
 ]
