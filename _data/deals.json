@@ -1,5 +1,33 @@
 [
   {
+    "title": "K2, 네파 품는다…드디어 빠지는 MBK",
+    "summary": "K2그룹이 아웃도어 브랜드 네파의 최대주주 지분을 인수하며 사모펀드(PEF) MBK파트너스가 엑싯하는 거래.",
+    "company": "네파",
+    "acquirer": "K2그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://magazine.hankyung.com/business/article/202609245034b",
+    "date": "2026.09.24"
+  },
+  {
+    "title": "버거 M&A 대전…맘스터치는 '수익성', 버거킹은 '팀홀튼'[마켓인]",
+    "summary": "어피니티에쿼티파트너스가 보유한 BKR(버거킹 운영사)의 매각이 라자드코리아를 공동 주관사로 선정하고 인수 후보군을 물색하는 등 본격 추진되고 있는 PE 엑싯 딜.",
+    "company": "BKR",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=04319766645583072&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "date": "2026.09.23"
+  },
+  {
     "title": "[단독]포스코그룹 ‘잭니클라우스GC’ 매각 착수…골프장 최고가 깰까",
     "summary": "포스코그룹이 보유 중인 골프장 잭니클라우스GC의 매각에 착수하는 전략적 M&A 딜이다.",
     "company": "잭니클라우스GC",
@@ -1372,34 +1400,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.thepowernews.co.kr/view.php?ud=202608111159302408de3f0aa1be_7",
-    "date": "2026.08.11"
-  },
-  {
-    "title": "1.3조원 롯데렌탈 인수안, TPG 전액 자기자본 조달",
-    "summary": "미국 사모펀드 운용사 TPG가 롯데렌탈 지분 61.18%를 약 1.3조원에 인수하는 PE의 기업 인수 딜.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.3조원",
-    "deal_stage": "협상",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/388163",
-    "date": "2026.08.11"
-  },
-  {
-    "title": "TPG, 롯데렌탈 품는다…잔여지분 공개매수도 착수",
-    "summary": "글로벌 사모펀드 운용사 TPG가 롯데그룹 계열사로부터 롯데렌탈 지분 61%를 인수하고, 잔여 유통주식 공개매수에 착수하는 PE 바이아웃(Buyout) 딜.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.mk.co.kr/article/12123925",
     "date": "2026.08.11"
   }
 ]
