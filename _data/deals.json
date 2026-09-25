@@ -1,5 +1,19 @@
 [
   {
+    "title": "[오늘 일본은] 엔화 다시 159엔대…美 30년물 국채금리 22년 만에 최고",
+    "summary": "일본계 투자펀드 일본산업추진기구와 영국계 사모펀드 CVC캐피털파트너스가 고바야시제약의 주식 인수를 제안하여 비상장화하는 PE 바이아웃 딜.",
+    "company": "고바야시제약",
+    "acquirer": "일본산업추진기구, CVC캐피털파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.pointe.co.kr/news/articleView.html?idxno=85159",
+    "date": "2026.09.25"
+  },
+  {
     "title": "K2, 네파 품는다…드디어 빠지는 MBK",
     "summary": "K2그룹이 아웃도어 브랜드 네파의 최대주주 지분을 인수하며 사모펀드(PEF) MBK파트너스가 엑싯하는 거래.",
     "company": "네파",
@@ -1387,19 +1401,5 @@
     "deal_stage": "계약",
     "url": "https://www.sedaily.com/article/20078475?ref=naver",
     "date": "2026.08.12"
-  },
-  {
-    "title": "대신證 “롯데렌탈, 중고차가 수익성 끌어올린다…목표가 5만3000원”",
-    "summary": "글로벌 사모펀드 운용사 텍사스퍼시픽그룹(TPG)이 호텔롯데와 부산롯데호텔 등으로부터 롯데렌탈 지분 61.18% 인수를 추진하는 거래이다.",
-    "company": "롯데렌탈",
-    "acquirer": "텍사스퍼시픽그룹(TPG)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thepowernews.co.kr/view.php?ud=202608111159302408de3f0aa1be_7",
-    "date": "2026.08.11"
   }
 ]
