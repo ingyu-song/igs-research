@@ -1,5 +1,19 @@
 [
   {
+    "title": "외신發 솔리다임 美 IPO說 재점화···정말로 상장 추진하나",
+    "summary": "미국 사모펀드 운용사 테크브릿지인베스트먼트가 솔리다임에 투자할 펀드 조성을 추진하고 있는 신규 딜이다.",
+    "company": "솔리다임",
+    "acquirer": "테크브릿지인베스트먼트",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423954",
+    "date": "2026.09.26"
+  },
+  {
     "title": "[오늘 일본은] 엔화 다시 159엔대…美 30년물 국채금리 22년 만에 최고",
     "summary": "일본계 투자펀드 일본산업추진기구와 영국계 사모펀드 CVC캐피털파트너스가 고바야시제약의 주식 인수를 제안하여 비상장화하는 PE 바이아웃 딜.",
     "company": "고바야시제약",
@@ -1386,20 +1400,6 @@
     "ev": "1조3105억원",
     "deal_stage": "완료",
     "url": "http://www.seouleconews.com/news/articleView.html?idxno=93030",
-    "date": "2026.08.12"
-  },
-  {
-    "title": "제네시스PE, 캡스텍 인수 본계약…볼트온 M&A 차원 [시그널]",
-    "summary": "제네시스프라이빗에쿼티(PE)가 물리보안·시설관리 전문업체 캡스텍을 인수하는 본계약을 체결했다.",
-    "company": "캡스텍",
-    "acquirer": "제네시스프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.sedaily.com/article/20078475?ref=naver",
     "date": "2026.08.12"
   }
 ]
