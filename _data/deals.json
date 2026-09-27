@@ -1,5 +1,19 @@
 [
   {
+    "title": "저비용 항공사 '변신 중'…덩치 키우고 장거리·고급화로 승부",
+    "summary": "PEF 운용사 VIG파트너스가 AP홀딩스와 타이어뱅크로부터 저비용 항공사 에어프레미아의 지분 70% 인수를 추진하는 거래이다.",
+    "company": "에어프레미아",
+    "acquirer": "VIG파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억 원",
+    "deal_stage": "협상",
+    "url": "https://www.news1.kr/industry/general-industry/6301921",
+    "date": "2026.09.27"
+  },
+  {
     "title": "외신發 솔리다임 美 IPO說 재점화···정말로 상장 추진하나",
     "summary": "미국 사모펀드 운용사 테크브릿지인베스트먼트가 솔리다임에 투자할 펀드 조성을 추진하고 있는 신규 딜이다.",
     "company": "솔리다임",
@@ -1386,20 +1400,6 @@
     "ev": null,
     "deal_stage": "계약",
     "url": "https://dealsite.co.kr/articles/166794",
-    "date": "2026.08.12"
-  },
-  {
-    "title": "롯데그룹,롯데렌탈 경영권 美TPG에 매각…1조3105억원",
-    "summary": "롯데그룹이 국내 렌터카 1위 사업자인 롯데렌탈의 경영권을 미국계 사모펀드(PEF)인 TPG에 1조 3105억원에 매각하는 딜이 완료되었다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조3105억원",
-    "deal_stage": "완료",
-    "url": "http://www.seouleconews.com/news/articleView.html?idxno=93030",
     "date": "2026.08.12"
   }
 ]
