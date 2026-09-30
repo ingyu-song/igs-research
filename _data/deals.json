@@ -1,5 +1,33 @@
 [
   {
+    "title": "'9천억 매각' 거절 당한 FCP···삼성에 에스원 지분 공개입찰 촉구",
+    "summary": "행동주의 사모펀드 플래쉬라이트 캐피탈 파트너스(FCP)가 삼성에 에스원 지분 6%를 9066억원에 공개 경쟁입찰 매각을 공식 촉구하며 직접 인수안을 제안하는 딜.",
+    "company": "에스원",
+    "acquirer": "플래쉬라이트 캐피탈 파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "9066억원",
+    "deal_stage": "협상",
+    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711663",
+    "date": "2026.09.30"
+  },
+  {
+    "title": "태광산업, 신사업 찾고 투자법 넓히고…M&A 전략 다변화",
+    "summary": "한국카본이 전략적 투자자(SI)로, 태광산업이 재무적 투자자(FI)로 참여하여 케이조선을 인수하는 딜이 추진 중이다.",
+    "company": "케이조선",
+    "acquirer": "한국카본, 태광산업",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410893",
+    "date": "2026.09.30"
+  },
+  {
     "title": "저비용 항공사 '변신 중'…덩치 키우고 장거리·고급화로 승부",
     "summary": "PEF 운용사 VIG파트너스가 AP홀딩스와 타이어뱅크로부터 저비용 항공사 에어프레미아의 지분 70% 인수를 추진하는 거래이다.",
     "company": "에어프레미아",
@@ -1372,34 +1400,5 @@
     "deal_stage": "완료",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46990",
     "date": "2026.08.13"
-  },
-  {
-    "title": "한앤코, SK해운·에이치라인 조 단위 선대 스왑…해운 포트폴리오 전문...",
-    "summary": "한앤코가 자사의 해운 포트폴리오 강화를 위해 SK해운과 에이치라인해운 간 조 단위 규모의 선대 스왑 거래를 추진하는 전략적 자산 재편 딜이다.",
-    "company": "SK해운, 에이치라인해운",
-    "acquirer": "한앤코",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "조 단위",
-    "deal_stage": "발표",
-    "url": "https://www.sedaily.com/article/20078871?ref=naver",
-    "date": "2026.08.13"
-  },
-  {
-    "title": "케이카, ‘한앤코 흔적’ 지우고 ‘KG 체제’ 이식 속도",
-    "summary": "KG그룹이 케이카를 인수하며 기존 사모펀드 한앤컴퍼니의 엑싯이 추진 중이며, 현재 거래 종결일을 앞두고 경영 체제 개편이 진행되고 있다.",
-    "company": "케이카",
-    "acquirer": "KG그룹",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://dealsite.co.kr/articles/166794",
-    "date": "2026.08.12"
   }
 ]
