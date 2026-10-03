@@ -1,5 +1,33 @@
 [
   {
+    "title": "미국에 K-원전 진출 길 열려···웨스팅하우스 지분인수 추진",
+    "summary": "한전과 한수원 등 국내 기업들이 미국 원전 기업 웨스팅하우스의 지분 5~10%를 인수하는 전략적 투자를 추진 중이다.",
+    "company": "웨스팅하우스",
+    "acquirer": "한전, 한수원 외 국내 사기업들",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406773",
+    "date": "2026.10.03"
+  },
+  {
+    "title": "시공 넘어 경영 참여로… 韓 기업, 웨스팅하우스 이사회 진입 노린다",
+    "summary": "한국 기업들이 미국 원전 기업 웨스팅하우스의 지분 최대 10% 인수를 추진하는 전략적 M&A 딜.",
+    "company": "웨스팅하우스",
+    "acquirer": "한국 기업들",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171372",
+    "date": "2026.10.03"
+  },
+  {
     "title": "'9천억 매각' 거절 당한 FCP···삼성에 에스원 지분 공개입찰 촉구",
     "summary": "행동주의 사모펀드 플래쉬라이트 캐피탈 파트너스(FCP)가 삼성에 에스원 지분 6%를 9066억원에 공개 경쟁입찰 매각을 공식 촉구하며 직접 인수안을 제안하는 딜.",
     "company": "에스원",
@@ -1371,34 +1399,6 @@
     "ev": "125억 달러",
     "deal_stage": "계약",
     "url": "https://www.ilemonde.com/news/articleView.html?idxno=30481",
-    "date": "2026.08.13"
-  },
-  {
-    "title": "행동주의 투자자 펠츠, 웬디스 비상장 인수 본격 추진",
-    "summary": "행동주의 투자자 펠츠가 블루파이브캐피털, 플린그룹과 함께 웬디스 비상장 인수를 본격적으로 추진하는 딜이다.",
-    "company": "웬디스",
-    "acquirer": "펠츠 (블루파이브캐피털, 플린그룹)",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.g-enews.com/view.php?ud=2026081310175123469a1f309431_1",
-    "date": "2026.08.13"
-  },
-  {
-    "title": "한앤코, 해운 포트폴리오 리밸런싱…'K-LNG' 탄생",
-    "summary": "PEF 운용사 한앤컴퍼니가 SK해운과 에이치라인해운의 선대를 조 단위 규모로 재편하며 경영권을 인수한 PE buyout 딜이다.",
-    "company": "SK해운, 에이치라인해운",
-    "acquirer": "한앤컴퍼니",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "조 단위 규모",
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46990",
     "date": "2026.08.13"
   }
 ]
