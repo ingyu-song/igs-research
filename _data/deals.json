@@ -1,5 +1,33 @@
 [
   {
+    "title": "저축은행 하반기 '새판짜기' 속도전…M&A·리브랜딩 잇따라",
+    "summary": "한화생명이 센트로이드PE와 공동으로 글로벌 사모펀드 EQT가 보유한 애큐온캐피탈의 경영권 인수를 의결했다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명, 센트로이드PE",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.dailian.co.kr/news/view/1697382/?sc=Naver",
+    "date": "2026.10.04"
+  },
+  {
+    "title": "\"우크라 종전 회담 뒤에서 딴짓?\"…푸틴 만난 트럼프 특사, '수십조 석유...",
+    "summary": "트럼프 특사 쿠슈너의 사모펀드가 러시아 석유 회사 루코일 자산 인수를 추진하고 있다.",
+    "company": "루코일",
+    "acquirer": "쿠슈너의 사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.fnnews.com/news/202610032325203223",
+    "date": "2026.10.03"
+  },
+  {
     "title": "미국에 K-원전 진출 길 열려···웨스팅하우스 지분인수 추진",
     "summary": "한전과 한수원 등 국내 기업들이 미국 원전 기업 웨스팅하우스의 지분 5~10%를 인수하는 전략적 투자를 추진 중이다.",
     "company": "웨스팅하우스",
@@ -1371,34 +1399,6 @@
     "ev": "3000억원",
     "deal_stage": "협상",
     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47001",
-    "date": "2026.08.13"
-  },
-  {
-    "title": "한앤컴퍼니, SK해운·에이치라인해운 '조 단위' 선대 리밸런싱",
-    "summary": "한앤컴퍼니가 포트폴리오 회사인 SK해운과 에이치라인해운 간 조 단위 규모의 선박 자산 리밸런싱을 추진 중이다.",
-    "company": "SK해운, 에이치라인해운",
-    "acquirer": "한앤컴퍼니",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "조 단위",
-    "deal_stage": "협상",
-    "url": "https://www.topdaily.kr/articles/111448",
-    "date": "2026.08.13"
-  },
-  {
-    "title": "조슈아 쿠슈너, LA 레이커스 125억 달러 인수 합의…美 권력지도에 떠오...",
-    "summary": "미국 벤처투자업계의 거물 조슈아 쿠슈너가 프로 스포츠 구단 LA 레이커스를 125억 달러에 인수하기로 합의했다. 이는 신규로 발표된 전략적 인수 거래이다.",
-    "company": "LA 레이커스",
-    "acquirer": "조슈아 쿠슈너",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "125억 달러",
-    "deal_stage": "계약",
-    "url": "https://www.ilemonde.com/news/articleView.html?idxno=30481",
     "date": "2026.08.13"
   }
 ]
