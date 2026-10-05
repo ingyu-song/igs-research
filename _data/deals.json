@@ -1,5 +1,33 @@
 [
   {
+    "title": "공개매수 일주일 전 가비아 505억원, 케이맨서 국내펀드로 넘어가…거래...",
+    "summary": "케이맨 소재 Korea Fund LP가 보유하던 가비아 지분을 국내 밸류액션 펀드에 505억 3307만원에 매각한 사모펀드 간 지분 이전 거래이다.",
+    "company": "가비아",
+    "acquirer": "국내 밸류액션 펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "505억원",
+    "deal_stage": "완료",
+    "url": "https://weekly.khan.co.kr/article/202610051411001",
+    "date": "2026.10.05"
+  },
+  {
+    "title": "종투사 위해 몸집 불리는 한화투자증권",
+    "summary": "한화자산운용이 보통주 2500억원을, 한화생명이 전환우선주 2500억원을 인수하여 한화투자증권에 총 5000억원을 투자하는 전략적 유상증자 딜.",
+    "company": "한화투자증권",
+    "acquirer": "한화자산운용, 한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "5000억원",
+    "deal_stage": "계약",
+    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021817204650375",
+    "date": "2026.10.05"
+  },
+  {
     "title": "저축은행 하반기 '새판짜기' 속도전…M&A·리브랜딩 잇따라",
     "summary": "한화생명이 센트로이드PE와 공동으로 글로벌 사모펀드 EQT가 보유한 애큐온캐피탈의 경영권 인수를 의결했다.",
     "company": "애큐온캐피탈",
@@ -1372,33 +1400,5 @@
     "deal_stage": "협상",
     "url": "https://biz.heraldcorp.com/article/10841482?ref=naver",
     "date": "2026.08.14"
-  },
-  {
-    "title": "한화의 오스탈USA 인수 성공 가능성에 로이터 낙관전 전망, \"미국 해군 ...",
-    "summary": "한화그룹이 호주 조선업체 오스탈의 미국 사업부인 오스탈USA 인수를 추진 중이며, 오스탈의 최대 주주인 사모펀드 타타랑벤처스가 매각에 영향을 미칠 수 있다는 외신 보도이다.",
-    "company": "오스탈USA",
-    "acquirer": "한화그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444656",
-    "date": "2026.08.13"
-  },
-  {
-    "title": "코로나 버틴 어펄마, 화성코스메틱 3000억 엑시트 '눈앞'",
-    "summary": "사모펀드 운용사 어펄마캐피탈이 화성코스메틱에 대한 투자 7년 만에 3000억원 규모의 엑시트(매각)를 추진 중이다.",
-    "company": "화성코스메틱",
-    "acquirer": "어펄마캐피탈",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "협상",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47001",
-    "date": "2026.08.13"
   }
 ]
