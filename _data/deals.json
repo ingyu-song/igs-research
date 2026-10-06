@@ -1,5 +1,89 @@
 [
   {
+    "title": "신세계, 파라마운트 손잡고 워너브라더스 인수에 10억달러 투자",
+    "summary": "신세계프라퍼티와 사모펀드 레드버드 등이 파라마운트와 함께 워너브라더스 인수에 투자 참여하는 전략적 M&A 딜.",
+    "company": "워너브라더스",
+    "acquirer": "파라마운트",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=675116",
+    "date": "2026.10.06"
+  },
+  {
+    "title": "애큐온캐피탈 인수가 낮춘 한화생명···실적 기대↑",
+    "summary": "한화생명은 글로벌 사모펀드 운용사 EQT파트너스가 보유한 애큐온캐피탈의 경영권을 샌드로이드PE와 공동으로 인수하기로 했다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424140",
+    "date": "2026.10.06"
+  },
+  {
+    "title": "[더벨][K2코리아 포트폴리오 재편] 네파 인수로 포트폴리오 추가, '자기...",
+    "summary": "K2코리아그룹이 사모펀드 MBK파트너스가 보유하던 아웃도어 브랜드 네파를 인수하는 계약을 맺은 전략적 M&A 딜.",
+    "company": "네파",
+    "acquirer": "K2코리아그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610011459385920105994",
+    "date": "2026.10.06"
+  },
+  {
+    "title": "롯데카드·손보 다시 매물로…관건은 몸값",
+    "summary": "MBK파트너스가 보유 중인 롯데카드와 롯데손해보험의 매각이 추진되며 매각주관사를 통해 인수 후보를 물색하고 있다.",
+    "company": "롯데카드, 롯데손해보험",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sidae.com/article/2026100213582472077",
+    "date": "2026.10.06"
+  },
+  {
+    "title": "한투證 인수금융 1.3조 선두…국민銀 2위, 하나證 3위 도약 [시그널]",
+    "summary": "KB국민은행이 어피니티에쿼티파트너스의 SK렌터카 6600억 원 규모 리파이낸싱 딜 중 3300억 원 규모의 인수금융을 주선했다.",
+    "company": "SK렌터카",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "lbo",
+    "tags": [
+      "lbo"
+    ],
+    "ev": "6600억 원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20098101?ref=naver",
+    "date": "2026.10.05"
+  },
+  {
+    "title": "3사 통합 '진에어' 등장에 LCC업계 생존경쟁",
+    "summary": "VIG파트너스가 AP홀딩스 및 타이어뱅크가 보유한 에어프레미아 지분 70% 인수를 추진하는 PE 바이아웃 거래.",
+    "company": "에어프레미아",
+    "acquirer": "VIG파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7187246",
+    "date": "2026.10.05"
+  },
+  {
     "title": "공개매수 일주일 전 가비아 505억원, 케이맨서 국내펀드로 넘어가…거래...",
     "summary": "케이맨 소재 Korea Fund LP가 보유하던 가비아 지분을 국내 밸류액션 펀드에 505억 3307만원에 매각한 사모펀드 간 지분 이전 거래이다.",
     "company": "가비아",
@@ -1316,89 +1400,5 @@
     "deal_stage": "계약",
     "url": "https://www.mk.co.kr/article/12129254",
     "date": "2026.08.17"
-  },
-  {
-    "title": "“한투가 KDB생명 찜, 우리는 어쩌나”…카디프생명·롯데손보 매각 빨...",
-    "summary": "한국투자금융지주(한투지주)가 KDB생명 인수를 타진하며 실사를 진행 중이다.",
-    "company": "KDB생명",
-    "acquirer": "한국투자금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12129222",
-    "date": "2026.08.17"
-  },
-  {
-    "title": "4조 몸값에 무신사 구주 사들인 TS인베스트먼트... 상장 순항할까",
-    "summary": "TS인베스트먼트가 기업가치 4조원 이상에 무신사의 구주 일부를 인수하는 세컨더리 거래를 진행했습니다.",
-    "company": "무신사",
-    "acquirer": "TS인베스트먼트",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/stock/market_trend/2026/08/16/L22LYJALUFCOLK6RTN5IYVWZHE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.08.16"
-  },
-  {
-    "title": "다급해진 롯데손보… 매각 측, KB·신한 ‘체급 싸움’ 파고들까[이충희...",
-    "summary": "한국투자금융지주가 보험 계열사 인수를 통해 종합금융그룹으로 도약하려는 구상에 따라 롯데손해보험 매각이 추진되고 있으며, KB금융그룹과 신한금융그룹 등 잠재 인수 후보들 간의 경쟁 구도 속에서 딜이 진행될 것으로 보인다.",
-    "company": "롯데손해보험",
-    "acquirer": "한국투자금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20079792?ref=naver",
-    "date": "2026.08.15"
-  },
-  {
-    "title": "‘보험 퍼즐’ 맞추는 한투…KDB생명 정상화에 1조원 더 들까",
-    "summary": "한국금융지주가 KDB생명 인수를 통해 보험 부문을 강화하려는 전략적 M&A 딜",
-    "company": "KDB생명",
-    "acquirer": "한국금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.kukinews.com/article/view/kuk202608140060",
-    "date": "2026.08.14"
-  },
-  {
-    "title": "한국금융지주, KDB생명 인수 우협 선정…보험업 진출 '성큼'",
-    "summary": "한국금융지주가 산업은행이 매각을 추진 중이던 KDB생명 인수 우선협상대상자로 선정되어, 한국금융지주의 KDB생명 전략적 인수 딜이 새롭게 추진되고 있다.",
-    "company": "KDB생명",
-    "acquirer": "한국금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sisajournal.com/news/articleView.html?idxno=383613",
-    "date": "2026.08.14"
-  },
-  {
-    "title": "KDB생명 품는 한투…보험사 M&A 판도 바뀐다",
-    "summary": "한국투자금융지주가 KDB생명보험 인수 우선협상대상자로 선정되어 인수가 추진 중이다.",
-    "company": "KDB생명보험",
-    "acquirer": "한국투자금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.heraldcorp.com/article/10841482?ref=naver",
-    "date": "2026.08.14"
   }
 ]
