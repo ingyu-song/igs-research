@@ -1,5 +1,118 @@
 [
   {
+    "title": "메가커피, 버거킹 인수 검토...F&B 인수합병 '큰손' 부상",
+    "summary": "메가커피가 사모펀드 어피니티에쿼티파트너스가 보유한 한국버거킹 인수를 검토하며 협상을 진행 중이다.",
+    "company": "한국버거킹",
+    "acquirer": "메가커피",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.livebiz.today/news/articleView.html?idxno=205450",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "솔리다임 IPO 주관에 골드만·MS…프리IPO도 막바지",
+    "summary": "솔리다임이 IPO를 앞두고 프리IPO 투자를 유치 중이다.",
+    "company": "솔리다임",
+    "acquirer": null,
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12171593",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "中 AI스타트업 마누스 5억달러 투자 유치…텐센트 등 참여",
+    "summary": "중국 AI 스타트업 마누스가 중국 투자회사 보위캐피털과 사모펀드 IDG캐피털 주도로 5억 달러 규모의 신규 투자를 유치했다.",
+    "company": "마누스",
+    "acquirer": "보위캐피털, IDG캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "5억달러",
+    "deal_stage": "완료",
+    "url": "https://www.news1.kr/world/northeast-asia/6314534",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "SK시그넷에 이어 아이파킹도...모빌리티 비핵심 자산 리밸런싱",
+    "summary": "SK이노베이션 E&S가 모빌리티 사업 비핵심 자산인 아이파킹 매각을 추진 중이며, 홍콩계 사모펀드 앵커에쿼티파트너스가 유력 인수 후보로 거론되는 PE의 기업 인수 딜이다.",
+    "company": "아이파킹",
+    "acquirer": "앵커에쿼티파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12171562",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "[단독]신세계프라퍼티, 메리츠서 1조 조달",
+    "summary": "이마트가 파라마운트 스카이댄스 및 레드버드캐피털이 추진하는 워너브러더스디스커버리(WBD) 인수에 1.4조원을 투자할 계획이다.",
+    "company": "워너브러더스디스커버리",
+    "acquirer": "이마트, 레드버드캐피털",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.4조원",
+    "deal_stage": "계약",
+    "url": "https://www.hankyung.com/article/202610078724r",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "브로드컴·스페이스X·오라클, AI칩 위해 수십조 빚낸다…신용지표 '경...",
+    "summary": "브로드컴이 AI칩 개발 프로젝트의 일환으로 오픈AI의 생산 설비 인수를 추진하며, 이를 위해 사모펀드로부터 수십조원 규모의 차입을 논의 중이다.",
+    "company": "오픈AI",
+    "acquirer": "브로드컴",
+    "type": "lbo",
+    "tags": [
+      "lbo"
+    ],
+    "ev": "수십조원",
+    "deal_stage": "협상",
+    "url": "https://www.mt.co.kr/world/2026/10/08/2026100809420950784",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "희망퇴직·점포감소…MBK파트너스 떠났지만 홈플러스에 남은 그림자",
+    "summary": "사모펀드 MBK파트너스가 홈플러스 지분을 전량 소각하며 2015년 인수한 홈플러스에 대한 투자를 정리했다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=311850",
+    "date": "2026.10.08"
+  },
+  {
+    "title": "‘인판티노 나와!’…전 스위스 국가대표 베가, FIFA 회장 선거 도전장...",
+    "summary": "FIFA가 월드컵 및 주요 대회 상업 권리를 관리할 자회사를 설립하고, 해당 자회사 지분 20%를 미국계 사모펀드에 42억 달러에 매각하는 방안을 추진 중이다.",
+    "company": "FIFA의 상업 권리 관리 자회사",
+    "acquirer": "미국계 사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "42억 달러",
+    "deal_stage": "협상",
+    "url": "https://sports.khan.co.kr/article/202610080841013?pt=nv",
+    "date": "2026.10.08"
+  },
+  {
     "title": "신세계, 파라마운트 손잡고 워너브라더스 인수에 10억달러 투자",
     "summary": "신세계프라퍼티와 사모펀드 레드버드 등이 파라마운트와 함께 워너브라더스 인수에 투자 참여하는 전략적 M&A 딜.",
     "company": "워너브라더스",
@@ -1287,118 +1400,5 @@
     "deal_stage": "완료",
     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430908",
     "date": "2026.08.20"
-  },
-  {
-    "title": "8170억 들어오는 호텔롯데...순차입금의존도 31.8→28.9%",
-    "summary": "호텔롯데와 부산롯데호텔이 글로벌 사모펀드 운용사 TPG가 설립한 렉시콘코리아홀드코에 롯데렌탈 지분 61.17%를 1조3105억원에 매각하는 주식매매계약을 체결했다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조3105억원",
-    "deal_stage": "계약",
-    "url": "https://www.insight.co.kr/news/569112",
-    "date": "2026.08.20"
-  },
-  {
-    "title": "실리콘투, 3000억 투자 유치…K뷰티 해외 확장 '속도'",
-    "summary": "글로벌 K뷰티 유통 플랫폼 실리콘투가 사모펀드 CVC로부터 3,000억원의 투자를 유치했다.",
-    "company": "실리콘투",
-    "acquirer": "CVC",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "완료",
-    "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227015",
-    "date": "2026.08.19"
-  },
-  {
-    "title": "스톤브릿지·LS증권, 리파인 지분 추가 공개매수…주당 1만7600원",
-    "summary": "사모펀드 스톤브릿지캐피탈과 LS증권이 기존에 경영권 지분을 인수한 부동산 권리조사 전문기업 리파인의 지분을 추가 공개매수하고 있다.",
-    "company": "리파인",
-    "acquirer": "스톤브릿지캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "https://www.hankyung.com/article/202608186240r",
-    "date": "2026.08.19"
-  },
-  {
-    "title": "실리콘투, 3000억 투자 유치…K뷰티 '글로벌 유통 플랫폼' 키운다",
-    "summary": "글로벌 K뷰티 유통기업 실리콘투가 글로벌 사모펀드 운용사 CVC로부터 3000억원 규모의 투자를 유치했다.",
-    "company": "실리콘투",
-    "acquirer": "CVC",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "계약",
-    "url": "https://www.mt.co.kr/living/2026/08/19/2026081816313858072",
-    "date": "2026.08.19"
-  },
-  {
-    "title": "송성문에겐 호재일까? 악재일까?…소속팀 샌디에이고, 5조5천억에 팔렸...",
-    "summary": "사모펀드 억만장자 호세 E. 펠리시아노와 그의 아내 콴자 존스가 이끄는 투자 그룹이 샌디에이고 파드리스의 구단 경영권을 최종 인수하는 거래가 완료되었다.",
-    "company": "샌디에이고 파드리스",
-    "acquirer": "호세 E. 펠리시아노 투자 그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5.5조원",
-    "deal_stage": "완료",
-    "url": "https://www.sportschosun.com/baseball/2026-08-18/202608180100101280006408",
-    "date": "2026.08.18"
-  },
-  {
-    "title": "송성문 소속팀 MLB 샌디에이고 매각...구단 가치 5조원대",
-    "summary": "사모펀드를 운영하는 호세 엔리케 펠리시아노 부부가 MLB 샌디에이고 파드리스 구단을 39억 달러(약 5조원)에 인수하는 PE 바이아웃 딜이 완료되었다.",
-    "company": "샌디에이고 파드리스",
-    "acquirer": "호세 엔리케 펠리시아노 부부",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5조원",
-    "deal_stage": "완료",
-    "url": "https://www.ytn.co.kr/_ln/0107_202608181038392098",
-    "date": "2026.08.18"
-  },
-  {
-    "title": "'롯데렌탈 인수 무산' 어피니티, SK렌터카 단독 엑시트 전략 가동",
-    "summary": "홍콩계 사모펀드 어피니티에쿼티파트너스가 롯데렌탈 인수 무산 이후, 보유 중인 SK렌터카 주식회사에 대한 단독 매각을 통한 엑시트 전략을 추진 중이다.",
-    "company": "SK렌터카 주식회사",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2615358",
-    "date": "2026.08.18"
-  },
-  {
-    "title": "“이제 중국보다 미국에서 더 인기있어요”…K푸드 뜨자 해외 ‘큰손’...",
-    "summary": "태국 외식기업 마이너그룹이 국내 사모펀드 VIG파트너스와 창업자 서진덕 회장이 보유한 본촌인터내셔날 지분 100%를 인수하는 본계약을 체결하며 VIG파트너스가 엑시트한다.",
-    "company": "본촌인터내셔날",
-    "acquirer": "VIG파트너스",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.mk.co.kr/article/12129254",
-    "date": "2026.08.17"
   }
 ]
