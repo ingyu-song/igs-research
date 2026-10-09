@@ -1,5 +1,48 @@
 [
   {
+    "title": "MBK 손 뗐지만…홈플러스, 희망퇴직·매각 난항 '삼중고'",
+    "summary": "MBK파트너스가 홈플러스 지분을 무상소각하며 최대주주 지위를 내려놨고, 홈플러스는 운영 중인 67개 점포의 통매각을 추진하고 있으나 난항을 겪고 있다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727266",
+    "date": "2026.10.09"
+  },
+  {
+    "title": "1000개 매장 뒤엔 김포 로스터리… 매머드커피가 만든 저가커피업계 '원...",
+    "summary": "사모펀드 오케스트라프라이빗에쿼티가 매머드커피랩과 서진로스터스의 지분 100%를 1000억원에 인수 완료했다.",
+    "company": "매머드커피랩, 서진로스터스",
+    "acquirer": "오케스트라프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1000억원",
+    "deal_stage": "완료",
+    "url": "https://www.greened.kr/news/articleView.html?idxno=351747",
+    "date": "2026.10.09"
+  },
+  {
+    "title": "[GAM]5개월 새 62% 랠리 SPSC ② '압도적 1위' 디지털 전환 기회 활짝",
+    "summary": "사모펀드 GTCR이 SPS 커머스(SPSC) 인수를 추진했으나, 협상이 최종 결렬될 가능성이 거론되고 있으며, 이와 무관하게 SPSC의 주가 상승을 전망하는 기사다.",
+    "company": "SPS 커머스",
+    "acquirer": "GTCR",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newspim.com/news/view/20261008000763",
+    "date": "2026.10.09"
+  },
+  {
     "title": "메가커피, 버거킹 인수 검토...F&B 인수합병 '큰손' 부상",
     "summary": "메가커피가 사모펀드 어피니티에쿼티파트너스가 보유한 한국버거킹 인수를 검토하며 협상을 진행 중이다.",
     "company": "한국버거킹",
@@ -1357,48 +1400,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.theguru.co.kr/news/article.html?no=106041",
-    "date": "2026.08.20"
-  },
-  {
-    "title": "롯데렌탈, TPG 인수로 기업가치 확대 기대…목표주가 6만원 상향-대신증...",
-    "summary": "사모펀드 TPG(텍사스퍼시픽그룹)가 롯데렌탈을 인수했으며, 이에 따라 롯데렌탈의 기업가치 확대가 기대된다는 전망이 나왔다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.press9.kr/news/articleView.html?idxno=81385",
-    "date": "2026.08.20"
-  },
-  {
-    "title": "[미국 특징주] 결제사 스트라이프, 오픈라우터 인수…AI 사업 확장",
-    "summary": "결제사 스트라이프가 인공지능(AI) 사업 확장을 위해 오픈라우터를 인수하는 전략적 M&A 거래이다.",
-    "company": "Openrouter",
-    "acquirer": "Stripe",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.newspim.com/news/view/20260820000206",
-    "date": "2026.08.20"
-  },
-  {
-    "title": "포스트 서린컴퍼니 찾은 메리츠, 화장품 용기사 '채운패키지' 인수",
-    "summary": "메리츠증권이 사모펀드 운용사 호산인베스트먼트와 펀드를 결성해 화장품 용기 솔루션 기업 채운패키지를 440억원 규모로 바이아웃 인수했다.",
-    "company": "채운패키지",
-    "acquirer": "메리츠증권, 호산인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "440억원",
-    "deal_stage": "완료",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430908",
     "date": "2026.08.20"
   }
 ]
