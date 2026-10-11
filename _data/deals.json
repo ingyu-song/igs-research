@@ -1,5 +1,75 @@
 [
   {
+    "title": "시지바이오 M&A 또 파행…TA어소 협상 결렬에 TPG 등판 [시그널]",
+    "summary": "토종 IMM PE와 글로벌 TA어소시에이츠와의 협상이 결렬된 후, TPG가 시지바이오 인수를 추진하는 PEF의 기업 인수 딜.",
+    "company": "시지바이오",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20100048?ref=naver",
+    "date": "2026.10.11"
+  },
+  {
+    "title": "한미, 1200억달러 투입해 美 원전 8기 건설…한국형 원전 2기 포함",
+    "summary": "한국이 웨스팅하우스의 지분 5~10%를 인수하는 딜로, 웨스팅하우스가 IPO 시 공모가보다 할인된 가격으로 지분을 확보하는 조건이 포함된 전략적 투자 거래이다.",
+    "company": "웨스팅하우스",
+    "acquirer": "한국",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.news2day.co.kr/article/20261011500020",
+    "date": "2026.10.11"
+  },
+  {
+    "title": "[황혼 승계①] 한화의 ‘마지막 퍼즐’… ㈜한화 지분의 딜레마",
+    "summary": "김동원 사장과 김동선 부사장이 지난해 말 보유하고 있던 한화에너지 지분을 사모펀드(한투PE 컨소시엄)에 매각한 거래이다. 이는 PE의 한화에너지 지분 인수(Acquisition)에 해당한다.",
+    "company": "한화에너지",
+    "acquirer": "한투PE 컨소시엄",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.asiatime.co.kr/article/20261011500063",
+    "date": "2026.10.11"
+  },
+  {
+    "title": "“트럼프·캐나다 갈등이 韓 원전 美 진출 길 열었다”",
+    "summary": "한국이 웨스팅하우스 지분 5~10%를 인수하여 미국 원전 시장 진출을 모색하는 전략적 M&A 딜이다.",
+    "company": "웨스팅하우스",
+    "acquirer": "한국",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://www.dt.co.kr/article/12088307?ref=naver",
+    "date": "2026.10.11"
+  },
+  {
+    "title": "SK오션플랜트 인수 앞둔 디오션자산운용…고성군과 상생안 협의 관",
+    "summary": "사모펀드 운용사 디오션자산운용이 SK오션플랜트 인수를 추진 중이며, 지역사회와의 상생 방안을 협의하고 있는 PE의 기업 인수 딜이다.",
+    "company": "SK오션플랜트",
+    "acquirer": "디오션자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.sentv.co.kr/article/view/sentv202610110002",
+    "date": "2026.10.11"
+  },
+  {
     "title": "MBK 손 뗐지만…홈플러스, 희망퇴직·매각 난항 '삼중고'",
     "summary": "MBK파트너스가 홈플러스 지분을 무상소각하며 최대주주 지위를 내려놨고, 홈플러스는 운영 중인 67개 점포의 통매각을 추진하고 있으나 난항을 겪고 있다.",
     "company": "홈플러스",
@@ -1331,75 +1401,5 @@
     "deal_stage": "협상",
     "url": "https://www.etoday.co.kr/news/view/2613282",
     "date": "2026.08.24"
-  },
-  {
-    "title": "솔리다임 투자유치 본격화···노종원 前 대표, 투자자로 참여한다",
-    "summary": "노종원 전 SK아메리카스 대표가 해외 사모펀드(PEF) 운용사를 통해 솔리다임 투자 유치에 투자자로 참여한다.",
-    "company": "솔리다임",
-    "acquirer": "노종원 전 대표의 해외 사모펀드(PEF) 운용사",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202608214381r",
-    "date": "2026.08.24"
-  },
-  {
-    "title": "맘스터치 1조·노랑통닭 2천억 그리고 버거킹까지…M&A 맛집 총출동 [M&...",
-    "summary": "국내 사모펀드(PE) 운영사 VIG파트너스가 치킨 프랜차이즈 본촌의 매각을 추진 중이다.",
-    "company": "본촌",
-    "acquirer": "VIG파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "https://www.mk.co.kr/article/12133926",
-    "date": "2026.08.23"
-  },
-  {
-    "title": "[이번주 관심주] 한국금융지주, KDB생명 인수 본궤도...'한투증권과 시...",
-    "summary": "한국금융지주가 KDB생명 인수를 추진하며 보험사 사업 확대를 통해 종합금융그룹으로 도약하는 전략적 M&A 거래가 진행 중.",
-    "company": "KDB생명",
-    "acquirer": "한국금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143381",
-    "date": "2026.08.23"
-  },
-  {
-    "title": "[주간사모펀드] MBK·고려아연 '고발전' 격화…롯데렌탈 놓친 어피니티...",
-    "summary": "어피니티의 롯데렌탈 인수가 최종 무산되었습니다.",
-    "company": "롯데렌탈",
-    "acquirer": "어피니티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.tf.co.kr/read/economy/2356567.htm",
-    "date": "2026.08.22"
-  },
-  {
-    "title": "롯데케미칼타이탄 \"매각, 아직 확정 아냐\"..주가는 폭등",
-    "summary": "롯데케미칼이 자회사 롯데케미칼타이탄의 매각을 글로벌 사모펀드(PEF)와 논의했으나 중단된 것으로 전해지며, 매각 여부가 아직 확정되지 않은 PE 엑싯 딜.",
-    "company": "롯데케미칼타이탄",
-    "acquirer": "글로벌 사모펀드",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.theguru.co.kr/news/article.html?no=106041",
-    "date": "2026.08.20"
   }
 ]
