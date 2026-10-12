@@ -1,5 +1,19 @@
 [
   {
+    "title": "아모레퍼시픽, 비올메디컬 펀드에 808억 투자…에이피알·로레알까지 '메...",
+    "summary": "비올메디컬 펀드가 비올 인수를 추진 중인 PE 바이아웃 딜로, 아모레퍼시픽이 해당 펀드에 808억원을 출자했다.",
+    "company": "비올",
+    "acquirer": "비올메디컬 펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745484",
+    "date": "2026.10.12"
+  },
+  {
     "title": "시지바이오 M&A 또 파행…TA어소 협상 결렬에 TPG 등판 [시그널]",
     "summary": "토종 IMM PE와 글로벌 TA어소시에이츠와의 협상이 결렬된 후, TPG가 시지바이오 인수를 추진하는 PEF의 기업 인수 딜.",
     "company": "시지바이오",
@@ -1387,19 +1401,5 @@
     "deal_stage": "협상",
     "url": "https://hbnpress.com/news/view/1065573150864219",
     "date": "2026.08.25"
-  },
-  {
-    "title": "한화 보험형제 다른 성장법… 손보는 '특화'·생명은 '확장'",
-    "summary": "한화생명이 사모펀드 EQT파트너스가 보유한 애큐온캐피탈 지분 96.06%를 인수하는 전략적 M&A 딜의 우선협상대상자로 선정되었다.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2613282",
-    "date": "2026.08.24"
   }
 ]
