@@ -1,5 +1,77 @@
 [
   {
+    "title": "신한금융, 롯데손보 6933억원에 인수",
+    "summary": "신한금융이 사모펀드 JKL파트너스로부터 롯데손해보험 지분 77.04%를 6933억원에 인수하는 주식매매계약을 체결했다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "6933억원",
+    "deal_stage": "계약",
+    "url": "https://www.newspost.kr/news/articleView.html?idxno=226343",
+    "date": "2026.10.13"
+  },
+  {
+    "title": "JKL파트너스, 롯데손보 매각…4호 펀드 회수 '탄력'",
+    "summary": "PEF 운용사 JKL파트너스가 롯데손해보험 매각 계약을 체결하여 엑시트를 진행 중이다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.etoday.co.kr/news/view/2635290",
+    "date": "2026.10.13"
+  },
+  {
+    "title": "신한금융, 롯데손보 품었다…신한EZ와 통합 시험대",
+    "summary": "신한금융지주가 롯데손해보험의 최대주주인 사모펀드 JKL파트너스와 주식매매계약을 체결하며 77.04% 지분의 경영권을 인수했다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872410",
+    "date": "2026.10.13"
+  },
+  {
+    "title": "신한금융, 롯데손보 6933억에 품는다…비은행 강화 승부수",
+    "summary": "신한금융지주가 사모펀드 운용사 JKL파트너스가 운용하는 빅튜라로부터 롯데손해보험 지분 인수를 위한 주식매매계약(SPA)을 6933억원에 체결한, JKL파트너스의 엑싯 및 신한금융의 전략적 M&A 딜이다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융지주",
+    "type": "exit",
+    "tags": [
+      "exit",
+      "strategic"
+    ],
+    "ev": "6933억원",
+    "deal_stage": "계약",
+    "url": "http://www.metroseoul.co.kr/article/20261013500461",
+    "date": "2026.10.13"
+  },
+  {
+    "title": "[PE 라이징스타] 환경투자 한 우물 판 VL인베스트, 신규 펀드 조성 '청신...",
+    "summary": "VL인베스트먼트와 기앤파트너스가 공동으로 엠케이전자로부터 동부엔텍 지분 100%를 555억원에 인수 완료했습니다.",
+    "company": "동부엔텍",
+    "acquirer": "VL인베스트먼트, 기앤파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "555억원",
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48139",
+    "date": "2026.10.13"
+  },
+  {
     "title": "아모레퍼시픽, 비올메디컬 펀드에 808억 투자…에이피알·로레알까지 '메...",
     "summary": "비올메디컬 펀드가 비올 인수를 추진 중인 PE 바이아웃 딜로, 아모레퍼시픽이 해당 펀드에 808억원을 출자했다.",
     "company": "비올",
@@ -1331,75 +1403,5 @@
     "deal_stage": "소문",
     "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260828.22012008209",
     "date": "2026.08.27"
-  },
-  {
-    "title": "맘스터치 다음달 본입찰…소비재로 쏠린 M&A[마켓인]",
-    "summary": "국내 사모펀드가 보유한 맘스터치앤컴퍼니 매각이 다음달 본입찰을 앞두고 있으며, 글로벌 자본이 인수할 예정이다.",
-    "company": "맘스터치앤컴퍼니",
-    "acquirer": "국내 사모펀드",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=05011846645551584&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "date": "2026.08.27"
-  },
-  {
-    "title": "[특징주] 한국전력, 웨스팅하우스 지분확보설 +8%대 상승",
-    "summary": "미국 정부가 한국전력에 캐나다 사모펀드 소유의 원전 기업 웨스팅하우스(WEC) 지분 공동 인수를 제안하여 한국전력의 전략적 M&A 추진 가능성이 제기됨.",
-    "company": "웨스팅하우스",
-    "acquirer": "한국전력",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287230",
-    "date": "2026.08.26"
-  },
-  {
-    "title": "렌터카 선두 롯데렌탈 팔았다···롯데, '몸집'보다 '본업' 집중",
-    "summary": "롯데는 미국계 사모펀드 TPG와 렌터카 사업 계열사인 롯데렌탈의 경영권 지분 매각 계약을 체결했다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705747",
-    "date": "2026.08.26"
-  },
-  {
-    "title": "한국전력 주가 장중 8%대 상승, 미국 정부와 웨스팅하우스 공동 인수설...",
-    "summary": "미국 정부와 한국전력이 캐나다 사모펀드가 소유한 웨스팅하우스 지분을 공동 인수하는 방안을 검토 중이다.",
-    "company": "웨스팅하우스",
-    "acquirer": "미국 정부, 한국전력",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445625",
-    "date": "2026.08.26"
-  },
-  {
-    "title": "이은호 롯데손보 대표, 엇갈린 경영지표...매각 실타래 풀까",
-    "summary": "사모펀드 JKL파트너스가 최대주주인 롯데손해보험의 매각을 주요 목표로 추진하고 있으며, 이은호 대표의 경영지표가 이에 미치는 영향을 다루는 기사입니다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://hbnpress.com/news/view/1065573150864219",
-    "date": "2026.08.25"
   }
 ]
