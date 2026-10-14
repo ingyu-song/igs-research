@@ -1,5 +1,19 @@
 [
   {
+    "title": "2조 부르다 6933억에 도장…JKL, 롯데손보 7년 만에 '손절'",
+    "summary": "PEF 운용사 JKL파트너스가 롯데손해보험 지분 77.04%를 신한금융에 6933억 원에 매각하는 계약을 체결하며 7년 만에 엑싯한다.",
+    "company": "롯데손해보험",
+    "acquirer": "JKL파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "6933억원",
+    "deal_stage": "계약",
+    "url": "https://news.tf.co.kr/read/economy/2376207.htm",
+    "date": "2026.10.14"
+  },
+  {
     "title": "신한금융, 롯데손보 6933억원에 인수",
     "summary": "신한금융이 사모펀드 JKL파트너스로부터 롯데손해보험 지분 77.04%를 6933억원에 인수하는 주식매매계약을 체결했다.",
     "company": "롯데손해보험",
@@ -1388,20 +1402,6 @@
     "ev": "9,066억원",
     "deal_stage": "협상",
     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275672",
-    "date": "2026.08.27"
-  },
-  {
-    "title": "한미동맹 훈풍에 투자매력까지…원전주 ‘불기둥’",
-    "summary": "미국 정부가 한국 정부에 캐나다 사모펀드 소유의 원전 기업 웨스팅하우스(WEC) 지분 공동 인수를 제안한 전략적 M&A 딜.",
-    "company": "웨스팅하우스",
-    "acquirer": "미국 정부, 한국 정부",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260828.22012008209",
     "date": "2026.08.27"
   }
 ]
