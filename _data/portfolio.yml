@@ -10,6 +10,21 @@
 #   - XLSX → assets/portfolio/xlsx/{filename}
 # =============================================================
 
+- id: semianalysis-stock-pitch-2026
+  title: SemiAnalysis x Nanyang Capital Stock Pitch Challenge 2026
+  subtitle: "Odyssey Capital — Nitto Boseki (TYO: 3110)"
+  date: 2026-10-18
+  tags: [Equity Research, Semiconductors, Valuation]
+  summary: SemiAnalysis x Nanyang Capital 주최 Stock Pitch Challenge 2026 제출물. AI 반도체 패키징용 T-glass 공급사 Nitto Boseki(닛토보)에 대해 목표주가 ¥2,392(20.0% 하락 여력)로 SELL 의견을 제시. Sum-of-the-Parts 상대가치평가를 기반으로 DCF 몬테카를로 시뮬레이션 및 민감도 분석으로 검증.
+  summary_en: Submission to the SemiAnalysis x Nanyang Capital Stock Pitch Challenge 2026. Initiated coverage on Nitto Boseki, the dominant T-glass supplier to AI chip packaging, with a SELL rating and a ¥2,392 target price (20.0% downside), based on a Sum-of-the-Parts relative valuation cross-checked with a DCF Monte Carlo simulation and sensitivity analysis.
+  files:
+    - label: Nittobo — Written Report
+      file: semianalysis-2026-nittobo-report.pdf
+      type: pdf
+    - label: Nittobo — Financial Model
+      file: semianalysis-2026-nittobo-model.xlsx
+      type: xlsx
+
 - id: nus-pe-club
   title: NUS Private Equity Club
   subtitle: Deal Team 4
