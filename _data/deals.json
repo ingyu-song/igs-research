@@ -1,5 +1,33 @@
 [
   {
+    "title": "[더벨]센트로이드에셋, 한화금융과 협업…2600억 펀드 결성",
+    "summary": "센트로이드에셋이 리버티자산운용을 인수하여 일반 사모 라이선스를 확보한 후, 한화금융과 협업하여 2600억원 규모의 펀드를 결성한 PE의 기업 인수 딜입니다.",
+    "company": "리버티자산운용",
+    "acquirer": "센트로이드에셋",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610150231571180107851",
+    "date": "2026.10.19"
+  },
+  {
+    "title": "[일본 특징주] 소프트뱅크, 보안업체 '얼라이드 유니버설' 인수 검토",
+    "summary": "소프트뱅크 그룹이 사모펀드 워버그 핀커스가 보유한 미국 최대 보안 서비스 업체 얼라이드 유니버설의 인수를 검토하고 있다.",
+    "company": "얼라이드 유니버설",
+    "acquirer": "소프트뱅크 그룹",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.newspim.com/news/view/20261019001038",
+    "date": "2026.10.19"
+  },
+  {
     "title": "고려아연·영풍 경영권 전쟁…지분 경쟁보다 중요한 기업의 미래",
     "summary": "영풍과 사모펀드 MBK파트너스가 고려아연에 대한 공개매수에 나서며 적대적 M&A를 통한 경영권 분쟁이 확대되었다.",
     "company": "고려아연",
@@ -1374,34 +1402,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://sports.donga.com/economy/article/all/20260828/134565127/1",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "산은 한진칼 지분 10.58% 어디로…조원태-호반,'캐스팅보트' 지분을 잡아...",
-    "summary": "산업은행이 보유한 한진칼 지분 10.58%를 블록딜 방식으로 매각할 가능성이 제기되고 있으며, 조원태 측, 호반그룹 또는 행동주의 사모펀드 등이 잠재적 인수자로 거론되고 있다.",
-    "company": "한진칼",
-    "acquirer": "산업은행",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.nongaek.com/news/articleView.html?idxno=96577",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "삼성전기에 꽂힌 상위 1%, 하나마이크론·심텍은 팔았다 [주식 초고수는...",
-    "summary": "글랜우드크레딧이 실리콘투 지분 전량을 블록딜로 처분하며 엑싯을 완료했다.",
-    "company": "실리콘투",
-    "acquirer": "글랜우드크레딧",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20084410?ref=naver",
     "date": "2026.08.28"
   }
 ]
