@@ -1,5 +1,19 @@
 [
   {
+    "title": "세라젬 창업주, 전문경영인을 아들로 입양…지분 10% 승계",
+    "summary": "세라젬 창업주가 전문경영인에게 회사 지분 10%를 승계하는 방안을 검토 중이며, 이 과정에서 사모펀드와 협력하는 경영진 인수(MBO) 방식이 논의되고 있다.",
+    "company": "세라젬",
+    "acquirer": "전문경영인 및 사모펀드",
+    "type": "lbo",
+    "tags": [
+      "lbo"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38154",
+    "date": "2026.10.20"
+  },
+  {
     "title": "[더벨]센트로이드에셋, 한화금융과 협업…2600억 펀드 결성",
     "summary": "센트로이드에셋이 리버티자산운용을 인수하여 일반 사모 라이선스를 확보한 후, 한화금융과 협업하여 2600억원 규모의 펀드를 결성한 PE의 기업 인수 딜입니다.",
     "company": "리버티자산운용",
@@ -1388,20 +1402,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43344",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "美 언론, MBK 中 네트워크 거론…“고려아연 경영권 확보 차단 필요”",
-    "summary": "MBK파트너스와 영풍이 고려아연의 경영권 확보를 시도하는 딜에 대한 기사입니다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://sports.donga.com/economy/article/all/20260828/134565127/1",
     "date": "2026.08.28"
   }
 ]
