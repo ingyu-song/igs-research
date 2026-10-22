@@ -1,5 +1,33 @@
 [
   {
+    "title": "[재계 포커스] 태광그룹, 케이조선 인수 재도전…조선업에서 '제2의 성장...",
+    "summary": "태광그룹이 미국계 사모펀드 TPG와 함께 케이조선 인수를 재추진하며 투자 가능성을 검토하는 전략적 M&A 딜입니다.",
+    "company": "케이조선",
+    "acquirer": "태광그룹, TPG",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746537",
+    "date": "2026.10.22"
+  },
+  {
+    "title": "SNT그룹, '스맥' 경영권 기필코 확보할 터…다시 팔 걷어 부친 까닭",
+    "summary": "SNT그룹이 코스닥 상장사 스맥의 경영권 확보를 재차 추진하는 전략적 M&A 딜이다.",
+    "company": "스맥",
+    "acquirer": "SNT그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.nongaek.com/news/articleView.html?idxno=97205",
+    "date": "2026.10.22"
+  },
+  {
     "title": "세라젬 창업주, 전문경영인을 아들로 입양…지분 10% 승계",
     "summary": "세라젬 창업주가 전문경영인에게 회사 지분 10%를 승계하는 방안을 검토 중이며, 이 과정에서 사모펀드와 협력하는 경영진 인수(MBO) 방식이 논의되고 있다.",
     "company": "세라젬",
@@ -1374,34 +1402,6 @@
     "ev": null,
     "deal_stage": "소문",
     "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762692",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "美 외교 전문지 “MBK, 中 자본 지배구조 면밀히 검토해야”",
-    "summary": "MBK파트너스와 영풍이 고려아연의 경영권 확보를 추진하려는 시도에 대해, 외부에서 이를 저지해야 한다는 주장이 제기되었다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.fntimes.com/html/view.php?ud=202608281816574677492587736_18",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "\"MBK, 中 네트워크 깊이 편입\"… 美 외교매체, 고려아연 경영권 이전 우...",
-    "summary": "사모펀드 MBK파트너스와 영풍이 고려아연의 경영권 확보를 시도하는 딜에 대해 미국 외교 전문매체가 우려를 표명했다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스, 영풍",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43344",
     "date": "2026.08.28"
   }
 ]
