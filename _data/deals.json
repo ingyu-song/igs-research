@@ -1,5 +1,33 @@
 [
   {
+    "title": "[제약공시 책갈피] 10월 4주차 - 저PBR제약사·셀트리온 外",
+    "summary": "사모펀드가 이연제약 주식 5%를 신규 취득하여 대량보유상황을 보고했으며, 이는 전환사채 리픽싱의 영향으로 풀이된다.",
+    "company": "이연제약",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.medipana.com/news/articleView.html?idxno=420008",
+    "date": "2026.10.25"
+  },
+  {
+    "title": "맘스터치, 679억원 벌어 676억원을 사모펀드에",
+    "summary": "최대주주인 사모펀드 KL&파트너스가 포트폴리오 회사 맘스터치의 매각 작업을 진행하며 투자금 회수를 추진 중인 엑시트 딜.",
+    "company": "맘스터치",
+    "acquirer": "KL&파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38211",
+    "date": "2026.10.23"
+  },
+  {
     "title": "[재계 포커스] 태광그룹, 케이조선 인수 재도전…조선업에서 '제2의 성장...",
     "summary": "태광그룹이 미국계 사모펀드 TPG와 함께 케이조선 인수를 재추진하며 투자 가능성을 검토하는 전략적 M&A 딜입니다.",
     "company": "케이조선",
@@ -1374,34 +1402,6 @@
     "ev": null,
     "deal_stage": "협상",
     "url": "https://www.kyeonggi.com/article/20260828580244",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "외신 \"MBK·영풍의 고려아연 경영권 확보에 우려\"",
-    "summary": "MBK파트너스와 영풍이 고려아연의 경영권 확보를 추진하고 있으며, 이에 대한 외부의 우려가 제기되는 상황이다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스, 영풍",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.bizwatch.co.kr/article/industry/2026/08/28/0040",
-    "date": "2026.08.28"
-  },
-  {
-    "title": "美 외교전문지, \"MBK·영풍이 고려아연 경영권 확보 못하도록 막아야\"",
-    "summary": "미국 외교전문지가 사모펀드 MBK파트너스와 영풍이 고려아연의 경영권을 인수하려는 시도를 막아야 한다고 주장하는, 잠재적 경영권 인수 관련 딜 기사.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스, 영풍",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=762692",
     "date": "2026.08.28"
   }
 ]
