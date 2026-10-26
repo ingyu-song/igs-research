@@ -1,5 +1,19 @@
 [
   {
+    "title": "STX엔진, 새 대표에 유진수 본부장 선임…매각 앞두고 진용 재편",
+    "summary": "유암코의 '유암코기업리바운스제팔차 기업재무안정 사모투자합자회사'가 보유한 STX엔진 지분 매각을 앞두고 새로운 대표를 선임하며 엑싯을 추진 중이다.",
+    "company": "STX엔진",
+    "acquirer": "유암코기업리바운스제팔차 기업재무안정 사모투자합자회사",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729170",
+    "date": "2026.10.26"
+  },
+  {
     "title": "[제약공시 책갈피] 10월 4주차 - 저PBR제약사·셀트리온 外",
     "summary": "사모펀드가 이연제약 주식 5%를 신규 취득하여 대량보유상황을 보고했으며, 이는 전환사채 리픽싱의 영향으로 풀이된다.",
     "company": "이연제약",
@@ -1389,19 +1403,5 @@
     "deal_stage": "협상",
     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696637",
     "date": "2026.08.29"
-  },
-  {
-    "title": "美 외교전문지 “MBK, 中 네트워크 깊이 편입…소유·지배구조 면밀히 ...",
-    "summary": "MBK파트너스(MBK)와 영풍이 고려아연 경영권 확보를 추진하는 딜에 대해 美 외교전문지가 MBK의 중국 네트워크 연관성을 문제 삼으며 면밀한 조사를 촉구함.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.kyeonggi.com/article/20260828580244",
-    "date": "2026.08.28"
   }
 ]
