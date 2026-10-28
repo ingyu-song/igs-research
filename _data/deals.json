@@ -1,5 +1,34 @@
 [
   {
+    "title": "더시에나그룹, 1조 8000억 원 규모 골프존카운티 인수…골프존홀딩스 “...",
+    "summary": "더시에나그룹·씨엘자산운용 컨소시엄이 PEF 운용사 MBK파트너스로부터 골프존카운티 경영권 지분 100%를 1.8조원에 인수하는 주식매매계약(SPA)을 체결했다.",
+    "company": "골프존카운티",
+    "acquirer": "더시에나그룹·씨엘자산운용 컨소시엄",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.8조원",
+    "deal_stage": "계약",
+    "url": "https://www.kmib.co.kr/article/20261028501533",
+    "date": "2026.10.28"
+  },
+  {
+    "title": "1.8조 골프존카운티 매각에 골프존홀딩스 반발… \"법적 대응 검토\"",
+    "summary": "리조트·골프장 운영사 더시에나그룹과 사모펀드 운용사 씨엘자산운용이 국내 최대 골프장 운영사인 골프존카운티를 약 1.8조원에 인수하는 딜이 추진 중이며, 기존 주주의 반발이 있다.",
+    "company": "골프존카운티",
+    "acquirer": "더시에나그룹, 씨엘자산운용",
+    "type": "acq",
+    "tags": [
+      "acq",
+      "strategic"
+    ],
+    "ev": "1.8조원",
+    "deal_stage": "협상",
+    "url": "https://www.hankookilbo.com/news/article/A2026102814540000735?did=NA",
+    "date": "2026.10.28"
+  },
+  {
     "title": "STX엔진, 새 대표에 유진수 본부장 선임…매각 앞두고 진용 재편",
     "summary": "유암코의 '유암코기업리바운스제팔차 기업재무안정 사모투자합자회사'가 보유한 STX엔진 지분 매각을 앞두고 새로운 대표를 선임하며 엑싯을 추진 중이다.",
     "company": "STX엔진",
@@ -1375,33 +1404,5 @@
     "deal_stage": "협상",
     "url": "https://www.m-i.kr/news/articleView.html?idxno=1408040",
     "date": "2026.08.31"
-  },
-  {
-    "title": "DB손보, 2030년 주주환원율 50%로 확대",
-    "summary": "DB손보가 미국 팁트리 및 글로벌 사모펀드 워버그 핀커스로부터 미국 보험사 포테그라 지분 100%를 약 2조3000억원에 인수 완료한 전략적 M&A 거래이다.",
-    "company": "포테그라",
-    "acquirer": "DB손보",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2.3조원",
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10856046?ref=naver",
-    "date": "2026.08.29"
-  },
-  {
-    "title": "스트라이프·어드벤트, 530억달러 규모 페이팔 인수 '없던 일로'",
-    "summary": "결제 업체 스트라이프와 사모펀드 어드벤트 인터내셔널이 페이팔 인수를 추진했으나, 이를 중단한 딜이다.",
-    "company": "페이팔",
-    "acquirer": "스트라이프, 어드벤트 인터내셔널",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "530억달러",
-    "deal_stage": "협상",
-    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696637",
-    "date": "2026.08.29"
   }
 ]
