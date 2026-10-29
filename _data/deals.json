@@ -1,5 +1,19 @@
 [
   {
+    "title": "삼성SDS, 클라우드 성장에 3분기 영업익 2천410억원…AI 투자 확대(종합...",
+    "summary": "삼성SDS가 AI 데이터센터 및 피지컬 AI 사업 확대를 위해 우정항공 지분 100%를 인수했다.",
+    "company": "우정항공",
+    "acquirer": "삼성SDS",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441957",
+    "date": "2026.10.29"
+  },
+  {
     "title": "더시에나그룹, 1조 8000억 원 규모 골프존카운티 인수…골프존홀딩스 “...",
     "summary": "더시에나그룹·씨엘자산운용 컨소시엄이 PEF 운용사 MBK파트너스로부터 골프존카운티 경영권 지분 100%를 1.8조원에 인수하는 주식매매계약(SPA)을 체결했다.",
     "company": "골프존카운티",
@@ -1390,19 +1404,5 @@
     "deal_stage": "완료",
     "url": "https://www.sentv.co.kr/article/view/sentv202609010158",
     "date": "2026.09.01"
-  },
-  {
-    "title": "롯데손보 공개매각 임박… '1조원 몸값' 변수",
-    "summary": "JKL파트너스가 보유한 롯데손해보험의 지분 공개 매각 절차를 시작할 예정이다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=1408040",
-    "date": "2026.08.31"
   }
 ]
