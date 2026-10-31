@@ -1,5 +1,19 @@
 [
   {
+    "title": "MBK, '홈플러스 사태' 이어 '골프존카운티 매각' 과정서 잡음",
+    "summary": "MBK파트너스가 보유 중이던 골프존카운티 경영권 매각을 위해 더시에나그룹과 주식매매계약을 체결했다.",
+    "company": "골프존카운티",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://economist.co.kr/article/view/ecn202610310004",
+    "date": "2026.10.31"
+  },
+  {
     "title": "롯데지주, 롯데렌탈 매각 마무리… \"그룹 사업 재편 일환\"",
     "summary": "롯데지주가 호텔롯데와 부산롯데호텔이 보유한 롯데렌탈 지분 61.2%를 사모펀드 운용사에 매각 완료한 PE 인수 딜.",
     "company": "롯데렌탈",
@@ -1390,19 +1404,5 @@
     "deal_stage": "계약",
     "url": "https://www.bloter.net/news/articleView.html?idxno=672188",
     "date": "2026.08.31"
-  },
-  {
-    "title": "TPG, 롯데렌탈 품는다…공정위 “경쟁제한 우려 없어”",
-    "summary": "글로벌 사모펀드 TPG의 국내 렌터카 1위 업체 롯데렌탈 인수가 공정거래위원회의 승인을 받았다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://biz.heraldcorp.com/article/10858939?ref=naver",
-    "date": "2026.09.01"
   }
 ]
