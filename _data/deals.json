@@ -1,5 +1,160 @@
 [
   {
+    "title": "보험사 이어 핀테크까지…주인 바뀌는 저축은행 '새판짜기' 가속",
+    "summary": "한화생명이 사모펀드 EQT로부터 애큐온캐피탈 지분 50.54%를 4400억원에 인수하기로 계약했다. 이는 한화생명의 전략적 M&A이자 EQT의 엑싯 거래이다.",
+    "company": "애큐온캐피탈",
+    "acquirer": "한화생명",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "4400억원",
+    "deal_stage": "계약",
+    "url": "https://www.asiatime.co.kr/article/20261027500416",
+    "date": "2026.11.01"
+  },
+  {
+    "title": "MBK 또 잡음…이번엔 골프존 매각과정서 불공정 논란",
+    "summary": "MBK파트너스가 보유 지분 매각을 추진 중인 골프존의 매각 과정에서 불공정 논란이 발생하고 있는 PE 엑시트 딜입니다.",
+    "company": "골프존",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.inthenews.co.kr/news/article.html?no=93816",
+    "date": "2026.11.01"
+  },
+  {
+    "title": "‘몸값 1조’ 맘스터치 ‘매각 3수’ 롯데카드…연말 M&A 대어로 [M&A복덕...",
+    "summary": "사모펀드 케이엘앤파트너스가 보유한 맘스터치앤컴퍼니의 매각을 위해 예비입찰을 마쳤으며, 본입찰을 앞두고 있는 PE 엑싯 딜이다.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "케이엘앤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12192568",
+    "date": "2026.11.01"
+  },
+  {
+    "title": "네이버, AI 팩토리 본격 시동 '박차'…실탄은 엔비디아 1조3400억 투자금",
+    "summary": "엔비디아가 네이버가 발행하는 신주를 약 1조3400억원에 인수하여 네이버 AI 팩토리 구축을 위한 전략적 투자를 진행하는 딜.",
+    "company": "네이버",
+    "acquirer": "엔비디아",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1.34조원",
+    "deal_stage": "계약",
+    "url": "https://www.thepublic.kr/news/articleView.html?idxno=324605",
+    "date": "2026.11.01"
+  },
+  {
+    "title": "다점포 전략의 역설…부츠로 보는 H&B스토어의 미래",
+    "summary": "미국 사모펀드 시카모어파트너스가 보유 중이던 부츠의 모회사 WBA를 위팅턴인베스트먼츠에 재매각하는 딜이 추진 중이며 2027년 1분기 마무리될 예정이다.",
+    "company": "WBA",
+    "acquirer": "위팅턴인베스트먼츠",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://magazine.hankyung.com/business/article/202610142218b",
+    "date": "2026.11.01"
+  },
+  {
+    "title": "MBK, 홈플러스 이어 골프존 매각 과정서도 '잡음'…골프존홀딩스 “법적...",
+    "summary": "글로벌 사모펀드 MBK파트너스가 리조트·골프장 운영사인 더시에나그룹에 골프존카운티 경영권 매각을 위한 주식매매계약(SPA)을 체결했다.",
+    "company": "골프존카운티",
+    "acquirer": "더시에나그룹",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.etnews.com/20261031000048",
+    "date": "2026.10.31"
+  },
+  {
+    "title": "MBK, 홈플러스 이어 골프존카운티 매각도 논란",
+    "summary": "MBK파트너스가 포트폴리오 기업 골프존카운티의 매각을 추진하는 과정에서 논란이 불거지고 있으며, 잠재적 인수자였던 골프존홀딩스와의 주장이 엇갈리고 있다.",
+    "company": "골프존카운티",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.fntimes.com/html/view.php?ud=202610311805556315f9c516e42f_18",
+    "date": "2026.10.31"
+  },
+  {
+    "title": "적자 회사 넘기고 ‘1조 유니콘’ 포장…카카오와 아크미디어 밀약 의혹...",
+    "summary": "원아시아가 카카오 및 아크미디어와 관련된 밀약 의혹 속에서 아크미디어에 1000억 원의 인수 대금을 투입한 지분 인수 거래.",
+    "company": "아크미디어",
+    "acquirer": "원아시아",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1000억원",
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20108573?ref=naver",
+    "date": "2026.10.31"
+  },
+  {
+    "title": "“홈플러스 이어 골프존카운티와 갈등”…MBK, 지분 매각 놓고 법적 분...",
+    "summary": "MBK파트너스가 골프존카운티 지분 매각을 추진하는 과정에서 2대 주주와 동반매도요구권 행사 등을 놓고 법적 분쟁에 휘말린 엑싯 딜.",
+    "company": "골프존카운티",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ddaily.co.kr/page/view/2026103116075470875",
+    "date": "2026.10.31"
+  },
+  {
+    "title": "[힘내라 K산업]② 2년간 2조원 넘게 팔았다…롯데, 비핵심 정리 ‘최대...",
+    "summary": "롯데에너지머티리얼즈가 사모펀드 운용사 릴슨프라이빗에쿼티에 자회사 롯데에코월 지분 90%를 매각 완료했다.",
+    "company": "롯데에코월",
+    "acquirer": "릴슨프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.asiatime.co.kr/article/20261030500258",
+    "date": "2026.10.31"
+  },
+  {
+    "title": "[티맵 M&A] 골드만이 꽂힌 '차량용 SW·데이터' 가치",
+    "summary": "골드만삭스가 티맵모빌리티의 차량용 소프트웨어 및 데이터 가치에 주목하며 M&A 가능성을 모색하고 있다.",
+    "company": "티맵모빌리티",
+    "acquirer": "골드만삭스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=677373",
+    "date": "2026.10.30"
+  },
+  {
     "title": "MBK, '홈플러스 사태' 이어 '골프존카운티 매각' 과정서 잡음",
     "summary": "MBK파트너스가 보유 중이던 골프존카운티 경영권 매각을 위해 더시에나그룹과 주식매매계약을 체결했다.",
     "company": "골프존카운티",
@@ -1250,159 +1405,5 @@
     "deal_stage": "완료",
     "url": "https://www.bloter.net/news/articleView.html?idxno=673274",
     "date": "2026.09.10"
-  },
-  {
-    "title": "최윤범 고려아연 회장, 영풍·MBK 연합에 판정승…불씨는 남았다",
-    "summary": "영풍과 MBK파트너스 연합이 고려아연에 대한 적대적 인수합병을 추진하는 가운데, 최윤범 회장 측이 주주총회에서 경영권 방어에 성공했다는 기사.",
-    "company": "고려아연",
-    "acquirer": "영풍, MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254212",
-    "date": "2026.09.09"
-  },
-  {
-    "title": "삼성SDS, 'RX'에 승부수…이준희 대표 \"KKR과 투자 검토 중\"",
-    "summary": "글로벌 사모펀드 콜버그크래비스로버츠(KKR)가 삼성SDS의 'RX' 전략 관련 신규 투자를 검토 중이다.",
-    "company": "삼성SDS",
-    "acquirer": "콜버그크래비스로버츠",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026090814344711438",
-    "date": "2026.09.08"
-  },
-  {
-    "title": "LG전자, 베어로보틱스 프리IPO 추진…'2조 밸류' 가능할까",
-    "summary": "LG전자가 투자한 베어로보틱스가 국내외 사모펀드를 대상으로 프리IPO를 추진하며 사업 확장을 위한 자금을 확보할 예정이다.",
-    "company": "베어로보틱스",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.fetv.co.kr/news/articleView.html?idxno=309746",
-    "date": "2026.09.07"
-  },
-  {
-    "title": "[주간사모펀드] 영풍·MBK vs 고려아연…'엔터투자' 진실공방",
-    "summary": "글로벌 사모펀드 EQT가 세컨더리 전문 운용사 콜러캐피털 인수를 완료했다.",
-    "company": "콜러캐피털",
-    "acquirer": "EQT",
-    "type": "sec",
-    "tags": [
-      "sec"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.tf.co.kr/read/economy/2362115.htm",
-    "date": "2026.09.05"
-  },
-  {
-    "title": "고성군, SK오션플랜트 인수기업에 상생협력 마련 촉구",
-    "summary": "사모펀드 디오션자산운용이 SK오션플랜트를 인수한 딜에 대해 고성군이 지역 상생협력을 촉구하는 기사이다.",
-    "company": "SK오션플랜트",
-    "acquirer": "디오션자산운용",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.idomin.com/news/articleView.html?idxno=2014061",
-    "date": "2026.09.04"
-  },
-  {
-    "title": "롯데렌탈 매각 공정위 승인…롯데, 1.3조원 확보로 사업재편 속도",
-    "summary": "롯데그룹이 글로벌 사모펀드 TPG에 롯데렌탈을 매각하는 딜이 공정거래위원회 승인을 받으며 성사 단계에 접어들었다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1.3조원",
-    "deal_stage": "계약",
-    "url": "http://www.press9.kr/news/articleView.html?idxno=82040",
-    "date": "2026.09.02"
-  },
-  {
-    "title": "어펄마캐피탈, 1000억 블루엘리펀트 투자 클로징 눈앞",
-    "summary": "사모펀드 운용사 어펄마캐피탈이 아이웨어 브랜드 블루엘리펀트에 최대 1000억원을 투자하여 2대주주로 참여하는 거래의 클로징을 앞두고 있다.",
-    "company": "블루엘리펀트",
-    "acquirer": "어펄마캐피탈",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1000억원",
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=47425",
-    "date": "2026.09.02"
-  },
-  {
-    "title": "﻿TPG, 롯데렌탈 지분 61.2% 인수 완료… 공정위 기업결합 승인",
-    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 지분 61.2% 인수를 완료하며 경영권을 확보한 PE의 기업 인수 거래이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=610593",
-    "date": "2026.09.02"
-  },
-  {
-    "title": "코오롱, 투자계열사 재편…이웅열 지분 정리·경영진 교체",
-    "summary": "코오롱이 이웅열 회장 및 벤처캐피탈, 사모펀드 등으로부터 리베토코리아 지분 전량을 인수해 자회사로 편입하며 투자계열사 재편에 나섰다.",
-    "company": "리베토코리아",
-    "acquirer": "코오롱",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.topdaily.kr/articles/111757",
-    "date": "2026.09.02"
-  },
-  {
-    "title": "리밸런싱 신동빈 또 팔았다… 롯데렌탈 매각",
-    "summary": "롯데그룹이 자회사 롯데렌탈을 글로벌 사모펀드에 매각하는 전략적 딜이 10월 내 완료될 예정이다.",
-    "company": "롯데렌탈",
-    "acquirer": "글로벌 사모펀드",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.globalepic.co.kr/view.php?ud=202609021050405448439a4874_29",
-    "date": "2026.09.02"
-  },
-  {
-    "title": "[데스크시각] SK디스커버리 이사회에 멈춰 선 '3월의 가격'",
-    "summary": "SK디스커버리의 2대 주주인 PEF 한앤컴퍼니가 SK디스커버리 지분 422만5455주를 1001억원에 매각하기로 결정한 PE 엑시트 딜이다.",
-    "company": "SK디스커버리",
-    "acquirer": "한앤컴퍼니",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1001억원",
-    "deal_stage": "계약",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=672188",
-    "date": "2026.08.31"
   }
 ]
