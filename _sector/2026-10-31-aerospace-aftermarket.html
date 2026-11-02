@@ -1,0 +1,704 @@
+---
+layout: none
+title: "Aerospace Aftermarket: 여행 trade가 아니라 shortage trade"
+subtitle: "엔진·부품 정비 시장이 여행 수요보다 빨리 크는 이유, 이익을 가져가는 병목, 그리고 2026년 가을 조정의 성격"
+date: 2026-10-31
+sector: "Aerospace / Aftermarket"
+cover_type: "Industry Primer"
+deal_size: "$136bn MRO TAM"
+summary: "항공 aftermarket은 승객 수가 아니라 새 비행기가 얼마나 부족한지에 따라 움직입니다. 2025년 말 항공기 생산은 2019년보다 24% 적고, 낡은 fleet이 더 오래 날면서 엔진 정비와 부품 수요가 커집니다. 이익은 엔진 OEM, 대체 불가능한 부품, castings·forgings 같은 병목으로 흐릅니다. 2026년 가을 조정은 공매도가 아니라 기존 long이 성장 둔화에 반응해 줄인 것으로 보입니다."
+---
+{% raw %}<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aerospace Aftermarket Primer — IGS Research</title>
+<style>
+:root{
+  --bg:#F4F3F1; --surface:#FFFFFF; --surface-2:#FAF9F7; --ink:#1B1B1B; --muted:#5E5C58; --faint:#8A877F;
+  --line:#DEDBD5; --grid:#ECE9E4;
+  --brand:#23395B; --brand-dark:#142238; --brand-soft:#E2E8F1;
+  --s1:#2a78d6; --s1-soft:#DCE8F8; --s2:#eb6834; --s2-soft:#FBE4DA; --s3:#1baf7a; --s3-soft:#D5F1E6;
+  --good:#0ca30c; --warn:#fab219; --crit:#d03b3b;
+  --bull:#1F7A3E; --bull-soft:#E1F1E6; --bear:#B3261E; --bear-soft:#F7E0DE;
+  --f-body:"Apple SD Gothic Neo","Pretendard","Malgun Gothic",system-ui,-apple-system,sans-serif;
+  --f-mono:ui-monospace,"SF Mono",Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#141413; --surface:#1C1C1B; --surface-2:#222220; --ink:#EFEEEA; --muted:#B4B2AA; --faint:#8C8A83;
+    --line:#34332F; --grid:#2A2927;
+    --brand:#93A9CC; --brand-dark:#BBCBE3; --brand-soft:#1C2433;
+    --s1:#3987e5; --s1-soft:#1B2A40; --s2:#d95926; --s2-soft:#3A2418; --s3:#199e70; --s3-soft:#12302A;
+    --bull:#6CCB8A; --bull-soft:#173322; --bear:#FF8A80; --bear-soft:#3A1C1A;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#141413; --surface:#1C1C1B; --surface-2:#222220; --ink:#EFEEEA; --muted:#B4B2AA; --faint:#8C8A83;
+  --line:#34332F; --grid:#2A2927;
+  --brand:#93A9CC; --brand-dark:#BBCBE3; --brand-soft:#1C2433;
+  --s1:#3987e5; --s1-soft:#1B2A40; --s2:#d95926; --s2-soft:#3A2418; --s3:#199e70; --s3-soft:#12302A;
+  --bull:#6CCB8A; --bull-soft:#173322; --bear:#FF8A80; --bear-soft:#3A1C1A;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15.5px;line-height:1.65;word-break:keep-all}
+a{color:var(--s1)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px 80px}
+header.hero{background:linear-gradient(135deg,var(--brand-dark),var(--brand));color:#fff;padding:40px 0 30px}
+header.hero .wrap{padding-bottom:0}
+.kicker{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;opacity:.85}
+h1{font-size:clamp(26px,4.4vw,40px);line-height:1.2;margin:8px 0 10px;letter-spacing:-.01em}
+.hero p.lede{max-width:760px;font-size:16.5px;opacity:.95;margin:0 0 22px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.tile{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);border-radius:10px;padding:12px 14px}
+.tile .v{font-size:26px;font-weight:700;font-family:var(--f-mono);line-height:1.15}
+.tile .l{font-size:12.5px;opacity:.9}
+nav.toc{position:sticky;top:0;z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+nav.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding:8px 16px;scrollbar-width:none}
+nav.toc a{flex:none;font-size:13px;color:var(--muted);text-decoration:none;padding:5px 10px;border-radius:999px}
+nav.toc a:hover{background:var(--grid);color:var(--ink)}
+section{margin-top:44px}
+h2{font-size:23px;margin:0 0 4px;letter-spacing:-.01em}
+h2 .num{color:var(--brand);font-family:var(--f-mono);font-size:15px;margin-right:8px;vertical-align:2px}
+.sub{color:var(--muted);margin:0 0 18px;max-width:820px}
+h3{font-size:17px;margin:0 0 6px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px}
+.chart-card{padding:14px 14px 8px}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.tag{display:inline-block;font-size:11.5px;font-weight:600;padding:1px 8px;border-radius:999px;background:var(--grid);color:var(--muted);margin:0 4px 4px 0;white-space:nowrap}
+.tag.b{background:var(--bull-soft);color:var(--bull)} .tag.r{background:var(--bear-soft);color:var(--bear)} .tag.k{background:var(--brand-soft);color:var(--brand)}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.note{font-size:13px;color:var(--muted)}
+.callout{border-left:4px solid var(--brand);background:var(--surface);padding:14px 16px;border-radius:0 10px 10px 0;margin:14px 0}
+/* TL;DR pills */
+.pill{display:flex;gap:12px;align-items:flex-start}
+.pill .ix{flex:none;width:34px;height:34px;border-radius:50%;background:var(--brand);color:#fff;display:grid;place-items:center;font-weight:700}
+/* bets */
+.meter{height:10px;background:var(--grid);border-radius:999px;overflow:hidden;margin:10px 0 4px}
+.meter > i{display:block;height:100%;background:var(--s1);border-radius:999px}
+.status{font-size:12.5px;font-weight:600;display:inline-flex;align-items:center;gap:6px}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+/* tables */
+.tbl-wrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:12px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--grid)}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);background:var(--surface-2)}
+td.mono{white-space:nowrap}
+td.n,th.n{text-align:right;font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+.up{color:var(--bull);font-weight:700} .dn{color:var(--bear);font-weight:700}
+.deb td:nth-child(2){background:color-mix(in srgb,var(--bull-soft) 55%,transparent)}
+.deb td:nth-child(3){background:color-mix(in srgb,var(--bear-soft) 55%,transparent)}
+/* charts & diagrams */
+svg text{font-family:var(--f-body)}
+.diagram{width:100%;height:auto;display:block}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:13px;color:var(--muted);margin:0 0 6px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:14px;height:3px;border-radius:2px;display:inline-block}
+.sw.d{width:10px;height:10px;border-radius:50%}
+/* timeline */
+.tl{position:relative;margin-left:8px;padding-left:22px;border-left:2px solid var(--line)}
+.tl .ev{position:relative;margin-bottom:14px}
+.tl .ev::before{content:"";position:absolute;left:-29px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--surface);border:3px solid var(--faint)}
+.tl .ev.pos::before{border-color:var(--bull)} .tl .ev.neg::before{border-color:var(--bear)} .tl .ev.neu::before{border-color:var(--s1)}
+.tl .d{font-family:var(--f-mono);font-size:12.5px;color:var(--muted)}
+/* photos */
+.photos{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+figure.ph{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+figure.ph.keep{border-top:6px solid var(--s1)}
+figure.ph.sell{border-top:6px solid var(--bear)}
+figure.ph img{width:100%;aspect-ratio:16/10;object-fit:cover;display:block;background:var(--grid)}
+figure.ph.fit img{object-fit:contain;background:#fff}
+figure.ph.wide{grid-column:1/-1}
+figure.ph.wide img{aspect-ratio:auto}
+figure.ph figcaption{padding:12px 14px 14px;font-size:14px}
+.cap-h{font-weight:700;margin-bottom:4px;font-size:15px}
+.credit{font-size:11.5px;color:var(--faint);margin-top:8px}
+.grp-h{display:flex;align-items:center;gap:10px;margin:26px 0 10px;font-weight:700;font-size:16px}
+.key{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--muted);margin-right:14px}
+.key i{display:inline-block;width:22px;height:6px;border-radius:2px}
+/* glossary */
+details.gl{background:var(--surface);border:1px solid var(--line);border-radius:12px}
+details.gl summary{cursor:pointer;padding:14px 18px;font-weight:700}
+.gl-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0 22px;padding:0 18px 16px}
+.gl-grid div{padding:8px 0;border-top:1px solid var(--grid);font-size:14px}
+.gl-grid b{font-family:var(--f-mono);color:var(--brand)}
+.src li{margin-bottom:6px;font-size:14px}
+footer{margin-top:50px;font-size:12.5px;color:var(--faint)}
+@media (max-width:600px){ body{font-size:15px} .tile .v{font-size:22px} th,td{padding:8px 9px} }
+header.hero{background:linear-gradient(135deg,#142238,#23395B)}
+</style>
+</head>
+<body>
+<div style="background:#1A2744;padding:10px 16px;font:500 13px/1.4 system-ui,sans-serif"><a href="/igs-research/#sector" style="color:#DFC08A;text-decoration:none">← IGS Research · Reports</a></div>
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">Industry primer · Commercial aerospace aftermarket · 기관 수급 분석 포함 · 31 Oct 2026 기준</div>
+    <h1>“여행 trade가 아니라 shortage trade”</h1>
+    <p class="lede">항공 aftermarket(엔진·부품 정비 시장)이 왜 여행 수요보다 빨리 크는지, 누가 그 이익을 가져가는지, 그리고 2026년 가을에 왜 업종 전체가 흔들렸는지를 한 장으로 정리했습니다. 회사 공시, 산업 자료(IATA, Oliver Wyman), sell-side·buy-side 코멘트, 자체 리서치 노트를 썼고, 기관 수급 시각을 더했습니다.</p>
+    <div class="tiles">
+      <div class="tile"><div class="v">$136bn</div><div class="l">2025 commercial MRO 수요 (+8%)</div></div>
+      <div class="tile"><div class="v">52%</div><div class="l">그중 엔진 비중 (2019년 48%)</div></div>
+      <div class="tile"><div class="v">−24%</div><div class="l">2025년 말 항공기 생산, 2019 대비</div></div>
+      <div class="tile"><div class="v">6,000+</div><div class="l">2030년까지 누적 항공기 부족분</div></div>
+      <div class="tile"><div class="v">~13년</div><div class="l">평균 fleet age (1년에 +1.5년)</div></div>
+    </div>
+  </div>
+</header>
+
+<nav class="toc" aria-label="Sections"><div class="wrap">
+  <a href="#tldr">TL;DR</a><a href="#how">작동 원리</a><a href="#size">시장 규모</a><a href="#chain">Value chain</a><a href="#photos">사진</a><a href="#replace">교체 효과</a><a href="#changed">2026 변화</a><a href="#lens">기관 수급</a><a href="#views">누가 뭐라 하나</a><a href="#debate">Bull vs Bear</a><a href="#watch">Signposts</a><a href="#gloss">약어표</a><a href="#sources">Sources</a>
+</div></nav>
+
+<main class="wrap">
+
+<!-- TLDR -->
+<section id="tldr">
+  <h2><span class="num">01</span>TL;DR — 30초 요약</h2>
+  <p class="sub">이 업종을 움직이는 변수는 승객 수가 아니라 <b>새 비행기가 부족한 정도</b>입니다.</p>
+  <div class="grid3">
+    <div class="card pill"><div class="ix">1</div><div><h3>새 비행기가 없으니 헌 비행기가 난다</h3>Boeing은 품질·파업 문제로, Airbus는 엔진 부족으로 계획만큼 비행기를 못 만듭니다. 그래서 항공사는 낡은 비행기를 더 오래 띄우고, 낡은 비행기일수록 정비비가 많이 듭니다.</div></div>
+    <div class="card pill"><div class="ix">2</div><div><h3>이익은 병목을 가진 쪽으로</h3>엔진 IP를 가진 OEM(GE, Safran, Rolls-Royce), 대체품이 없는 부품 회사(TransDigm), 그리고 castings·forgings 같은 물리적 병목(Howmet)이 가격 결정력을 갖습니다.</div></div>
+    <div class="card pill"><div class="ix">3</div><div><h3>시장은 이제 "성장률의 둔화"를 거래</h3>숫자는 여전히 강합니다(GE services +17%, Howmet 매출 +29%). 하지만 Safran spares는 Q1 +29%에서 Q3 +17%로 느려졌고, Melius는 2027년 성장이 high single digit로 둔화한다고 봅니다. 주가는 성장률의 방향에 반응합니다.</div></div>
+  </div>
+  <div class="callout"><b>그런데 왜 빠졌나?</b> 이유는 세 단계입니다. ① Mar 26 유가 쇼크(Hormuz)로 Morgan Stanley aftermarket basket이 중간값 기준 약 −15% 빠졌습니다(시장은 −4%). ② 14 Sep Melius가 GE·HEICO·TransDigm·Honeywell Aerospace·Woodward를 Hold로 낮췄습니다. ③ 23 Oct Safran Q3에서 spares가 둔화하자 Safran −7%, Rolls-Royce는 이틀 −12%를 기록했습니다. GE는 8월 고점 대비 약 −23%, Rolls-Royce는 약 −22%입니다. 그런데 공매도 잔고는 낮습니다. 이번 하락은 <b>공매도 공격이 아니라 기존 long이 줄이는 것</b>입니다(아래 기관 수급).</div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section id="how">
+  <h2><span class="num">02</span>작동 원리 — aftermarket은 어떻게 돈이 되나</h2>
+  <p class="sub">엔진은 버리지 않고 몇천 번 비행마다 다시 짓습니다(<b>shop visit</b>). 뜨거운 부위(hot section)가 닳고, 디스크·샤프트 같은 <b>LLP</b>(life-limited part)는 법정 사용 횟수에 도달하면 상태와 무관하게 바꿔야 합니다. Narrowbody 엔진은 수명 동안 대략 4–6번 shop visit을 받습니다(추정).</p>
+  <div class="grid2">
+    <div class="card">
+      <h3>엔진 나이별 정비비 곡선 (직접 그린 schematic · 수치는 개념)</h3>
+      <p class="note" style="margin:0 0 6px">선은 엔진 1대의 연간 정비비 개념도입니다. 아래 색 띠는 그 구간에서 돈을 가장 많이 버는 쪽입니다. <span style="color:var(--s1);font-weight:700">파랑</span>은 OEM, <span style="color:var(--s2);font-weight:700">주황</span>은 independent MRO·PMA·중고부품입니다.</p>
+      <svg class="diagram" viewBox="0 0 520 300" role="img" aria-label="Maintenance spend is low in years 0 to 5, peaks at mid-life when life-limited parts are replaced, then falls at end of life when engines run on green time and used parts">
+        <defs><marker id="ah3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--muted)"/></marker></defs>
+        <line x1="40" y1="230" x2="505" y2="230" stroke="var(--line)"/><line x1="40" y1="20" x2="40" y2="230" stroke="var(--line)"/>
+        <text x="272" y="262" text-anchor="middle" font-size="11.5" fill="var(--muted)">엔진 나이 (년) →</text>
+        <text x="16" y="125" font-size="11.5" fill="var(--muted)" transform="rotate(-90 16 125)" text-anchor="middle">연간 정비비 →</text>
+        <g font-size="11" fill="var(--muted)" text-anchor="middle"><text x="40" y="246">0</text><text x="133" y="246">5</text><text x="226" y="246">10</text><text x="319" y="246">15</text><text x="412" y="246">20</text><text x="505" y="246">25</text></g>
+        <path d="M40 215 C90 212,120 205,140 190 C180 150,210 70,260 55 C300 45,330 70,360 110 C400 160,440 195,505 205" fill="none" stroke="var(--ink)" stroke-width="2.5"/>
+        <rect x="40" y="268" width="100" height="10" fill="var(--s1)"/>
+        <rect x="140" y="268" width="200" height="10" fill="var(--s1)" opacity=".55"/>
+        <rect x="340" y="268" width="165" height="10" fill="var(--s2)"/>
+        <g font-size="11.5" fill="var(--ink)">
+          <text x="52" y="198">① Honeymoon</text><text x="52" y="183" fill="var(--muted)" font-size="10.5">새 부품, OEM warranty</text>
+          <text x="262" y="40" text-anchor="middle" font-weight="700">② Peak: 2·3차 shop visit, LLP 교체</text>
+          <text x="368" y="62">③ End of life · 중고부품</text>
+        </g>
+        <text x="368" y="80" font-size="10.5" fill="var(--bear)">정비+새 LLP &gt; 기체 가치 → 퇴역</text>
+      </svg>
+      <p class="note">Source: 자체 리서치 노트(Oliver Wyman, Visual Approach). LEAP 엔진은 약 4,000 cycle마다 shop visit을 받습니다(범위 2,000–6,000). CFM56 shop visit 1회는 $1.5–4.5m이고 LLP가 부품비의 40–60%입니다(vendor 추정, 미감사).</p>
+    </div>
+    <div class="card">
+      <h3>시장 크기 = fleet × 비행량 × 시간당 비용 (직접 그린 diagram)</h3>
+      <svg class="diagram" viewBox="0 0 520 300" role="img" aria-label="MRO demand equals fleet times flying times cost per hour; cost per hour rises from age mix, price, and the new engine wave">
+        <g font-size="12.5" fill="var(--ink)" text-anchor="middle">
+          <rect x="10" y="20" width="140" height="70" rx="10" fill="var(--s1-soft)" stroke="var(--s1)"/>
+          <text x="80" y="47" font-weight="700">Fleet</text><text x="80" y="68" font-size="11.5">+3–3.5%/yr</text>
+          <text x="165" y="62" font-size="22" fill="var(--muted)">×</text>
+          <rect x="180" y="20" width="140" height="70" rx="10" fill="var(--s1-soft)" stroke="var(--s1)"/>
+          <text x="250" y="47" font-weight="700">비행량 (RPK)</text><text x="250" y="68" font-size="11.5">2026 +2.1% (IATA)</text>
+          <text x="335" y="62" font-size="22" fill="var(--muted)">×</text>
+          <rect x="350" y="20" width="160" height="70" rx="10" fill="var(--s2-soft)" stroke="var(--s2)"/>
+          <text x="430" y="47" font-weight="700">시간당 정비비</text><text x="430" y="68" font-size="11.5">가장 큰 변수</text>
+        </g>
+        <g font-size="11.5" fill="var(--ink)">
+          <rect x="350" y="110" width="160" height="40" rx="8" fill="var(--surface)" stroke="var(--line)"/><text x="360" y="128" font-weight="700">a. Age mix</text><text x="360" y="143" fill="var(--muted)" font-size="10.5">퇴역 연기 = 가장 비싼 비행</text>
+          <rect x="350" y="158" width="160" height="40" rx="8" fill="var(--surface)" stroke="var(--line)"/><text x="360" y="176" font-weight="700">b. 가격</text><text x="360" y="191" fill="var(--muted)" font-size="10.5">list price 2022 두 자릿수 ↑</text>
+          <rect x="350" y="206" width="160" height="40" rx="8" fill="var(--surface)" stroke="var(--line)"/><text x="360" y="224" font-weight="700">c. 신형 엔진 wave</text><text x="360" y="239" fill="var(--muted)" font-size="10.5">LEAP·GTF 첫 heavy visit</text>
+        </g>
+        <path d="M430 92 L430 108" stroke="var(--s2)" stroke-width="2"/>
+        <rect x="10" y="120" width="320" height="126" rx="10" fill="var(--bull-soft)"/>
+        <text x="24" y="146" font-size="13" font-weight="700" fill="var(--ink)">= 2025 MRO 수요 +8% ($136bn)</text>
+        <text x="24" y="170" font-size="11.5" fill="var(--ink)">≈ fleet ~3% + 비행 몇 % + 가격·age mix (추정 분해)</text>
+        <text x="24" y="196" font-size="11.5" fill="var(--bear)">주의: a와 b는 깨지기 쉬운 동력입니다.</text>
+        <text x="24" y="214" font-size="11" fill="var(--muted)">항공사는 가격에 저항하고(→ HEICO 기회),</text>
+        <text x="24" y="231" font-size="11" fill="var(--muted)">생산이 따라잡으면 age mix 효과가 반대로 돕니다.</text>
+      </svg>
+      <p class="note">공표된 성장 분해는 없습니다. 분해는 자체 리서치 노트의 추정입니다.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SIZE -->
+<section id="size">
+  <h2><span class="num">03</span>시장 규모 · 왜 여행보다 빨리 크나</h2>
+  <div class="grid2">
+    <div class="card chart-card">
+      <h3>Commercial MRO 수요 ($bn)</h3>
+      <div class="legend"><span><i class="sw d" style="background:var(--s1)"></i>Actual</span><span><i class="sw d" style="border:2px dashed var(--s1)"></i>Forecast</span></div>
+      <svg id="tam" class="diagram" viewBox="0 0 520 260" role="img" aria-label="Commercial MRO demand 126 billion in 2024, 136 in 2025, about 195 by the mid-2030s"></svg>
+      <p class="note">Source: Oliver Wyman Global Fleet &amp; MRO Forecast 2026–2036 (Feb 26). CAGR은 같은 페이지에서도 3.3%와 3.7%가 섞여 있습니다. 군용 정비는 별도입니다.</p>
+    </div>
+    <div class="card chart-card">
+      <h3>LEAP 엔진 shop visit 수 (회/년) — 다음 파도</h3>
+      <div class="legend"><span><i class="sw d" style="background:var(--s1)"></i>2025 (600–800의 중간)</span><span><i class="sw d" style="border:2px dashed var(--s1)"></i>IATA 전망</span></div>
+      <svg id="leap" class="diagram" viewBox="0 0 520 260" role="img" aria-label="LEAP shop visits rise from about 700 in 2025 to more than 5000 in 2040"></svg>
+      <p class="note">Source: IATA(24 Jun 26). LEAP은 A320neo·737 MAX의 CFM 엔진입니다. 첫 heavy visit이 계획보다 빨리 오고 있습니다. LEAP의 더 뜨거운 core가 CFM56보다 빨리 닳기 때문입니다.</p>
+    </div>
+  </div>
+  <div class="tbl-wrap" style="margin-top:14px"><table>
+    <thead><tr><th>왜 traffic보다 빨리 크나</th><th>숫자</th><th>Source</th></tr></thead>
+    <tbody>
+      <tr><td>생산 부족</td><td class="mono">2025년 말 생산 2019 대비 −24%, 2030년까지 6,000대 이상 부족</td><td>IATA</td></tr>
+      <tr><td>Backlog</td><td class="mono">~17,000대 (현재 생산 속도로 12년 이상)</td><td>IATA</td></tr>
+      <tr><td>Fleet 노화</td><td class="mono">평균 ~13년, 1년에 +1.5년</td><td>IATA</td></tr>
+      <tr><td>2026 인도 현황</td><td class="mono">Airbus 9M 547대(+8%), 목표 ~870대엔 Q4에 323대 필요 · Boeing YTD 475대</td><td>Airbus, Forecast International (Oct 26)</td></tr>
+      <tr><td>엔진 문제</td><td class="mono">P&amp;W GTF ~1,200대 점검·재작업, 엔진 없는 "glider" 기체</td><td>CNBC, SupplyChainBrain</td></tr>
+      <tr><td>Boeing 생산</td><td class="mono">737 월 42 → 47대 (목표 57) · 777-9 첫 인도 2027</td><td>Boeing 10-Q</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- VALUE CHAIN -->
+<section id="chain">
+  <h2><span class="num">04</span>Value chain — 누가 이익을 가져가나</h2>
+  <p class="sub">Margin은 대체 불가능한 층(병목)으로 흐릅니다. "Power"는 자체 리서치 노트의 판단(inference)입니다.</p>
+  <div class="card">
+    <h3>공급 부족이 aftermarket을 키우는 고리 (직접 그린 diagram)</h3>
+    <svg class="diagram" viewBox="0 0 900 250" role="img" aria-label="Castings and forgings bottleneck limits both new engines and spare parts; fewer new aircraft means old aircraft fly longer, raising heavy shop visits and prices">
+      <defs><marker id="ah4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--muted)"/></marker></defs>
+      <g font-size="12.5" fill="var(--ink)" text-anchor="middle">
+        <rect x="10" y="90" width="170" height="70" rx="10" fill="var(--bear-soft)" stroke="var(--bear)" stroke-width="2"/>
+        <text x="95" y="118" font-weight="700">Castings · forgings</text><text x="95" y="138" font-size="11">물리적 병목 (Howmet, PCC)</text>
+        <rect x="240" y="20" width="180" height="62" rx="10" fill="var(--surface)" stroke="var(--line)" stroke-width="2"/>
+        <text x="330" y="46" font-weight="700">새 엔진·새 비행기 부족</text><text x="330" y="65" font-size="11">Airbus glider, Boeing 상한</text>
+        <rect x="240" y="168" width="180" height="62" rx="10" fill="var(--surface)" stroke="var(--line)" stroke-width="2"/>
+        <text x="330" y="194" font-weight="700">Spare parts도 부족</text><text x="330" y="213" font-size="11">같은 공장·같은 금속</text>
+        <rect x="480" y="20" width="180" height="62" rx="10" fill="var(--surface)" stroke="var(--line)" stroke-width="2"/>
+        <text x="570" y="46" font-weight="700">헌 비행기 퇴역 연기</text><text x="570" y="65" font-size="11">fleet age +1.5년/년</text>
+        <rect x="480" y="168" width="180" height="62" rx="10" fill="var(--surface)" stroke="var(--line)" stroke-width="2"/>
+        <text x="570" y="194" font-weight="700">부품 가격 ↑</text><text x="570" y="213" font-size="11">OEM list price, PMA 기회</text>
+        <rect x="720" y="90" width="170" height="70" rx="10" fill="var(--bull-soft)" stroke="var(--bull)" stroke-width="2"/>
+        <text x="805" y="118" font-weight="700">Aftermarket 매출 ↑</text><text x="805" y="138" font-size="11">heavy visit + LLP + 가격</text>
+      </g>
+      <path d="M180 112 L238 60" stroke="var(--muted)" stroke-width="2" fill="none" marker-end="url(#ah4)"/>
+      <path d="M180 138 L238 190" stroke="var(--muted)" stroke-width="2" fill="none" marker-end="url(#ah4)"/>
+      <path d="M420 51 L478 51" stroke="var(--muted)" stroke-width="2" fill="none" marker-end="url(#ah4)"/>
+      <path d="M420 199 L478 199" stroke="var(--muted)" stroke-width="2" fill="none" marker-end="url(#ah4)"/>
+      <path d="M660 60 L718 112" stroke="var(--muted)" stroke-width="2" fill="none" marker-end="url(#ah4)"/>
+      <path d="M660 190 L718 138" stroke="var(--muted)" stroke-width="2" fill="none" marker-end="url(#ah4)"/>
+      <text x="450" y="128" text-anchor="middle" font-size="11.5" fill="var(--bear)">엔진 1대를 Airbus에 보내면 = 지상의 항공사에 줄 spare 1대 감소 (OEM의 trade-off)</text>
+    </svg>
+    <p class="note">GE가 castings 회사 CPP(Consolidated Precision Products) 인수를 발표했습니다(20 Oct 26). 병목층을 직접 잠그는 움직임입니다. Morgan Stanley도 specialty metals·castings·forgings 부족, 그리고 산업용 가스터빈(data centre 발전) 수요가 가격 결정력을 지탱한다고 봅니다(21 Oct 26).</p>
+  </div>
+  <div class="tbl-wrap" style="margin-top:14px"><table>
+    <thead><tr><th>Layer</th><th>어떻게 버나</th><th>누가</th><th>Power</th></tr></thead>
+    <tbody>
+      <tr><td><b>엔진 OEM</b></td><td>엔진은 싸게 팔고 25–30년 동안 부품·정비로 법니다</td><td>GE(services backlog $170bn+), Safran/CFM, Rolls-Royce, P&amp;W</td><td><span class="tag b">High</span> IP와 대부분의 shop visit</td></tr>
+      <tr><td><b>Rolls-Royce (특수)</b></td><td>LTSA power by the hour. 내구성이 곧 margin입니다</td><td>Rolls-Royce (widebody만)</td><td><span class="tag b">High</span> Civil margin 25.3%(1H26)</td></tr>
+      <tr><td><b>Sole-source 부품</b></td><td>대체품 없는 부품의 가격</td><td>TransDigm, Loar</td><td><span class="tag b">Highest</span> 가격 결정력</td></tr>
+      <tr><td><b>PMA (대체 부품)</b></td><td>OEM 가격이 오를수록 싼 대체품 판매</td><td>HEICO</td><td><span class="tag">Medium</span> OEM 인상의 수혜</td></tr>
+      <tr><td><b>Castings · forgings</b></td><td>새 엔진과 spare 모두에 들어가는 금속 부품</td><td>Howmet, PCC(Berkshire), CPP(GE 인수 예정)</td><td><span class="tag r">Bottleneck</span></td></tr>
+      <tr><td><b>Independent MRO</b></td><td>정비 인력과 slot, OEM 라이선스 하에</td><td>ST Engineering, StandardAero, MTU, Lufthansa Technik</td><td><span class="tag">Capacity-bound</span> LEAP 정비의 ~15%가 third-party</td></tr>
+      <tr><td><b>중고부품·엔진 리스</b></td><td>분해한 부품(USM)을 새 부품이 부족한 동안 판매</td><td>FTAI, AerSale</td><td><span class="tag r">Shortage-only</span> 부족이 끝나면 불리</td></tr>
+      <tr><td><b>RSP 파트너</b></td><td>엔진 프로그램 매출(aftermarket 포함)의 고정 지분</td><td>MTU, IHI, Kawasaki, Hanwha Aerospace(GTF RSP, Trent 부품)</td><td><span class="tag">Share</span> 프로그램 문제도 공유</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- PHOTOS -->
+<section id="photos">
+  <h2><span class="num">05</span>사진으로 보는 aftermarket</h2>
+  <p class="sub">이 업종의 핵심 "물건"들입니다. Caption은 각 사진이 thesis의 어느 고리인지 설명합니다.</p>
+  <div><span class="key"><i style="background:var(--s1)"></i>엔진: 정비 수요의 원천</span><span class="key"><i style="background:var(--bear)"></i>병목·공급</span><span class="key"><i style="background:var(--s2)"></i>퇴역·중고부품</span></div>
+  <div class="photos" style="margin-top:12px">
+    <figure class="ph keep">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CFMI_LEAP_1B_engine_from_a_Boeing_737-8_MAX.jpg/1280px-CFMI_LEAP_1B_engine_from_a_Boeing_737-8_MAX.jpg" alt="CFM LEAP-1B engine on a Ryanair Boeing 737-8 MAX" loading="lazy" referrerpolicy="no-referrer">
+      <figcaption><div class="cap-h">CFM LEAP-1B · Boeing 737 MAX</div>737 MAX의 유일한 엔진이고, A320neo에는 LEAP-1A가 들어갑니다. 지금 첫 heavy shop visit 파도가 시작됐습니다(2025년 연 600–800회에서 2040년 5,000회 이상, IATA). GE와 Safran의 50:50 JV인 CFM이 만들고, LEAP shop visit 중 third party 몫은 약 15%뿐입니다. 나머지는 OEM 네트워크가 가져갑니다.<div class="credit">Photo: Thyrome, <a href="https://commons.wikimedia.org/wiki/File:CFMI_LEAP_1B_engine_from_a_Boeing_737-8_MAX.jpg">Wikimedia Commons</a>, CC0</div></figcaption>
+    </figure>
+    <figure class="ph keep">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/D-AINU_A320neo_Lufthansa_PW1100G_SCQ.jpg/1280px-D-AINU_A320neo_Lufthansa_PW1100G_SCQ.jpg" alt="Pratt and Whitney PW1100G geared turbofan on a Lufthansa A320neo" loading="lazy" referrerpolicy="no-referrer">
+      <figcaption><div class="cap-h">P&amp;W GTF (PW1100G) · A320neo</div>Powder metal 결함으로 약 1,200대가 점검·재작업 대상이 됐습니다. 그래서 A320neo가 대거 지상에 묶였고, 엔진 없이 완성된 "glider" 기체도 생겼습니다. 이것이 공급 부족, 즉 헌 비행기 수요의 큰 원인입니다. Hanwha Aerospace, MTU, Kawasaki가 이 프로그램의 RSP 파트너입니다.<div class="credit">Photo: Bene Riobó, <a href="https://commons.wikimedia.org/wiki/File:D-AINU_A320neo_Lufthansa_PW1100G_SCQ.jpg">Wikimedia Commons</a>, CC BY-SA 4.0</div></figcaption>
+    </figure>
+    <figure class="ph keep">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Rolls-Royce_Trent_XWB_on_Airbus_A350-941_F-WWCF_MSN002_ILA_Berlin_2016_01.jpg/1280px-Rolls-Royce_Trent_XWB_on_Airbus_A350-941_F-WWCF_MSN002_ILA_Berlin_2016_01.jpg" alt="Rolls-Royce Trent XWB on an Airbus A350" loading="lazy" referrerpolicy="no-referrer">
+      <figcaption><div class="cap-h">Rolls-Royce Trent XWB · A350 (widebody)</div>Widebody 엔진 aftermarket은 Rolls-Royce와 GE의 양강입니다. Rolls-Royce는 power by the hour(LTSA) 모델이라 엔진 내구성이 곧 margin이고, 1H26 Civil margin은 25.3%입니다. 유가 충격에 따른 항공편 취소는 주로 narrowbody에서 나왔습니다(CEO).<div class="credit">Photo: Julian Herzog, <a href="https://commons.wikimedia.org/wiki/File:Rolls-Royce_Trent_XWB_on_Airbus_A350-941_F-WWCF_MSN002_ILA_Berlin_2016_01.jpg">Wikimedia Commons</a>, CC BY 4.0</div></figcaption>
+    </figure>
+    <figure class="ph sell">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Press_looking_northwest_-_Alcoa_Forging_Division%2C_Mesta_50%2C000-Ton_Closed_Die_Forging_Press%2C_1600_Harvard_Avenue%2C_Cleveland%2C_Cuyahoga_County%2C_OH_HAER_OHIO%2C18-CLEV%2C41-10.tif/lossy-page1-1280px-thumbnail.tif.jpg" alt="Mesta 50,000-ton closed-die forging press in Cleveland, historic HAER photo" loading="lazy" referrerpolicy="no-referrer" style="object-position:center 30%">
+      <figcaption><div class="cap-h">50,000-ton forging press · Cleveland (역사 기록 사진)</div>원래 Alcoa Forging Division의 거대 단조 프레스입니다. Alcoa의 이 사업은 분할을 거쳐 지금의 Howmet으로 이어졌습니다(이 사진은 미국 역사 기록 HAER 사진). 이런 프레스는 새로 짓는 데 수년이 걸리고, 인증된 castings·forgings 공급자는 소수입니다. 그래서 이 층이 새 엔진과 spare 부품 모두의 병목입니다. Howmet은 Q3 매출 +29%, $5bn 추가 buyback을 발표했습니다.<div class="credit">Photo: HAER, <a href="https://commons.wikimedia.org/wiki/File:Press_looking_northwest_-_Alcoa_Forging_Division,_Mesta_50,000-Ton_Closed_Die_Forging_Press,_1600_Harvard_Avenue,_Cleveland,_Cuyahoga_County,_OH_HAER_OHIO,18-CLEV,41-10.tif">Wikimedia Commons</a>, Public domain</div></figcaption>
+    </figure>
+    <figure class="ph" style="border-top:6px solid var(--s2)">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Drexels_Storage_Yard._%288757810735%29.jpg/1280px-Drexels_Storage_Yard._%288757810735%29.jpg" alt="Aerial view of an aircraft storage yard in the desert" loading="lazy" referrerpolicy="no-referrer">
+      <figcaption><div class="cap-h">Aircraft storage yard (참고 사진)</div>퇴역 비행기는 사막의 보관장에서 분해되고, 엔진 부품은 중고부품(USM)으로 팔립니다. 부족이 이어지는 동안은 퇴역이 늦어 USM이 귀합니다(FTAI·AerSale 수혜). 생산이 따라잡으면 퇴역이 몰리고 USM이 넘쳐 OEM 새 부품과 경쟁합니다. 2020년에는 "used part tsunami"가 예상됐지만 퇴역이 늦어 가격이 대체로 유지됐습니다.<div class="credit">Photo: Aeroprints.com, <a href="https://commons.wikimedia.org/wiki/File:Drexels_Storage_Yard._(8757810735).jpg">Wikimedia Commons</a>, CC BY-SA 3.0</div></figcaption>
+    </figure>
+  </div>
+  <p class="note">사진은 원 출처에서 직접 불러옵니다. 그래서 인터넷 연결이 있어야 보입니다.</p>
+</section>
+
+<!-- REPLACEMENT EFFECT -->
+<section id="replace">
+  <h2><span class="num">06</span>새 비행기가 빨리 나오면? — player별로 다르다</h2>
+  <p class="sub">부품은 엔진 모델마다 다릅니다(CFM56 부품은 LEAP에 안 맞음). 그래서 교체가 빨라지면 단기적으로는 대부분 불리하고, 누가 불리한지는 player마다 다릅니다(자체 리서치 노트, 30 Oct 26).</p>
+  <div class="tbl-wrap"><table>
+    <thead><tr><th>Player</th><th>선호</th><th>이유</th></tr></thead>
+    <tbody>
+      <tr><td>엔진 OEM (GE, Safran, Rolls-Royce)</td><td><span class="tag">지금은 old fleet, 장기는 new install</span></td><td>지금의 margin은 spare에서 나오고, 새 엔진은 25–30년짜리 annuity를 만듭니다</td></tr>
+      <tr><td>Independent MRO · PMA · 중고부품 (HEICO, FTAI, AerSale, ST Engineering)</td><td><span class="tag r">Old fleet</span></td><td>성숙한 엔진은 third party에 열려 있고, 새 엔진은 수년간 OEM 계약·IP에 묶입니다</td></tr>
+      <tr><td>Sole-source 부품 (TransDigm, Loar)</td><td><span class="tag r">Old fleet</span></td><td>설치된 부품에 aftermarket 가격을 매기고, 새 비행기에는 OE 가격으로 팝니다</td></tr>
+      <tr><td>Castings · forgings (Howmet, PCC)</td><td><span class="tag b">둘 다, 생산 ramp에 약간 유리</span></td><td>새 엔진에 더 고가 부품이 들어갑니다</td></tr>
+      <tr><td>RSP 파트너 (MTU, IHI, Hanwha)</td><td><span class="tag">자기 프로그램의 느린 ramp</span></td><td>새 엔진의 초기 손실을 같이 지고 나중에 aftermarket으로 법니다</td></tr>
+    </tbody>
+  </table></div>
+  <p class="note">어느 쪽이든 installed base는 연 ~3% 늘어납니다. 교체는 헌 엔진을 새 엔진으로 바꿀 뿐이고, 성장은 엔진 수 자체를 늘립니다.</p>
+</section>
+
+<!-- WHAT CHANGED -->
+<section id="changed">
+  <h2><span class="num">07</span>2026년에 무엇이 바뀌었나</h2>
+  <div class="grid2">
+    <div class="card chart-card">
+      <h3>최근 성장률 — 같은 업종, 다른 속도 (%)</h3>
+      <svg id="growth" class="diagram" viewBox="0 0 520 330" role="img" aria-label="Q3 growth: Howmet revenue 29 percent, GE services orders 23, GE services revenue 17, Safran spares 17 versus 29 in Q1, Honeywell Aero commercial aftermarket 2; Melius expects high single digits in 2027"></svg>
+      <p class="note">지표가 서로 다릅니다(매출 vs 주문, $ 기준 vs 보고통화). 방향을 보는 용도입니다. Melius 값은 high single digit을 8%로 표시했습니다. Source: 각 사 Q3 26 실적, Investing.com, Yahoo Finance(14 Sep).</p>
+    </div>
+    <div>
+      <div class="tl">
+        <div class="ev neg"><div class="d">Mar 26</div><b>Hormuz·유가 쇼크</b>: jet fuel 약 $152/bbl. MS aftermarket basket 중간값 −15%(시장 −4%). MS는 "overdone"이라고 봤습니다.</div>
+        <div class="ev neg"><div class="d">24 Jun</div><b>IATA</b>가 2026 RPK 성장을 4.9%에서 2.1%로 낮추고 엔진 MRO 병목 해소를 촉구했습니다.</div>
+        <div class="ev pos"><div class="d">Jul</div><b>GE·Rolls-Royce guidance 상향</b>. GE Q2 widebody 엔진 출하 +30%.</div>
+        <div class="ev neg"><div class="d">14 Sep</div><b>Melius</b>가 GE·HEICO·TransDigm·Honeywell Aero·Woodward를 Buy에서 Hold로 낮췄습니다. 2027 aftermarket 성장을 high single digit로 봅니다(시장 기대는 low teens).</div>
+        <div class="ev pos"><div class="d">20 Oct</div><b>GE Q3</b>: services +17%, orders +49%, 2027 services low double digit 성장 전망. CPP(castings) 인수 발표.</div>
+        <div class="ev pos"><div class="d">21 Oct</div><b>Morgan Stanley</b>: top pick을 FTAI에서 Howmet으로 바꾸고 "aftermarket 매도는 과도"하다고 했습니다.</div>
+        <div class="ev neg"><div class="d">23 Oct</div><b>Safran Q3</b>: spares Q3 +17%(9M +24%), 2026 목표 유지(consensus 아래). Safran −7%, Rolls-Royce 이틀 −12%.</div>
+        <div class="ev neu"><div class="d">29 Oct</div><b>Howmet Q3</b> 매출 +29%, $5bn buyback. <b>Honeywell Aero</b>는 commercial aftermarket +2%에 그쳐 하락했습니다.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MACRO LENS -->
+<section id="lens">
+  <h2><span class="num">08</span>기관 수급 — 기관은 이 업종을 어떻게 보나</h2>
+  <p class="sub"><b>Bottom line (31 Oct 26, 3–12개월):</b> 이번 하락은 <b>long이 빠지는 것</b>이지 short가 미는 것이 아닙니다. 강제 매도(index·margin·rebalancing)는 확인되지 않았습니다. 업종은 quality-growth 펀드가 붐비게 들고 있던 trade였고, 그들은 "성장률의 둔화"에 반응해 줄이고 있습니다. 결정 변수는 여전히 OEM 인도량과 backlog의 차이입니다.</p>
+
+  <div class="grid2">
+    <div class="card">
+      <h3>Who owns it — 누가 들고 있나</h3>
+      <ul class="note" style="padding-left:18px;margin:0">
+        <li>기관 보유 비중: TransDigm 97%, FTAI 98%, Howmet 94%, HEICO 83%(StockAnalysis, Oct 26).</li>
+        <li>Howmet은 약 75개 hedge fund 포트폴리오에 들어 있습니다(Q1 26). Polen·Barometer(Q2), Janus Henderson US Growth(Q3) 레터가 Howmet을, Brasada(Q3)와 Fidelity가 HEICO를 언급했습니다.</li>
+        <li>성격: <b>conviction이 있는 quality-compounder 소유</b>입니다. Index 비중만으로 들고 있는 것이 아닙니다. 그래서 성장률이 꺾이는 신호에 민감합니다.</li>
+        <li>Rolls-Royce는 예외적으로 FTSE benchmark 비중과 £7–9bn 회사 buyback이 수급을 받칩니다.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Who's selling — 공매도인가, long 이탈인가</h3>
+      <div class="tbl-wrap" style="border:0"><table>
+        <thead><tr><th>Ticker</th><th class="n">Short % float</th><th class="n">Days to cover</th><th class="n">1y 주가</th></tr></thead>
+        <tbody>
+          <tr><td>HEICO (HEI)</td><td class="n">0.66%</td><td class="n">1.8</td><td class="n">+3.4%</td></tr>
+          <tr><td>TransDigm (TDG)</td><td class="n">1.90%</td><td class="n">2.7</td><td class="n dn">−12.2%</td></tr>
+          <tr><td>Howmet (HWM)</td><td class="n">2.57%</td><td class="n">2.6</td><td class="n">−1.7%</td></tr>
+          <tr><td>FTAI</td><td class="n">6.12%</td><td class="n">4.0</td><td class="n">+6.9%</td></tr>
+        </tbody>
+      </table></div>
+      <ul class="note" style="padding-left:18px;margin:6px 0 0">
+        <li><b>Short reports (2026)</b>: 찾지 못했습니다(Muddy Waters·Kerrisdale 등 검색).</li>
+        <li><b>Short positioning</b>: 낮습니다. FTAI만 6%대입니다. 날짜는 StockAnalysis "latest" 기준이라 정확한 결제일은 미확인입니다.</li>
+        <li><b>Sell-side</b>: Melius의 Hold 하향(14 Sep)이 있었습니다. Sell 의견은 확인되지 않았습니다.</li>
+        <li><b>결론: longs leaving.</b> 반등에는 long이 돌아올 이유, 즉 spares 재가속이나 2027 guidance가 필요합니다.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="grid2" style="margin-top:14px">
+    <div class="card chart-card">
+      <h3>What's priced — forward P/E (Oct 26)</h3>
+      <svg id="pe" class="diagram" viewBox="0 0 520 280" role="img" aria-label="Forward P/E: HEICO 46, GE 34, Howmet 31, Rolls-Royce 28, TransDigm 25, FTAI 17"></svg>
+      <p class="note">StockAnalysis(30 Oct 26), GE는 StockAnalysis·Yahoo(28 Oct). Rolls-Royce는 1,239p ÷ 2026E EPS 44p입니다. 시장은 HEICO(PMA)에 가장 높은 값을, 부족이 끝나면 불리한 FTAI(USM)에 가장 낮은 값을 줍니다. Multiple 순서가 곧 "부족이 얼마나 오래 갈까"에 대한 시장의 답입니다.</p>
+    </div>
+    <div class="card">
+      <h3>Forced vs discretionary · 체크리스트</h3>
+      <div class="tbl-wrap" style="border:0"><table>
+        <thead><tr><th>항목</th><th>판단</th></tr></thead>
+        <tbody>
+          <tr><td>Forced flows</td><td class="note">확인된 것 없음. Index 편출, margin call, rebalancing 신호 없음(n/a)</td></tr>
+          <tr><td>Positioning</td><td class="note">붐빔(crowded) — HF 보유 다수, 기관 비중 94–98%</td></tr>
+          <tr><td>Systematic · dealer</td><td class="note">확인 안 함(데이터 없음)</td></tr>
+          <tr><td>Policy</td><td class="note">유가·전쟁(Hormuz)이 수요 쪽 변수. FAA의 Boeing 생산 상한이 공급 쪽 변수</td></tr>
+          <tr><td>Physical constraint</td><td class="note"><b>핵심</b> — castings·forgings, GTF 재작업, 정비 slot</td></tr>
+          <tr><td>What's priced</td><td class="note">"성장 지속"이 가격에 반영돼 있었고, 이제 2차 미분(둔화)을 거래</td></tr>
+          <tr><td>Retail vs institutional</td><td class="note">Retail: "여행 수요 둔화 = 악재". 기관: "공급 부족이 언제 끝나나"</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+  </div>
+
+  <div class="tbl-wrap" style="margin-top:14px"><table>
+    <thead><tr><th>Hop</th><th>From → To</th><th>Mechanism</th><th>Binding constraint</th><th>Kind</th></tr></thead>
+    <tbody>
+      <tr><td class="mono">1</td><td>Boeing 품질·GTF 결함 → 인도 부족</td><td>supply_chain</td><td>FAA 상한, 엔진 재작업 1,200대</td><td><span class="tag b">fact</span></td></tr>
+      <tr><td class="mono">2</td><td>인도 부족 → 퇴역 연기</td><td>fleet age</td><td>backlog 17,000대</td><td><span class="tag b">fact</span></td></tr>
+      <tr><td class="mono">3</td><td>퇴역 연기 → heavy visit·LLP 수요</td><td>maintenance cycle</td><td>MRO slot·인력</td><td><span class="tag">inference</span></td></tr>
+      <tr><td class="mono">4</td><td>수요 + 부품 병목 → 가격 상승</td><td>pricing power</td><td>castings·forgings</td><td><span class="tag b">fact</span> (list price 인상)</td></tr>
+      <tr><td class="mono">5</td><td>가격·물량 → OEM·부품사 이익</td><td>earnings</td><td>항공사 가격 저항</td><td><span class="tag b">fact</span></td></tr>
+      <tr><td class="mono">6</td><td>성장률 둔화 신호 → 고 multiple de-rating</td><td>valuation</td><td>crowded long</td><td><span class="tag">inference</span> ← <b>이 hop이 지금 작동 중</b></td></tr>
+    </tbody>
+  </table></div>
+  <p class="note"><b>Sideways (consensus가 덜 보는 곁가지):</b> ① 산업용 가스터빈(data centre 발전)이 같은 castings 용량을 두고 경쟁합니다. 병목 소유자(Howmet, PCC)에게는 추가 가격 결정력입니다. ② SpaceX·방산도 같은 단조·주조 인력과 설비를 씁니다. ③ 한국·일본 RSP 파트너(Hanwha Aerospace, IHI, Kawasaki)는 aftermarket pool의 작은 지분을 갖습니다.</p>
+
+  <div class="grid2" style="margin-top:14px">
+    <div class="card chart-card">
+      <h3>Analog: 2020 traffic 쇼크 (%)</h3>
+      <svg id="covid" class="diagram" viewBox="0 0 520 200" role="img" aria-label="2020: global RPK down 66 percent; TransDigm commercial aftermarket down 52 percent in fiscal Q3 and 25.7 percent for fiscal 2020"></svg>
+      <p class="note"><b>같은 점:</b> 수요 쇼크가 aftermarket을 덮쳤습니다. <b>다른 점:</b> 2020년은 traffic 자체가 −66%였고, 지금은 +2%로 둔화일 뿐이며 공급은 더 부족합니다. <b>무엇이 끝냈나:</b> traffic 회복입니다. Trough에서 aftermarket은 traffic보다 빨리 빠졌고(가장 정비가 필요한 헌 비행기부터 세움, green time 소진, 부품 돌려쓰기) 같이 회복했습니다. Source: TransDigm 10-K FY2020.</p>
+    </div>
+    <div class="card">
+      <h3>두 번째 analog: 2019 737 MAX grounding</h3>
+      <p class="note">새 비행기가 묶이자 CFM56·V2500 fleet이 계속 날았고 중고부품이 귀해졌습니다. 2020년에는 "2,500대 이상 퇴역 vs 연 1,100대"로 중고부품 쓰나미가 예상됐습니다(Oliver Wyman). 하지만 퇴역이 늦어서 USM 가격은 대체로 유지됐습니다(AerSale, Aviation Week). <b>시사점:</b> 공급 부족이 해소되는 속도가 USM 회사(FTAI, AerSale)의 운명을 가릅니다.</p>
+    </div>
+  </div>
+</section>
+
+<!-- VIEWS -->
+<section id="views">
+  <h2><span class="num">09</span>누가 뭐라 하나 — buy-side · 독립 · sell-side</h2>
+  <p class="sub">buy-side, 독립 분석, sell-side 순으로 찾았지만, 이 업종은 buy-side 원문이 적었습니다. 확인된 것만 적었습니다.</p>
+  <div class="grid3">
+    <div class="card">
+      <span class="tag b">Buy-side</span>
+      <ul class="note" style="padding-left:18px">
+        <li><b>Janus Henderson US Growth</b>(Q3 26 letter): Howmet을 부품 수요·방산 수혜로 언급하고, 고객사 내재화 위험도 지적했습니다.</li>
+        <li><b>Brasada Capital</b>(Q3 26 letter): HEICO를 하이라이트했습니다.</li>
+        <li><b>Polen Focus Growth, Barometer</b>(Q2 26): Howmet을 엔진 spare·높은 가동률 수혜로 봤습니다.</li>
+        <li><b>Fidelity</b>: HEICO를 top holding으로 보유합니다.</li>
+        <li class="note">편지 원문은 읽지 못했고 aggregator 요약입니다. 매수·매도 여부는 미확인입니다.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <span class="tag">Independent (X · Substack)</span>
+      <ul class="note" style="padding-left:18px">
+        <li><b>Day Priest Investor</b>(Substack, 13 Mar 26): Rolls-Royce를 "좋은 사업, 위험한 주가"로 봅니다. Central DCF £9.10입니다.</li>
+        <li><b>24/7 Wall St</b>(5 Oct 26, 매체): HEICO는 "더 좋은 사업이지만 살 수 없는 가격"이라고 했습니다.</li>
+        <li><b>X</b>: 검증 가능한 업종 thread는 찾지 못했습니다(gap).</li>
+      </ul>
+    </div>
+    <div class="card">
+      <span class="tag r">Sell-side</span>
+      <ul class="note" style="padding-left:18px">
+        <li><b>Morgan Stanley</b>: 3월에 "매도 과도", 21 Oct에 top pick을 Howmet으로 교체했습니다. 정비는 완전히 미룰 수 있는 비용이 아니라고 봅니다.</li>
+        <li><b>Melius</b>(14 Sep): 5개 종목 Hold, 2027 high single digit 둔화.</li>
+        <li><b>Jefferies</b>: GE를 선호 aftermarket 종목으로 꼽고, Safran Q3 aftermarket은 예상 미달로 봤습니다.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="callout"><b>차이:</b> Buy-side는 Howmet·HEICO 같은 <b>병목·가격 결정력</b>을 들고 있습니다. Sell-side는 둘로 갈렸습니다. Melius는 "성장 둔화"를, MS는 "수요가 아니라 공급이 제약"을 말합니다. 독립 분석은 valuation을 문제 삼습니다. 즉 사업의 질에는 이견이 없고, <b>얼마를 지불할지</b>에 이견이 있습니다.</div>
+</section>
+
+<!-- DEBATE -->
+<section id="debate">
+  <h2><span class="num">10</span>Bull vs Bear — 그리고 결정 변수</h2>
+  <div class="tbl-wrap deb"><table>
+    <thead><tr><th style="min-width:120px"></th><th style="min-width:250px">🐂 Bull</th><th style="min-width:250px">🐻 Bear</th></tr></thead>
+    <tbody>
+      <tr><td><b>Case</b></td><td>부족은 2030년 이후까지 갑니다. 노화한 fleet, LEAP·GTF 첫 heavy visit, 가격 인상이 겹쳐 병목 소유자가 복리로 큽니다.</td><td>유가·전쟁으로 지금 수요가 꺾이고 정비가 미뤄집니다. OEM 생산이 따라잡으면 퇴역이 몰리고 USM이 넘쳐 고 multiple이 de-rate됩니다.</td></tr>
+      <tr><td><b>무엇이 사실이어야</b></td><td>OEM 생산이 목표 아래에 머뭅니다(A320 월 54 vs 75, 737 42 vs 57).</td><td>Spares 성장이 계속 느려지고, 항공사가 헌 비행기를 세우고, 생산이 목표에 닿습니다.</td></tr>
+      <tr><td><b>2026 증거</b></td><td>GE 2027 services low double digit, Howmet +29%, MS "정비는 미룰 수 없다"</td><td>Safran spares Q1 +29% → Q3 +17%, Honeywell Aero +2%, Melius high single digit</td></tr>
+    </tbody>
+  </table></div>
+  <div class="callout"><b>Deciding variable:</b> OEM 인도량과 backlog의 차이입니다. 이 차이가 유지되는 한 traffic이 약해도 헌 비행기가 날고 aftermarket이 복리로 큽니다. <b>Signposts:</b> Airbus·Boeing 월간 인도, IATA 월간 RPK, GE·Safran·Rolls-Royce 분기 spares 성장, jet fuel, 퇴역·보관 데이터.</div>
+</section>
+
+<!-- MANDATE -->
+<!-- SIGNPOSTS -->
+<section id="watch">
+  <h2><span class="num">11</span>Signposts · Catalyst calendar</h2>
+  <div class="tbl-wrap"><table>
+    <thead><tr><th>When</th><th>Event</th><th>무엇을 보나</th></tr></thead>
+    <tbody>
+      <tr><td class="mono">Early Nov 26</td><td>Airbus·Boeing 10월 인도</td><td>Airbus가 Q4 323대 경로에 있는지 봅니다. 빠를수록 장기적으로 bear 쪽입니다</td></tr>
+      <tr><td class="mono">12 Nov 26</td><td>Rolls-Royce trading update</td><td>Widebody 비행시간, guidance 유지 여부</td></tr>
+      <tr><td class="mono">매월</td><td>IATA RPK, jet fuel</td><td>수요 쪽 변수(volume dial)</td></tr>
+      <tr><td class="mono">Dec 26</td><td>IATA 연말 outlook</td><td>2027 traffic, 생산 부족 추정 갱신</td></tr>
+      <tr><td class="mono">Late Jan 27</td><td>GE Aerospace Q4·2027 guidance</td><td>"2027 services low double digit"이 유지되는지</td></tr>
+      <tr><td class="mono">Mid-Feb 27</td><td>Safran FY26·2027 guidance</td><td>Spares 성장 재가속 또는 추가 둔화</td></tr>
+      <tr><td class="mono">Late Feb 27</td><td>Rolls-Royce FY26</td><td>LTSA margin, 2027 guidance</td></tr>
+      <tr><td class="mono">2027</td><td>777-9 첫 인도, 737 월 47대 이상, GTF 재작업 진척</td><td>공급 부족이 풀리는 속도 = deciding variable</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- GLOSSARY -->
+<section id="gloss">
+  <h2><span class="num">12</span>약어표 · Who's who</h2>
+  <details class="gl" open><summary>펼치기/접기</summary><div class="gl-grid">
+    <div><b>Aftermarket</b> 판매 이후의 정비·부품·서비스 시장입니다.</div>
+    <div><b>MRO</b> Maintenance, Repair &amp; Overhaul. 정비 산업입니다.</div>
+    <div><b>Shop visit</b> 엔진을 떼어 정비 공장에서 분해·수리하는 것입니다.</div>
+    <div><b>LLP</b> Life-Limited Part. 법정 사용 한도가 있는 디스크·샤프트입니다.</div>
+    <div><b>Green time</b> 다음 정비까지 남은 사용 가능 시간입니다. 퇴역 직전 엔진은 이것을 소진합니다.</div>
+    <div><b>USM</b> Used Serviceable Material. 분해한 비행기에서 나온 중고 부품입니다.</div>
+    <div><b>PMA</b> Parts Manufacturer Approval. FAA 승인을 받은 OEM 대체 부품입니다(HEICO).</div>
+    <div><b>OEM / OE</b> 원제조사 / 새 장비 판매입니다.</div>
+    <div><b>LTSA</b> Long-Term Service Agreement. 비행시간당 요금의 장기 정비 계약입니다.</div>
+    <div><b>RSP / RRSP</b> (Risk and) Revenue-Sharing Partner. 엔진 프로그램 매출 일정 지분을 갖는 파트너입니다.</div>
+    <div><b>RPK</b> Revenue Passenger Kilometres. 항공 수송량 지표입니다.</div>
+    <div><b>IATA</b> International Air Transport Association. 국제항공운송협회입니다.</div>
+    <div><b>LEAP</b> CFM(GE·Safran 50:50 JV)의 A320neo·737 MAX 엔진입니다.</div>
+    <div><b>GTF</b> Geared Turbofan. P&amp;W의 PW1100G 엔진(A320neo)입니다.</div>
+    <div><b>CFM56 / V2500</b> 이전 세대 narrowbody 엔진입니다.</div>
+    <div><b>Castings · forgings</b> 주조·단조 금속 부품. 엔진의 물리적 병목입니다.</div>
+    <div><b>PCC</b> Precision Castparts Corp. Berkshire Hathaway 소유입니다.</div>
+    <div><b>CPP</b> Consolidated Precision Products. GE가 인수를 발표한 castings 회사입니다.</div>
+    <div><b>Glider</b> 엔진 없이 완성돼 인도되지 못한 기체입니다.</div>
+    <div><b>Howmet (HWM)</b> 엔진 부품·castings·forgings 회사입니다.</div>
+    <div><b>TransDigm (TDG) · Loar</b> sole-source 독점 부품 회사입니다.</div>
+    <div><b>HEICO (HEI)</b> PMA 대체 부품·수리 회사입니다.</div>
+    <div><b>FTAI · AerSale</b> 엔진 리스·중고부품 회사입니다.</div>
+    <div><b>MTU · IHI · Kawasaki · Hanwha Aerospace</b> 엔진 RSP 파트너입니다.</div>
+    <div><b>Melius</b> 미국 독립 리서치 증권사입니다.</div>
+    <div><b>2차 미분</b> 성장률 자체의 변화(가속·둔화)입니다.</div>
+    <div><b>Crowded</b> 많은 펀드가 같은 방향으로 들고 있어 이탈 시 낙폭이 커지는 상태입니다.</div>
+    <div><b>Longs leaving</b> 공매도 증가 없이 기존 보유자가 파는 하락입니다.</div>
+  </div></details>
+</section>
+
+<!-- SOURCES -->
+<section id="sources">
+  <h2><span class="num">13</span>Sources</h2>
+  <div class="grid2">
+    <div class="card">
+      <h3>Knowledge base · industry</h3>
+      <ul class="src">
+        <li>자체 리서치 노트 (30 Oct 26). Oliver Wyman·IATA·Aviation Week·TransDigm 10-K 인용 포함.</li>
+        <li><a href="https://www.oliverwyman.com/our-expertise/insights/2026/feb/global-fleet-and-mro-market-forecast-2026-2036.html">Oliver Wyman MRO forecast (Feb 26)</a></li>
+        <li><a href="https://www.iata.org/en/pressroom/2026-releases/06-24-urgent-action-needed-to-ease-engine-mro-bottlenecks/">IATA — engine MRO bottlenecks (24 Jun 26)</a></li>
+        <li><a href="https://www.airdatanews.com/airbus-delivers-72-jets-in-september-as-order-backlog-falls-by-58-aircraft/">Airbus Sep deliveries</a>, <a href="https://flightplan.forecastinternational.com/2026/10/13/airbus-and-boeing-report-september-2026-commercial-aircraft-orders-and-deliveries/">Forecast International</a></li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Market (2026)</h3>
+      <ul class="src">
+        <li><a href="https://finance.yahoo.com/markets/stocks/articles/5-aviation-stocks-slide-melius-121723359.html">Melius downgrades (14 Sep)</a></li>
+        <li><a href="https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-names-top-aerospace-145213518.html">Morgan Stanley — Howmet top pick (21 Oct)</a></li>
+        <li><a href="https://www.safran-group.com/pressroom/safran-reports-its-third-quarter-2026-revenue-2026-10-23">Safran Q3 (23 Oct)</a>, <a href="https://finance.yahoo.com/markets/stocks/articles/safran-q3-revenue-line-unchanged-062210672.html">reaction</a></li>
+        <li><a href="https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm">GE Aerospace Q3 (20 Oct)</a></li>
+        <li><a href="https://www.fool.com/earnings/call-transcripts/2026/10/29/howmet-aerospace-hwm-q3-2026-earnings-call-transcript/">Howmet Q3 call (29 Oct)</a>, <a href="https://fool.com/investing/2026/10/29/why-did-honeywell-aerospace-stock-drop-on-thursday">Honeywell Aero (29 Oct)</a></li>
+        <li>StockAnalysis statistics: <a href="https://stockanalysis.com/stocks/hei/statistics/">HEI</a>, <a href="https://stockanalysis.com/stocks/tdg/statistics/">TDG</a>, <a href="https://stockanalysis.com/stocks/hwm/statistics/">HWM</a>, <a href="https://stockanalysis.com/stocks/ftai/statistics/">FTAI</a></li>
+        <li><a href="https://www.gurufocus.com/news/9140074/howmet-aerospace-hwm-navigating-market-challenges-janus-henderson-us-growth-fund-q3-2026">Janus Henderson Q3 letter (Howmet)</a>, <a href="https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-momentum-remains-144735447.html">Brasada Q3 (HEICO)</a></li>
+        <li><a href="https://www.cnbc.com/2026/10/27/cramer-ge-aerospace-boeing-stock-selloff.html">CNBC — GE valuation (27 Oct)</a>, <a href="https://247wallst.com/investing/2026/10/05/heico-has-the-better-business-the-better-balance-sheet-and-a-price-that-makes-it-impossible-to-buy/">24/7 Wall St HEICO</a></li>
+      </ul>
+      <p class="note">확인하지 못한 것: hedge fund 편지 원문, 2026 short report(없음), CFTC·ETF flow(업종 단위 데이터 없음), Loar, Safran·MTU multiple.</p>
+    </div>
+  </div>
+  <footer>교육·연구용 요약입니다. 투자 권유가 아닙니다. 수치는 각 출처가 인용한 값이고, 회사마다 지표 정의가 다릅니다.</footer>
+</section>
+
+</main>
+
+<script>
+/* ---------- Primer: tiny static chart library. Draws once; redraws on colour-scheme change. ---------- */
+const Primer=(function(){
+  const NS="http://www.w3.org/2000/svg";
+  const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const col=c=>c&&c.startsWith('--')?css(c):c;
+  const el=(tag,a,p,txt)=>{const e=document.createElementNS(NS,tag);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;if(p)p.appendChild(e);return e;};
+  const vb=s=>s.viewBox.baseVal;
+  const fmt=(v,d)=>typeof v==='number'?v.toFixed(d==null?(Math.abs(v)<20&&v%1?2:0):d):v;
+  const jobs=[];const reg=f=>{jobs.push(f);f();};
+
+  /* bars(id,{data:[[label,value,'a'|'f']], max, ticks:[..], band:{at:label,lo,hi,label}, color:'--s1', dec}) */
+  function bars(id,o){reg(()=>{const s=document.getElementById(id);s.innerHTML='';const {width:W,height:H}=vb(s);
+    const L=40,R=o.band?80:10,T=18,B=32,max=o.max||Math.max(...o.data.map(d=>d[1]))*1.15,c=col(o.color||'--s1');
+    const y=v=>T+(H-T-B)*(1-v/max);
+    (o.ticks||[0,max/2,max]).forEach(g=>{el('line',{x1:L,x2:W-R,y1:y(g),y2:y(g),stroke:css('--grid')},s);el('text',{x:L-6,y:y(g)+4,'text-anchor':'end','font-size':11,fill:css('--muted')},s,fmt(g,0));});
+    const bw=(W-L-R)/o.data.length;
+    o.data.forEach((d,i)=>{const [lab,v,k]=d;const x=L+i*bw+bw*.2,w=bw*.6,a=k!=='f';
+      el('rect',{x,y:y(v),width:w,height:y(0)-y(v),rx:4,fill:a?c:'transparent',stroke:c,'stroke-width':a?0:2,'stroke-dasharray':a?'':'5 4'},s);
+      el('text',{x:x+w/2,y:y(v)-6,'text-anchor':'middle','font-size':12,'font-weight':700,fill:css('--ink')},s,fmt(v,o.dec));
+      el('text',{x:x+w/2,y:H-B+18,'text-anchor':'middle','font-size':11.5,fill:css('--muted')},s,lab);
+      if(o.band&&o.band.at===lab){el('rect',{x:x-3,y:y(o.band.hi),width:w+6,height:y(o.band.lo)-y(o.band.hi),rx:3,fill:css('--s2'),opacity:.85},s);
+        el('text',{x:x+w+8,y:y((o.band.lo+o.band.hi)/2)+4,'font-size':11,fill:css('--ink')},s,o.band.label);}
+    });});}
+
+  /* line(id,{x0,x1 (ms or numbers), y0,y1, yTicks:[..], yFmt, xTicks:[[x,label]], series:[{color,points:[[x,y]]}],
+            markers:[[x,y,label,dx,dy,anchor]], markerColor, notes:[[x,y,text,dx,dy]], refs:[{y,label,color,labelX}], band:{x0,x1,y0,y1,color}}) */
+  function line(id,o){reg(()=>{const s=document.getElementById(id);s.innerHTML='';const {width:W,height:H}=vb(s);
+    const L=46,R=16,T=16,B=36;const X=v=>typeof v==='string'?Date.parse(v):v;
+    const x=v=>L+(W-L-R)*(X(v)-X(o.x0))/(X(o.x1)-X(o.x0)), y=v=>T+(H-T-B)*(1-(v-o.y0)/(o.y1-o.y0));
+    (o.yTicks||[]).forEach(g=>{el('line',{x1:L,x2:W-R,y1:y(g),y2:y(g),stroke:css('--grid')},s);el('text',{x:L-8,y:y(g)+4,'text-anchor':'end','font-size':11,fill:css('--muted')},s,(o.yFmt||(v=>v))(g));});
+    (o.xTicks||[]).forEach(t=>{const xx=x(t[0]);el('line',{x1:xx,x2:xx,y1:T,y2:H-B,stroke:css('--grid'),'stroke-dasharray':'2 4'},s);el('text',{x:xx+4,y:H-B+18,'font-size':11.5,fill:css('--muted')},s,t[1]);});
+    if(o.band){const b=o.band;el('rect',{x:x(b.x0),y:y(b.y1),width:x(b.x1)-x(b.x0),height:y(b.y0)-y(b.y1),fill:col(b.color||'--s2'),opacity:.08},s);}
+    (o.refs||[]).forEach(r=>{el('line',{x1:L,x2:W-R,y1:y(r.y),y2:y(r.y),stroke:col(r.color||'--s2'),'stroke-dasharray':'6 5','stroke-width':1.5},s);
+      el('text',{x:r.labelX!=null?x(r.labelX):L+6,y:y(r.y)-8,'text-anchor':r.labelX!=null?'middle':'start','font-size':11.5,fill:css('--ink')},s,r.label);});
+    (o.series||[]).forEach(se=>{const c=col(se.color||'--s1');
+      el('path',{d:se.points.map((p,i)=>(i?'L':'M')+x(p[0]).toFixed(1)+' '+y(p[1]).toFixed(1)).join(' '),fill:'none',stroke:c,'stroke-width':2.5,'stroke-linejoin':'round','stroke-dasharray':se.dashed?'7 5':''},s);
+      se.points.forEach(p=>el('circle',{cx:x(p[0]),cy:y(p[1]),r:3.5,fill:c,stroke:css('--surface'),'stroke-width':2},s));
+      if(se.endLabel){const p=se.points[se.points.length-1];el('text',{x:x(p[0])-6,y:y(p[1])+20,'text-anchor':'end','font-size':12,'font-weight':700,fill:css('--ink')},s,se.endLabel);}});
+    (o.notes||[]).forEach(n=>el('text',{x:x(n[0])+(n[3]||0),y:y(n[1])+(n[4]||0),'text-anchor':'middle','font-size':11,fill:css('--muted')},s,n[2]));
+    (o.markers||[]).forEach(m=>{el('circle',{cx:x(m[0]),cy:y(m[1]),r:5,fill:col(o.markerColor||'--s2'),stroke:css('--surface'),'stroke-width':2},s);
+      el('text',{x:x(m[0])+(m[3]==null?10:m[3]),y:y(m[1])+(m[4]==null?4:m[4]),'text-anchor':m[5]||'start','font-size':11,fill:css('--ink')},s,m[2]);});
+    (o.texts||[]).forEach(t=>el('text',{x:x(t[0])+(t[3]||0),y:y(t[1])+(t[4]||0),'font-size':12,'font-weight':700,fill:css('--ink'),'text-anchor':t[5]||'start'},s,t[2]));
+  });}
+
+  /* dots(id,{rows:[[label,value]], v0,v1, ticks:[..], tickFmt, current:{v,label}, avg:{v,label}, fmt:(v)=>string, L,R (margins), fs (font size)})
+     sorted by caller; values below current are labelled on the left so text never sits on the connector */
+  function dots(id,o){reg(()=>{const s=document.getElementById(id);s.innerHTML='';const {width:W,height:H}=vb(s);
+    const L=o.L||96,R=o.R||80,T=12,B=30;const x=v=>L+(W-L-R)*(v-o.v0)/(o.v1-o.v0);const rh=(H-T-B)/o.rows.length;
+    (o.ticks||[]).forEach(g=>{el('line',{x1:x(g),x2:x(g),y1:T,y2:H-B,stroke:css('--grid')},s);el('text',{x:x(g),y:H-B+18,'text-anchor':'middle','font-size':11,fill:css('--muted')},s,(o.tickFmt||(v=>v))(g));});
+    if(o.current)el('line',{x1:x(o.current.v),x2:x(o.current.v),y1:T,y2:H-B,stroke:css('--ink'),'stroke-width':2},s);
+    if(o.avg)el('line',{x1:x(o.avg.v),x2:x(o.avg.v),y1:T,y2:H-B,stroke:css('--s2'),'stroke-width':2,'stroke-dasharray':'6 5'},s);
+    o.rows.forEach((r,i)=>{const cy=T+rh*i+rh/2;
+      el('text',{x:L-10,y:cy+4,'text-anchor':'end','font-size':o.fs||12.5,'font-weight':600,fill:css('--ink')},s,r[0]);
+      if(o.current)el('line',{x1:x(o.current.v),x2:x(r[1]),y1:cy,y2:cy,stroke:css('--s1'),'stroke-width':2,opacity:.45},s);
+      el('circle',{cx:x(r[1]),cy,r:7,fill:css('--s1'),stroke:css('--surface'),'stroke-width':2},s);
+      const lab=o.fmt?o.fmt(r[1]):fmt(r[1],2)+(o.current?'  '+((r[1]/o.current.v-1)*100>=0?'+':'')+Math.round((r[1]/o.current.v-1)*100)+'%':'');
+      const left=o.current&&r[1]<o.current.v;el('text',{x:x(r[1])+(left?-14:14),y:cy+4,'text-anchor':left?'end':'start','font-size':o.fs||12,fill:css('--ink'),'font-family':css('--f-mono')},s,lab);});
+  });}
+
+  /* waterfall(id,{items:[[label,value,'d'|'t']], max, min, ticks, caption}) */
+  function waterfall(id,o){reg(()=>{const s=document.getElementById(id);s.innerHTML='';const {width:W,height:H}=vb(s);
+    const L=40,R=10,T=20,B=44,max=o.max,min=o.min||0;const y=v=>T+(H-T-B)*(1-(v-min)/(max-min));
+    (o.ticks||[]).forEach(g=>{el('line',{x1:L,x2:W-R,y1:y(g),y2:y(g),stroke:css('--grid')},s);el('text',{x:L-6,y:y(g)+4,'text-anchor':'end','font-size':11,fill:css('--muted')},s,g);});
+    const bw=(W-L-R)/o.items.length;let run=0;
+    o.items.forEach((it,i)=>{const [lab,v,k]=it;let a,b,c;
+      if(k==='t'){a=0;b=v;run=v;c=css('--ink');}else{a=run;b=run+v;run=b;c=v>=0?css('--s1'):css('--bear');}
+      const top=y(Math.max(a,b)),bot=y(Math.min(a,b)),x=L+i*bw+bw*.18,w=bw*.64;
+      el('rect',{x,y:top,width:w,height:Math.max(2,bot-top),rx:4,fill:c},s);
+      el('text',{x:x+w/2,y:top-6,'text-anchor':'middle','font-size':12,'font-weight':700,fill:css('--ink')},s,(v>0&&k!=='t'?'+':'')+v);
+      el('text',{x:x+w/2,y:H-B+18,'text-anchor':'middle','font-size':11.5,fill:css('--muted')},s,lab);
+      if(i<o.items.length-1){const nx=L+(i+1)*bw+bw*.18;el('line',{x1:x+w,x2:nx,y1:y(run),y2:y(run),stroke:css('--faint'),'stroke-dasharray':'3 3'},s);}});
+    el('text',{x:L,y:H-6,'font-size':11,fill:css('--muted')},s,o.caption||'파랑 = 이익, 빨강 = 손실, 검정 = 합계');
+  });}
+
+  /* stacked(id,{rows:[[label,[v1,v2,v3],endLabel]], colors:['--s1','--s2','--s3'], max, ticks, tickFmt, dec, L,R}) — horizontal; raise L for long row labels */
+  function stacked(id,o){reg(()=>{const s=document.getElementById(id);s.innerHTML='';const {width:W,height:H}=vb(s);
+    const L=o.L||60,R=o.R||80,T=14,B=26;const cols=(o.colors||['--s1','--s2','--s3']).map(col);
+    const max=o.max||Math.max(...o.rows.map(r=>r[1].reduce((a,b)=>a+b,0)));const x=v=>L+(W-L-R)*v/max;const rh=(H-T-B)/o.rows.length;
+    (o.ticks||[0,max/2,max]).forEach(g=>{el('line',{x1:x(g),x2:x(g),y1:T,y2:H-B,stroke:css('--grid')},s);el('text',{x:x(g),y:H-8,'text-anchor':'middle','font-size':11,fill:css('--muted')},s,(o.tickFmt||(v=>fmt(v,0)))(g));});
+    o.rows.forEach((r,i)=>{const cy=T+rh*i+rh*.2,h=rh*.6;let acc=0;
+      el('text',{x:L-8,y:cy+h/2+4,'text-anchor':'end','font-size':13,'font-weight':700,fill:css('--ink')},s,r[0]);
+      r[1].forEach((v,j)=>{if(!v)return;const xx=x(acc),w=x(acc+v)-x(acc)-2;
+        el('rect',{x:xx,y:cy,width:Math.max(1,w),height:h,rx:3,fill:cols[j]},s);
+        if(w>34)el('text',{x:xx+w/2,y:cy+h/2+4,'text-anchor':'middle','font-size':11.5,'font-weight':700,fill:'#fff'},s,fmt(v,o.dec));
+        acc+=v;});
+      if(r[2])el('text',{x:x(acc)+6,y:cy+h/2+4,'font-size':12,fill:css('--ink'),'font-family':css('--f-mono')},s,r[2]);});
+  });}
+
+  matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>jobs.forEach(f=>f()));
+  return {bars,line,dots,waterfall,stacked};
+})();
+
+Primer.bars('tam',{data:[["2024",126,"a"],["2025",136,"a"],["Mid-2030s",195,"f"]],max:230,ticks:[0,50,100,150,200]});
+Primer.bars('leap',{data:[["2025",700,"a"],["2040E",5000,"f"]],max:5800,ticks:[0,2000,4000]});
+Primer.dots('growth',{rows:[["Howmet 매출 Q3",29],["Safran spares Q1",29],["GE comm. services 주문 Q3",23],["GE services 매출 Q3",17],["Safran spares Q3",17],["Melius 2027E (HSD)",8],["Honeywell Aero AM Q3",2]],
+  v0:0,v1:34,ticks:[0,10,20,30],tickFmt:v=>v+'%',L:170,R:50,fs:11.5,fmt:v=>'+'+v+'%'});
+Primer.dots('pe',{rows:[["HEICO",46.3],["GE Aerospace",33.9],["Howmet",31.5],["Rolls-Royce",28.2],["TransDigm",24.8],["FTAI",17.1]],
+  v0:0,v1:52,ticks:[0,10,20,30,40,50],tickFmt:v=>v+'x',L:110,R:50,fmt:v=>v.toFixed(1)+'x'});
+Primer.dots('covid',{rows:[["Global RPK 2020",-66],["TDG comm. AM FQ3 20",-52],["TDG comm. AM FY20",-25.7]],
+  v0:-75,v1:5,ticks:[-60,-40,-20,0],tickFmt:v=>v+'%',L:150,R:20,fmt:v=>v+'%'});
+
+</script>
+</body>
+</html>
+{% endraw %}
