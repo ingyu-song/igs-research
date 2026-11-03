@@ -1,5 +1,19 @@
 [
   {
+    "title": "한진칼 최대주주 오른 호반, 지분율은 미공개…조원태 회장의 반격 카드...",
+    "summary": "호반이 한진칼 지분을 추가 인수하여 최대주주로 등극했다는 내용으로, 전략적 M&A 딜에 해당한다.",
+    "company": "한진칼",
+    "acquirer": "호반",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45024",
+    "date": "2026.11.03"
+  },
+  {
     "title": "보험사 이어 핀테크까지…주인 바뀌는 저축은행 '새판짜기' 가속",
     "summary": "한화생명이 사모펀드 EQT로부터 애큐온캐피탈 지분 50.54%를 4400억원에 인수하기로 계약했다. 이는 한화생명의 전략적 M&A이자 EQT의 엑싯 거래이다.",
     "company": "애큐온캐피탈",
@@ -1390,20 +1404,6 @@
     "ev": null,
     "deal_stage": "소문",
     "url": "https://biz.sbs.co.kr/article_hub/20000333831?division=NAVER",
-    "date": "2026.09.10"
-  },
-  {
-    "title": "블랙스톤, ESR '산하 로지스틱스 파크 II' 과반 지분 인수",
-    "summary": "블랙스톤의 운용 펀드가 신주 인수 방식으로 ESR의 '산하 로지스틱스 파크 II' 과반 지분을 인수한 거래입니다.",
-    "company": "산하 로지스틱스 파크 II",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=673274",
     "date": "2026.09.10"
   }
 ]
