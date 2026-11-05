@@ -1,5 +1,19 @@
 [
   {
+    "title": "상장 못하고 몸값은 반토막…골드만삭스의 티맵 인수 걸림돌은?",
+    "summary": "글로벌 투자은행 골드만삭스가 SK스퀘어 및 기존 FI가 보유한 티맵모빌리티의 경영권 인수를 추진 중이다.",
+    "company": "티맵모빌리티",
+    "acquirer": "골드만삭스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026110416495417650",
+    "date": "2026.11.05"
+  },
+  {
     "title": "강덕수 전 STX 회장 경남 행사 발걸음…'경영 복귀설' 맞물려 주목",
     "summary": "사모펀드 디오션자산운용이 지난 8월 SK오션플랜트를 인수하는 PE 기업 인수 거래가 진행 중이다.",
     "company": "SK오션플랜트",
@@ -1391,19 +1405,5 @@
     "deal_stage": "소문",
     "url": "https://www.medipana.com/news/articleView.html?idxno=417512",
     "date": "2026.09.12"
-  },
-  {
-    "title": "인텔이 품었던 알테라, 11년 만에 美 증시 재상장 추진",
-    "summary": "사모펀드 실버레이크가 보유한 알테라를 미국 증시에 재상장(IPO)하여 엑싯을 추진하고 있다.",
-    "company": "Altera",
-    "acquirer": "Silver Lake",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "2조6000억원",
-    "deal_stage": "협상",
-    "url": "http://www.inews24.com/view/2004671",
-    "date": "2026.09.11"
   }
 ]
