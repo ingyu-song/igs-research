@@ -1,5 +1,20 @@
 [
   {
+    "title": "카카오뱅크 카드사 인수 1순위로 롯데카드 꼽히는 이유, 유일한 매물이...",
+    "summary": "카카오뱅크가 카드사 인수합병을 추진하면서 사모펀드 MBK파트너스가 대주주로 있는 롯데카드를 유력한 인수 대상으로 고려하고 있다는 내용의 기사입니다.",
+    "company": "롯데카드",
+    "acquirer": "카카오뱅크",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451395",
+    "date": "2026.11.06"
+  },
+  {
     "title": "상장 못하고 몸값은 반토막…골드만삭스의 티맵 인수 걸림돌은?",
     "summary": "글로벌 투자은행 골드만삭스가 SK스퀘어 및 기존 FI가 보유한 티맵모빌리티의 경영권 인수를 추진 중이다.",
     "company": "티맵모빌리티",
@@ -1391,19 +1406,5 @@
     "deal_stage": "협상",
     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319011",
     "date": "2026.09.11"
-  },
-  {
-    "title": "몸집보다 성장…J&J, 200억달러 드퓨 신테스 매각 카드 '만지작'",
-    "summary": "J&J가 자회사 드퓨 신테스(DePuy Synthes)를 200억달러에 매각하는 방안을 검토 중이며, 사모펀드 등을 잠재적 인수자로 보고 있는 전략적 M&A 딜이다.",
-    "company": "드퓨 신테스",
-    "acquirer": "J&J",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "200억달러",
-    "deal_stage": "소문",
-    "url": "https://www.medipana.com/news/articleView.html?idxno=417512",
-    "date": "2026.09.12"
   }
 ]
