@@ -1,5 +1,19 @@
 [
   {
+    "title": "롯데 떠난 롯데렌탈, TPG 품에서 상장폐지 수순…다음 행보는?",
+    "summary": "글로벌 사모펀드 운용사 TPG가 롯데렌탈 인수를 위해 설립한 SPC 렉시콘을 통해 롯데렌탈을 완전 자회사화하고 자발적 상장폐지를 추진하는 딜이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://bizhankook.com/articles/lotte-rental-delisting-tpg-acquisition.html",
+    "date": "2026.11.08"
+  },
+  {
     "title": "[주간사모펀드] LG화학 이어 카리플렉스까지…글랜우드PE, 우량 자산 잇...",
     "summary": "국내 사모펀드 운용사 글랜우드프라이빗이쿼티가 세계 1위 의료용 합성고무 기업 카리플렉스를 인수하는 PE의 기업 인수 거래.",
     "company": "카리플렉스",
@@ -1392,19 +1406,5 @@
     "deal_stage": "협상",
     "url": "https://magazine.hankyung.com/business/article/202609168324b",
     "date": "2026.09.16"
-  },
-  {
-    "title": "판 커지는 렌터카…완성차 가세·플랫폼 연계 주목",
-    "summary": "글로벌 사모펀드 TPG가 롯데렌탈 인수를 추진 중이며, 이는 앞서 어피니티에쿼티파트너스의 롯데렌탈 인수가 경쟁 제한 우려로 무산된 이후의 상황이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=1413569",
-    "date": "2026.09.14"
   }
 ]
