@@ -1,5 +1,175 @@
 [
   {
+    "title": "삼성화재, 英 특종보험사 '캐노피우스' 경영권 품었다... 글로벌 확장 '...",
+    "summary": "삼성화재는 글로벌 투자사 KKR 펀드 및 한국투자공사(KIC)와 공동으로 영국 특종보험사 캐노피우스의 잔여 지분 60% 경영권 인수를 위한 주식매매계약을 체결했으며, 이는 기존 주주인 미국 사모펀드의 매각 거래이다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재, KKR, 한국투자공사",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.meconomynews.com/news/articleView.html?idxno=203500",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "하이퍼리즘 투자사 콘크리트, 폴리체인 주도 투자 유치…바이낸스 연동...",
+    "summary": "블루프린트파이낸스가 솔라나 대출 프로토콜 제트프로토콜을 인수하여 글로우파이낸스로 이름을 변경한 전략적 M&A 딜.",
+    "company": "제트프로토콜",
+    "acquirer": "블루프린트파이낸스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.tokenpost.kr/news/blockchain/435690",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "이문화 삼성화재 대표, 7년 장고 끝 '승부수'...캐노피우스 인수 배경은",
+    "summary": "삼성화재가 미국 사모펀드 센터브릿지 파트너스로부터 보험사 캐노피우스의 잔여 지분 약 60%를 인수하는 전략적 M&A 딜.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258570",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "삼성화재, 영국 캐노피우스 지분 80.6% 확보…글로벌 사업 확대 속도",
+    "summary": "삼성화재는 글로벌 투자회사 KKR 및 한국투자공사(KIC)와 컨소시엄을 구성하여 미국 사모펀드 센터브릿지 파트너스로부터 영국 보험사 캐노피우스의 잔여 지분 60%를 인수하는 계약을 체결했다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재, KKR, 한국투자공사(KIC)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423732",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "삼성화재, 英 캐노피우스 경영권 인수 계약…7년 걸친 단계적 지분 확대",
+    "summary": "삼성화재가 영국 보험사 캐노피우스의 경영권 지분 60%를 미국 사모펀드 센터브릿지 파트너스가 이끄는 컨소시엄으로부터 인수하는 계약을 체결했다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=104394",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "삼성화재, 2조2600억 투입 英 보험사 로이즈 캐노피우스 경영권 인수",
+    "summary": "삼성화재가 미국 사모펀드 센터브릿지 파트너스가 보유한 영국 보험사 로이즈 캐노피우스의 경영권을 2조2600억원을 투입하여 인수하는 거래.",
+    "company": "로이즈 캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2.26조원",
+    "deal_stage": "계약",
+    "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223610",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "삼성화재, 2조2647억원에 英 캐노피우스 경영권 인수…지분 80.56% 확보",
+    "summary": "삼성화재가 2조2647억원에 영국 보험사 캐노피우스의 경영권 및 지분 80.56%를 인수하는 전략적 M&A 딜이다. 이번 인수에는 KKR과 한국투자공사가 공동투자자로 참여한다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2.2647조원",
+    "deal_stage": "계약",
+    "url": "https://www.ddaily.co.kr/page/view/2026111016033543296",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "삼성화재, 英 캐노피우스 경영권 확보",
+    "summary": "삼성화재가 미국 사모펀드 센터브릿지 파트너스가 이끄는 피덴티아 포르투나 홀딩스가 보유한 영국 캐노피우스의 잔여 지분을 인수하여 경영권을 확보한 전략적 M&A 거래이다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "http://www.metroseoul.co.kr/article/20261110500255",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "영풍 대표 2명 구속 와중에 MBK와 계약…실질적 결정권자는 누구",
+    "summary": "사모펀드 MBK파트너스가 영풍과 고려아연 주식 공개매수를 앞두고 경영협력계약을 체결하며 고려아연 지분 인수 딜을 추진 중이다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.fntimes.com/html/view.php?ud=2026111016590526797de3572ddd_18",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "영풍, 대표이사 구속 상태서 MBK에 콜옵션?…경영협력계약 막후 실세 '의...",
+    "summary": "사모펀드 MBK파트너스가 영풍과 고려아연 주식 공개매수를 앞두고 경영협력계약을 체결했으며, 해당 계약의 콜옵션 조항과 매각 조건에 대한 논란이 제기되고 있다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7268",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "'경쟁사' SK온 손잡은 KKR…LG엔솔, 합작관계 정리 수순?",
+    "summary": "LG에너지솔루션이 KKR과 합작 설립한 ESS 합작법인 KGP와의 관계 정리를 추진하며, 지분 매각 및 법인 청산 등 엑싯 시나리오를 검토 중이다.",
+    "company": "KGP",
+    "acquirer": "KKR, LG에너지솔루션",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678192",
+    "date": "2026.11.10"
+  },
+  {
+    "title": "한국투자공사, 영국 보험사 캐노피우스에 3억달러 투자",
+    "summary": "국부펀드 한국투자공사가 영국 보험사 캐노피우스의 지분 인수에 3억달러를 투자하는 전략적 투자를 발표했다.",
+    "company": "Canopius",
+    "acquirer": "한국투자공사",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "3억달러",
+    "deal_stage": "계약",
+    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100939008170331",
+    "date": "2026.11.10"
+  },
+  {
     "title": "롯데, 百·렌탈 자산 매각으로 체질 개선···SK식 리밸런식 시험대",
     "summary": "글로벌 사모펀드 TPG가 롯데로부터 롯데렌탈 지분 61.2%를 1조3105억원에 인수하는 거래가 공정위 승인 후 완료되었다.",
     "company": "롯데렌탈",
@@ -1238,173 +1408,5 @@
     "deal_stage": "계약",
     "url": "https://www.insight.co.kr/news/574736",
     "date": "2026.09.22"
-  },
-  {
-    "title": "[더벨][thebell note] 롯데렌탈의 '넥스트 스텝'",
-    "summary": "글로벌 사모펀드 TPG가 롯데렌탈을 인수할 예정이며, 공정거래위원회 기업결합 승인을 받고 10월 안에 거래가 마무리될 계획이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609170759562160105423",
-    "date": "2026.09.22"
-  },
-  {
-    "title": "맥쿼리, ‘K뷰티 ODM’ 화성코스메틱·나우코스 3000억에 인수",
-    "summary": "글로벌 자산운용사 맥쿼리자산운용이 화장품 ODM 전문기업 화성코스메틱과 나우코스를 사모펀드 어펄마캐피탈로부터 3000억원에 인수하는 거래.",
-    "company": "화성코스메틱, 나우코스",
-    "acquirer": "맥쿼리자산운용",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억원",
-    "deal_stage": "계약",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/09/21/MHNGM3V6WJBWVIUSTZW4U2QAQA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.09.21"
-  },
-  {
-    "title": "롯데손해보험은 왜 안 팔리나…금융지주가 계산기 두드리는 이유 [머니...",
-    "summary": "사모펀드 JKL파트너스가 2019년 롯데그룹으로부터 인수한 롯데손해보험의 매각(exit) 추진이 시장의 어려움으로 난항을 겪고 있다는 내용의 기사이다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.ifm.kr/news/articleView.html?idxno=479851",
-    "date": "2026.09.20"
-  },
-  {
-    "title": "네이버, 배민 인수 검토 중단…5월 인수설 4개월 만에 일단락",
-    "summary": "네이버가 배달의민족(우아한형제들) 인수를 검토하다 중단한 전략적 M&A 딜의 동향 기사이며, 이 과정에서 우버가 우아한형제들의 모회사인 딜리버리히어로 인수를 추진하는 방향으로 선회했다는 내용이 담겨있다.",
-    "company": "우아한형제들",
-    "acquirer": "네이버",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.thepublic.kr/news/articleView.html?idxno=319338",
-    "date": "2026.09.20"
-  },
-  {
-    "title": "'메가LCC' 대신 두 집 살림?…VIG, 이스타·에어프레미아 '투트랙' 무게",
-    "summary": "PEF 운용사 VIG파트너스가 에어프레미아의 주요 주주 지분 인수를 통해 경영권을 확보하는 PE 바이아웃 딜을 추진 중이다.",
-    "company": "에어프레미아",
-    "acquirer": "VIG파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.asiatime.co.kr/article/20260918500259",
-    "date": "2026.09.20"
-  },
-  {
-    "title": "[단독] 로레알 만드는 화성코스메틱, 맥쿼리 품에 안긴다…본계약 체결",
-    "summary": "맥쿼리가 화장품 제조업체 화성코스메틱 인수를 위한 본계약을 체결했다.",
-    "company": "화성코스메틱",
-    "acquirer": "맥쿼리",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10878994?ref=naver",
-    "date": "2026.09.19"
-  },
-  {
-    "title": "블랙스톤, AI 냉각 기업 플로 컨트롤 인수",
-    "summary": "블랙스톤 계열 사모펀드가 오닥스 프라이빗 에쿼티로부터 AI 냉각 기업 플로 컨트롤 홀딩스를 인수하는 최종 계약을 체결했다.",
-    "company": "플로 컨트롤 홀딩스",
-    "acquirer": "블랙스톤",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.tokenpost.kr/news/breaking/410500",
-    "date": "2026.09.19"
-  },
-  {
-    "title": "[주간사모펀드] JC파트너스, 굿리치 4년 만에 엑시트…수익성 개선 통했...",
-    "summary": "JC파트너스가 굿리치 지분을 4년 만에 매각하며 엑시트했다. 잔여 지분의 50% 수준을 부분 매수하는 방식으로 진행되었다.",
-    "company": "굿리치",
-    "acquirer": "JC파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.tf.co.kr/read/economy/2367642.htm",
-    "date": "2026.09.19"
-  },
-  {
-    "title": "맥쿼리, 가비아 공개매수 실패…경영권 인수 차질",
-    "summary": "맥쿼리가 가비아의 지배주주 지분을 포함한 공개매수를 통해 경영권 인수를 시도했으나 실패로 돌아가며 딜이 무산되었다.",
-    "company": "가비아",
-    "acquirer": "맥쿼리",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12156780",
-    "date": "2026.09.18"
-  },
-  {
-    "title": "원전 투자 앞둔 정부, 미국과 웨스팅하우스 지분율 줄다리기",
-    "summary": "정부와 한국전력이 미국 측으로부터 웨스팅하우스 지분 인수를 제안받아 투자 구조 및 재원 조달 방식을 검토 중인 전략적 M&A 딜",
-    "company": "웨스팅하우스",
-    "acquirer": "정부, 한국전력",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756177&plink=ORI&cooper=NAVER",
-    "date": "2026.09.16"
-  },
-  {
-    "title": "웨스팅하우스 지분 인수 韓 “15%” vs 美 “5~10%” 줄다리기",
-    "summary": "대한민국 정부 및 관련 기관이 웨스팅하우스 지분 15% 인수를 추진하는 가운데, 미국 측과 지분 비율을 두고 협상이 진행 중인 전략적 M&A 딜이다.",
-    "company": "웨스팅하우스",
-    "acquirer": "대한민국 정부 및 관련 기관",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://biz.chosun.com/policy/policy_sub/2026/09/16/VCJRWABCMNC5DNETCV32NQGNTQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.09.16"
-  },
-  {
-    "title": "[머니웨이브] 호르무즈 파병 압박…미국이 한국에 원하는 건 따로 있다...",
-    "summary": "한화와 미국 사모펀드가 미국 해군 함정 건조·정비 인프라를 보유한 오스탈 USA를 인수하기 위한 경쟁에 참여하고 있다.",
-    "company": "Austal USA",
-    "acquirer": "한화",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.theguru.co.kr/news/article.html?no=107108",
-    "date": "2026.09.16"
   }
 ]
