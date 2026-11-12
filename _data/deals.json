@@ -1,5 +1,103 @@
 [
   {
+    "title": "삼성화재, 3분기 누적 순익 1조8655억원...자동차보험 흑자 지속",
+    "summary": "글로벌 사모펀드 KKR과 한국투자공사, 삼성화재가 컨소시엄을 구성하여 영국 특수보험사 캐노피우스의 잔여 지분 60%를 약 24억7000만달러에 인수하는 PE/전략적 M&A 딜이다.",
+    "company": "캐노피우스",
+    "acquirer": "KKR, 한국투자공사, 삼성화재",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "24.7억달러",
+    "deal_stage": "계약",
+    "url": "https://www.ppss.kr/news/articleView.html?idxno=320604",
+    "date": "2026.11.12"
+  },
+  {
+    "title": "삼성화재, 3분기 누적 순이익 1조8655억원…전년比 4.6% ↑",
+    "summary": "삼성화재가 글로벌 사모펀드 KKR, 한국투자공사와 함께 영국 로이즈 시장의 보험사 캐노피우스 잔여 지분 60%를 추가 인수하는 전략적 M&A를 추진한다.",
+    "company": "Canopius",
+    "acquirer": "삼성화재, KKR, 한국투자공사",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211293",
+    "date": "2026.11.12"
+  },
+  {
+    "title": "VIP운용 \"롯데렌탈 공개매수 환영…일반주주 매각권 보장해야\"",
+    "summary": "PEF 운용사 TPG가 롯데렌탈에 대한 공개매수를 추진하며 경영권 인수를 시도하는 딜이다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.metroseoul.co.kr/article/20261112500288",
+    "date": "2026.11.12"
+  },
+  {
+    "title": "[더벨][Company Watch] 구다이글로벌, 크레이버 FI와 지분 거래…지배구...",
+    "summary": "구다이글로벌이 재무적 투자자(FI)인 크레이버 FI와 지분 거래를 진행 중이며, 이는 구다이글로벌의 지배구조 변화와 관련된 PE의 기업 인수(Acquisition) 딜로 보인다.",
+    "company": "구다이글로벌",
+    "acquirer": "크레이버 FI",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121409547200102018",
+    "date": "2026.11.12"
+  },
+  {
+    "title": "일동제약, 계열사 매각설에 “결정된 바 없어…여러 가능성 검토”",
+    "summary": "일동제약이 계열사 아이리드비엠에스의 경영권 매각을 검토 중인 것으로 알려졌다.",
+    "company": "아이리드비엠에스",
+    "acquirer": "일동제약",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://biz.chosun.com/science-chosun/bio/2026/11/12/66NIU56UEVAW3MMNR5YDE4QAFQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.11.12"
+  },
+  {
+    "title": "[더벨][지배구조 분석 | 체시스] 시가총액 규제 압박, 승계 대신 매각 선...",
+    "summary": "체시스 오너일가가 시가총액 규제 부담으로 경영권 승계 대신 보유 지분 매각을 결정하고 매각을 추진한다.",
+    "company": "체시스",
+    "acquirer": null,
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101637460440109271",
+    "date": "2026.11.12"
+  },
+  {
+    "title": "‘시간 끌수록 매입가↑’…MBK·영풍 ‘고려아연, 콜옵션의 역설’",
+    "summary": "MBK파트너스와 영풍 간 고려아연 지분 관련 콜옵션 및 풋옵션 행사를 앞두고 매각 가격과 타이밍에 대한 전략적 논의가 진행 중인 딜.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.munhwa.com/article/11630888?ref=naver",
+    "date": "2026.11.12"
+  },
+  {
     "title": "글로벌 투자자도 반대…의무공개매수, 코리아 프리미엄 열쇠 될까",
     "summary": "글로벌 사모펀드(PEF) 운용사 TPG의 렉시콘코리아홀드코는 호텔롯데와 부산롯데호텔로부터 롯데렌탈 지분 61.17%를 인수했으며, 이어 잔여 지분 38.83%에 대한 공개매수를 추진 중인 PE의 기업 인수 거래이다.",
     "company": "롯데렌탈",
@@ -1310,103 +1408,5 @@
     "deal_stage": "계약",
     "url": "https://magazine.hankyung.com/business/article/202609245034b",
     "date": "2026.09.24"
-  },
-  {
-    "title": "버거 M&A 대전…맘스터치는 '수익성', 버거킹은 '팀홀튼'[마켓인]",
-    "summary": "어피니티에쿼티파트너스가 보유한 BKR(버거킹 운영사)의 매각이 라자드코리아를 공동 주관사로 선정하고 인수 후보군을 물색하는 등 본격 추진되고 있는 PE 엑싯 딜.",
-    "company": "BKR",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=04319766645583072&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "date": "2026.09.23"
-  },
-  {
-    "title": "[단독]포스코그룹 ‘잭니클라우스GC’ 매각 착수…골프장 최고가 깰까",
-    "summary": "포스코그룹이 보유 중인 골프장 잭니클라우스GC의 매각에 착수하는 전략적 M&A 딜이다.",
-    "company": "잭니클라우스GC",
-    "acquirer": "포스코그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.donga.com/news/Economy/article/all/20260923/134726481/1",
-    "date": "2026.09.23"
-  },
-  {
-    "title": "[단독] JTBC 매각 주관사에 한영…인가전 M&A 본격화 [시그널]",
-    "summary": "JTBC가 EY한영을 매각 주관사로 선정하며 경영권 매각을 본격화하는 딜이며, 사모펀드 운용사들이 잠재적 인수 후보로 거론된다.",
-    "company": "제이티비씨 주식회사",
-    "acquirer": "사모펀드 운용사",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20094488?ref=naver",
-    "date": "2026.09.23"
-  },
-  {
-    "title": "아웃도어 기업 K2코리아그룹 '네파' 최대주주 된다, 유상증자로 차입금...",
-    "summary": "아웃도어 기업 K2코리아그룹이 유상증자 참여를 통해 네파의 신규 최대주주가 되는 전략적 M&A 거래이며, 기존 최대주주인 사모펀드 MBK파트너스는 지분 희석으로 최대주주 지위에서 엑싯한다.",
-    "company": "네파",
-    "acquirer": "K2코리아그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447948",
-    "date": "2026.09.23"
-  },
-  {
-    "title": "미래에셋, '印 케이핀테크놀로지' 지분 5%선 넘었다…6.11%로 확대 [fn마...",
-    "summary": "미래에셋이 글로벌 사모펀드 제너럴애틀랜틱(GA)으로부터 인도 케이핀테크놀로지 지분을 블록딜로 인수하여 보유 지분율이 6.11%로 확대되었다.",
-    "company": "케이핀테크놀로지",
-    "acquirer": "미래에셋",
-    "type": "block",
-    "tags": [
-      "block"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.fnnews.com/news/202609031127107512",
-    "date": "2026.09.03"
-  },
-  {
-    "title": "[산업리뷰] 라이선스 넘어 '브랜드 오너'로…F&F의 새 성장축 찾기",
-    "summary": "F&F가 쑥쑥컴퍼니의 지분 70%를 약 1540억원에 인수하여 브랜드 오너십을 확보하는 전략적 M&A 딜을 완료했다.",
-    "company": "쑥쑥컴퍼니",
-    "acquirer": "F&F",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2200억원",
-    "deal_stage": "완료",
-    "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45076",
-    "date": "2026.09.23"
-  },
-  {
-    "title": "'통합 대한항공'에 LCC는 정체성 싸움…연말 대격변 예고",
-    "summary": "PEF 운용사 VIG파트너스가 중장거리 특화 항공사 에어프레미아의 경영권 인수를 타진하며 주요 주주들과 협상 및 실사를 진행 중이다.",
-    "company": "에어프레미아",
-    "acquirer": "VIG파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=1417424",
-    "date": "2026.09.22"
   }
 ]
