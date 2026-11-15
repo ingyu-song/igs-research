@@ -1,5 +1,75 @@
 [
   {
+    "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터...",
+    "summary": "사모펀드 케이엘앤파트너스가 맘스터치앤컴퍼니 지분 100% 매각을 추진 중이며, 국내 대형 유통기업 계열 전략적 투자자가 인수전에 합류했다.",
+    "company": "맘스터치앤컴퍼니",
+    "acquirer": "케이엘앤파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=563756",
+    "date": "2026.11.15"
+  },
+  {
+    "title": "[MD포커스] ‘캐노피우스’에 2.3조 베팅한 삼성화재…해외사업 구원투...",
+    "summary": "삼성화재가 글로벌 사모펀드 KKR, 한국투자공사(KIC)와 함께 보험사 캐노피우스 잔여 지분에 2.3조원 규모의 신규 투자를 진행한다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2.3조원",
+    "deal_stage": "계약",
+    "url": "https://www.mydaily.co.kr/page/view/2026111314131654420",
+    "date": "2026.11.15"
+  },
+  {
+    "title": "삼성화재, 누적 순익 1.9조…캐노피우스 인수로 해외 성장동력 확보",
+    "summary": "삼성화재가 글로벌 사모펀드 콜버그크래비스로버츠(KKR), 한국투자공사(KIC)와 함께 보험사 캐노피우스의 잔여 지분 60%를 인수하여 지분율을 80.6%로 확대하는 전략적 M&A를 추진한다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재, 콜버그크래비스로버츠(KKR), 한국투자공사(KIC)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "2조2300억원",
+    "deal_stage": "계약",
+    "url": "https://www.sentv.co.kr/article/view/sentv202611130094",
+    "date": "2026.11.15"
+  },
+  {
+    "title": "'롯데카드 악몽'에 빗장 걸었다…롯데렌탈, 간판 대여 '2년'으로 뚝",
+    "summary": "사모펀드 TPG가 롯데렌탈의 잔여 지분에 대한 공개매수를 진행하며 인수를 마무리하고 있으며, 이 과정에서 '롯데' 브랜드 사용 기한이 2년으로 정해졌다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.theguru.co.kr/news/article.html?no=109651",
+    "date": "2026.11.15"
+  },
+  {
+    "title": "[주간사모펀드] 영풍·MBK \"최윤범 사과해야\"…고려아연 \"즉시 항소\"",
+    "summary": "고도파트너스가 해태htb 인수에 관심을 보이며 펀드 조성 및 인수금융 조달을 검토하고 있다.",
+    "company": "해태htb",
+    "acquirer": "고도파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://news.tf.co.kr/read/economy/2388503.htm",
+    "date": "2026.11.14"
+  },
+  {
     "title": "삼성화재, 3분기 누적 순익 1조8655억원...자동차보험 흑자 지속",
     "summary": "글로벌 사모펀드 KKR과 한국투자공사, 삼성화재가 컨소시엄을 구성하여 영국 특수보험사 캐노피우스의 잔여 지분 60%를 약 24억7000만달러에 인수하는 PE/전략적 M&A 딜이다.",
     "company": "캐노피우스",
@@ -1338,75 +1408,5 @@
     "deal_stage": "협상",
     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711663",
     "date": "2026.09.30"
-  },
-  {
-    "title": "태광산업, 신사업 찾고 투자법 넓히고…M&A 전략 다변화",
-    "summary": "한국카본이 전략적 투자자(SI)로, 태광산업이 재무적 투자자(FI)로 참여하여 케이조선을 인수하는 딜이 추진 중이다.",
-    "company": "케이조선",
-    "acquirer": "한국카본, 태광산업",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410893",
-    "date": "2026.09.30"
-  },
-  {
-    "title": "저비용 항공사 '변신 중'…덩치 키우고 장거리·고급화로 승부",
-    "summary": "PEF 운용사 VIG파트너스가 AP홀딩스와 타이어뱅크로부터 저비용 항공사 에어프레미아의 지분 70% 인수를 추진하는 거래이다.",
-    "company": "에어프레미아",
-    "acquirer": "VIG파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "3000억 원",
-    "deal_stage": "협상",
-    "url": "https://www.news1.kr/industry/general-industry/6301921",
-    "date": "2026.09.27"
-  },
-  {
-    "title": "외신發 솔리다임 美 IPO說 재점화···정말로 상장 추진하나",
-    "summary": "미국 사모펀드 운용사 테크브릿지인베스트먼트가 솔리다임에 투자할 펀드 조성을 추진하고 있는 신규 딜이다.",
-    "company": "솔리다임",
-    "acquirer": "테크브릿지인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423954",
-    "date": "2026.09.26"
-  },
-  {
-    "title": "[오늘 일본은] 엔화 다시 159엔대…美 30년물 국채금리 22년 만에 최고",
-    "summary": "일본계 투자펀드 일본산업추진기구와 영국계 사모펀드 CVC캐피털파트너스가 고바야시제약의 주식 인수를 제안하여 비상장화하는 PE 바이아웃 딜.",
-    "company": "고바야시제약",
-    "acquirer": "일본산업추진기구, CVC캐피털파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.pointe.co.kr/news/articleView.html?idxno=85159",
-    "date": "2026.09.25"
-  },
-  {
-    "title": "K2, 네파 품는다…드디어 빠지는 MBK",
-    "summary": "K2그룹이 아웃도어 브랜드 네파의 최대주주 지분을 인수하며 사모펀드(PEF) MBK파트너스가 엑싯하는 거래.",
-    "company": "네파",
-    "acquirer": "K2그룹",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://magazine.hankyung.com/business/article/202609245034b",
-    "date": "2026.09.24"
   }
 ]
