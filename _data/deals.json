@@ -1,5 +1,19 @@
 [
   {
+    "title": "호반은 한진칼, 장금상선은 ㈜한진 겨냥…지분 매입 속내는?",
+    "summary": "호반그룹이 사모펀드 KCGI로부터 한진칼 지분을 인수한 후, 계열사를 통해 한진칼 지분을 꾸준히 확대하며 경영권 확보를 위한 전략적 지분 인수를 추진하고 있다.",
+    "company": "㈜한진칼",
+    "acquirer": "호반그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": null,
+    "url": "https://www.g-enews.com/view.php?ud=202611161520333417153ddfb15a_1",
+    "date": "2026.11.16"
+  },
+  {
     "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터...",
     "summary": "사모펀드 케이엘앤파트너스가 맘스터치앤컴퍼니 지분 100% 매각을 추진 중이며, 국내 대형 유통기업 계열 전략적 투자자가 인수전에 합류했다.",
     "company": "맘스터치앤컴퍼니",
@@ -1394,19 +1408,5 @@
     "deal_stage": "협상",
     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171372",
     "date": "2026.10.03"
-  },
-  {
-    "title": "'9천억 매각' 거절 당한 FCP···삼성에 에스원 지분 공개입찰 촉구",
-    "summary": "행동주의 사모펀드 플래쉬라이트 캐피탈 파트너스(FCP)가 삼성에 에스원 지분 6%를 9066억원에 공개 경쟁입찰 매각을 공식 촉구하며 직접 인수안을 제안하는 딜.",
-    "company": "에스원",
-    "acquirer": "플래쉬라이트 캐피탈 파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "9066억원",
-    "deal_stage": "협상",
-    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711663",
-    "date": "2026.09.30"
   }
 ]
