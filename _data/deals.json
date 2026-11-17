@@ -1,5 +1,75 @@
 [
   {
+    "title": "MBK \"K뷰티 투자 확대\"",
+    "summary": "MBK파트너스가 2013년 인수한 아웃도어 브랜드 네파의 매각 계약을 체결하며 엑싯을 추진 중이다.",
+    "company": "네파",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.mk.co.kr/article/12211417",
+    "date": "2026.11.17"
+  },
+  {
+    "title": "“고령화 예상보다 빠르다”… MBK, 시니어케어 투자 정조준",
+    "summary": "MBK파트너스는 지난 6월 일본 시니어케어 지주사 재팬웰빙을 미국계 사모펀드 어드벤트인터내셔널에 약 1조9000억원에 매각 완료했다.",
+    "company": "재팬웰빙",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.9조원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/QHEP5PIFONFPXJMOENUJJ6Q5GE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.11.17"
+  },
+  {
+    "title": "신한금융 품에 안긴 롯데손보, 보험이익 2배 '껑충'",
+    "summary": "최대주주인 사모펀드 운용사 JKL파트너스가 롯데손보 지분 77.04%를 신한금융에 6933억원에 매각하는 주식매매계약(SPA)을 체결한 PE 엑싯 거래.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "6933억원",
+    "deal_stage": "계약",
+    "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313844",
+    "date": "2026.11.17"
+  },
+  {
+    "title": "[Invest]현대투자파트너스, 승명실업 매각…무벡스 투자금 회수 포석",
+    "summary": "현대투자파트너스가 인수 1년 만에 승명실업 매각을 추진하며, 무벡스 투자금 회수를 위한 엑싯 전략을 펼친다.",
+    "company": "승명실업",
+    "acquirer": "현대투자파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "약 400억원",
+    "deal_stage": "협상",
+    "url": "https://www.investchosun.com/site/data/html_dir/2026/11/17/2026111780140.html",
+    "date": "2026.11.17"
+  },
+  {
+    "title": "\"돈 되면 알짜도 판다\"… K-석화, 유동성 확보 '영끌' 매각",
+    "summary": "롯데에너지머티리얼즈가 자회사 롯데에코월 지분 90%를 사모펀드 운용사 릴슨 PE에 1708억원에 매각 완료했다.",
+    "company": "롯데에코월",
+    "acquirer": "릴슨 PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1708억원",
+    "deal_stage": "완료",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001231",
+    "date": "2026.11.17"
+  },
+  {
     "title": "호반은 한진칼, 장금상선은 ㈜한진 겨냥…지분 매입 속내는?",
     "summary": "호반그룹이 사모펀드 KCGI로부터 한진칼 지분을 인수한 후, 계열사를 통해 한진칼 지분을 꾸준히 확대하며 경영권 확보를 위한 전략적 지분 인수를 추진하고 있다.",
     "company": "㈜한진칼",
@@ -1338,75 +1408,5 @@
     "deal_stage": "완료",
     "url": "https://weekly.khan.co.kr/article/202610051411001",
     "date": "2026.10.05"
-  },
-  {
-    "title": "종투사 위해 몸집 불리는 한화투자증권",
-    "summary": "한화자산운용이 보통주 2500억원을, 한화생명이 전환우선주 2500억원을 인수하여 한화투자증권에 총 5000억원을 투자하는 전략적 유상증자 딜.",
-    "company": "한화투자증권",
-    "acquirer": "한화자산운용, 한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "5000억원",
-    "deal_stage": "계약",
-    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021817204650375",
-    "date": "2026.10.05"
-  },
-  {
-    "title": "저축은행 하반기 '새판짜기' 속도전…M&A·리브랜딩 잇따라",
-    "summary": "한화생명이 센트로이드PE와 공동으로 글로벌 사모펀드 EQT가 보유한 애큐온캐피탈의 경영권 인수를 의결했다.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명, 센트로이드PE",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.dailian.co.kr/news/view/1697382/?sc=Naver",
-    "date": "2026.10.04"
-  },
-  {
-    "title": "\"우크라 종전 회담 뒤에서 딴짓?\"…푸틴 만난 트럼프 특사, '수십조 석유...",
-    "summary": "트럼프 특사 쿠슈너의 사모펀드가 러시아 석유 회사 루코일 자산 인수를 추진하고 있다.",
-    "company": "루코일",
-    "acquirer": "쿠슈너의 사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.fnnews.com/news/202610032325203223",
-    "date": "2026.10.03"
-  },
-  {
-    "title": "미국에 K-원전 진출 길 열려···웨스팅하우스 지분인수 추진",
-    "summary": "한전과 한수원 등 국내 기업들이 미국 원전 기업 웨스팅하우스의 지분 5~10%를 인수하는 전략적 투자를 추진 중이다.",
-    "company": "웨스팅하우스",
-    "acquirer": "한전, 한수원 외 국내 사기업들",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406773",
-    "date": "2026.10.03"
-  },
-  {
-    "title": "시공 넘어 경영 참여로… 韓 기업, 웨스팅하우스 이사회 진입 노린다",
-    "summary": "한국 기업들이 미국 원전 기업 웨스팅하우스의 지분 최대 10% 인수를 추진하는 전략적 M&A 딜.",
-    "company": "웨스팅하우스",
-    "acquirer": "한국 기업들",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171372",
-    "date": "2026.10.03"
   }
 ]
