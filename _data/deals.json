@@ -1,5 +1,133 @@
 [
   {
+    "title": "롯데손보, 90% 무상감자…경영정상화 첫발 내디뎌",
+    "summary": "신한금융이 사모펀드 JKL파트너스가 보유한 롯데손해보험 지분 77.04%를 6933억 원에 인수하는 주식 매매계약을 체결했으며, 총 인수 대금은 약 9000억 원으로 예상되는 전략적 인수 거래이다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "9000억 원",
+    "deal_stage": "계약",
+    "url": "https://www.sedaily.com/article/20116589?ref=naver",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "롯데손보, 액면가의 10분의 1로 무상감자…기본자본 4600억 채운다",
+    "summary": "신한금융이 사모펀드 운용사 JKL파트너스로부터 롯데손해보험 지분 77.04%를 6933억원에 인수하는 주식매매계약(SPA)을 체결했다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "6933억원",
+    "deal_stage": "계약",
+    "url": "https://biz.heraldcorp.com/article/10943050?ref=naver",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "롯데손보, '10대 1' 무상감자 추진···깎인 기본자본 4600억 채운다",
+    "summary": "신한금융이 사모펀드 JKL파트너스로부터 롯데손해보험을 인수하기 위한 주식매매계약을 체결했으며, 인허가 및 매매대금 지급 전 무상감자를 추진한다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.fnnews.com/news/202611191550534833",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "태광산업, 日 탈모 클리닉에 351억 투자…동성제약·애경산업 판로 확대...",
+    "summary": "태광산업이 사모펀드 인빅터스PEF, 의료기기 기업 원텍과 컨소시엄을 구성하여 일본 닥터 AGA 클리닉을 약 108억엔에 공동 인수하는 거래이다.",
+    "company": "닥터 AGA 클리닉",
+    "acquirer": "태광산업, 인빅터스PEF, 원텍",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "108억엔",
+    "deal_stage": "완료",
+    "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362810",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "앱러빈, 유럽 광고기업 크리테오 인수전 가세…AI 광고 사업 확장 주목",
+    "summary": "앱러빈이 유럽 광고기업 크리테오 인수전에 가세했으며, 비스타에쿼티파트너스 등 사모펀드도 인수에 관심을 보이며 크리테오 매각이 추진 중이다.",
+    "company": "크리테오",
+    "acquirer": "앱러빈",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.jemin.com/news/articleView.html?idxno=847772",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "[단독] 오릭스, OSB저축은행 매각 추진 중단···가치 제고 선회",
+    "summary": "오릭스와 미국계 사모펀드는 보유 중인 OSB저축은행 지분 약 99.9% 매각 추진을 중단했다.",
+    "company": "OSB저축은행",
+    "acquirer": "오릭스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494696",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "[재계줌인] \"미래 성장동력 확보\"…대기업, 게임·석화 덜어내고 AI·발...",
+    "summary": "SK디스커버리 및 SK㈜가 신재생 개발사 SK이터닉스 지분 30.98%를 글로벌 사모펀드 KKR에 매각하는 계약을 체결했다.",
+    "company": "SK이터닉스",
+    "acquirer": "KKR",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=104763",
+    "date": "2026.11.19"
+  },
+  {
+    "title": "[37th SRE][Issue]M&A 빅딜 실종 2년째…기대와 우려 ‘반반’",
+    "summary": "롯데(호텔롯데, 부산롯데호텔)가 롯데렌탈 지분 61.2% 전량을 1조3105억원에 TPG에 매각하는 계약을 체결한 딜로, 롯데의 PE 엑싯이자 TPG의 인수 거래입니다.",
+    "company": "롯데렌탈",
+    "acquirer": "TPG",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조3105억원",
+    "deal_stage": "계약",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=03050406645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "date": "2026.11.18"
+  },
+  {
+    "title": "직영점 버거킹 vs 가맹점 맘스터치…'1조 몸값' 매각전 동상이몽",
+    "summary": "PE 어피니티에쿼티파트너스가 버거킹 운영사 비케이알(BKR)의 보유 지분 전량 매각을 위해 매각 주관사를 선정하며 엑싯을 추진 중이다.",
+    "company": "비케이알",
+    "acquirer": "어피니티에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001005",
+    "date": "2026.11.15"
+  },
+  {
     "title": "태광산업 일본 탈모 클리닉 '닥터AGA'에 지분투자, 동성제약·애경산업...",
     "summary": "태광산업, 인빅터스PEF, 원텍 컨소시엄이 일본 닥터AGA클리닉 운영사인 닛쇼카이와 병원 경영 지원회사 닛쇼메디컬의 지분을 총 108억 엔에 인수하는 거래이다.",
     "company": "닛쇼카이, 닛쇼메디컬",
@@ -1280,133 +1408,5 @@
     "deal_stage": "계약",
     "url": "https://www.news2day.co.kr/article/20261011500020",
     "date": "2026.10.11"
-  },
-  {
-    "title": "[황혼 승계①] 한화의 ‘마지막 퍼즐’… ㈜한화 지분의 딜레마",
-    "summary": "김동원 사장과 김동선 부사장이 지난해 말 보유하고 있던 한화에너지 지분을 사모펀드(한투PE 컨소시엄)에 매각한 거래이다. 이는 PE의 한화에너지 지분 인수(Acquisition)에 해당한다.",
-    "company": "한화에너지",
-    "acquirer": "한투PE 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.asiatime.co.kr/article/20261011500063",
-    "date": "2026.10.11"
-  },
-  {
-    "title": "“트럼프·캐나다 갈등이 韓 원전 美 진출 길 열었다”",
-    "summary": "한국이 웨스팅하우스 지분 5~10%를 인수하여 미국 원전 시장 진출을 모색하는 전략적 M&A 딜이다.",
-    "company": "웨스팅하우스",
-    "acquirer": "한국",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "https://www.dt.co.kr/article/12088307?ref=naver",
-    "date": "2026.10.11"
-  },
-  {
-    "title": "SK오션플랜트 인수 앞둔 디오션자산운용…고성군과 상생안 협의 관",
-    "summary": "사모펀드 운용사 디오션자산운용이 SK오션플랜트 인수를 추진 중이며, 지역사회와의 상생 방안을 협의하고 있는 PE의 기업 인수 딜이다.",
-    "company": "SK오션플랜트",
-    "acquirer": "디오션자산운용",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sentv.co.kr/article/view/sentv202610110002",
-    "date": "2026.10.11"
-  },
-  {
-    "title": "MBK 손 뗐지만…홈플러스, 희망퇴직·매각 난항 '삼중고'",
-    "summary": "MBK파트너스가 홈플러스 지분을 무상소각하며 최대주주 지위를 내려놨고, 홈플러스는 운영 중인 67개 점포의 통매각을 추진하고 있으나 난항을 겪고 있다.",
-    "company": "홈플러스",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727266",
-    "date": "2026.10.09"
-  },
-  {
-    "title": "1000개 매장 뒤엔 김포 로스터리… 매머드커피가 만든 저가커피업계 '원...",
-    "summary": "사모펀드 오케스트라프라이빗에쿼티가 매머드커피랩과 서진로스터스의 지분 100%를 1000억원에 인수 완료했다.",
-    "company": "매머드커피랩, 서진로스터스",
-    "acquirer": "오케스트라프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1000억원",
-    "deal_stage": "완료",
-    "url": "https://www.greened.kr/news/articleView.html?idxno=351747",
-    "date": "2026.10.09"
-  },
-  {
-    "title": "[GAM]5개월 새 62% 랠리 SPSC ② '압도적 1위' 디지털 전환 기회 활짝",
-    "summary": "사모펀드 GTCR이 SPS 커머스(SPSC) 인수를 추진했으나, 협상이 최종 결렬될 가능성이 거론되고 있으며, 이와 무관하게 SPSC의 주가 상승을 전망하는 기사다.",
-    "company": "SPS 커머스",
-    "acquirer": "GTCR",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newspim.com/news/view/20261008000763",
-    "date": "2026.10.09"
-  },
-  {
-    "title": "메가커피, 버거킹 인수 검토...F&B 인수합병 '큰손' 부상",
-    "summary": "메가커피가 사모펀드 어피니티에쿼티파트너스가 보유한 한국버거킹 인수를 검토하며 협상을 진행 중이다.",
-    "company": "한국버거킹",
-    "acquirer": "메가커피",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.livebiz.today/news/articleView.html?idxno=205450",
-    "date": "2026.10.08"
-  },
-  {
-    "title": "솔리다임 IPO 주관에 골드만·MS…프리IPO도 막바지",
-    "summary": "솔리다임이 IPO를 앞두고 프리IPO 투자를 유치 중이다.",
-    "company": "솔리다임",
-    "acquirer": null,
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.mk.co.kr/article/12171593",
-    "date": "2026.10.08"
-  },
-  {
-    "title": "中 AI스타트업 마누스 5억달러 투자 유치…텐센트 등 참여",
-    "summary": "중국 AI 스타트업 마누스가 중국 투자회사 보위캐피털과 사모펀드 IDG캐피털 주도로 5억 달러 규모의 신규 투자를 유치했다.",
-    "company": "마누스",
-    "acquirer": "보위캐피털, IDG캐피털",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "5억달러",
-    "deal_stage": "완료",
-    "url": "https://www.news1.kr/world/northeast-asia/6314534",
-    "date": "2026.10.08"
   }
 ]
