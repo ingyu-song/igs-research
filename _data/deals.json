@@ -1,5 +1,203 @@
 [
   {
+    "title": "SK하이닉스, 일본 키옥시아 지분 14.1% 확보 결정…8년 투자 결실",
+    "summary": "SK하이닉스가 일본 키옥시아에 대한 기존 전환사채를 주식으로 전환하여 14.1%의 지분을 확보하기로 결정한 전략적 투자 완료 거래입니다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.jemin.com/news/articleView.html?idxno=847916",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "[인사] 이준희 삼성SDS 대표 유임…AI·로봇 확장 이어간다",
+    "summary": "삼성SDS가 KKR을 대상으로 약 1조2000억원 규모의 전환사채를 발행하여 AI 인프라 투자 및 인수합병 재원을 마련하는 딜이다.",
+    "company": "삼성SDS",
+    "acquirer": "KKR",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.2조원",
+    "deal_stage": "계약",
+    "url": "https://www.topdaily.kr/articles/113041",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "[속보]SK하이닉스, 키옥시아 간접 최대주주 된다",
+    "summary": "SK하이닉스가 미국 사모펀드 베인캐피털이 보유한 SPC2 주식 추가 취득 및 펀드 출자, 전환사채 인수를 통해 키옥시아의 간접 최대주주가 되는 전략적 M&A 딜.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "3951억엔 (약 3.3조원)",
+    "deal_stage": "계약",
+    "url": "https://magazine.hankyung.com/business/article/202611200582b",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 키오시아 전환사채 주식 전환…지분 14.1% 보유",
+    "summary": "SK하이닉스가 키오시아 인수를 위해 설립된 특수목적법인(SPC)이 발행한 전환사채를 보통주로 전환하여 키오시아 지분 14.1%를 취득하는 거래.",
+    "company": "키오시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.hani.co.kr/arti/economy/marketing/1288382.html",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 키옥시아 투자 CB 주식 전환…간접 지분 14.1% 확보(종합)",
+    "summary": "SK하이닉스가 과거 키옥시아 지분 인수를 위해 투자한 특수목적법인(SPC)의 전환사채(CB)를 주식으로 전환하고, 미국 사모펀드 베인캐피탈의 SPC2 보통주를 추가 취득하여 키옥시아에 대한 간접 지분 14.1%를 확보하는 전략적 거래.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445796",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 1조3000억원 규모 키옥시아 투자 CB 주식 전환… 12월 취득 ...",
+    "summary": "SK하이닉스가 2018년 베인캐피털 주도 컨소시엄을 통해 투자했던 키옥시아 CB를 1조2788억원 규모의 주식으로 전환 취득하는 딜이다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1.3조원",
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/it-science/ict/2026/11/20/Y5JBWXWV4RCG5CGE55JJAT33OU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 일본 키옥시아 전환사채 주식 전환…지분율 14.1%로",
+    "summary": "SK하이닉스가 일본 키옥시아의 전환사채를 주식으로 전환하고, 미국 사모펀드 베인캐피털이 보유한 SPC2 보통주 1,001주를 약 8억 4천만 원에 추가 취득하며 키옥시아 지분율을 14.1%로 확대한 전략적 투자 및 부분 엑싯 딜이다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": "8.4억원",
+    "deal_stage": "완료",
+    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718541&ref=A",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 日 키옥시아 전환사채 주식 전환···간접적 최대주주 등극",
+    "summary": "SK하이닉스가 일본 키옥시아 관련 전환사채(CB)를 주식으로 전환하고, 베인캐피털이 보유한 SPC 지분을 추가 취득하여 키옥시아의 간접적 최대주주로 등극하는 전략적 M&A 딜.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "약 1.1조원",
+    "deal_stage": "완료",
+    "url": "https://www.seoulfn.com/news/articleView.html?idxno=643519",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 日 키옥시아 지분 14.1% 확보…간접 최대주주 된다",
+    "summary": "SK하이닉스가 미국 사모펀드 베인캐피털이 보유한 SPC2 주식 추가 취득, 펀드 출자, 전환사채 인수를 통해 일본 키옥시아 지분 14.1%를 확보하며 간접 최대주주가 되는 전략적 투자를 진행한다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "약 3951억엔",
+    "deal_stage": "계약",
+    "url": "https://www.joongang.co.kr/article/25480533",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 키옥시아 지분 14.1% 확보…간접 최대주주로",
+    "summary": "SK하이닉스가 미국 사모펀드 베인캐피털이 보유한 키옥시아의 SPC2 보통주 1001주를 추가 취득하여 키옥시아 지분 14.1%를 확보, 간접 최대주주가 되는 전략적 지분 확보 거래.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "8.4억원",
+    "deal_stage": "완료",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732524",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 日 키옥시아 전환사채 주식 전환…지분 14.1% 보유",
+    "summary": "SK하이닉스가 2018년 투자한 일본 키옥시아 관련 특수목적법인 SPC2의 전환사채를 주식으로 전환하여 최종적으로 키옥시아 지분 14.1%를 보유하게 된 전략적 투자 건이다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1조3000억원",
+    "deal_stage": "완료",
+    "url": "http://www.inews24.com/view/2028777",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "‘검은 금요일’에도 상한가…한진칼우, 경영권 분쟁 기대에 ‘불기둥...",
+    "summary": "호반그룹이 과거 사모펀드 KCGI로부터 한진칼 지분을 인수한 데 이어, 추가 지분 매입을 통해 한진칼의 최대주주 지위를 확보하려는 전략적 인수를 추진 중이다.",
+    "company": "한진칼",
+    "acquirer": "호반그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "추진",
+    "url": "https://biz.heraldcorp.com/article/10944326?ref=naver",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 키옥시아 간접 최대주주로…1조원대 키옥시아 지분 확보",
+    "summary": "SK하이닉스가 미국 사모펀드 베인캐피털이 보유한 SPC2 보통주를 추가 취득하여 키옥시아의 간접 지분을 확보하고, 동시에 기존 펀드 투자분을 전량 매각한 거래이다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.ziksir.com/news/articleView.html?idxno=154205",
+    "date": "2026.11.20"
+  },
+  {
+    "title": "SK하이닉스, 日 키옥시아 전환사채 주식으로…지분 14.1% 확보",
+    "summary": "SK하이닉스가 일본 키옥시아의 전환사채를 주식으로 전환해 지분 14.1%를 확보하고, 미국 사모펀드 베인캐피털이 보유한 SPC2 보통주를 1억엔에 추가 취득했으며, 기존 SPC1 펀드 지분 전량을 매각 및 청산하며 엑시트를 완료했습니다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic",
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.fnnews.com/news/202611201629060441",
+    "date": "2026.11.20"
+  },
+  {
     "title": "롯데손보, 90% 무상감자…경영정상화 첫발 내디뎌",
     "summary": "신한금융이 사모펀드 JKL파트너스가 보유한 롯데손해보험 지분 77.04%를 6933억 원에 인수하는 주식 매매계약을 체결했으며, 총 인수 대금은 약 9000억 원으로 예상되는 전략적 인수 거래이다.",
     "company": "롯데손해보험",
@@ -1210,203 +1408,5 @@
     "deal_stage": "발표",
     "url": "https://www.hinews.co.kr/view.php?ud=202610181240451708cd8b879b3c_48",
     "date": "2026.10.18"
-  },
-  {
-    "title": "SK하이닉스, 美 솔리다임 상장 추진에 ‘중복상장’ 논란",
-    "summary": "SK하이닉스가 자회사 솔리다임의 미국 상장을 추진하고 있으며, 이는 SK하이닉스의 솔리다임 투자에 대한 엑싯 전략의 일환이다.",
-    "company": "솔리다임",
-    "acquirer": "SK하이닉스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/10/18/VFB2R5M7MND7FG4IFM75JXRLTE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "date": "2026.10.18"
-  },
-  {
-    "title": "트루블루에쿼티·엔베스터, 조선부품사 케이씨 인수 추진",
-    "summary": "국내 PEF 트루블루에쿼티와 엔베스터가 조선부품사 케이씨의 경영권 인수를 추진 중이며, 케이씨 최대주주인 아스트라자산운용이 매각자로 나섰다.",
-    "company": "케이씨",
-    "acquirer": "트루블루에쿼티, 엔베스터",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.hankyung.com/article/202610167204r",
-    "date": "2026.10.16"
-  },
-  {
-    "title": "실적 개선한 한화생명…증권·캐피탈에 눈 돌린 이유",
-    "summary": "한화생명이 애큐온캐피탈 공동 인수에 참여한 사모펀드의 풋옵션 행사에 따라 향후 해당 PE의 지분을 추가 취득할 가능성에 대한 내용으로, 이는 한화생명의 전략적 M&A 성격을 띤다.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130123",
-    "date": "2026.10.16"
-  },
-  {
-    "title": "한화생명, 증권에 2500억 출자…비보험 확장 속 자본관리 과제",
-    "summary": "한화생명과 센트로이드 사모펀드가 공동으로 애큐온캐피탈(애큐온저축은행 포함)을 인수하는 딜.",
-    "company": "애큐온캐피탈",
-    "acquirer": "한화생명, 센트로이드인베스트먼트",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.metroseoul.co.kr/article/20261015500307",
-    "date": "2026.10.15"
-  },
-  {
-    "title": "반도체 부지 기대감에 자산가치 훌쩍…금호타이어 ‘중국계’ 대주주는...",
-    "summary": "사모펀드들이 금호타이어의 최대주주인 중국계 더블스타에 지분 매각을 타진하며, 사모펀드의 금호타이어 인수가 추진될 가능성이 제기됨.",
-    "company": "금호타이어",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513145",
-    "date": "2026.10.15"
-  },
-  {
-    "title": "2조 부르다 6933억에 도장…JKL, 롯데손보 7년 만에 '손절'",
-    "summary": "PEF 운용사 JKL파트너스가 롯데손해보험 지분 77.04%를 신한금융에 6933억 원에 매각하는 계약을 체결하며 7년 만에 엑싯한다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "6933억원",
-    "deal_stage": "계약",
-    "url": "https://news.tf.co.kr/read/economy/2376207.htm",
-    "date": "2026.10.14"
-  },
-  {
-    "title": "신한금융, 롯데손보 6933억원에 인수",
-    "summary": "신한금융이 사모펀드 JKL파트너스로부터 롯데손해보험 지분 77.04%를 6933억원에 인수하는 주식매매계약을 체결했다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "6933억원",
-    "deal_stage": "계약",
-    "url": "https://www.newspost.kr/news/articleView.html?idxno=226343",
-    "date": "2026.10.13"
-  },
-  {
-    "title": "JKL파트너스, 롯데손보 매각…4호 펀드 회수 '탄력'",
-    "summary": "PEF 운용사 JKL파트너스가 롯데손해보험 매각 계약을 체결하여 엑시트를 진행 중이다.",
-    "company": "롯데손해보험",
-    "acquirer": "JKL파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.etoday.co.kr/news/view/2635290",
-    "date": "2026.10.13"
-  },
-  {
-    "title": "신한금융, 롯데손보 품었다…신한EZ와 통합 시험대",
-    "summary": "신한금융지주가 롯데손해보험의 최대주주인 사모펀드 JKL파트너스와 주식매매계약을 체결하며 77.04% 지분의 경영권을 인수했다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융지주",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872410",
-    "date": "2026.10.13"
-  },
-  {
-    "title": "신한금융, 롯데손보 6933억에 품는다…비은행 강화 승부수",
-    "summary": "신한금융지주가 사모펀드 운용사 JKL파트너스가 운용하는 빅튜라로부터 롯데손해보험 지분 인수를 위한 주식매매계약(SPA)을 6933억원에 체결한, JKL파트너스의 엑싯 및 신한금융의 전략적 M&A 딜이다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융지주",
-    "type": "exit",
-    "tags": [
-      "exit",
-      "strategic"
-    ],
-    "ev": "6933억원",
-    "deal_stage": "계약",
-    "url": "http://www.metroseoul.co.kr/article/20261013500461",
-    "date": "2026.10.13"
-  },
-  {
-    "title": "[PE 라이징스타] 환경투자 한 우물 판 VL인베스트, 신규 펀드 조성 '청신...",
-    "summary": "VL인베스트먼트와 기앤파트너스가 공동으로 엠케이전자로부터 동부엔텍 지분 100%를 555억원에 인수 완료했습니다.",
-    "company": "동부엔텍",
-    "acquirer": "VL인베스트먼트, 기앤파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "555억원",
-    "deal_stage": "완료",
-    "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48139",
-    "date": "2026.10.13"
-  },
-  {
-    "title": "아모레퍼시픽, 비올메디컬 펀드에 808억 투자…에이피알·로레알까지 '메...",
-    "summary": "비올메디컬 펀드가 비올 인수를 추진 중인 PE 바이아웃 딜로, 아모레퍼시픽이 해당 펀드에 808억원을 출자했다.",
-    "company": "비올",
-    "acquirer": "비올메디컬 펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "추진",
-    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745484",
-    "date": "2026.10.12"
-  },
-  {
-    "title": "시지바이오 M&A 또 파행…TA어소 협상 결렬에 TPG 등판 [시그널]",
-    "summary": "토종 IMM PE와 글로벌 TA어소시에이츠와의 협상이 결렬된 후, TPG가 시지바이오 인수를 추진하는 PEF의 기업 인수 딜.",
-    "company": "시지바이오",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.sedaily.com/article/20100048?ref=naver",
-    "date": "2026.10.11"
-  },
-  {
-    "title": "한미, 1200억달러 투입해 美 원전 8기 건설…한국형 원전 2기 포함",
-    "summary": "한국이 웨스팅하우스의 지분 5~10%를 인수하는 딜로, 웨스팅하우스가 IPO 시 공모가보다 할인된 가격으로 지분을 확보하는 조건이 포함된 전략적 투자 거래이다.",
-    "company": "웨스팅하우스",
-    "acquirer": "한국",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.news2day.co.kr/article/20261011500020",
-    "date": "2026.10.11"
   }
 ]
