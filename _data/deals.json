@@ -1,5 +1,229 @@
 [
   {
+    "title": "MBK, 와콤 1조원대 인수… 삼성전자·하이딥 주가 움직임 '촉각'",
+    "summary": "국내 사모펀드 MBK파트너스가 삼성전자의 S펜 핵심 기술을 공급하는 일본 디지털 펜 제조사 와콤을 1조원대에 인수하는 거래를 추진한다.",
+    "company": "와콤",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506627",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "MBK, '갤럭시 S펜' 기술 보유한 日 와콤 1조원대 인수 추진",
+    "summary": "MBK파트너스가 삼성전자 S펜 핵심 기술을 공급하는 일본 와콤을 1조원대에 인수 추진하는 PE/사모펀드의 기업 인수 딜.",
+    "company": "와콤",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원대",
+    "deal_stage": "협상",
+    "url": "http://www.inews24.com/view/2028897",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "MBK파트너스, 日 와콤 1조원대 인수 추진",
+    "summary": "사모펀드 MBK파트너스가 일본 와콤을 1조원대에 인수하는 PEF의 기업 인수 거래.",
+    "company": "와콤",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원",
+    "deal_stage": "협상",
+    "url": "https://biz.chosun.com/international/international_economy/2026/11/21/OCKCI5T4NNCQRC3V7GN7YM6CGI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "갤럭시 S펜 기술 가진 日기업이 어디길래…MBK, 1조 원대 인수 추진",
+    "summary": "MBK파트너스가 일본 디지털 펜 제조업체 와콤을 1조 원대에 인수하는 방안을 추진하며, 삼성전자도 인수회사에 재출자하는 방식으로 참여하는 PE 바이아웃 딜.",
+    "company": "와콤",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조 원대",
+    "deal_stage": "협상",
+    "url": "https://www.sedaily.com/article/20117248?ref=naver",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "MBK, 삼성전자 갤럭시 시리즈 S펜 공급 日 와콤 1조1600억에 인수 추진",
+    "summary": "사모펀드 MBK파트너스가 일본 디지털 펜 제조사 와콤을 1조1600억원에 공개매수로 인수 추진하는 PE의 기업 인수 딜이며, 삼성전자가 소수 지분으로 재출자할 예정이다.",
+    "company": "와콤",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조1600억원",
+    "deal_stage": "협상",
+    "url": "https://www.dt.co.kr/article/12096417?ref=naver",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "MBK, 日 디지털 펜 강자 와콤 1조1600억원에 인수 추진",
+    "summary": "MBK파트너스가 일본 디지털 펜 제조업체 와콤을 약 1조1600억원에 인수 추진하는 PE의 기업 인수 딜.",
+    "company": "Wacom",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조1600억원",
+    "deal_stage": "협상",
+    "url": "https://biz.heraldcorp.com/article/10944723?ref=naver",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "대주주 지분 많으면 퇴출 대상, 적으면 먹잇감…‘시장 정상화’ 빛과 ...",
+    "summary": "사모펀드 MBK파트너스와 영풍이 고려아연의 경영권 확보를 위해 주식 공개매수를 추진 중인 적대적 M&A 딜.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스, 영풍",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://economist.co.kr/article/view/ecn202611160045",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "투자유치냐 매각이냐…‘찹쌀떡’ 한정선, 런베뮤와 닮은꼴",
+    "summary": "복수의 사모펀드들이 런던베이글뮤지엄의 경영권 인수를 위해 약 3000억원 규모의 기업가치로 협상을 진행 중이다.",
+    "company": "런던베이글뮤지엄",
+    "acquirer": "사모펀드들",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "협상",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=01767926645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "SK하이닉스, 키옥시아 최대주주로 부상…8년 만의 대규모 전환 주목",
+    "summary": "SK하이닉스가 미국의 사모펀드 베인캐피털이 보유한 SPC2 보통주를 추가 취득하고 기존 전환사채를 전환하여 키옥시아의 최대주주로 부상하는 전략적 투자 딜.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "1조827억 원",
+    "deal_stage": "완료",
+    "url": "https://www.gokorea.kr/news/articleView.html?idxno=886709",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "삼부토건 새 주인 배후에 배상윤 KH그룹?…상폐 위기에 최대주주 또 바...",
+    "summary": "삼부토건은 상장적격성 실질심사 개선계획의 일환으로 기존 인수자였던 사모투자펀드(PEF)를 해산하고, 배상윤 KH그룹이 배후로 지목되는 새로운 전략적 투자자(SI)를 유치하는 딜을 추진하고 있다.",
+    "company": "삼부토건",
+    "acquirer": "KH그룹",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.thepublic.kr/news/articleView.html?idxno=327721",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "헤어지지 못한 CGV와 사모펀드…불편한 빚잔치[위클리IB]",
+    "summary": "MBK파트너스와 미래에셋증권 컨소시엄이 CJ CGV 해외 영화관 사업 투자 관련 대출금 상환 불발에 따라 1061억원을 추가 대여하기로 결정했다.",
+    "company": "CJ CGV",
+    "acquirer": "MBK파트너스",
+    "type": "lbo",
+    "tags": [
+      "lbo"
+    ],
+    "ev": "1061억원",
+    "deal_stage": "완료",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=01702326645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "[美증시 특징주] 핀테크 글로벌페이먼츠 10% 급등…사모펀드 인수추진설...",
+    "summary": "미국 핀테크 업체 글로벌 페이먼츠가 대형 사모펀드의 인수 추진설이 나오면서 주가가 급등했다.",
+    "company": "글로벌 페이먼츠",
+    "acquirer": "대형 사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.mediapen.com/news/view/1138972",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "SK하이닉스, 키옥시아 CB 보통주 전환…간접 최대주주 올라",
+    "summary": "SK하이닉스는 키옥시아 전환사채(CB)를 보통주로 전환하고, 미국 사모펀드 베인캐피털이 보유한 SPC2 보통주를 추가 매입하며 간접 최대주주에 올랐다. 동시에 SK하이닉스는 SPC1을 통해 보유하던 펀드 지분을 전량 매각하며 투자금을 회수했다.",
+    "company": "키옥시아 주식회사",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435772",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "이를 어쩌나... 홈플러스에서 전해진 ‘불안한 소식’",
+    "summary": "사모펀드 MBK파트너스가 보유한 홈플러스의 매각 추진이 난항을 겪으며 제자리걸음 중이다.",
+    "company": "홈플러스",
+    "acquirer": "MBK파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.wikitree.co.kr/articles/1176467",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "SK하이닉스, '키옥시아 CB' 주식 전환…간접 최대주주 된다",
+    "summary": "SK하이닉스가 키옥시아 전환사채(CB)를 주식으로 전환하고, 미국 사모펀드 베인캐피털이 보유한 SPC2 보통주를 추가 취득하여 키옥시아에 대한 간접 영향력을 확대하는 전략적 딜이다.",
+    "company": "키옥시아",
+    "acquirer": "SK하이닉스",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.nocutnews.co.kr/news/6610480?utm_source=naver&utm_medium=article&utm_campaign=20261121000218",
+    "date": "2026.11.21"
+  },
+  {
+    "title": "뉴욕증시 개장 전 특징주...앤스로픽 상장 이틀째 급락·인튜이트 10%↓",
+    "summary": "사모펀드 운용사 TPG가 금융기술 기업 빌홀딩스를 인수하기로 발표했다.",
+    "company": "빌홀딩스",
+    "acquirer": "TPG",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.newspim.com/news/view/20261120001221",
+    "date": "2026.11.20"
+  },
+  {
     "title": "SK하이닉스, 일본 키옥시아 지분 14.1% 확보 결정…8년 투자 결실",
     "summary": "SK하이닉스가 일본 키옥시아에 대한 기존 전환사채를 주식으로 전환하여 14.1%의 지분을 확보하기로 결정한 전략적 투자 완료 거래입니다.",
     "company": "키옥시아",
@@ -1182,231 +1406,5 @@
     "deal_stage": "협상",
     "url": "https://www.ddaily.co.kr/page/view/2026103116075470875",
     "date": "2026.10.31"
-  },
-  {
-    "title": "[힘내라 K산업]② 2년간 2조원 넘게 팔았다…롯데, 비핵심 정리 ‘최대...",
-    "summary": "롯데에너지머티리얼즈가 사모펀드 운용사 릴슨프라이빗에쿼티에 자회사 롯데에코월 지분 90%를 매각 완료했다.",
-    "company": "롯데에코월",
-    "acquirer": "릴슨프라이빗에쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.asiatime.co.kr/article/20261030500258",
-    "date": "2026.10.31"
-  },
-  {
-    "title": "[티맵 M&A] 골드만이 꽂힌 '차량용 SW·데이터' 가치",
-    "summary": "골드만삭스가 티맵모빌리티의 차량용 소프트웨어 및 데이터 가치에 주목하며 M&A 가능성을 모색하고 있다.",
-    "company": "티맵모빌리티",
-    "acquirer": "골드만삭스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=677373",
-    "date": "2026.10.30"
-  },
-  {
-    "title": "MBK, '홈플러스 사태' 이어 '골프존카운티 매각' 과정서 잡음",
-    "summary": "MBK파트너스가 보유 중이던 골프존카운티 경영권 매각을 위해 더시에나그룹과 주식매매계약을 체결했다.",
-    "company": "골프존카운티",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://economist.co.kr/article/view/ecn202610310004",
-    "date": "2026.10.31"
-  },
-  {
-    "title": "롯데지주, 롯데렌탈 매각 마무리… \"그룹 사업 재편 일환\"",
-    "summary": "롯데지주가 호텔롯데와 부산롯데호텔이 보유한 롯데렌탈 지분 61.2%를 사모펀드 운용사에 매각 완료한 PE 인수 딜.",
-    "company": "롯데렌탈",
-    "acquirer": "사모펀드 운용사",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.hankookilbo.com/news/article/A2026103015260002793?did=NA",
-    "date": "2026.10.30"
-  },
-  {
-    "title": "삼성SDS, 클라우드 성장에 3분기 영업익 2천410억원…AI 투자 확대(종합...",
-    "summary": "삼성SDS가 AI 데이터센터 및 피지컬 AI 사업 확대를 위해 우정항공 지분 100%를 인수했다.",
-    "company": "우정항공",
-    "acquirer": "삼성SDS",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441957",
-    "date": "2026.10.29"
-  },
-  {
-    "title": "더시에나그룹, 1조 8000억 원 규모 골프존카운티 인수…골프존홀딩스 “...",
-    "summary": "더시에나그룹·씨엘자산운용 컨소시엄이 PEF 운용사 MBK파트너스로부터 골프존카운티 경영권 지분 100%를 1.8조원에 인수하는 주식매매계약(SPA)을 체결했다.",
-    "company": "골프존카운티",
-    "acquirer": "더시에나그룹·씨엘자산운용 컨소시엄",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1.8조원",
-    "deal_stage": "계약",
-    "url": "https://www.kmib.co.kr/article/20261028501533",
-    "date": "2026.10.28"
-  },
-  {
-    "title": "1.8조 골프존카운티 매각에 골프존홀딩스 반발… \"법적 대응 검토\"",
-    "summary": "리조트·골프장 운영사 더시에나그룹과 사모펀드 운용사 씨엘자산운용이 국내 최대 골프장 운영사인 골프존카운티를 약 1.8조원에 인수하는 딜이 추진 중이며, 기존 주주의 반발이 있다.",
-    "company": "골프존카운티",
-    "acquirer": "더시에나그룹, 씨엘자산운용",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "strategic"
-    ],
-    "ev": "1.8조원",
-    "deal_stage": "협상",
-    "url": "https://www.hankookilbo.com/news/article/A2026102814540000735?did=NA",
-    "date": "2026.10.28"
-  },
-  {
-    "title": "STX엔진, 새 대표에 유진수 본부장 선임…매각 앞두고 진용 재편",
-    "summary": "유암코의 '유암코기업리바운스제팔차 기업재무안정 사모투자합자회사'가 보유한 STX엔진 지분 매각을 앞두고 새로운 대표를 선임하며 엑싯을 추진 중이다.",
-    "company": "STX엔진",
-    "acquirer": "유암코기업리바운스제팔차 기업재무안정 사모투자합자회사",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729170",
-    "date": "2026.10.26"
-  },
-  {
-    "title": "[제약공시 책갈피] 10월 4주차 - 저PBR제약사·셀트리온 外",
-    "summary": "사모펀드가 이연제약 주식 5%를 신규 취득하여 대량보유상황을 보고했으며, 이는 전환사채 리픽싱의 영향으로 풀이된다.",
-    "company": "이연제약",
-    "acquirer": "사모펀드",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.medipana.com/news/articleView.html?idxno=420008",
-    "date": "2026.10.25"
-  },
-  {
-    "title": "맘스터치, 679억원 벌어 676억원을 사모펀드에",
-    "summary": "최대주주인 사모펀드 KL&파트너스가 포트폴리오 회사 맘스터치의 매각 작업을 진행하며 투자금 회수를 추진 중인 엑시트 딜.",
-    "company": "맘스터치",
-    "acquirer": "KL&파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38211",
-    "date": "2026.10.23"
-  },
-  {
-    "title": "[재계 포커스] 태광그룹, 케이조선 인수 재도전…조선업에서 '제2의 성장...",
-    "summary": "태광그룹이 미국계 사모펀드 TPG와 함께 케이조선 인수를 재추진하며 투자 가능성을 검토하는 전략적 M&A 딜입니다.",
-    "company": "케이조선",
-    "acquirer": "태광그룹, TPG",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746537",
-    "date": "2026.10.22"
-  },
-  {
-    "title": "SNT그룹, '스맥' 경영권 기필코 확보할 터…다시 팔 걷어 부친 까닭",
-    "summary": "SNT그룹이 코스닥 상장사 스맥의 경영권 확보를 재차 추진하는 전략적 M&A 딜이다.",
-    "company": "스맥",
-    "acquirer": "SNT그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.nongaek.com/news/articleView.html?idxno=97205",
-    "date": "2026.10.22"
-  },
-  {
-    "title": "세라젬 창업주, 전문경영인을 아들로 입양…지분 10% 승계",
-    "summary": "세라젬 창업주가 전문경영인에게 회사 지분 10%를 승계하는 방안을 검토 중이며, 이 과정에서 사모펀드와 협력하는 경영진 인수(MBO) 방식이 논의되고 있다.",
-    "company": "세라젬",
-    "acquirer": "전문경영인 및 사모펀드",
-    "type": "lbo",
-    "tags": [
-      "lbo"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38154",
-    "date": "2026.10.20"
-  },
-  {
-    "title": "[더벨]센트로이드에셋, 한화금융과 협업…2600억 펀드 결성",
-    "summary": "센트로이드에셋이 리버티자산운용을 인수하여 일반 사모 라이선스를 확보한 후, 한화금융과 협업하여 2600억원 규모의 펀드를 결성한 PE의 기업 인수 딜입니다.",
-    "company": "리버티자산운용",
-    "acquirer": "센트로이드에셋",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610150231571180107851",
-    "date": "2026.10.19"
-  },
-  {
-    "title": "[일본 특징주] 소프트뱅크, 보안업체 '얼라이드 유니버설' 인수 검토",
-    "summary": "소프트뱅크 그룹이 사모펀드 워버그 핀커스가 보유한 미국 최대 보안 서비스 업체 얼라이드 유니버설의 인수를 검토하고 있다.",
-    "company": "얼라이드 유니버설",
-    "acquirer": "소프트뱅크 그룹",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.newspim.com/news/view/20261019001038",
-    "date": "2026.10.19"
-  },
-  {
-    "title": "고려아연·영풍 경영권 전쟁…지분 경쟁보다 중요한 기업의 미래",
-    "summary": "영풍과 사모펀드 MBK파트너스가 고려아연에 대한 공개매수에 나서며 적대적 M&A를 통한 경영권 분쟁이 확대되었다.",
-    "company": "고려아연",
-    "acquirer": "영풍, MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq",
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "발표",
-    "url": "https://www.hinews.co.kr/view.php?ud=202610181240451708cd8b879b3c_48",
-    "date": "2026.10.18"
   }
 ]
