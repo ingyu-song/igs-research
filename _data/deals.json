@@ -1,5 +1,19 @@
 [
   {
+    "title": "영업익 4.5배 키운 IMM…현대LNG해운 '12년 밸류업' 마침표 [fn마켓워치]",
+    "summary": "IMM 컨소시엄이 2014년에 인수한 현대LNG해운을 글로벌 전략적투자자(SI)에게 매각하며 장기간의 밸류업을 마무리하고 엑싯을 완료했다.",
+    "company": "현대LNG해운",
+    "acquirer": "IMM 컨소시엄",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.fnnews.com/news/202611221542112681",
+    "date": "2026.11.22"
+  },
+  {
     "title": "MBK, 와콤 1조원대 인수… 삼성전자·하이딥 주가 움직임 '촉각'",
     "summary": "국내 사모펀드 MBK파트너스가 삼성전자의 S펜 핵심 기술을 공급하는 일본 디지털 펜 제조사 와콤을 1조원대에 인수하는 거래를 추진한다.",
     "company": "와콤",
@@ -1391,20 +1405,6 @@
     "ev": "1000억원",
     "deal_stage": "완료",
     "url": "https://www.sedaily.com/article/20108573?ref=naver",
-    "date": "2026.10.31"
-  },
-  {
-    "title": "“홈플러스 이어 골프존카운티와 갈등”…MBK, 지분 매각 놓고 법적 분...",
-    "summary": "MBK파트너스가 골프존카운티 지분 매각을 추진하는 과정에서 2대 주주와 동반매도요구권 행사 등을 놓고 법적 분쟁에 휘말린 엑싯 딜.",
-    "company": "골프존카운티",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.ddaily.co.kr/page/view/2026103116075470875",
     "date": "2026.10.31"
   }
 ]
