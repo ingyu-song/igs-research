@@ -1,5 +1,173 @@
 [
   {
+    "title": "최윤범 겨눈 영풍·MBK…고려아연은 두 회사 '경영 성적표'로 맞대응",
+    "summary": "사모펀드 MBK파트너스가 영풍 및 최윤범 일가와 함께 고려아연의 경영권 확보 경쟁에 가세하여 전면화되었고, 고려아연은 이를 적대적 M&A 시도로 규정하며 자사주 공개매수로 맞대응했다.",
+    "company": "고려아연",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.kpinews.kr/newsView/1065604763642296",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "'중소형 증권사 M&A' 대전 재점화…다올투자證 경영권 매각 수면 위로 [...",
+    "summary": "Sh수협은행이 비은행 사업 확대를 위해 상상인증권 인수를 추진하는 전략적 M&A 딜이다.",
+    "company": "상상인증권",
+    "acquirer": "Sh수협은행",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.fnnews.com/news/202611241810024588",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "어펄마, 세아FSI 매각 종결…세아그룹 투자로 3.8배 회수",
+    "summary": "사모펀드 운용사 어펄마캐피탈이 보유하고 있던 세아FSI 등 계열사 패키지를 핑거의 특수목적법인 에프지투자2호에 매각하며 엑싯을 완료했다.",
+    "company": "세아FSI",
+    "acquirer": "핑거",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://view.asiae.co.kr/article/2026112418022513133",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "[단독] 다올證 인수전, DB·유진·LF 참전하나",
+    "summary": "DB, 유진, LF가 다올투자증권 인수전에 참여할 가능성이 제기되고 있는 전략적 M&A 딜입니다.",
+    "company": "다올투자증권",
+    "acquirer": "DB, 유진, LF",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.hankyung.com/article/2026112476371",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "[단독] 'IB 특화' 다올투자증권 경영권 판다",
+    "summary": "다올투자증권이 경영권 매각을 추진 중이며, 인수자는 이를 통해 금융사업 포트폴리오를 확대할 수 있는 전략적 딜이다.",
+    "company": "다올투자증권",
+    "acquirer": null,
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "소문",
+    "url": "https://www.hankyung.com/article/2026112477551",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "이병철 회장, 다올투자증권 경영권 지분 매각 추진",
+    "summary": "이병철 회장이 다올투자증권 경영권 지분 매각을 추진 중이며, LF그룹과 금융지주사, PEF 운용사 등이 잠재 인수 후보군으로 거론되는 전략적 M&A 딜입니다.",
+    "company": "다올투자증권",
+    "acquirer": "이병철 회장",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://dealsite.co.kr/articles/173430",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "[K증권 재팬러시②] 한화투자증권 '日 열도' 공략…기관금융 뚫는다",
+    "summary": "한화투자증권이 일본 도쿄 소재 금융회사인 GI캐피털매니지먼트의 증권 부문 인수를 추진하고 있다.",
+    "company": "GI캐피털매니지먼트",
+    "acquirer": "한화투자증권",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259651",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "[단독] 다올투자증권 M&A 매물로…이병철 회장 지분 매각 추진",
+    "summary": "이병철 회장이 보유한 다올투자증권의 지분 매각을 추진하며, 다올투자증권이 M&A 매물로 시장에 나왔다.",
+    "company": "다올투자증권",
+    "acquirer": "이병철 회장",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202611247088r",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "위기의 제약사가 매력적인 매물로…부실기업 저가 매수하는 투자자들",
+    "summary": "유니온제약의 백병하 회장 및 특수관계인이 보유한 지분 22.61%를 사모펀드 NBH캐피탈에 매각하려 추진하는 딜입니다.",
+    "company": "유니온제약",
+    "acquirer": "NBH캐피탈",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.apsk.co.kr/news/articleView.html?idxno=541137",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "카카오모빌리티 美 상장 갈등, 국제중재로…TPG \"청구 가치 1.5조원\"",
+    "summary": "글로벌 사모펀드 TPG가 카카오모빌리티의 지분 매각(엑싯)을 추진하는 과정에서 카카오와 갈등이 발생하여 국제중재로 비화된 딜 동향.",
+    "company": "카카오모빌리티",
+    "acquirer": "TPG",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": "1.5조원",
+    "deal_stage": "협상",
+    "url": "https://www.dailian.co.kr/news/view/1719084/?sc=Naver",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "삼부토건, 두번째 회생 종결 신청…'공공공사' 수주 재개 추진",
+    "summary": "삼부토건이 회생절차 종결을 위해 기존 인수에 활용된 사모투자펀드(PEF)를 해산(Exit)하고 새로운 전략적 투자자(SI)를 유치하는 M&A를 추진한다.",
+    "company": "삼부토건",
+    "acquirer": "전략적 투자자(SI)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679536",
+    "date": "2026.11.24"
+  },
+  {
+    "title": "[단독] 대한항공 ‘알짜’ 기내식 사업 결국 복수체제로...‘30년 계약’...",
+    "summary": "대한항공이 2020년 한앤컴퍼니에 매각했던 대한항공씨앤디서비스 지분 80%를 올해 3월 약 7766억원에 재인수하여 완전자회사로 편입하는 딜이다.",
+    "company": "대한항공씨앤디서비스",
+    "acquirer": "대한항공",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "7766억원",
+    "deal_stage": "완료",
+    "url": "https://www.mk.co.kr/article/12206273",
+    "date": "2026.11.12"
+  },
+  {
     "title": "[사모펀드 열전 ①] MBK파트너스는 어떻게 20년 만에 운용자산 330억달러...",
     "summary": "MBK파트너스가 마키노 인수전에 뛰어들었으며, 이는 사모펀드의 기업 인수(Buyout) 딜 추진을 다루는 기사입니다.",
     "company": "마키노",
@@ -1235,175 +1403,5 @@
     "deal_stage": "계약",
     "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223610",
     "date": "2026.11.10"
-  },
-  {
-    "title": "삼성화재, 2조2647억원에 英 캐노피우스 경영권 인수…지분 80.56% 확보",
-    "summary": "삼성화재가 2조2647억원에 영국 보험사 캐노피우스의 경영권 및 지분 80.56%를 인수하는 전략적 M&A 딜이다. 이번 인수에는 KKR과 한국투자공사가 공동투자자로 참여한다.",
-    "company": "캐노피우스",
-    "acquirer": "삼성화재",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "2.2647조원",
-    "deal_stage": "계약",
-    "url": "https://www.ddaily.co.kr/page/view/2026111016033543296",
-    "date": "2026.11.10"
-  },
-  {
-    "title": "삼성화재, 英 캐노피우스 경영권 확보",
-    "summary": "삼성화재가 미국 사모펀드 센터브릿지 파트너스가 이끄는 피덴티아 포르투나 홀딩스가 보유한 영국 캐노피우스의 잔여 지분을 인수하여 경영권을 확보한 전략적 M&A 거래이다.",
-    "company": "캐노피우스",
-    "acquirer": "삼성화재",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "http://www.metroseoul.co.kr/article/20261110500255",
-    "date": "2026.11.10"
-  },
-  {
-    "title": "영풍 대표 2명 구속 와중에 MBK와 계약…실질적 결정권자는 누구",
-    "summary": "사모펀드 MBK파트너스가 영풍과 고려아연 주식 공개매수를 앞두고 경영협력계약을 체결하며 고려아연 지분 인수 딜을 추진 중이다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.fntimes.com/html/view.php?ud=2026111016590526797de3572ddd_18",
-    "date": "2026.11.10"
-  },
-  {
-    "title": "영풍, 대표이사 구속 상태서 MBK에 콜옵션?…경영협력계약 막후 실세 '의...",
-    "summary": "사모펀드 MBK파트너스가 영풍과 고려아연 주식 공개매수를 앞두고 경영협력계약을 체결했으며, 해당 계약의 콜옵션 조항과 매각 조건에 대한 논란이 제기되고 있다.",
-    "company": "고려아연",
-    "acquirer": "MBK파트너스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7268",
-    "date": "2026.11.10"
-  },
-  {
-    "title": "'경쟁사' SK온 손잡은 KKR…LG엔솔, 합작관계 정리 수순?",
-    "summary": "LG에너지솔루션이 KKR과 합작 설립한 ESS 합작법인 KGP와의 관계 정리를 추진하며, 지분 매각 및 법인 청산 등 엑싯 시나리오를 검토 중이다.",
-    "company": "KGP",
-    "acquirer": "KKR, LG에너지솔루션",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=678192",
-    "date": "2026.11.10"
-  },
-  {
-    "title": "한국투자공사, 영국 보험사 캐노피우스에 3억달러 투자",
-    "summary": "국부펀드 한국투자공사가 영국 보험사 캐노피우스의 지분 인수에 3억달러를 투자하는 전략적 투자를 발표했다.",
-    "company": "Canopius",
-    "acquirer": "한국투자공사",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "3억달러",
-    "deal_stage": "계약",
-    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100939008170331",
-    "date": "2026.11.10"
-  },
-  {
-    "title": "롯데, 百·렌탈 자산 매각으로 체질 개선···SK식 리밸런식 시험대",
-    "summary": "글로벌 사모펀드 TPG가 롯데로부터 롯데렌탈 지분 61.2%를 1조3105억원에 인수하는 거래가 공정위 승인 후 완료되었다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1조3105억원",
-    "deal_stage": "완료",
-    "url": "https://www.smartbizn.com/news/articleView.html?idxno=158818",
-    "date": "2026.11.09"
-  },
-  {
-    "title": "롯데 떠난 롯데렌탈, TPG 품에서 상장폐지 수순…다음 행보는?",
-    "summary": "글로벌 사모펀드 운용사 TPG가 롯데렌탈 인수를 위해 설립한 SPC 렉시콘을 통해 롯데렌탈을 완전 자회사화하고 자발적 상장폐지를 추진하는 딜이다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://bizhankook.com/articles/lotte-rental-delisting-tpg-acquisition.html",
-    "date": "2026.11.08"
-  },
-  {
-    "title": "[주간사모펀드] LG화학 이어 카리플렉스까지…글랜우드PE, 우량 자산 잇...",
-    "summary": "국내 사모펀드 운용사 글랜우드프라이빗이쿼티가 세계 1위 의료용 합성고무 기업 카리플렉스를 인수하는 PE의 기업 인수 거래.",
-    "company": "카리플렉스",
-    "acquirer": "글랜우드프라이빗이쿼티",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "완료",
-    "url": "https://news.tf.co.kr/read/economy/2385862.htm",
-    "date": "2026.11.07"
-  },
-  {
-    "title": "EA 품은 실버 레이크+사우디 PIF, 이번엔 '유니티'까지 노리나",
-    "summary": "사모펀드 실버 레이크 파트너스와 사우디 PIF가 게임 엔진 업체 유니티 인수를 추진 중인 것으로 알려졌다.",
-    "company": "유니티",
-    "acquirer": "실버 레이크 파트너스, 사우디 PIF",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.inven.co.kr/webzine/news/?news=323086",
-    "date": "2026.11.06"
-  },
-  {
-    "title": "카카오뱅크 카드사 인수 1순위로 롯데카드 꼽히는 이유, 유일한 매물이...",
-    "summary": "카카오뱅크가 카드사 인수합병을 추진하면서 사모펀드 MBK파트너스가 대주주로 있는 롯데카드를 유력한 인수 대상으로 고려하고 있다는 내용의 기사입니다.",
-    "company": "롯데카드",
-    "acquirer": "카카오뱅크",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451395",
-    "date": "2026.11.06"
-  },
-  {
-    "title": "상장 못하고 몸값은 반토막…골드만삭스의 티맵 인수 걸림돌은?",
-    "summary": "글로벌 투자은행 골드만삭스가 SK스퀘어 및 기존 FI가 보유한 티맵모빌리티의 경영권 인수를 추진 중이다.",
-    "company": "티맵모빌리티",
-    "acquirer": "골드만삭스",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.newsway.co.kr/news/view?ud=2026110416495417650",
-    "date": "2026.11.05"
   }
 ]
