@@ -1,5 +1,61 @@
 [
   {
+    "title": "'4조대어' SK팜테코, 소수지분 매각 본격화",
+    "summary": "SK가 자회사 SK팜테코의 소수 지분 매각을 추진하며, 대형 사모펀드(PEF) 운용사들이 재무적투자자(FI)로 검토되는 지분 투자(acq) 딜이다.",
+    "company": "SK팜테코",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.mk.co.kr/article/12219648",
+    "date": "2026.11.26"
+  },
+  {
+    "title": "[속보] JYP 박진영 다음 ‘넘버2’ 미국 큰손 등극···1128억 쓸어담아",
+    "summary": "미국 큰손이 창업주 도용환 회장의 지분을 인수하여 사모펀드 운용사 스틱인베스트먼트의 최대주주가 되었으며, 딜 규모는 1128억으로 추정된다.",
+    "company": "스틱인베스트먼트",
+    "acquirer": "미국 큰손",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1128억원",
+    "deal_stage": "완료",
+    "url": "https://sports.khan.co.kr/article/202611261723003?pt=nv",
+    "date": "2026.11.26"
+  },
+  {
+    "title": "다올證, 매각 추진 속 저축銀 지분 222억 추가 취득…무슨 거래?",
+    "summary": "다올투자증권은 경영권 매각을 추진 중이며, DB손해보험, 유진그룹, LF그룹, JB금융지주, 사모펀드(PEF) 등이 잠재적 인수 후보로 검토되고 있는 전략적 M&A 딜이다.",
+    "company": "다올투자증권",
+    "acquirer": "DB손해보험, 유진그룹, LF그룹, JB금융지주, 사모펀드(PEF)",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242252",
+    "date": "2026.11.26"
+  },
+  {
+    "title": "[카리플렉스 M&A] 이상호 믿고 입찰 건너뛴 DL…KKR 한앤 제친 글랜우드",
+    "summary": "글랜우드PE가 카리플렉스 인수를 위해 인수의향서(LOI)를 접수하고 단독 협상 끝에 구속력 있는 양해각서(MOU)를 체결하며 딜이 추진되고 있다.",
+    "company": "카리플렉스",
+    "acquirer": "글랜우드PE",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://dealsite.co.kr/articles/172799",
+    "date": "2026.11.17"
+  },
+  {
     "title": "삼성금융 계열 사장단 전원 유임 가닥… 성과주의 원칙 이어간다",
     "summary": "삼성화재가 글로벌 사모펀드 KKR, 한국투자공사 KIC와 공동으로 영국 특종보험사 캐노피우스의 잔여 지분을 인수하는 PE/M&A 거래.",
     "company": "캐노피우스",
@@ -1347,61 +1403,5 @@
     "deal_stage": "완료",
     "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/QHEP5PIFONFPXJMOENUJJ6Q5GE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
     "date": "2026.11.17"
-  },
-  {
-    "title": "신한금융 품에 안긴 롯데손보, 보험이익 2배 '껑충'",
-    "summary": "최대주주인 사모펀드 운용사 JKL파트너스가 롯데손보 지분 77.04%를 신한금융에 6933억원에 매각하는 주식매매계약(SPA)을 체결한 PE 엑싯 거래.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "6933억원",
-    "deal_stage": "계약",
-    "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313844",
-    "date": "2026.11.17"
-  },
-  {
-    "title": "[Invest]현대투자파트너스, 승명실업 매각…무벡스 투자금 회수 포석",
-    "summary": "현대투자파트너스가 인수 1년 만에 승명실업 매각을 추진하며, 무벡스 투자금 회수를 위한 엑싯 전략을 펼친다.",
-    "company": "승명실업",
-    "acquirer": "현대투자파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "약 400억원",
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/11/17/2026111780140.html",
-    "date": "2026.11.17"
-  },
-  {
-    "title": "\"돈 되면 알짜도 판다\"… K-석화, 유동성 확보 '영끌' 매각",
-    "summary": "롯데에너지머티리얼즈가 자회사 롯데에코월 지분 90%를 사모펀드 운용사 릴슨 PE에 1708억원에 매각 완료했다.",
-    "company": "롯데에코월",
-    "acquirer": "릴슨 PE",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "1708억원",
-    "deal_stage": "완료",
-    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001231",
-    "date": "2026.11.17"
-  },
-  {
-    "title": "호반은 한진칼, 장금상선은 ㈜한진 겨냥…지분 매입 속내는?",
-    "summary": "호반그룹이 사모펀드 KCGI로부터 한진칼 지분을 인수한 후, 계열사를 통해 한진칼 지분을 꾸준히 확대하며 경영권 확보를 위한 전략적 지분 인수를 추진하고 있다.",
-    "company": "㈜한진칼",
-    "acquirer": "호반그룹",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": null,
-    "url": "https://www.g-enews.com/view.php?ud=202611161520333417153ddfb15a_1",
-    "date": "2026.11.16"
   }
 ]
