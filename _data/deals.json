@@ -1,5 +1,257 @@
 [
   {
+    "title": "롯데손보, 19년 만에 간판 바꾼다…내년 7월 '신한손해보험'",
+    "summary": "신한금융지주가 롯데손해보험을 인수함에 따라, 롯데손해보험이 '신한손해보험'으로 사명을 변경하는 통합 작업이 진행 중이다. 이는 JKL파트너스의 롯데손보 매각 후 신한금융으로의 편입 과정의 일환이다.",
+    "company": "롯데손해보험",
+    "acquirer": "신한금융지주",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://dealsite.co.kr/articles/173709",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "이문화 삼성화재 대표, 유임으로 경영 연속성 확보…글로벌 보험사 도약...",
+    "summary": "삼성화재가 글로벌 사모펀드 KKR, 한국투자공사(KIC)와 함께 보험사 캐노피우스의 잔여 지분 60%를 인수하기로 결정하며 지분율을 80.6%로 확대하는 전략적 M&A 거래이다.",
+    "company": "캐노피우스",
+    "acquirer": "삼성화재",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.fntimes.com/html/view.php?ud=2026112715085736639efc5ce4ae_18",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "MBK, 넉 달 전부터 삼성과 협의…1조원대 와콤 공개매수 막전막후",
+    "summary": "MBK파트너스가 일본 와콤의 공개매수를 통해 1조원대 인수를 추진하며 삼성과 협의한 과정에 대한 기사입니다.",
+    "company": "와콤",
+    "acquirer": "MBK파트너스",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1조원대",
+    "deal_stage": "계약",
+    "url": "https://www.mt.co.kr/stock/2026/11/27/2026112714130336337",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리운용, 화장품 ODM '화성코스메틱·나우코스' 지분 100% 확보",
+    "summary": "맥쿼리자산운용이 자사가 운용하는 사모펀드를 통해 국내 화장품 제조업자개발생산(ODM) 업체 화성코스메틱과 나우코스의 지분을 각각 100% 인수 완료했다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.newstopkorea.com/ko-kr/articles/49368",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "[단독] '4000억 자구책' 다원시스, 결국 신사옥까지 묶어 2100억 매각",
+    "summary": "다원시스가 자구책 일환으로 신사옥을 포함한 2,100억원 규모의 자산 매각을 추진하며, 한 사모펀드가 인수를 제안했으나 기대가에 미치지 못해 협상이 진행 중이다.",
+    "company": "다원시스",
+    "acquirer": "사모펀드",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "2100억",
+    "deal_stage": "협상",
+    "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33486",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리자산운용, 화성코스메틱·나우코스 인수 완료",
+    "summary": "맥쿼리자산운용이 운용 중인 PEF를 통해 화성코스메틱과 나우코스의 지분 100% 인수를 완료했다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "null",
+    "deal_stage": "완료",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508914",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리자산운용, 화장품 ODM 업체 화성코스메틱·나우코스 지분 전량 인...",
+    "summary": "글로벌 사모펀드(PEF) 운용사 맥쿼리자산운용이 화장품 ODM 기업인 화성코스메틱과 나우코스의 지분 전량을 인수하는 거래를 완료했다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.livebiz.today/news/articleView.html?idxno=206991",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "[CEO레이더] 윤재승 대웅제약 CVO② 분할·합병으로 커진 가족회사···...",
+    "summary": "IMM PE와 미국계 사모펀드 TA어소시에이츠가 코스닥 상장사 시지메드텍 관련 인수를 논의했으나 협상이 결렬된 PE 인수 거래.",
+    "company": "시지메드텍",
+    "acquirer": "IMM PE, TA어소시에이츠",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.globale.co.kr/news/articleView.html?idxno=41886",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리자산운용, '화장품 ODM' 화성코스메틱·나우코스 인수",
+    "summary": "글로벌 사모펀드 운용사 맥쿼리자산운용이 운용 중인 PEF를 통해 국내 화장품 ODM 기업인 화성코스메틱과 나우코스의 지분 100% 인수를 완료했다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://biz.sbs.co.kr/article_hub/20000349407?division=NAVER",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "에이피알 대표 김병훈 '닮은꼴 창업자' 유경화와 동행, 닥터멜락신 '제...",
+    "summary": "에이피알이 브랜드501의 지분 87.3%를 약 3900억 원에 인수하는 계약을 체결하며, 브랜드501이 에이피알의 연결 자회사로 편입되는 전략적 M&A 딜이다.",
+    "company": "브랜드501",
+    "acquirer": "에이피알",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": "3900억원",
+    "deal_stage": "계약",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453127",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리, 화성코스메틱·나우코스 인수 완료…“글로벌 ODM 추진” [시그...",
+    "summary": "글로벌 사모펀드(PEF) 운용사 맥쿼리자산운용이 화장품 ODM 업체인 화성코스메틱과 나우코스의 지분 100% 인수를 완료했다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.sedaily.com/article/20119901?ref=naver",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리운용, 화성코스메틱·나우코스 지분 전량 인수",
+    "summary": "글로벌 사모펀드(PEF) 운용사 맥쿼리자산운용이 PEF를 통해 화장품 ODM 기업 화성코스메틱과 나우코스의 지분을 어펄머캐피탈로부터 인수 완료한 거래.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.g-enews.com/view.php?ud=202611271519323576153ddfb15a_1",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리, 화성코스메틱·나우코스 인수 완료… 어펄마는 투자금 2배 회수",
+    "summary": "맥쿼리가 화성코스메틱과 나우코스를 인수 완료했으며, 매도자인 사모펀드 어펄마캐피탈은 이번 거래를 통해 투자금의 약 2배를 회수하는 엑싯에 성공했다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/MBLZEFLQENCR3NKPPQLO456P3Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "홈플러스 또 셧다운...사모펀드 규제는 제자리",
+    "summary": "홈플러스가 매각 주관사를 통해 부동산 개발업체(디벨로퍼) 중심의 컨소시엄으로부터 인수의향서(LOI)를 받으며 매각을 추진 중이다.",
+    "company": "홈플러스",
+    "acquirer": "부동산 개발업체(디벨로퍼) 중심의 컨소시엄",
+    "type": "strategic",
+    "tags": [
+      "strategic"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "http://www.00news.co.kr/news/articleView.html?idxno=108402",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "현대LNG해운, 결국 인니에 팔렸다···'에너지 안보' 시험대 오른 K해운",
+    "summary": "국내 사모펀드가 보유했던 현대LNG해운의 인도네시아 기업으로의 매각이 완료되며 PE 엑싯 딜이 성사되었다.",
+    "company": "현대LNG해운",
+    "acquirer": null,
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.seoulfn.com/news/articleView.html?idxno=644138",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리, '색조·스킨케어' 한 지붕에…2500억 매출 플랫폼 확보 [fn마켓워...",
+    "summary": "맥쿼리자산운용의 사모펀드가 화성코스메틱과 나우코스의 지분 100% 인수를 완료한 PE 기업 인수 거래이다.",
+    "company": "화성코스메틱, 나우코스",
+    "acquirer": "맥쿼리자산운용",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.fnnews.com/news/202611271417103309",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "[범한메카텍 IPO] 최대 수혜자 범한산업, 공모서 보유주식 더 판다",
+    "summary": "범한산업이 올해 5월 산은캐피탈, 제이앤알파, 브이엘구스타프 PEF 등 재무적투자자(FI)에게 범한메카텍 지분 26.83%를 매각하는 딜이 완료되었다.",
+    "company": "범한메카텍",
+    "acquirer": "산은캐피탈, 제이앤알파, 브이엘구스타프 PEF",
+    "type": "sec",
+    "tags": [
+      "sec"
+    ],
+    "ev": null,
+    "deal_stage": "완료",
+    "url": "https://www.the-stock.kr/news/articleView.html?idxno=33942",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "[단독] SK '리밸런싱 마지막 퍼즐' 팜테코 소수지분 매각…맥쿼리·베인...",
+    "summary": "SK는 리밸런싱 전략의 일환으로 팜테코의 소수 지분 매각을 추진하고 있으며, 맥쿼리 및 베인과 같은 FI들이 바이아웃, 소수 지분 인수 등 다양한 방식으로 딜을 제안하며 인수 후보로 거론되고 있다.",
+    "company": "팜테코",
+    "acquirer": "맥쿼리, 베인",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.hankyung.com/article/202611250655r",
+    "date": "2026.11.27"
+  },
+  {
     "title": "'4조대어' SK팜테코, 소수지분 매각 본격화",
     "summary": "SK가 자회사 SK팜테코의 소수 지분 매각을 추진하며, 대형 사모펀드(PEF) 운용사들이 재무적투자자(FI)로 검토되는 지분 투자(acq) 딜이다.",
     "company": "SK팜테코",
@@ -1151,257 +1403,5 @@
     "deal_stage": "소문",
     "url": "https://www.jemin.com/news/articleView.html?idxno=847772",
     "date": "2026.11.19"
-  },
-  {
-    "title": "[단독] 오릭스, OSB저축은행 매각 추진 중단···가치 제고 선회",
-    "summary": "오릭스와 미국계 사모펀드는 보유 중인 OSB저축은행 지분 약 99.9% 매각 추진을 중단했다.",
-    "company": "OSB저축은행",
-    "acquirer": "오릭스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494696",
-    "date": "2026.11.19"
-  },
-  {
-    "title": "[재계줌인] \"미래 성장동력 확보\"…대기업, 게임·석화 덜어내고 AI·발...",
-    "summary": "SK디스커버리 및 SK㈜가 신재생 개발사 SK이터닉스 지분 30.98%를 글로벌 사모펀드 KKR에 매각하는 계약을 체결했다.",
-    "company": "SK이터닉스",
-    "acquirer": "KKR",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "http://www.dailypop.kr/news/articleView.html?idxno=104763",
-    "date": "2026.11.19"
-  },
-  {
-    "title": "[37th SRE][Issue]M&A 빅딜 실종 2년째…기대와 우려 ‘반반’",
-    "summary": "롯데(호텔롯데, 부산롯데호텔)가 롯데렌탈 지분 61.2% 전량을 1조3105억원에 TPG에 매각하는 계약을 체결한 딜로, 롯데의 PE 엑싯이자 TPG의 인수 거래입니다.",
-    "company": "롯데렌탈",
-    "acquirer": "TPG",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조3105억원",
-    "deal_stage": "계약",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=03050406645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "직영점 버거킹 vs 가맹점 맘스터치…'1조 몸값' 매각전 동상이몽",
-    "summary": "PE 어피니티에쿼티파트너스가 버거킹 운영사 비케이알(BKR)의 보유 지분 전량 매각을 위해 매각 주관사를 선정하며 엑싯을 추진 중이다.",
-    "company": "비케이알",
-    "acquirer": "어피니티에쿼티파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1조원",
-    "deal_stage": "협상",
-    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001005",
-    "date": "2026.11.15"
-  },
-  {
-    "title": "태광산업 일본 탈모 클리닉 '닥터AGA'에 지분투자, 동성제약·애경산업...",
-    "summary": "태광산업, 인빅터스PEF, 원텍 컨소시엄이 일본 닥터AGA클리닉 운영사인 닛쇼카이와 병원 경영 지원회사 닛쇼메디컬의 지분을 총 108억 엔에 인수하는 거래이다.",
-    "company": "닛쇼카이, 닛쇼메디컬",
-    "acquirer": "태광산업, 인빅터스PEF, 원텍",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "108억 엔",
-    "deal_stage": "계약",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452327",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "[마켓인] ‘F&B 큰손’ 메가커피, 해태htb 품고 버거킹 겨눈다",
-    "summary": "메가커피 운영사 엠지씨글로벌이 해태htb 인수를 위한 본입찰에서 우선협상권을 획득하며 전략적 M&A를 추진 중이다.",
-    "company": "해태htb",
-    "acquirer": "엠지씨글로벌",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=04024566645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "김대영 메가커피 음료 제조로 사업 확장 : '갈아만든 배' '봉봉' '코코팜...",
-    "summary": "메가커피 운영사 측 컨소시엄이 해태htb 인수전에서 우선협상대상자로 선정되었다.",
-    "company": "해태htb",
-    "acquirer": "메가커피 운영사 측 컨소시엄",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.huffingtonpost.kr/article/262192",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "태광산업, 日 탈모시장에 351억원 '베팅'…K헤어케어 시동",
-    "summary": "국내 사모펀드 인빅터스프라이빗에쿼티아시아(인빅터스PEA)와 원텍 컨소시엄이 일본 의료법인 닛쇼카이와 MSO 닛쇼메디칼을 인수하는 거래에 참여했다.",
-    "company": "닛쇼카이, 닛쇼메디칼",
-    "acquirer": "인빅터스프라이빗에쿼티아시아, 원텍 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "351억원",
-    "deal_stage": "계약",
-    "url": "https://www.sisajournal.com/news/articleView.html?idxno=394510",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "“적자 102억 음료사 몸값이 3000억?”…메가커피 오너가 ‘해태htb’ 품...",
-    "summary": "코스닥 상장사 보라티알이 참여한 컨소시엄이 LG생활건강의 자회사 해태htb 지분 100% 인수의 우선협상대상자로 선정된 전략적 M&A 딜이다.",
-    "company": "해태htb",
-    "acquirer": "보라티알 컨소시엄",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "3000억",
-    "deal_stage": "협상",
-    "url": "https://www.mydaily.co.kr/page/view/2026111815534860052",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "KDB생명 매각 12년 잔혹사…‘1조 증자’ 벽에 7번째 불발",
-    "summary": "KDB생명 매각 시도가 12년간 7번째 불발된 과정을 다루는 기사로, 과거 한국산업은행과 칸서스자산운용이 금호생명(현 KDB생명)을 인수한 이후 JC파트너스와의 매각 계약 무산 등 엑싯이 반복적으로 실패하고 있음을 보여준다.",
-    "company": "KDB생명",
-    "acquirer": "한국산업은행, 칸서스자산운용",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.kmib.co.kr/article/20261118501389",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "태광산업, 일본 탈모시장에 351억 베팅…동성제약·애경산업 판로 넓힌...",
-    "summary": "태광산업이 사모펀드 인빅터스PEF, 의료기기 기업 원텍과 컨소시엄을 구성해 일본 탈모 치료 전문 의료기관 '닥터 AGA 클리닉' 지분 36.8%를 인수 완료했다.",
-    "company": "닥터 AGA 클리닉",
-    "acquirer": "태광산업, 인빅터스PEF",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "351억원",
-    "deal_stage": "완료",
-    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084954",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "산업은행, KDB생명 매각 또 불발…한국투자금융지주와 협상 종료",
-    "summary": "산업은행이 2010년 PEF를 통해 인수한 KDB생명의 매각을 추진했으나, 잠재적 인수자인 한국투자금융지주와의 협상이 최종적으로 불발되어 매각 시도가 종료되었다는 내용의 딜이다.",
-    "company": "KDB생명",
-    "acquirer": "산업은행",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748653",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "태광산업, 日 탈모 치료 시장 진출…현지 클리닉에 351억 투자",
-    "summary": "국내 PEF 운용사 인빅터스프라이빗이쿼티아시아가 원텍과 컨소시엄을 구성하여 일본 의료법인 닛쇼카이 및 MSO 닛쇼메디칼을 351억 원에 인수하는 PE 바이아웃 딜이다.",
-    "company": "의료법인 닛쇼카이, 닛쇼메디칼",
-    "acquirer": "인빅터스프라이빗이쿼티아시아, 원텍 컨소시엄",
-    "type": "acq",
-    "tags": [
-      "acq"
-    ],
-    "ev": "351억원",
-    "deal_stage": "완료",
-    "url": "https://www.sedaily.com/article/20115979?ref=naver",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "[Invest]'메가MGC커피' 보라티알, 해태htb 인수 우선협상대상자 선정",
-    "summary": "보라티알이 LG생활건강의 음료 자회사 해태htb 인수 우선협상대상자로 선정되었다. 이번 인수전에는 사모펀드 운용사 고도파트너스도 참여했다.",
-    "company": "해태htb",
-    "acquirer": "보라티알",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.investchosun.com/site/data/html_dir/2026/11/18/2026111880135.html",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "산업은행, KDB생명 일곱 번째 매각도 무산…한국투자금융지주와 협상 종...",
-    "summary": "산업은행이 KDB생명 매각을 한국투자금융지주와 협상했으나 최종 무산되었다. 이는 산업은행의 KDB생명 엑싯 시도가 일곱 번째로 실패한 것이다.",
-    "company": "KDB생명",
-    "acquirer": "산업은행",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://sateconomy.co.kr/news/view/1065579526029245",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "경보전기 합병에 화장품 양수까지…진시스템, 사명ㆍ본점ㆍ주력사업 모...",
-    "summary": "최대주주 사모펀드의 자회사인 진시스템이 경보전기와의 합병 및 화장품 사업 양수를 통해 대형 인수합병에 나섰다.",
-    "company": "경보전기",
-    "acquirer": "진시스템",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "협상",
-    "url": "https://www.etoday.co.kr/news/view/2649338",
-    "date": "2026.11.18"
-  },
-  {
-    "title": "MBK \"K뷰티 투자 확대\"",
-    "summary": "MBK파트너스가 2013년 인수한 아웃도어 브랜드 네파의 매각 계약을 체결하며 엑싯을 추진 중이다.",
-    "company": "네파",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.mk.co.kr/article/12211417",
-    "date": "2026.11.17"
-  },
-  {
-    "title": "“고령화 예상보다 빠르다”… MBK, 시니어케어 투자 정조준",
-    "summary": "MBK파트너스는 지난 6월 일본 시니어케어 지주사 재팬웰빙을 미국계 사모펀드 어드벤트인터내셔널에 약 1조9000억원에 매각 완료했다.",
-    "company": "재팬웰빙",
-    "acquirer": "MBK파트너스",
-    "type": "exit",
-    "tags": [
-      "exit"
-    ],
-    "ev": "1.9조원",
-    "deal_stage": "완료",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/QHEP5PIFONFPXJMOENUJJ6Q5GE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "date": "2026.11.17"
   }
 ]
