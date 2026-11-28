@@ -1,5 +1,61 @@
 [
   {
+    "title": "[김동선의 뉴한화] 타임월드 못 판 갤러리아…명품관 재건축 '재원 숙제...",
+    "summary": "한화갤러리아가 사모펀드 운용사 H&Q에쿼티파트너스와 에프지코리아 지분 매각을 위한 양해각서(MOU)를 체결했으나, 해당 딜 추진이 지연되고 있다.",
+    "company": "에프지코리아",
+    "acquirer": "H&Q에쿼티파트너스",
+    "type": "exit",
+    "tags": [
+      "exit"
+    ],
+    "ev": null,
+    "deal_stage": "협상",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679879",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "맥쿼리, K-ODM 베팅…화성·나우코스 3000억 딜 클로징",
+    "summary": "맥쿼리가 K-뷰티 ODM 기업인 화성과 나우코스를 총 3000억원에 인수하는 딜을 완료했다.",
+    "company": "화성, 나우코스",
+    "acquirer": "맥쿼리",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "3000억원",
+    "deal_stage": "완료",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679878",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "자본잠식 아이티엠반도체, 에이치PE ‘구원투수’ 등판하나",
+    "summary": "자본잠식 상태의 아이티엠반도체가 국내 사모펀드 운용사 에이치프라이빗에쿼티로부터 1000억원 규모의 신주 발행을 통한 투자를 추진하는 PEF의 기업 인수 딜이다.",
+    "company": "아이티엠반도체",
+    "acquirer": "에이치프라이빗에쿼티",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": "1000억원",
+    "deal_stage": "협상",
+    "url": "https://www.newstopkorea.com/ko-kr/articles/49334",
+    "date": "2026.11.27"
+  },
+  {
+    "title": "이문화 삼성화재 대표, 유임으로 경영 연속성 확보…글벌 보험사 도약...",
+    "summary": "글로벌 사모펀드 KKR과 한국투자공사(KIC)가 글로벌 보험사 캐노피우스의 잔여 지분 60%를 인수하는 PE/M&A 딜을 추진한다.",
+    "company": "캐노피우스",
+    "acquirer": "KKR, 한국투자공사(KIC)",
+    "type": "acq",
+    "tags": [
+      "acq"
+    ],
+    "ev": null,
+    "deal_stage": "계약",
+    "url": "https://www.fntimes.com/html/view.php?ud=2026112715085736639efc5ce4ae_18",
+    "date": "2026.11.27"
+  },
+  {
     "title": "롯데손보, 19년 만에 간판 바꾼다…내년 7월 '신한손해보험'",
     "summary": "신한금융지주가 롯데손해보험을 인수함에 따라, 롯데손해보험이 '신한손해보험'으로 사명을 변경하는 통합 작업이 진행 중이다. 이는 JKL파트너스의 롯데손보 매각 후 신한금융으로의 편입 과정의 일환이다.",
     "company": "롯데손해보험",
@@ -1345,63 +1401,6 @@
     "ev": "9000억 원",
     "deal_stage": "계약",
     "url": "https://www.sedaily.com/article/20116589?ref=naver",
-    "date": "2026.11.19"
-  },
-  {
-    "title": "롯데손보, 액면가의 10분의 1로 무상감자…기본자본 4600억 채운다",
-    "summary": "신한금융이 사모펀드 운용사 JKL파트너스로부터 롯데손해보험 지분 77.04%를 6933억원에 인수하는 주식매매계약(SPA)을 체결했다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융",
-    "type": "strategic",
-    "tags": [
-      "strategic",
-      "exit"
-    ],
-    "ev": "6933억원",
-    "deal_stage": "계약",
-    "url": "https://biz.heraldcorp.com/article/10943050?ref=naver",
-    "date": "2026.11.19"
-  },
-  {
-    "title": "롯데손보, '10대 1' 무상감자 추진···깎인 기본자본 4600억 채운다",
-    "summary": "신한금융이 사모펀드 JKL파트너스로부터 롯데손해보험을 인수하기 위한 주식매매계약을 체결했으며, 인허가 및 매매대금 지급 전 무상감자를 추진한다.",
-    "company": "롯데손해보험",
-    "acquirer": "신한금융",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "계약",
-    "url": "https://www.fnnews.com/news/202611191550534833",
-    "date": "2026.11.19"
-  },
-  {
-    "title": "태광산업, 日 탈모 클리닉에 351억 투자…동성제약·애경산업 판로 확대...",
-    "summary": "태광산업이 사모펀드 인빅터스PEF, 의료기기 기업 원텍과 컨소시엄을 구성하여 일본 닥터 AGA 클리닉을 약 108억엔에 공동 인수하는 거래이다.",
-    "company": "닥터 AGA 클리닉",
-    "acquirer": "태광산업, 인빅터스PEF, 원텍",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": "108억엔",
-    "deal_stage": "완료",
-    "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362810",
-    "date": "2026.11.19"
-  },
-  {
-    "title": "앱러빈, 유럽 광고기업 크리테오 인수전 가세…AI 광고 사업 확장 주목",
-    "summary": "앱러빈이 유럽 광고기업 크리테오 인수전에 가세했으며, 비스타에쿼티파트너스 등 사모펀드도 인수에 관심을 보이며 크리테오 매각이 추진 중이다.",
-    "company": "크리테오",
-    "acquirer": "앱러빈",
-    "type": "strategic",
-    "tags": [
-      "strategic"
-    ],
-    "ev": null,
-    "deal_stage": "소문",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847772",
     "date": "2026.11.19"
   }
 ]
